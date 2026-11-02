@@ -1593,8 +1593,62 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-03T07:27:12+09:00"
+    },
+    {
+      "title": "ノジマオンラインに不正アクセス、会員情報約700万件が漏えい カード情報は非保持で対象外 - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fNnJOUi1oNnp0bG5EeVFDaUgwejlmNXJLbGp0a0JEUjRFS2I0UW1VbkFnOF9FemRBcEFnMDRDWFhpeURRSk1MQkh1d19Ua1ZvdXJWOFZkN0tvRDlOUngtMGxlSWl6a1VqZW8ySmF4WUZlaTg?oc=5",
+      "source": "innovaTopia",
+      "published_at": "2026-11-03T07:44:38+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T07:55:32+09:00"
+    },
+    {
+      "title": "GMO系決済、プリペイドカード番号など69件漏洩 不正アクセスで - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54QnI4SXoyT0RXVGNFZ3l3R0tBYkN5bHJPb0ttTzZPVzZ4UEdxTVk3S1o1V2tNNGFXdGhMbkc5NG1RV2FyanJWSGIzSHJJUG5FS0V1dnA2N0pHT3FWSjg2S2VMOEh3VlNvTEFMSw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-02T22:06:10+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T07:55:32+09:00"
+    },
+    {
+      "title": "アララ流出、約7,700万件に拡大…最大380社に影響、カード会社装う不審メール713万通 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PWkFDeVFIVTVCU0I5bnZROWFvRFU3ODBicnBxNXlyMFg2eGRnUFhTaVlldkNDaW42aUNEX1JtR0dFejNoX3ZqaGEyc0xDdFVKbkZZ?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-02T15:54:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T07:55:32+09:00"
+    },
+    {
+      "title": "プレミアグループ、全社的なAI活用を加速する「グループAIポリシー」を策定 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GMGVvQmc0OHVEdC16WmNac1MtbFdPMjRsM1E3X2x1Z3hsQmdHN0hHQTh0RTAycmstdGVJaE8waUxrbVJQSVNVWnJUTU5mSGQ1YzJLZ2wxc1FvNnFjMDZyckRNa2RveG52bG1UbXZkZWhyWnRna1I0Y0tTaw?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-03T05:30:25+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T07:55:32+09:00"
+    },
+    {
+      "title": "『生成AI×BI活用に向けた、データ整備・定着の課題』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9laGtkbFN2RFZTd0dZOVlEVGJxU29ydXF3bTNTTmF4UVJEenJrVV9RVDdUc01MQmJ3Nmh3aENBUnoxMlU2NmRSOG9mTkpVemRsSnZvaHBkYWlOWkl0eWdIVFg3V2VWUTFDcGc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-02T09:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T07:55:32+09:00"
+    },
+    {
+      "title": "『大卒採用だけで、若手人材を確保し続けられるのか？』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93azhHbWppUFl6YkNYMW9GRHFUNkM1OTh1ZDYxeTg0ekpqMkpkZjh5aVlQV0FHeFNHeHk1UGRXMm9oNkh0WkI4SFpjMFlnR2RhLUZTRFJxOVNqU0lRNHpLSGZjemtmVXVCQVE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-02T09:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T07:55:32+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T07:27:12+09:00"
+  "updated_at": "2026-11-03T07:55:32+09:00"
 }
