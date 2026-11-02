@@ -1,0 +1,17 @@
+{
+  "name": "ai-security-hantei-ops",
+  "private": true,
+  "type": "module",
+  "description": "AIセキュリティ判定の運用スクリプト（watcher・登録・Managed Agents の準備）。キーはファイルに置かない。",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "register": "node scripts/register.mjs",
+    "watch": "node scripts/watcher.mjs",
+    "setup:managed": "node scripts/setup-managed.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.3.0"
+  }
+}
