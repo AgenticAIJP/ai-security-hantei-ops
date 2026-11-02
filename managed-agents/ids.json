@@ -1,0 +1,21 @@
+{
+  "environment_id": "env_014iXmt3bz3euX8sPznHUKLr",
+  "agents": {
+    "nobunaga": {
+      "id": "agent_016VETsXcz52awG6mJj9NYHq",
+      "version": 1
+    },
+    "hyojo": {
+      "id": "agent_01N7yyqkCs7Zb6FrLixbQkGf",
+      "version": 1
+    }
+  },
+  "vaults": {
+    "nobunaga": "vlt_011CgdmbfPsUBGVkF9CJjysH",
+    "hyojo": "vlt_011CgdoLanN6Cn6b79FKRncU"
+  },
+  "deployments": {
+    "AIS 評定": "depl_01SDLKvLzMLhhYn5tphmT5Rb"
+  },
+  "updated_at": "2026-11-02T18:50:18+09:00"
+}
