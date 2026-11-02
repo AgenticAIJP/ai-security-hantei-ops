@@ -59,3 +59,23 @@ jobs:
             git pull -q --rebase origin main
             git push -q origin HEAD:main
           fi
+
+  # GitHub の定時（schedule）が動かないことがあるので、次の実行を自分で予約する。
+  # 手動の実行から始まり、約 30 分ごとに続く。定時が動いても、最短間隔の確認で二重には起こさない。
+  next:
+    needs: watch
+    if: ${{ always() && github.event_name == 'workflow_dispatch' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    permissions:
+      actions: write
+    steps:
+      - name: wait and dispatch the next run
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          sleep 1650
+          # すでに次が待っていれば、増やさない（連鎖が二重にならないように）
+          waiting=$(gh run list --workflow watch.yml --limit 20 --json status --jq '[.[] | select(.status == "queued" or .status == "waiting" or .status == "pending")] | length')
+          if [ "$waiting" = "0" ]; then gh workflow run watch.yml --ref main; fi

@@ -132,11 +132,12 @@ async function main() {
     return null;
   };
 
-  const posts = await recentRoomPosts(routing.room_id, 100);
+  const POST_LIMIT = 1000;
+  const posts = await recentRoomPosts(routing.room_id, POST_LIMIT);
   const seen = new Set(state.seen);
   const startFrom = Date.parse(routing.start_from ?? `${routing.day1}T12:00:00+09:00`);
   const fresh = posts.filter((p) => !seen.has(p.id) && Date.parse(p.posted_at) >= startFrom);
-  if (posts.length >= 100 && fresh.length === posts.length) log('注意：新着が 100 件を超えた可能性があります。取りこぼしがないか確かめてください。');
+  if (posts.length >= POST_LIMIT && fresh.length === posts.length) log(`注意：新着が ${POST_LIMIT} 件を超えた可能性があります。取りこぼしがないか確かめてください。`);
 
   const newTasks = [];
   const add = (key, reason, extra) => newTasks.push({ key, reason, at: jstIso(now), attempt: 1, ...extra });
@@ -193,6 +194,7 @@ async function main() {
     if (ak === 'hyojo' && tag === '評定') {
       for (const m of p.content.matchAll(/^■ 訂正の依頼[：:]\s*([a-z]+)\s+([0-9a-f]{24})/gm)) {
         if (MEMBERS.includes(m[1])) add(m[1], 'eval_correction', { post_ids: [m[2]], report_post_id: p.id });
+        else if (m[1] === 'monomi') log(`物見bot への訂正の依頼があります（${m[2]}）。物見bot が Room で読みます。`);
         else log(`訂正の依頼の宛先が不明です：${m[1]}（${p.id}）`);
       }
     }
@@ -261,12 +263,18 @@ async function main() {
   const overDayCap = daily.managed_usd >= dailyCap - (routing.budget?.hanseikai_reserve_usd ?? 0);
   if (overDayCap) log(`今日の Managed Agents の費用が $${daily.managed_usd.toFixed(2)} です（${overDailyCap ? '1 日の上限' : '反省会の分を除いた上限'}に達しました）。`);
   const isHanseikai = (t) => (routing.ignore_min_interval ?? []).includes(t.reason);
+  // 速報は届いた順に処理しない。信長が、待っている速報の一覧から大事なものを選ぶ。
+  // 返信がつくまで待ち行列に残すので、選ばれなかった速報も失われない。
+  const isChoosable = (t) => (routing.choose_by_priority ?? []).includes(t.reason);
+  const nobunagaEns = agents.find((a) => a.key === 'nobunaga')?.ens?.toLowerCase();
+  const answered = new Set(posts.filter((p) => p.agent?.toLowerCase() === nobunagaEns && p.quoted_post_id).map((p) => p.quoted_post_id));
+  const isAnswered = (t) => isChoosable(t) && (t.post_ids ?? []).every((id) => answered.has(id));
 
   // 5. まとめて起こす
   const pendingBySig = new Map(state.pending.map((t) => [taskSignature(t), t]));
   for (const t of newTasks) if (!pendingBySig.has(taskSignature(t))) pendingBySig.set(taskSignature(t), t);
   // 速さは求めないので、費用の上限で止まった仕事も翌日に回す。48 時間たったものだけ捨てる。
-  const allPending = [...pendingBySig.values()];
+  const allPending = [...pendingBySig.values()].filter((t) => !isAnswered(t));
   const pending = allPending.filter((t) => now - Date.parse(t.at) < 48 * 3600_000);
   if (allPending.length > pending.length) log(`48 時間たっても処理できなかった仕事を ${allPending.length - pending.length} 件捨てました。`);
   const byKey = new Map();
@@ -286,10 +294,14 @@ async function main() {
       tasks = tasks.slice(0, room);
       if (!tasks.length) continue;
     }
-    if (cfg.max_items_per_run && tasks.length > cfg.max_items_per_run) {
-      // 1 回のセッションが金額の上限を超えないよう、残りは次の回に回す（古いものから）
-      stillPending.push(...tasks.slice(cfg.max_items_per_run));
-      tasks = tasks.slice(0, cfg.max_items_per_run);
+    if (cfg.max_items_per_run) {
+      // 質を保つため、1 回に扱う件数を絞る。残りは次の回に回す。選べる速報は、あとで pick 件だけ選ばせる。
+      const fixed = tasks.filter((t) => !isChoosable(t));
+      const choosable = tasks.filter(isChoosable);
+      if (fixed.length >= cfg.max_items_per_run) {
+        stillPending.push(...fixed.slice(cfg.max_items_per_run), ...choosable);
+        tasks = fixed.slice(0, cfg.max_items_per_run);
+      }
     }
     const last = state.last_dispatch[key];
     const tooSoon = Boolean(last) && now - Date.parse(last) < (cfg.min_interval_min ?? 30) * 60_000;
@@ -307,7 +319,10 @@ async function main() {
     const managedReady = Boolean(ids.environment_id && ids.agents?.[key]?.id && ids.vaults?.[key] && process.env.BRAIN_REPO_PAT && process.env.ANTHROPIC_API_KEY);
     if (executor === 'managed' && (capped || !managedReady)) executor = 'blocked';
     if (executor === 'routine' && !routineTarget(key)) executor = 'blocked';
-    const payload = { tasks: payloadTasks(tasks), day, sent_at: jstIso(now) };
+    const choosableNow = tasks.filter(isChoosable);
+    const fixedNow = tasks.filter((t) => !isChoosable(t));
+    const pick = choosableNow.length ? Math.min(choosableNow.length, (cfg.max_items_per_run ?? 4) - fixedNow.length) : null;
+    const payload = { tasks: payloadTasks([...fixedNow, ...choosableNow]), ...(pick ? { pick } : {}), day, sent_at: jstIso(now) }; // 訂正などを先に
 
     if (dryRun) {
       log(`[dry-run] ${key} ← ${executor}：${JSON.stringify(payload)}`);
@@ -332,9 +347,10 @@ async function main() {
         await fireRoutine(routineTarget(key), payload);
       }
       state.dispatches.push({
-        id: `${key}-${now.getTime()}`, key, executor, session_id: sessionId, tasks,
-        at: jstIso(now), attempt: Math.max(...tasks.map((t) => t.attempt ?? 1)), status: 'sent',
+        id: `${key}-${now.getTime()}`, key, executor, session_id: sessionId, tasks: fixedNow,
+        at: jstIso(now), attempt: Math.max(1, ...fixedNow.map((t) => t.attempt ?? 1)), status: 'sent',
       });
+      stillPending.push(...choosableNow); // 信長の返信がつくまで残す
       state.last_dispatch[key] = jstIso(now);
       if (cfg.daily_max) daily[key] = (daily[key] ?? 0) + tasks.length;
       dispatched++;
@@ -347,7 +363,7 @@ async function main() {
 
   // 6. 状態を保存する（直近のものだけ残す）
   state.seen = [...seen].slice(-3000);
-  state.pending = stillPending;
+  state.pending = [...new Map(stillPending.map((t) => [taskSignature(t), t])).values()];
   const threeDaysAgo = now - 3 * 24 * 3600_000;
   state.dispatches = state.dispatches.filter((d) => Date.parse(d.at) >= threeDaysAgo);
   state.daily = Object.fromEntries(Object.entries(state.daily).slice(-10));
