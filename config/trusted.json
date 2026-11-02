@@ -1,14 +1,9 @@
 {
-  "description": "watcher の改ざん検知の基準。記憶リポジトリで、Agent が書いてよい場所以外が、この commit から変わっていたら watcher は止まる。scripts/trust.mjs で更新する。",
-  "brain_commit": "76c369b9e29776f470b91add301e7baf6ca241ed",
+  "description": "watcher の改ざん検知の基準。指示リポジトリで、Agent が書いてよい場所以外が、この commit から変わっていたら watcher は止まる。scripts/trust.mjs で更新する。",
+  "brain_commit": "3f3c8db240992f26fc45696e7b292adbf86fa0de",
   "agent_writable": [
-    "memory/",
-    "state/",
-    "data/",
-    "reports/",
     "baseline/",
-    "eval/",
-    "playbook/"
+    "state/acks/"
   ],
-  "trusted_at": "2026-11-02T18:28:39+09:00"
+  "trusted_at": "2026-11-02T19:28:02+09:00"
 }
