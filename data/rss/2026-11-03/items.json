@@ -1233,8 +1233,98 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "不正アクセスによる情報漏えい被害防止へ 長崎県警が県内企業加入の商工団体にセキュリティ対策を呼びかけ（NBC長崎放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wMjZjYm9Ma19SSndma1BwMmF5eThUSHFURzJVdFZjZTR3THBMS19kNlRMdUVEVHBGT1dhbWxOUm1rSHVGWXJWblBJZnBvT3ZwUzN6S0NBV0JTTHljd2lYY1M4WVFYRUdoaTNNZ01pMjZEQ0NBZURGcGpSeVY3WG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T19:00:34+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:30:56+09:00"
+    },
+    {
+      "title": "個人情報流出相次ぐ ノジマ700万人分 - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GWmhXRmx3T1EzRkQtYnFqY05fZkN5Zm9UVEt6Y1NCTm10Xy1QYi1mRDc5NHJIaDB6YVZvc1FpTUdGOFhmcEJBaHl2MVZUbXh1ZXBIWV9aY0Jka2Vtb3c?oc=5",
+      "source": "沖縄タイムス社",
+      "published_at": "2026-11-03T03:57:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:30:56+09:00"
+    },
+    {
+      "title": "【更新中】GMO不正アクセス問題で警視庁が70人態勢の捜査本部設置 2日GMO社長らが会見 報酬を3カ月最大3割減額 「不正アクセスで多大な迷惑と心配」 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5WTdGd3ZpSHMyUGo0TWthMWQxeVNoU1ljZkRlc2VDcW5SZXlYQ0ZMXzgwZEJYQVNKUmY3MnVKSmYyaWxXSFk3RmtjdUFyeF9YYW9GaGEzOEdkOWdzSkU5akhYUDkzQXZMRGJUMjF3aVp2dw?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-02T18:40:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:30:56+09:00"
+    },
+    {
+      "title": "ライフ／第三者による不正アクセス、公式アプリ298件の情報が閲覧された可能性 - 流通ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mQXNfMnBucWtVR2g3MHhyQms5Z3c5aU9qU3l6QWljZWFEcDl3S0YyNmpuTDlHYWFtRnBmZlpyY3VsNk1BWG5ZaXJCYXp0eHJsbk5oMWcxLXc?oc=5",
+      "source": "流通ニュース",
+      "published_at": "2026-11-02T14:12:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:30:56+09:00"
+    },
+    {
+      "title": "テレビ東京グループの通販サイト「テレ東マート」に不正アクセス、サイトを緊急停止 個人情報の漏えいは現時点で確認されず - 株式会社アクト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sUV81R3BuN1pzQ0d1c0VXcDRHV3FnNVNuQnFqTl9VM25HTHdGbnRZdmJJRG1uQnlnVW14b3BWRm9IWkxJdHBVUg?oc=5",
+      "source": "株式会社アクト",
+      "published_at": "2026-11-02T15:31:52+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:30:56+09:00"
+    },
+    {
+      "title": "IPAが個人情報漏えいの被害者に向けて「情報セキュリティ安心相談窓口」を強化、電話・メールで相談可能 (INTERNET Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXF2RWt3ZFVJNnhlWXRDMG54bjlqSmU0YTRncVFuSDhFVkpKeXdEWDFKTlVOQkVYYjZYZWdoZkdXa3I1UnNWWllNakJibkQ2WG9FLVU5TWhudk11XzJ4Wi1GUUZTRkRBRHc0REEtclNCMTRUZDVlaHZfSE4wQ2ZxVV9GTkZvVHBLd0NqaTJn?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T15:52:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:30:56+09:00"
+    },
+    {
+      "title": "川崎市、オンライン申請システムで不正アクセス検知 個人情報流出は調査中 (カナロコ by 神奈川新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkFKQUxUVl9MU1VRQWFoaUNMMk1wMVk3RUVhYVFoY2NRb3lHR2daV1lUQlVMcm5iQk5xWWZzVkZfM0JySXBqYWpyZHZRdWRJMEtzQ290LW94d1BoSjJrbmNBY3MwVmV4YWpWOHlVNUdidHlyRDFkTGQzY1h1UXZVODFHdy1BRlVZd1lGX01B?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T23:20:11+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:30:56+09:00"
+    },
+    {
+      "title": "@cosmeに不正アクセス、会員約300万人分の個人情報が漏えい 住所・電話番号・生年月日のほか肌質や髪質も - 株式会社アクト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9icDlUMW1vVnVRdnNYMndnQmhCRGRmT0VtTVFnOGVJR09Kdlh4SzJZN0tJcU9EZ0JsZWE2UGY2YVdldG1oYWxDdQ?oc=5",
+      "source": "株式会社アクト",
+      "published_at": "2026-11-02T15:31:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:30:56+09:00"
+    },
+    {
+      "title": "サントリーで約9万人の個人情報が流出、外部クラウドに不正アクセス…応募者7,173人も (ビジネス＋IT) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGxramJpWFBYNEg5MGlsOEJFS29vWnpQaU5GM2xKMUU5OVNyZHlUeXU1UFZveWtaelFmNlVxN3BPTHNTUjh4eXJWN0owajVnS3NfMC12QXFuMkRmbHB6S2ZweDVuVmFoRHQ1MEY3djJXRTY0UVZOUjhxSU85VVROVGt0YTItbDA4bDZQNzR3?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T16:55:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:30:56+09:00"
+    },
+    {
+      "title": "『【製造・保守現場向け】工具の回収漏れが招く重大事故・品質問題』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnazhBOF9qc1A5WVVZdmVIU3pfUS1EY3h4Rk8ybVRDRkFIVWdGZDZGTl9sS3RmaTlzaUtRY3EtNGVVVGk2cm5oZUs5OWZwU3FZNDJnX1ZiYW90ZlQxOThnWE9xNy1lc3BxdVE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-02T09:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:30:56+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T06:02:20+09:00"
+  "updated_at": "2026-11-03T06:30:56+09:00"
 }
