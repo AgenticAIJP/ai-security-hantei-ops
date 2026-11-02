@@ -218,8 +218,8 @@
     {
       "who": "ops",
       "job": "盲検の採点（blind.mjs）",
-      "time_jst": "23:20",
-      "via": "GitHub Actions（cron: '20 14 * * *'、UTC）"
+      "time_jst": "23:05 以降の最初の実行",
+      "via": "GitHub Actions（watch.yml の中で動く）"
     },
     {
       "who": "hyojo",

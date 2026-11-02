@@ -15,7 +15,7 @@ import { readJson, writeJson, jstIso, jstDate, dayNumber, describeError, parseAr
 import { loadAgents, ensIndex } from './lib/agents.mjs';
 import { recentRoomPosts, getPost } from './lib/timepersona.mjs';
 import { routineTarget, fireRoutine } from './lib/routine.mjs';
-import { startSession, sessionCost, sessionOutcome, describeApiError } from './lib/managed.mjs';
+import { startSession, sessionCost, sessionOutcome, deploymentCostCents, describeApiError } from './lib/managed.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const opsRoot = path.resolve(here, '..');
@@ -246,22 +246,38 @@ async function main() {
 
   // 4. 費用（Managed Agents の今日の分）
   if (process.env.ANTHROPIC_API_KEY && !dryRun) {
-    const todays = state.dispatches.filter((d) => d.executor === 'managed' && d.session_id && d.at.startsWith(today) && !d.cost_final).slice(-40);
-    for (const d of todays) {
+    // 日付をまたいで終わったセッションの費用も拾う（起動した日の分として数える）
+    const open = state.dispatches.filter((d) => d.executor === 'managed' && d.session_id && !d.cost_final).slice(-60);
+    for (const d of open) {
       try {
         const { status, costCents } = await sessionCost(d.session_id);
         if (costCents != null) d.cost_cents = costCents;
         if (status === 'idle' || status === 'terminated') d.cost_final = true;
       } catch (err) { log(`費用を読めませんでした（${d.session_id}）：${describeApiError(err)}`); }
     }
-    daily.managed_usd = state.dispatches.filter((d) => d.executor === 'managed' && d.at.startsWith(today))
-      .reduce((s, d) => s + (d.cost_cents ?? 0), 0) / 100;
+    const byDate = {};
+    for (const d of state.dispatches) {
+      if (d.executor !== 'managed') continue;
+      const date = d.at.slice(0, 10);
+      byDate[date] = (byDate[date] ?? 0) + (d.cost_cents ?? 0);
+    }
+    for (const [date, cents] of Object.entries(byDate)) {
+      const entry = (state.daily[date] ??= { managed_usd: 0, baseline: 0 });
+      entry.managed_usd = Math.max(entry.managed_usd ?? 0, cents / 100); // 古い記録を消した日は減らさない
+    }
+    // 定時（評定・寧々・家康）の費用も、1 日の上限に入れる
+    let scheduledCents = 0;
+    for (const id of Object.values(ids.deployments ?? {})) {
+      try { scheduledCents += await deploymentCostCents(id, `${today}T00:00:00+09:00`); } catch (err) { log(`定時の費用を読めませんでした（${id}）：${describeApiError(err)}`); }
+    }
+    daily.scheduled_usd = scheduledCents / 100;
   }
   // 昼の仕事は、夜の反省会の分を残したところで止める。反省会の仕事だけ、1 日の上限まで使える。
   const dailyCap = routing.budget?.managed_daily_usd ?? 60;
-  const overDailyCap = daily.managed_usd >= dailyCap;
-  const overDayCap = daily.managed_usd >= dailyCap - (routing.budget?.hanseikai_reserve_usd ?? 0);
-  if (overDayCap) log(`今日の Managed Agents の費用が $${daily.managed_usd.toFixed(2)} です（${overDailyCap ? '1 日の上限' : '反省会の分を除いた上限'}に達しました）。`);
+  const spentToday = (daily.managed_usd ?? 0) + (daily.scheduled_usd ?? 0);
+  const overDailyCap = spentToday >= dailyCap;
+  const overDayCap = spentToday >= dailyCap - (routing.budget?.hanseikai_reserve_usd ?? 0);
+  if (overDayCap) log(`今日の Managed Agents の費用が ${spentToday.toFixed(2)} です（${overDailyCap ? '1 日の上限' : '反省会の分を除いた上限'}に達しました）。`);
   const isHanseikai = (t) => (routing.ignore_min_interval ?? []).includes(t.reason);
   // 速報は届いた順に処理しない。信長が、待っている速報の一覧から大事なものを選ぶ。
   // 返信がつくまで待ち行列に残すので、選ばれなかった速報も失われない。

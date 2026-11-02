@@ -152,6 +152,16 @@ export async function sessionOutcome(sessionId) {
   return { state: 'running' }; // idle だが、記録がまだ届いていない
 }
 
+/** 定時（デプロイメント）のセッションの費用。watcher が立てていないので、ここで数える。 */
+export async function deploymentCostCents(deploymentId, sinceIso) {
+  let cents = 0;
+  for await (const s of anthropic().beta.sessions.list({ deployment_id: deploymentId, 'created_at[gte]': sinceIso, limit: 20 })) {
+    const amount = s.usage?.list_cost?.amount;
+    if (amount != null) cents += Number(amount);
+  }
+  return cents;
+}
+
 // ---- deployments（Managed Agents の定時） ---------------------------------------------
 
 export async function ensureDeployment({ name, agentId, envId, vaultId, repoToken, job, cron, budgetCents }) {

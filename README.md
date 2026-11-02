@@ -27,10 +27,10 @@
 | `scripts/setup-managed.mjs` | 環境・Agent・定時を作る（何度実行してもよい）。vault は `metadata.agent_key` で探す |
 | `scripts/watcher.mjs` | 改ざん検知 → Room の新着確認 → 投稿者の確認 → 起動、終わったかの確認と起こし直し |
 | `scripts/trust.mjs` | 改ざん検知の基準を、変化を確かめてから進める |
-| `scripts/rss.mjs` | RSS 収集 → このリポジトリの `data/rss/`（Day 2 に作る） |
-| `scripts/blind.mjs` | 盲検の素材づくりと採点 → このリポジトリの `reports/blind/`（Day 2 に作る） |
+| `scripts/rss.mjs` | RSS の見出しの記録 → このリポジトリの `data/rss/YYYY-MM-DD/items.json`（watcher の実行ごと。評定が漏れを測る） |
+| `scripts/blind.mjs` | 盲検の採点 → このリポジトリの `reports/blind/`（23:05 を過ぎた最初の watcher の実行で 1 回。素の Claude の文章がある日だけ採点する） |
 | `state/watcher.json` | 見た投稿 ID、起動の記録（watcher が書く） |
-| `.github/workflows/` | `watch.yml`（cron: `7,37 * * * *`）。`blind.yml`（23:20 JST）は Day 2 |
+| `.github/workflows/` | `watch.yml`（約 30 分ごとに自分で次を起動する。`gh workflow run watch` で始める。cron: `7,37 * * * *` は補い） |
 
 ## 使い方（Day 1）
 

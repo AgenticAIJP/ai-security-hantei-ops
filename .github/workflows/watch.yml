@@ -18,7 +18,7 @@ permissions:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       # actions はコミット ID で固定する（タグの付け替えによる差し替えを防ぐ）
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -48,11 +48,21 @@ jobs:
           FIRE_URL_BASELINE: ${{ secrets.FIRE_URL_BASELINE }}
           FIRE_TOKEN_BASELINE: ${{ secrets.FIRE_TOKEN_BASELINE }}
 
+      # 失敗しても watcher の状態は保存する（RSS と盲検は次の実行でやり直す）
+      - name: rss
+        run: node scripts/rss.mjs || echo "RSS は次の実行でやり直します"
+
+      - name: blind
+        run: node scripts/blind.mjs --brain brain || echo "盲検は次の実行でやり直します"
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
       - name: commit watcher state
         run: |
           git config user.name "ais-watcher"
           git config user.email "ais-watcher@users.noreply.github.com"
           git add state/watcher.json
+          for d in data/rss reports/blind; do if [ -d "$d" ]; then git add "$d"; fi; done
           if ! git diff --cached --quiet; then
             git commit -q -m "watcher: state"
             # iQi の push と重なっても状態を失わないように（失うと同じ人を二重に起こす）
