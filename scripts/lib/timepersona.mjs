@@ -1,5 +1,5 @@
 // TimePersona API client for the ops scripts (registration and the watcher).
-// The hyphen host is the one the vault and network secrets are bound to; never use the underscore host.
+// The hyphen host is the one the vault credentials are bound to; never use the underscore host.
 
 export const TP_HOST = 'api-timepersona.jp.ai';
 export const TP_BASE = `https://${TP_HOST}/v1`;

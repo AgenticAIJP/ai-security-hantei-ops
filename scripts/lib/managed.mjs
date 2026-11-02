@@ -5,7 +5,6 @@ import Anthropic from '@anthropic-ai/sdk';
 export const ENV_NAME = 'ais-managed';
 export const TP_HOST = 'api-timepersona.jp.ai';
 export const SECRET_NAME = 'TIMEPERSONA_API_KEY';
-export const AGENT_MODEL = 'claude-sonnet-5-5';
 export const REPO_URL = 'https://github.com/AgenticAIJP/ai-security-hantei';
 export const REPO_MOUNT = '/workspace/ai-security-hantei';
 
@@ -36,6 +35,12 @@ export function describeApiError(err) {
 
 export async function findVault(displayName) {
   for await (const v of anthropic().beta.vaults.list()) if (v.display_name === displayName) return v;
+  return null;
+}
+
+/** 登録スクリプトが作った vault を、決まった値の metadata.agent_key で探す（表示名は人が見るためのもの）。 */
+export async function findVaultByAgentKey(agentKey) {
+  for await (const v of anthropic().beta.vaults.list()) if (v.metadata?.agent_key === agentKey) return v;
   return null;
 }
 
@@ -88,18 +93,18 @@ export async function findAgent(name) {
 }
 
 /** Create the agent, or update it only when the system prompt, model, or tools changed. */
-export async function ensureAgent({ name, system, metadata }) {
+export async function ensureAgent({ name, model, system, metadata }) {
   const existing = await findAgent(name);
   if (!existing) {
-    const a = await anthropic().beta.agents.create({ name, model: AGENT_MODEL, system, tools: AGENT_TOOLS, metadata });
+    const a = await anthropic().beta.agents.create({ name, model, system, tools: AGENT_TOOLS, metadata });
     return { agent: a, action: 'created' };
   }
-  const model = typeof existing.model === 'string' ? existing.model : existing.model?.id;
-  const same = existing.system === system && model === AGENT_MODEL
+  const currentModel = typeof existing.model === 'string' ? existing.model : existing.model?.id;
+  const same = existing.system === system && currentModel === model
     && JSON.stringify(existing.tools ?? []).includes('agent_toolset_20260401')
     && JSON.stringify(existing.tools ?? []).includes('always_allow');
   if (same) return { agent: existing, action: 'unchanged' };
-  const a = await anthropic().beta.agents.update(existing.id, { version: existing.version, model: AGENT_MODEL, system, tools: AGENT_TOOLS, metadata });
+  const a = await anthropic().beta.agents.update(existing.id, { version: existing.version, model, system, tools: AGENT_TOOLS, metadata });
   return { agent: a, action: 'updated' };
 }
 

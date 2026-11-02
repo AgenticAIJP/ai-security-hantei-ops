@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// watcher：15 分ごと（GitHub Actions の watch.yml）。LLM は使わない。
+// watcher：30 分ごと（GitHub Actions の watch.yml）。LLM は使わない。
 //  1. 指示ファイルの改ざん検知：記憶リポジトリで、Agent が書いてよい場所以外が iQi の確かめた commit から
 //     変わっていたら、誰も起こさずに止まる（Actions の失敗として iQi に知らせる）。
 //  2. Room の新着を読み、登録済みの投稿者の投稿だけをきっかけに、起こす人と理由を決める（PLAN.md §6.2）。
@@ -30,6 +30,8 @@ const ANALYSTS = ['shingen', 'chacha', 'hideyoshi', 'mitsuhide'];
 const REVIEW_TAGS = new Set(['判定', '続報', '独立判定', '技術分析', '反論', '攻め手の読み', '制度の視点', '速報']);
 // Agent が書いてよい場所（CLAUDE.md §4）。これ以外が変わっていたら止まる。
 const AGENT_WRITABLE = ['memory/', 'state/', 'data/', 'reports/', 'baseline/', 'eval/', 'playbook/'];
+const POST_ID = /^[0-9a-f]{24}$/; // TimePersona の投稿 ID（MongoDB の ObjectId）
+const SHORT_RECORD = /[：:]\s*(対象外|記録のみ)/; // 信長の短い投稿の 1 行目（PLAN.md §2.2）
 
 const now = new Date();
 const log = (msg) => console.log(`[${jstIso(now)}] ${msg}`);
@@ -100,6 +102,7 @@ async function main() {
   const state = readJson(statePath, { seen: [], pending: [], dispatches: [], last_dispatch: {}, daily: {}, eval_done: [], alerts: [] });
   const today = jstDate(now);
   const day = dayNumber(routing.day1, now);
+  const daily = (state.daily[today] ??= { managed_usd: 0, baseline: 0 });
 
   // 1. 改ざん検知
   const suspicious = untrustedChanges(trusted);
@@ -148,20 +151,29 @@ async function main() {
     if (ak === 'monomi' && tag === 'X速報') add('nobunaga', 'x_sokuho', { post_ids: [p.id] });
     if (ak.startsWith('trusted:') && (tag === 'X速報' || tag === '速報') && !p.quoted_post_id) add('nobunaga', 'sokuho_other', { post_ids: [p.id] });
 
-    if (ak === 'nobunaga' && (tag === '判定' || tag === '続報') && !firstLine(p.content).includes('対象外')) {
-      for (const a of ANALYSTS) add(a, 'hantei', { post_ids: [p.id] });
-      if (p.content.includes('#家康') && p.content.includes('#官兵衛')) {
-        add('ieyasu', 'hantei_mid_high', { post_ids: [p.id] });
-        add('kanbei', 'hantei_mid_high', { post_ids: [p.id] });
-        const incident = /AIS-\d{8}-\d{2}/.exec(p.content)?.[0];
-        if (tag === '判定' && incident) {
-          let root = p.quoted_post_id;
-          try { root = (await getPost(p.id)).root_post_id ?? root; } catch { /* 引用元を使う */ }
-          add('baseline', 'baseline_case', { incident_id: incident, root_post_id: root });
+    // 信長の短い投稿（記録のみ・対象外）では、誰も起こさない
+    const isHantei = ak === 'nobunaga' && (tag === '判定' || tag === '続報');
+    const shortRecord = isHantei && SHORT_RECORD.test(firstLine(p.content));
+    if (isHantei && !shortRecord) {
+      // 全員で議論する件数の上限。信長も数えて振り分けるが、ここでも止める
+      if ((daily.hantei ?? 0) >= (routing.hantei_daily_max ?? Infinity)) {
+        log(`今日の議論の上限 ${routing.hantei_daily_max} 件に達しているので、分析役を起こしません（${p.id}）。`);
+      } else {
+        daily.hantei = (daily.hantei ?? 0) + 1;
+        for (const a of ANALYSTS) add(a, 'hantei', { post_ids: [p.id] });
+        if (p.content.includes('#家康') && p.content.includes('#官兵衛')) {
+          add('ieyasu', 'hantei_mid_high', { post_ids: [p.id] });
+          add('kanbei', 'hantei_mid_high', { post_ids: [p.id] });
+          const incident = /AIS-\d{8}-\d{2}/.exec(p.content)?.[0];
+          if (tag === '判定' && incident) {
+            let root = p.quoted_post_id;
+            try { root = (await getPost(p.id)).root_post_id ?? root; } catch { /* 引用元を使う */ }
+            add('baseline', 'baseline_case', { incident_id: incident, root_post_id: root });
+          }
         }
       }
     }
-    if (isTeam && ak !== 'kenshin' && REVIEW_TAGS.has(tag)) add('kenshin', 'review', { post_ids: [p.id] });
+    if (isTeam && ak !== 'kenshin' && REVIEW_TAGS.has(tag) && !shortRecord) add('kenshin', 'review', { post_ids: [p.id] });
 
     if ((ak === 'kenshin' && tag === '目付') || (ak === 'monomi' && tag === 'X調査回答')) {
       if (!p.quoted_post_id) continue;
@@ -192,7 +204,9 @@ async function main() {
       try { report = JSON.parse(fs.readFileSync(path.join(evalDir, f), 'utf8')); } catch { log(`読めない訂正リスト：${f}`); continue; }
       for (const c of report.corrections ?? []) {
         const sig = `${f}#${c.post_id}`;
-        if (evalDone.has(sig) || !MEMBERS.includes(c.author) || typeof c.post_id !== 'string') continue;
+        if (evalDone.has(sig) || !MEMBERS.includes(c.author)) continue;
+        // このファイルは Agent が書ける場所にある。ID の形だけを通し、指示文を起動文に混ぜさせない。
+        if (typeof c.post_id !== 'string' || !POST_ID.test(c.post_id)) { log(`訂正リスト ${f} の投稿 ID の形が正しくないので無視します。`); continue; }
         evalDone.add(sig);
         add(c.author, 'eval_correction', { post_ids: [c.post_id], report: `reports/eval/${f}` });
       }
@@ -219,7 +233,6 @@ async function main() {
   }
 
   // 4. 費用（Managed Agents の今日の分）
-  const daily = (state.daily[today] ??= { managed_usd: 0, baseline: 0 });
   if (process.env.ANTHROPIC_API_KEY && !dryRun) {
     const todays = state.dispatches.filter((d) => d.executor === 'managed' && d.session_id && d.at.startsWith(today) && !d.cost_final).slice(-40);
     for (const d of todays) {
@@ -232,13 +245,20 @@ async function main() {
     daily.managed_usd = state.dispatches.filter((d) => d.executor === 'managed' && d.at.startsWith(today))
       .reduce((s, d) => s + (d.cost_cents ?? 0), 0) / 100;
   }
-  const capped = daily.managed_usd >= (routing.budget?.managed_daily_usd ?? 60);
-  if (capped) log(`今日の Managed Agents の費用が上限に達しました（$${daily.managed_usd.toFixed(2)}）。`);
+  // 昼の仕事は、夜の反省会の分を残したところで止める。反省会の仕事だけ、1 日の上限まで使える。
+  const dailyCap = routing.budget?.managed_daily_usd ?? 60;
+  const overDailyCap = daily.managed_usd >= dailyCap;
+  const overDayCap = daily.managed_usd >= dailyCap - (routing.budget?.hanseikai_reserve_usd ?? 0);
+  if (overDayCap) log(`今日の Managed Agents の費用が $${daily.managed_usd.toFixed(2)} です（${overDailyCap ? '1 日の上限' : '反省会の分を除いた上限'}に達しました）。`);
+  const isHanseikai = (t) => (routing.ignore_min_interval ?? []).includes(t.reason);
 
   // 5. まとめて起こす
   const pendingBySig = new Map(state.pending.map((t) => [taskSignature(t), t]));
   for (const t of newTasks) if (!pendingBySig.has(taskSignature(t))) pendingBySig.set(taskSignature(t), t);
-  const pending = [...pendingBySig.values()].filter((t) => now - Date.parse(t.at) < 24 * 3600_000);
+  // 速さは求めないので、費用の上限で止まった仕事も翌日に回す。48 時間たったものだけ捨てる。
+  const allPending = [...pendingBySig.values()];
+  const pending = allPending.filter((t) => now - Date.parse(t.at) < 48 * 3600_000);
+  if (allPending.length > pending.length) log(`48 時間たっても処理できなかった仕事を ${allPending.length - pending.length} 件捨てました。`);
   const byKey = new Map();
   for (const t of pending) byKey.set(t.key, [...(byKey.get(t.key) ?? []), t]);
 
@@ -248,7 +268,8 @@ async function main() {
     const cfg = routing.agents[key];
     if (!cfg) { log(`routing.json にない人です：${key}`); continue; }
     if (cfg.active_from && today < cfg.active_from) continue; // まだ有効でない人あての仕事は捨てる
-    let tasks = tasksAll;
+    // 反省会の仕事を先にする（1 回に 1 件の人でも、点検と応答が遅れないように）
+    let tasks = [...tasksAll].sort((a, b) => Number(isHanseikai(b)) - Number(isHanseikai(a)));
     if (cfg.daily_max) {
       const room = Math.max(0, cfg.daily_max - (daily[key] ?? 0));
       if (tasks.length > room) log(`${key}：今日の上限 ${cfg.daily_max} 件を超える分は扱いません。`);
@@ -260,13 +281,21 @@ async function main() {
       stillPending.push(...tasks.slice(cfg.max_items_per_run));
       tasks = tasks.slice(0, cfg.max_items_per_run);
     }
-    const exempt = tasks.every((t) => (routing.ignore_min_interval ?? []).includes(t.reason));
     const last = state.last_dispatch[key];
-    if (!exempt && last && now - Date.parse(last) < (cfg.min_interval_min ?? 30) * 60_000) { stillPending.push(...tasks); continue; }
+    const tooSoon = Boolean(last) && now - Date.parse(last) < (cfg.min_interval_min ?? 30) * 60_000;
+    // 昼の予算を超えたときや間隔が短いときも、反省会の仕事は止めない。ほかの仕事だけを次の回に回す。
+    if ((overDayCap || tooSoon) && tasks.some(isHanseikai)) {
+      stillPending.push(...tasks.filter((t) => !isHanseikai(t)));
+      tasks = tasks.filter(isHanseikai);
+    }
+    const exempt = tasks.every(isHanseikai);
+    const capped = exempt ? overDailyCap : overDayCap;
+    if (!exempt && tooSoon) { stillPending.push(...tasks); continue; }
 
+    // 投稿する人のキーは vault にだけあるので、routine には移せない。起こせないときは保留する。
     let executor = cfg.executor;
     const managedReady = Boolean(ids.environment_id && ids.agents?.[key]?.id && ids.vaults?.[key] && process.env.BRAIN_REPO_PAT && process.env.ANTHROPIC_API_KEY);
-    if (executor === 'managed' && (capped || !managedReady)) executor = routineTarget(key) ? 'routine' : 'blocked';
+    if (executor === 'managed' && (capped || !managedReady)) executor = 'blocked';
     if (executor === 'routine' && !routineTarget(key)) executor = 'blocked';
     const payload = { tasks: payloadTasks(tasks), day, sent_at: jstIso(now) };
 
@@ -275,7 +304,7 @@ async function main() {
       continue;
     }
     if (executor === 'blocked') {
-      log(`${key}：起こす手段がありません（${capped ? '費用の上限' : 'Managed Agents の準備か routine の起動トークンが未設定'}）。仕事は保留します。`);
+      log(`${key}：起こせません（${cfg.executor === 'managed' && capped ? '今日の費用の上限' : 'Managed Agents の準備か routine の起動トークンが未設定'}）。仕事は保留します。`);
       stillPending.push(...tasks);
       continue;
     }
@@ -285,7 +314,7 @@ async function main() {
         const s = await startSession({
           agentId: ids.agents[key].id, envId: ids.environment_id, vaultId: ids.vaults[key],
           repoToken: process.env.BRAIN_REPO_PAT, payload,
-          budgetCents: Math.round((routing.budget?.managed_session_usd ?? 2) * 100),
+          budgetCents: Math.round((cfg.session_usd ?? routing.budget?.managed_session_usd ?? 2) * 100),
           title: `${key} ${jstIso(now)}`, metadata: { member: key, reasons: [...new Set(tasks.map((t) => t.reason))].join(',') },
         });
         sessionId = s.id;

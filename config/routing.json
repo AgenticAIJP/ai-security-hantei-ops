@@ -1,12 +1,13 @@
 {
-  "description": "watcher の起動ルール。executor は managed（Claude Managed Agents、API クレジット）または routine（Claude Code の routines、Max 5x Plan）。記憶リポジトリの PLAN.md §6 と同じ内容。",
+  "description": "watcher の起動ルール。executor は managed（Claude Managed Agents、API クレジット）または routine（Claude Code の routines、Max 5x Plan）。投稿する人のキーは vault にだけあるので、投稿する人は managed だけ。記憶リポジトリの PLAN.md §6 と同じ内容。",
   "timezone": "Asia/Tokyo",
   "room_id": "ai-security-hantei",
   "api_base": "https://api-timepersona.jp.ai/v1",
-  "brain_repo": "<owner>/ai-security-hantei",
+  "brain_repo": "AgenticAIJP/ai-security-hantei",
   "day1": "2026-11-02",
   "start_from": "2026-11-02T12:00:00+09:00",
-  "poll_cron_utc": "7,22,37,52 * * * *",
+  "hantei_daily_max": 8,
+  "poll_cron_utc": "7,37 * * * *",
   "trusted_authors": {
     "monomi": "agent184.jpyon.eth"
   },
@@ -14,7 +15,8 @@
   "budget": {
     "managed_session_usd": 2,
     "managed_daily_usd": 60,
-    "on_daily_cap": "回数の多い人から executor を routine に切り替える"
+    "on_daily_cap": "昼の仕事は managed_daily_usd − hanseikai_reserve_usd で止め、反省会の仕事だけ managed_daily_usd まで使う。止まった仕事は保留する。足りないときは、まず min_interval_min を延ばす（PLAN.md §6.4）",
+    "hanseikai_reserve_usd": 10
   },
   "retry": {
     "ack_timeout_min": 60,
@@ -28,7 +30,7 @@
     "nobunaga": {
       "executor": "managed",
       "active_from": "2026-11-02",
-      "min_interval_min": 30,
+      "min_interval_min": 25,
       "reasons": [
         "x_sokuho",
         "rss_new",
@@ -43,7 +45,7 @@
     "shingen": {
       "executor": "managed",
       "active_from": "2026-11-03",
-      "min_interval_min": 30,
+      "min_interval_min": 25,
       "reasons": [
         "hantei",
         "x_answer",
@@ -51,12 +53,13 @@
         "eval_correction",
         "hanseikai_open",
         "tenken"
-      ]
+      ],
+      "max_items_per_run": 1
     },
     "mitsuhide": {
       "executor": "managed",
       "active_from": "2026-11-03",
-      "min_interval_min": 30,
+      "min_interval_min": 25,
       "reasons": [
         "hantei",
         "x_answer",
@@ -64,12 +67,13 @@
         "eval_correction",
         "hanseikai_open",
         "tenken"
-      ]
+      ],
+      "max_items_per_run": 1
     },
     "kenshin": {
       "executor": "managed",
       "active_from": "2026-11-03",
-      "min_interval_min": 30,
+      "min_interval_min": 25,
       "reasons": [
         "review",
         "hanseikai_open",
@@ -80,7 +84,7 @@
     "hideyoshi": {
       "executor": "managed",
       "active_from": "2026-11-03",
-      "min_interval_min": 30,
+      "min_interval_min": 25,
       "reasons": [
         "hantei",
         "x_answer",
@@ -88,12 +92,13 @@
         "eval_correction",
         "hanseikai_open",
         "tenken"
-      ]
+      ],
+      "max_items_per_run": 1
     },
     "chacha": {
       "executor": "managed",
       "active_from": "2026-11-03",
-      "min_interval_min": 30,
+      "min_interval_min": 25,
       "reasons": [
         "hantei",
         "x_answer",
@@ -101,12 +106,13 @@
         "eval_correction",
         "hanseikai_open",
         "tenken"
-      ]
+      ],
+      "max_items_per_run": 1
     },
     "ieyasu": {
       "executor": "managed",
       "active_from": "2026-11-03",
-      "min_interval_min": 30,
+      "min_interval_min": 25,
       "reasons": [
         "hantei_mid_high",
         "x_answer",
@@ -114,23 +120,25 @@
         "eval_correction",
         "hanseikai_open",
         "tenken"
-      ]
+      ],
+      "max_items_per_run": 1
     },
     "nene": {
-      "executor": "routine",
+      "executor": "managed",
       "active_from": "2026-11-03",
-      "min_interval_min": 30,
+      "min_interval_min": 25,
       "reasons": [
         "correction_request",
         "eval_correction",
         "hanseikai_open",
         "tenken"
-      ]
+      ],
+      "session_usd": 1
     },
     "kanbei": {
       "executor": "managed",
       "active_from": "2026-11-03",
-      "min_interval_min": 30,
+      "min_interval_min": 25,
       "reasons": [
         "hantei_mid_high",
         "x_answer",
@@ -138,7 +146,15 @@
         "eval_correction",
         "hanseikai_open",
         "tenken"
-      ]
+      ],
+      "max_items_per_run": 1
+    },
+    "hyojo": {
+      "executor": "managed",
+      "active_from": "2026-11-02",
+      "min_interval_min": 25,
+      "session_usd": 2,
+      "reasons": []
     },
     "baseline": {
       "executor": "routine",
@@ -154,10 +170,10 @@
     "x_sokuho": "trusted_authors.monomi の ENS が投稿した、【X速報】で始まる新しい投稿（親投稿・返信とも）",
     "sokuho_other": "trusted_authors に載った monomi 以外の ENS が投稿した、【X速報】または【速報】で始まる新しい親投稿。trusted_authors にない投稿者の投稿では起こさない",
     "rss_new": "rss.mjs が見つけた、Room にまだない記事（post_ids の代わりに rss_paths を送る）",
-    "hantei": "信長の ENS が投稿した【判定】または【続報】",
+    "hantei": "信長の ENS が投稿した【判定】または【続報】。1 行目に「：記録のみ」「：対象外」があるものを除く。1 日 hantei_daily_max 件まで",
     "hantei_mid_high": "hantei のうち、本文に #家康 #官兵衛 の札があるもの（家康・官兵衛を起こす）",
     "baseline_case": "hantei_mid_high と同じ投稿。素の Claude を起こす（1 日 3 件まで）。送るのは incident_id と root_post_id",
-    "review": "武将の ENS が投稿した【判定】【続報】【独立判定】【技術分析】【反論】【攻め手の読み】【制度の視点】【速報】の新しい投稿（謙信自身の投稿を除く）",
+    "review": "武将の ENS が投稿した【判定】【続報】【独立判定】【技術分析】【反論】【攻め手の読み】【制度の視点】【速報】の新しい投稿（謙信自身の投稿と、信長の「：記録のみ」「：対象外」を除く）",
     "x_answer": "monomi の【X調査回答】。送り先は、引用元の【X調査依頼】を出した人",
     "correction_request": "謙信の【目付】。送り先は、引用元の投稿の作者",
     "eval_correction": "評定が書いた記憶リポジトリの reports/eval/YYYY-MM-DD.json の corrections。送り先は author",
@@ -170,13 +186,13 @@
       "who": "nene",
       "job": "一番手柄",
       "time_jst": "08:10",
-      "via": "routine（CRON_TZ=Asia/Tokyo）"
+      "via": "managed（scheduled deployment、Asia/Tokyo）"
     },
     {
       "who": "nene",
       "job": "日次総括",
       "time_jst": "21:05",
-      "via": "routine"
+      "via": "managed（scheduled deployment、Asia/Tokyo）"
     },
     {
       "who": "ieyasu",
@@ -188,13 +204,13 @@
       "who": "baseline",
       "job": "比較用の判定（補い）",
       "time_jst": "22:30",
-      "via": "routine"
+      "via": "routine（CRON_TZ=Asia/Tokyo）"
     },
     {
       "who": "ieyasu",
       "job": "反省会まとめ",
       "time_jst": "23:00",
-      "via": "managed（scheduled deployment）"
+      "via": "managed（scheduled deployment、Asia/Tokyo）"
     },
     {
       "who": "ops",
@@ -206,8 +222,8 @@
       "who": "hyojo",
       "job": "評定",
       "time_jst": "23:40",
-      "via": "routine"
+      "via": "managed（scheduled deployment、Asia/Tokyo）"
     }
   ],
-  "max_items_note": "max_items_per_run：1 回の起動で渡す投稿の数の上限。残りは次の回に回す（1 回のセッションが金額の上限を超えないように）。"
+  "max_items_note": "max_items_per_run：1 回の起動で渡す仕事の数の上限。残りは次の回に回す。分析役は、質を保つために 1 回に 1 件。min_interval_min は watcher の 30 分より少し短くする（実行時刻のゆれで 1 回飛ばさないため）。"
 }

@@ -1,22 +1,22 @@
 #!/usr/bin/env node
 // Managed Agents の準備（何度実行してもよい）。iQi が自分のターミナルで実行する。
 // - 環境 ais-managed（unrestricted）を作る
-// - 武将ごとの Agent ais-<key>（claude-sonnet-5-5、起動文は記憶リポジトリの prompts/_bootstrap.md）を作る・更新する
-// - vault ais-<key> があるかを確かめる（キーは register.mjs が入れる）
-// - --deployments：家康の定時（反省会の開会 21:20、まとめ 23:00）を作る・更新する（BRAIN_REPO_PAT が必要）
+// - 投稿する人ごとの Agent ais-<key>（モデルは config/agents.json、起動文は記憶リポジトリの prompts/_bootstrap.md）を作る・更新する
+// - その人の vault を metadata.agent_key で探す（キーは記憶リポジトリの scripts/register-agents.mjs が入れた）
+// - --deployments：--keys に入っている人の定時（下の DEPLOYMENTS）を作る・更新する（BRAIN_REPO_PAT が必要）
 // - 作った ID（秘密ではない）を managed-agents/ids.json に書く
 //
 // 使い方：
 //   ANTHROPIC_API_KEY=... node scripts/setup-managed.mjs --keys nobunaga
-//   ANTHROPIC_API_KEY=... BRAIN_REPO_PAT=... node scripts/setup-managed.mjs --keys ieyasu --deployments
-//   node scripts/setup-managed.mjs --keys nobunaga --dry-run     # 起動文を表示するだけ
+//   ANTHROPIC_API_KEY=... BRAIN_REPO_PAT=... node scripts/setup-managed.mjs --keys hyojo --deployments
+//   node scripts/setup-managed.mjs --keys nobunaga --dry-run     # 起動文と定時を表示するだけ
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { readJson, writeJson, parseArgs, jstIso } from './lib/util.mjs';
 import { loadAgents } from './lib/agents.mjs';
 import {
-  ensureEnvironment, ensureAgent, findVault, ensureDeployment, describeApiError, AGENT_MODEL,
+  ensureEnvironment, ensureAgent, findVaultByAgentKey, ensureDeployment, describeApiError,
 } from './lib/managed.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
@@ -26,9 +26,14 @@ const brainRoot = path.resolve(opsRoot, typeof args.brain === 'string' ? args.br
 const idsFile = path.join(opsRoot, 'managed-agents', 'ids.json');
 
 const DEPLOYMENTS = [
+  { key: 'nene', name: 'AIS 寧々（一番手柄）', job: '一番手柄', cron: '10 8 * * *' },
+  { key: 'nene', name: 'AIS 寧々（日次総括）', job: '日次総括', cron: '5 21 * * *' },
   { key: 'ieyasu', name: 'AIS 家康（反省会の開会）', job: '反省会の開会', cron: '20 21 * * *' },
   { key: 'ieyasu', name: 'AIS 家康（反省会まとめ）', job: '反省会まとめ', cron: '0 23 * * *' },
+  { key: 'hyojo', name: 'AIS 評定', job: '評定', cron: '40 23 * * *' },
 ];
+
+const sessionBudgetCents = (routing, key) => Math.round((routing.agents[key]?.session_usd ?? routing.budget?.managed_session_usd ?? 2) * 100);
 
 /** Pull the 起動文 template (the first fenced block under "## 1. 起動文") out of prompts/_bootstrap.md. */
 export function bootstrapTemplate(markdown) {
@@ -57,7 +62,10 @@ async function main() {
   const members = keys.map((k) => agents.find((a) => a.key === k));
 
   if (args['dry-run']) {
-    for (const m of members) console.log(`--- ais-${m.key}（${AGENT_MODEL}）の起動文 ---\n${systemPromptFor(template, m)}\n`);
+    for (const m of members) {
+      console.log(`--- ais-${m.key}（${m.model}、1 回の上限 $${sessionBudgetCents(routing, m.key) / 100}）の起動文 ---\n${systemPromptFor(template, m)}\n`);
+      for (const d of DEPLOYMENTS.filter((x) => x.key === m.key)) console.log(`定時：${d.name}  cron「${d.cron}」 job「${d.job}」`);
+    }
     return;
   }
 
@@ -69,15 +77,16 @@ async function main() {
   for (const m of members) {
     const { agent, action } = await ensureAgent({
       name: `ais-${m.key}`,
+      model: m.model,
       system: systemPromptFor(template, m),
       metadata: { managed_by: 'ai-security-hantei-ops', member: m.key },
     });
     ids.agents[m.key] = { id: agent.id, version: agent.version };
     console.log(`Agent ais-${m.key}：${{ created: '作りました', updated: '更新しました', unchanged: '変更なし' }[action]}（${agent.id} v${agent.version}）`);
 
-    const vault = await findVault(`ais-${m.key}`);
-    if (vault) { ids.vaults[m.key] = vault.id; console.log(`  vault ais-${m.key}：あります（${vault.id}）`); }
-    else console.log(`  vault ais-${m.key}：ありません。register.mjs で登録してキーを入れてください（それまでこの人は起こせません）。`);
+    const vault = await findVaultByAgentKey(m.key);
+    if (vault) { ids.vaults[m.key] = vault.id; console.log(`  vault「${vault.display_name}」：あります（${vault.id}）`); }
+    else console.log(`  vault（agent_key: ${m.key}）：ありません。記憶リポジトリの scripts/register-agents.mjs で登録してください（それまでこの人は起こせません）。`);
   }
 
   if (args.deployments) {
@@ -87,7 +96,7 @@ async function main() {
       const { deployment, action } = await ensureDeployment({
         name: d.name, agentId: ids.agents[d.key].id, envId: ids.environment_id, vaultId: ids.vaults[d.key],
         repoToken: process.env.BRAIN_REPO_PAT, job: d.job, cron: d.cron,
-        budgetCents: Math.round((routing.budget?.managed_session_usd ?? 2) * 100),
+        budgetCents: sessionBudgetCents(routing, d.key),
       });
       ids.deployments[d.name] = deployment.id;
       const next = deployment.schedule?.upcoming_runs_at?.[0];

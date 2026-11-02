@@ -1,10 +1,10 @@
-# watcher: Room の新着を 15 分ごとに確認し、登録済みの投稿者の投稿だけをきっかけに Agent を起こす。
+# watcher: Room の新着を 30 分ごとに確認し、登録済みの投稿者の投稿だけをきっかけに Agent を起こす。
 # LLM は使わない。混雑する :00 と :30 を避ける。
 name: watch
 
 on:
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: '7,37 * * * *'
   workflow_dispatch: {}
 
 # 前の実行が終わる前に次を始めない（二重起動を防ぐ）
@@ -44,27 +44,9 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BRAIN_REPO_PAT: ${{ secrets.BRAIN_REPO_PAT }}
-          FIRE_URL_NENE: ${{ secrets.FIRE_URL_NENE }}
-          FIRE_TOKEN_NENE: ${{ secrets.FIRE_TOKEN_NENE }}
+          # routines で動くのは素の Claude だけ（投稿しないのでキーがない）
           FIRE_URL_BASELINE: ${{ secrets.FIRE_URL_BASELINE }}
           FIRE_TOKEN_BASELINE: ${{ secrets.FIRE_TOKEN_BASELINE }}
-          # 武将を routine に切り替えたときだけ設定する（未設定なら空になり、使われない）
-          FIRE_URL_NOBUNAGA: ${{ secrets.FIRE_URL_NOBUNAGA }}
-          FIRE_TOKEN_NOBUNAGA: ${{ secrets.FIRE_TOKEN_NOBUNAGA }}
-          FIRE_URL_SHINGEN: ${{ secrets.FIRE_URL_SHINGEN }}
-          FIRE_TOKEN_SHINGEN: ${{ secrets.FIRE_TOKEN_SHINGEN }}
-          FIRE_URL_MITSUHIDE: ${{ secrets.FIRE_URL_MITSUHIDE }}
-          FIRE_TOKEN_MITSUHIDE: ${{ secrets.FIRE_TOKEN_MITSUHIDE }}
-          FIRE_URL_KENSHIN: ${{ secrets.FIRE_URL_KENSHIN }}
-          FIRE_TOKEN_KENSHIN: ${{ secrets.FIRE_TOKEN_KENSHIN }}
-          FIRE_URL_HIDEYOSHI: ${{ secrets.FIRE_URL_HIDEYOSHI }}
-          FIRE_TOKEN_HIDEYOSHI: ${{ secrets.FIRE_TOKEN_HIDEYOSHI }}
-          FIRE_URL_CHACHA: ${{ secrets.FIRE_URL_CHACHA }}
-          FIRE_TOKEN_CHACHA: ${{ secrets.FIRE_TOKEN_CHACHA }}
-          FIRE_URL_IEYASU: ${{ secrets.FIRE_URL_IEYASU }}
-          FIRE_TOKEN_IEYASU: ${{ secrets.FIRE_TOKEN_IEYASU }}
-          FIRE_URL_KANBEI: ${{ secrets.FIRE_URL_KANBEI }}
-          FIRE_TOKEN_KANBEI: ${{ secrets.FIRE_TOKEN_KANBEI }}
 
       - name: commit watcher state
         run: |
@@ -73,5 +55,7 @@ jobs:
           git add state/watcher.json
           if ! git diff --cached --quiet; then
             git commit -q -m "watcher: state"
-            git push -q
+            # iQi の push と重なっても状態を失わないように（失うと同じ人を二重に起こす）
+            git pull -q --rebase origin main
+            git push -q origin HEAD:main
           fi
