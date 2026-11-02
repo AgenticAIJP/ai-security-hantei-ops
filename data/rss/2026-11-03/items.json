@@ -1,0 +1,1240 @@
+{
+  "date": "2026-11-03",
+  "items": [
+    {
+      "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+      "url": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+      "source": "",
+      "published_at": "2026-11-02T00:00:00+09:00",
+      "feed": "IPA",
+      "kind": "public",
+      "first_seen_at": "2026-11-03T06:02:17+09:00"
+    },
+    {
+      "title": "「Ivanti Connect Secure」の脆弱性悪用で注意喚起 - 米当局",
+      "url": "https://www.security-next.com/192266",
+      "source": "",
+      "published_at": "2026-11-02T09:03:11+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:18+09:00"
+    },
+    {
+      "title": "「WordPress 7.1.4」で更新時RCEや複数XSSなど脆弱性を修正",
+      "url": "https://www.security-next.com/192262",
+      "source": "",
+      "published_at": "2026-11-02T10:15:56+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:18+09:00"
+    },
+    {
+      "title": "DB管理ツール「pgAdmin 4」に複数脆弱性 - 2件は「クリティカル」",
+      "url": "https://www.security-next.com/192279",
+      "source": "",
+      "published_at": "2026-11-02T12:52:54+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:18+09:00"
+    },
+    {
+      "title": "QNAP、脆弱性「PHP2Shell」へ順次対応 - 「NDR」向け更新は準備中",
+      "url": "https://www.security-next.com/192277",
+      "source": "",
+      "published_at": "2026-11-02T15:19:13+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:18+09:00"
+    },
+    {
+      "title": "個人情報漏洩の個人向け被害者相談窓口を強化 - IPA",
+      "url": "https://www.security-next.com/192287",
+      "source": "",
+      "published_at": "2026-11-02T21:25:29+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:18+09:00"
+    },
+    {
+      "title": "アイリスオーヤマ通販サイトで侵害 - 詳細を調査",
+      "url": "https://www.security-next.com/192208",
+      "source": "",
+      "published_at": "2026-11-02T22:13:36+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:18+09:00"
+    },
+    {
+      "title": "外務省のネットワークで侵害 - 個人情報流出の可能性",
+      "url": "https://www.security-next.com/192256",
+      "source": "",
+      "published_at": "2026-11-02T22:55:46+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:18+09:00"
+    },
+    {
+      "title": "ECサイトに不正アクセス、会員情報流出 - フィギュアメーカー",
+      "url": "https://www.security-next.com/191996",
+      "source": "",
+      "published_at": "2026-11-02T11:43:41+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:18+09:00"
+    },
+    {
+      "title": "先週注目された記事（2026年10月25日〜2026年10月31日）",
+      "url": "https://www.security-next.com/192264",
+      "source": "",
+      "published_at": "2026-11-02T09:03:36+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:18+09:00"
+    },
+    {
+      "title": "AIの進化がもたらす脆弱性対応の新たな波 ～ Internet Week 2026",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56650.html",
+      "source": "",
+      "published_at": "2026-11-02T08:10:03+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "AI を活用した総点検で発見 ～ デジタルアーツのクラウドサービス運用環境に不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56649.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:36+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "WPプラグインの脆弱性悪用 ～ ティエスエスリンクのウェブサイトに不正アクセス、製品にはセキュリティ上の問題 確認されておらず",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56648.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:33+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "他の職員のIDとパスワードを使用し複数回にわたり庁内共有フォルダに不正アクセス、上司の印影の偽造も",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56647.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:29+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "「楽天トラベル」海外ホテル予約サイトの一部ページと多言語予約サイトに不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56646.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:26+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "ユミルリンクのメール配信サービスの一部サーバシステムに不正アクセス、延べ5,162万8,280件の情報が流出",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56645.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:23+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "フジッコのキャンペーンの応募受付業務の委託先に不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56644.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:21+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "「SHIPS CYCLE MARKET」で利用している外部アプリケーション「Swym Wishlist Plus」に不正アクセス、外部の疑似サイトに誘導",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56643.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:17+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "新菱冷熱工業にサイバー攻撃、システム障害で一部サービスにも影響",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56642.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:12+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "Sallyに2件の不正アクセス、問い合わせ情報が漏えいした可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56641.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:10+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "PingCAPに不正アクセス、日本国内で最大約5万件の個人情報が漏えい",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56640.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:07+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "会員名簿とされるデータがアップロードされていると警察から報告 ～ 在宅ワーク求人サイト「ママワークス」に不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56639.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:05+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "越境ECサービス「WorldShopping」に不正アクセス、海外顧客301名の個人情報が漏えい",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56638.html",
+      "source": "",
+      "published_at": "2026-11-02T08:05:02+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "HENNGE、東証プライム市場に市場区分変更",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56637.html",
+      "source": "",
+      "published_at": "2026-11-02T08:00:07+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "Vex、php2shell に対応する検査シグネチャの正式版を追加",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/02/56636.html",
+      "source": "",
+      "published_at": "2026-11-02T08:00:03+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "GMOの3時間超の謝罪会見は何を明らかにしたのか-脆弱性対応の先送りと「命の砂時計」、危機管理広報の課題",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/gmo_press_conference_article_readable_20261102/",
+      "source": "",
+      "published_at": "2026-11-02T22:56:43+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "「デイリー馬三郎」に不正アクセス、最大15万2,500件の個人情報漏洩のおそれ　パスワード・口座番号も対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/daily-umasaburo-netdreamers-152500-data-leak-risk-20261102/",
+      "source": "",
+      "published_at": "2026-11-02T22:00:43+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "GMOペイメントゲートウェイで顧客情報69件が窃取された可能性-GMOグループで相次ぐ不正アクセス・情報漏えい公表",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/gmo-payment-gateway-lifecard-vpreca-69/",
+      "source": "",
+      "published_at": "2026-11-02T21:16:00+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "バリューゴルフ「1人予約ランド」に不正アクセス、会員のメールアドレス流出の可能性、影響人数は未公表-登録会員130万人超",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/valuegolf_hitori_yoyaku_land_unauthorized/",
+      "source": "",
+      "published_at": "2026-11-02T18:26:34+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "プレステージ・インターナショナルに不正アクセス、最大約550万件の個人情報を持ち出し　ロードサービスの車両・事故情報や口座情報も対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/prestige_international_5500000_roadside_data_breach_20261102/",
+      "source": "",
+      "published_at": "2026-11-02T17:55:45+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "無印良品のオーダーカーテン発注者の個人情報、1万9,933件が流出の可能性　委託先ナノテックへの不正アクセスで氏名・住所・電話番号が対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/muji_order_curtains_unauthorized_access_20261102/",
+      "source": "",
+      "published_at": "2026-11-02T17:45:26+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "ノジマ オンラインに不正アクセスによるサイバー攻撃、約700万件の個人情報が漏えい　暗号化パスワードも対象、2サイトを停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/nojima_online_7million_breach_risks/",
+      "source": "",
+      "published_at": "2026-11-02T17:41:55+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "GMO、サイバー攻撃で熊谷正寿氏ら役員4人が報酬減額　「お名前.com デスクトップクラウド」不正アクセスで経営責任を検証へ",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/gmo-onamae-desktop-cloud-executive-pay-cuts/",
+      "source": "",
+      "published_at": "2026-11-02T16:39:16+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "テレ東マートに不正アクセス、11月2日午前3時53分に通販サイト緊急停止　個人情報・カード情報の漏えいは確認されず",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/tvtokyo_mart_unauthorized_access_site_closed_20261102/",
+      "source": "",
+      "published_at": "2026-11-02T16:30:50+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "サントリー、外部クラウドへの不正アクセスで従業員約9万人の情報流出か　採用応募者7,173人も対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/suntory_external_cloud_unauthorized_access_employee_applicant_data_leak/",
+      "source": "",
+      "published_at": "2026-11-02T16:14:03+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:19+09:00"
+    },
+    {
+      "title": "【更新中】被害情報サイトはGMO攻撃側と関連か…専門家「圧力かける狙い」 「暗号資産の不正アクセスに北朝鮮が関与」米FBIが発表【情報まとめ】 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-02T20:33:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ノジマ 不正アクセスで約700万件の個人情報漏えい - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zVFc3cElkcmdfRWU1ZTlxMF96RVJIaTVfaUpyUHdkaVJ6c25HOGVUZVE1Y012Y1ZxY0hqSjdUMTZONDZ3MTVNdFJfNHFEUDg1Z1BjQUk1Nll2dHFVNGJN?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-02T19:16:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "IPA、不正アクセスによる個人情報漏えい被害者の「相談窓口」を強化 対応方法やアドバイスなどを提供 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JaURzdUNRZnd2TnZyS08xY3ZyMDdvTVpUMHNIbFg4MlBnVzZqOW01T2lPUlhfejFDcWRDcDVBZm50Qlh2dWItc3Z3OWNubWhrQVBnRXlR?oc=5",
+      "source": "EnterpriseZine",
+      "published_at": "2026-11-02T15:27:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "「さとふる」メール配信サービスへの不正アクセスによる情報漏えいについて - 志摩市",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXdPUnR0R3hrZXR2YUpsblFqRnVzaWxTSVBrTUxlb3l6S0JwVHVPSVNreno3UjJVNDBYWDdaSl9HUVFDck9GUGxUUHJ3MVM0Z3lRZVJ1MFUtbzg1NlpXeE00dEFIQ0xlRTVZT2lUUG9lNjJQaWhoVFZoekJPY09kSlVR?oc=5",
+      "source": "志摩市",
+      "published_at": "2026-11-02T23:42:30+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "不正アクセスで個人情報流出続く サントリーHDやノジマ（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IUDAwMVQ4bTdyQmZkRGRHaVRuVDhOb2lYckxJX1BWVWpPdGR0S2ZFTnlDcnFWOUlrWjJCeEhoN0xQRVdZanhCUTZjeWJDRGFYWl9CQ2NvQXp6eWt3c2tDM3paUkZQRHkwdUY2WXBybWViNzQyU0dEN3FGak42SnM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T21:42:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ノジマ、会員情報約700万人が流出 管理システムに不正アクセス [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zalFNTkpQNDJTR2hjekF2T3YwT09IN1J5SFV1NTMtZFYzSUtJeXNJZy1Kc0tub290SkNmTzl0RC1uT0psNXl1bVZyMVFidVI3aGJaRElrVzh2dkMtZEI1WFRsSnNadms?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-02T20:00:17+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーで約9万人の個人情報が流出、外部クラウドに不正アクセス…応募者7,173人も - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Fd1NIV3VzR252MWxoSlB3Ni1DeXdhOXRjTWpxZnpOM3pLOThBdlpzU2E1NXljcWQ1cFBfSFBtdlZnUmx6M3ZUcU1VRHl2cy1qdFRF?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-02T16:44:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーHD不正アクセス被害 10万人超の個人情報漏えい 「ノジマ」「アララ」でも情報流出 - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJa05FZTBLVGx5dERaTTFDRER1YmVlZ2MzRHNQS053ZUkzd0haRjJMRnlyM3VrTzdJenpDOVIwWXlzU0lfWThGcUJkRU1Ydw?oc=5",
+      "source": "FNNプライムオンライン",
+      "published_at": "2026-11-02T23:49:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーHD、10万人分の個人情報漏洩 不正アクセスで - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVR19ieHkyb3ZtdDgtU2Z4MVZIZ2p5Ui1JRHp2NV9KZG95Z2dpMl9FejhMS2hVVlFHTlllcTFCeU1YaWVya1kxQXExSzlkYVlyQXV6d0VFU0IxZGg3RlEzTzVNdWJqZndXb0oxOA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-02T16:07:13+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "【個人情報漏えい】2億6000万人分の情報流出―26年度 : 10月に入って不正アクセス急増（nippon.com） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IcVMyYmd4VWhpS0ZlVEtBTDllNV81NmJIX284Nlk4dFJNbDFla0txa2ZVOExxU0c0aTVXUElDdkxFZG5RV0JBXzE5NHlqZmNhSkxITElua2N0UzMzQ2hZS3Jid3ZGNkQ3ZDlhaUlxNGlOOHhmRmFBczM5YndUeTA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T19:29:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーHD 不正アクセスで個人情報約10万人分が漏えい | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZ0VDcmlsaUpJU3gyaE1UVnc5VmY1UVhZMjI2NWlUVUFObURnNUJNTmd3QWIzRFFDTndEcXNtX3IxSldkMEJzWXpzLUpseXd6OXZBOHI0czBEbmpTUVNN?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-02T16:23:41+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ノジマ、ECサイトなどに不正アクセス 顧客情報700万件流出 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ybnVlWVI5bC1UZC00VlQxOFptQ0F0bnVzajhySnFHNFVIZWRyaEdjczB3YjU0b2cyUkR1X2xDcXZ0bEN2czZocDEtUk0yUTRtVkZsQUdHRjlxZFRvbF9fQlFkckx6bkxQakp4ag?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-02T19:35:41+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ノジマで個人情報700万件流出 クレジットカード情報は含まれず（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxaHQtVy1ZSDAzWG5xSHl1aXVsQjhPZmcxbG5LRWxFQTh4RjhydVAtVzAwWURzOWpYZ28xeFNGT2VrTHlyX1BxOVpMN0VlM0x4ODNxMTdaRWU1cXBMNDE1Qi1nR3oyUml0ZWhTLTZkR0tVdl9wWWN4S2NBWVpwQ1U?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T20:15:02+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ウィルズ[4482]：「ネットマイル」における不正アクセスによる個人情報漏えいの可能性に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLVEI2X04wNWUzUG5NNksyeTk1d0hKMzlmQi1oOGxjSnN6ZUdGejNfZHllT3FKWkJfLTJRN1pTLU51VEdiM3lPS3Y1WVZiaFFza0pfa0ZfdmlfRmNmR3JPUHVBTzQwVjlnYkE?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-02T14:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ノジマ 700万人分の個人情報流出 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VcTdvNVVPX3VQOUdKb21iRWxGaXlkYnFockF6U3A2U2ZfZlZRejZKTjloVGVEekZzUWRMQTdNNW0ySFk1Mnp2eEtPMGZfYkt5?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T22:26:39+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hMFFsaDNGRmlna05wVjJ5d3ptZnBNcTRvd0RSQ0l1UmR2QmxfN25CMlBRNDRMVGxNZENPVjFCT29yZ1JRYVlMSDIxN3lna29XN1Q1RWhibTNnem5UTzF2bmk5N1RxTDVIZlBrQ3lMVzhsOVR4TnBVNS14NE40V2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T19:52:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "丸井で個人情報漏えい、銀行口座番号も（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UcTlIeUlyM1FDemNRODFWQTFkUGlfb0JKQ20yeEZubk1qSklxR2JEck1zcW5ab2Z0M3BEX0JxTUQ2QXBaWDFXM3lUWXYtUFZ6LUFDc2F0V0ZmdkhnZlk0RjQ1Ukc3T3FNZlNYSm0tZ0YzejN1NkxIb0pleE5RN3M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T19:23:19+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "【速報】サントリーのクラウドに不正アクセス 採用選考の応募者などの情報漏えいか - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zRFFld3BNWWtBRk9EM0E4S2N0ZG05emt1YTVTbVU3UjI1aHMwMWQyQmxTYVdRbk95dndUbkZsTmNoV1hVX2hZQmZaSWNpMDh5VXJ6ZWc1cThDUS1uWUI2ZWxreWJNbVpXNGhtenFpT2g4dG1Yd3dCYlJGZ1o1WVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T15:34:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "兵庫・姫路市「オンライン手続サイト」で情報漏えいか 外部のメール配信サービスが不正アクセス受け（神戸新聞NEXT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tcm51NV9yOFNVc2tPb1FJcVNCcm9kT3NIU3M5QWk5bldDd2RUUllsRVROblBXQjZ2VnRrWC0xU3RGbUNmcjhiTFFvSmJ0anZVNjY3elQzWlpoZV9lcWdEaktjQU5GWWxtRklhT0tiVHlPUHJXMmltUmx5d0J3T0k?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T22:26:04+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "不正アクセスによる情報漏えい被害防止へ 長崎県警が県内企業加入の商工団体にセキュリティ対策を呼びかけ - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80NGREbEdvdmlwbTRITE51YTJac04tTklIeFhXd3pyWjJsdGRDanBjcTNmMGxSR3c4aE9ONUZBMEZGNlI1MDdyRVVkbHpLeTR5R2lSdFVGbXkzQQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-11-02T19:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "丸井グループ 顧客の個人情報 最大で約9000人分漏えい - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoaWdwZ2NYTjdHTlVZSVdyUlFsTXZwT1M4SEwzQ0g2QkpMT3A1bmsySlpDU0E0bDItMGJ2cklRT05IZ0VpNU50eVg4M3R4WnVqRDZuZ1ViNk5aY1JTODdz?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-02T20:51:29+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "業務委託先に不正アクセス…熊本県のイベント参加者478人の個人情報が漏えい - KAB 熊本朝日放送",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ScmxVanA3aDZvX3ZQaHVCZWtYNHItUy13eEc2b19qVlg3QnZxTk1ZeS13b3lRdS1JWmkzZmdBdWRXeW51TDFaaVA1UlpVSFlsSnpRNXZ3?oc=5",
+      "source": "KAB 熊本朝日放送",
+      "published_at": "2026-11-02T19:59:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "【速報】サントリー 不正アクセスで従業員など約9万人分の個人情報が漏えい 採用応募者情報や顧客情報も（読売テレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DSGdFZG12aG5xTUtiRW9yd1Q2RTBqYzRnUFZ6QVZzSm5YZ19MQ1lzb3FuT05fSUJaWGdmU2V1ekhFbDBveWVPa3hYR2R5TkRNMzZheXFnbE5rdlhMYXpzUGNvckVxTzdLeURPQ2x2MTZHWFVvbVlEcFktOE8zV0E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T15:49:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "プレステージ・インターナショナル[4290]：当社グループの業務システムへの不正アクセスによる個人情報漏えいに関するお知らせとお詫び 2026年11月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tNExlaTdnUXRtNzRuOXFZUkthbmdUSnMxMUlfeGJMY0VDRHgyMm1jSXhNYmpDdHFuSnZLOXpvNzloVkxTX2hJV21tel90aW9jYS1GUTcyQmxxMjVVclBSSHBKb2hfWHNxaVE?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-02T17:35:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "「アララ」メアド７７００万件流出 サントリーは従業員ら１０万人―不正アクセス - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2Mk0tRVhRWlBXZ1VHN05MLU1Mb21fcTVmS1Q2NVZIMk9DakVDWUNoaHg3OWZZbU5TYVVmUGlkVmtXMlQxRFl6WlZ2SXFiMFpWZUJGRjdzSml1UVlZWkd3TGtMUQ?oc=5",
+      "source": "時事ドットコム",
+      "published_at": "2026-11-02T20:26:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "アットコスメに不正アクセス 約300万人分の肌質や髪質の情報流出 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLcGFOZFNpRHFiekJJeE9PNkRoMFFFSkpVT1RReHd2RFF5SDA1MXpxOTlEcXVvWDVXMGhQSmk0YVFnUVpPRmliRTk0WGIwV2o2TmVFOGl4TTJTRzQxaGt1Z2ZqVFVwSGlHVklHbDgzbUxHUQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-02T18:58:37+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーグループ、10万人分の情報漏洩 不正アクセスで - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vYUYwWjU4blFxQ3EtZXVyTTVqdUFCSWJRb0VlN2FTb0tMbVlaNHQ5ejJtSVJKSXJ4azFzT0x3T1dfUzhpVUlVNlhQT19IVXZyd0NDS3BzaUY3Q01EMG1JQmlWbUNtcEE?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-02T17:20:12+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "「ネットマイル」 最大で約549万人分の個人情報漏えいの可能性 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnRHZVZ2UwMHBXS3BwbVF2VEVQYVRTZEFxcWhzeHBobjI2MmNmWVBYZjFwaWZCS1QwVFEzcXJnbzBidXphZmY0dDZQRGVKZHpqOG5lQnY4VHFwdV82QjNr?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-02T20:47:09+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "GMOが不正アクセス問題で初の会見 「被害拡大防止で手いっぱい」 [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QV0diNkE3Tkh5VEFham51U0xCdWZVQnBuV3lhZmdjRGx4dTNiekxvV3ppZmh4RDBxMGZURFh5cl9TbVlsVG5NSnJSU1dIdm8ycUhrQkVqR0plYXVnT3RMOUY3WXJ2MFU?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-02T20:47:56+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ミツカン、顧客の個人情報漏えいか（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQnBVRGZnME5YM01nNHRYdER0VWRhYzlqZnFZaDB5U1ZrUjJvQy1UVnZLZ3dMR1liMEtNeWFuX2FlaFUwbEREWE9vQjBjTXRjbjVDTTI5akh2R0dUTmROWTNxQUU5NEoyMDdxa194X2RYUldGc1hlNlk3NlB2ZjQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T20:01:07+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ノジマ、会員700万件の個人情報が漏えい 住所・電話番号も対象、自分は大丈夫か - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzTHd0LWc1czRXeGxqb1JSZlBYeGVWOGdyUk8yQy1jclAwVVBZTHo5Q1NPWDhfQ1AyNnpfRzR0ZUYxX3JDRExSZmpVU3c1ZGN3ZEVN?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-02T21:58:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "「アットコスメ」不正アクセス 約300万人分漏えい 肌質 髪質も - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zMlJuUEVhVklwSUJKSllTbzJkczRUbjJrSkJIQ0RSN0MxLWRMRndvbkE4OHdjSFpHNC1qMDNDb0MyRC1TSHEtbDBVRlBjMTRmU2pPRjhHVndtN2xFOUU4?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-02T15:04:20+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "川崎市、オンライン申請システムで不正アクセス検知 個人情報流出は調査中 - カナロコ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16VXZ0Y2x2NXJidk5veDJiaEpDYzI0ZUdHS0N4MkZUMjJlekppTV9lWFRCTzRJVDNzWElEWUpmR1FtTnVPczlFNEtIUzVKb3pXVlhkRkpiVFlNMHM5WjMyZnl6UENfYUJOak5KYQ?oc=5",
+      "source": "カナロコ",
+      "published_at": "2026-11-02T23:20:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "にいつフード「グリーンカード」会員297名に個人情報漏えいの可能性 委託先へ不正アクセス、住所・生年月日など対象 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQanpKQ25hN1hldDYzdmpaZkdGekFIemZpM1FwTHJ1RDdEeFgwVU5KNDNxNnN1ZkQ1N2pRWjAyN0c5ZWZrRzJTLUN5M3pONXJOaTY0YnJmdVBmcXp3VVpyaEw1cGF1RnpMMlhLSENLWEQzTExmWWpfQXhsclVrb2pQc0ljY1F1U2R0LUhITW85emRYYWE0Mnp0TkNR?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-02T16:00:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーHD 10万人分漏えい - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkeTdKVGtaeC1UU2VoSGhKRTdSaVZzN2tsMkw3UkQ1QUFsa1hEa1dDLTBWNWRxdndzeGhPRktVMmd1WW5yTnV1RHd0dV9YMGxD?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T17:25:54+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "GMO不正アクセス、侵入は2カ月半前 明らかになった攻撃の実態は [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5idFFLS2tHWThTcU94NFFueU8xNV9VUHJpTmFJYVVSNDBJamJxVmd6bkpCSG1lMUYxVTZ5ZEV4cDEtVk93OUNJeXc0OGRxYWQtaEFkXzQ0eDVZSTBIMk1DNE9ueE9wUjA?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-02T19:44:35+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリー 不正アクセスで最大約１０万件の個人情報漏えい グループ従業員や新卒採用応募者の氏名など - 朝日放送",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CS2RRVFJDZ2VLZHpOWldUVmNOZThWUU5vaHhRbWlyR2hYUkdUSHgwOHFOZHdyRG1NdHVYeFdlWFRNSHg4LU1CX2oyamg3SzNjYmw1NjdWTGNxdlJERWhKOXhR?oc=5",
+      "source": "朝日放送",
+      "published_at": "2026-11-02T18:02:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "@cosme(アットコスメ)、不正アクセスによるサイバー攻撃で約300万人の個人情報漏洩を確認-氏名・住所・肌質・髪質など対象 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcHU3WEtoVWlmYXZNRTRnbUo1cXFqVEU4aDN0ck55TnE5bmU0ZDlRT2NYMVVkNlpPUkxtaU9POFZUR2xOUUpoLXctaDFkOE5EaXFSLTBESDZ1YTVCMXpMNXdLcGR5eUJINmtVN0JLUDIxWWYxSmhyZGFXZWQ4UVM5QWpWNWtVeDVQNElTUQ?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-02T15:13:30+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "野村証券、顧客情報漏えいの可能性（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MT0ozbXU5MGdCQ2ZtbDZFR2ZfX0ZickFhWWpmSVotYzlDYkRBcDZyaEhPSmlDRFpYT2tXRi05SzA3YWd3UXRnU3lNTDFWV3FhWjQwdDlHTVM5ZmNlcEFwcVNJOV9YMktTMVVITVUzdnJNamRhQ183cWVUd0JUd2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T20:00:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ロードサービス企業で最大550万件の情報流出 不正アクセスで - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoaTZjV0N2RTB2bC1FNFBjWHM0eXJHSFNHdzB3elRSc25TeVNqdmxBNkFSaE82MkJlcGhqRm8tMjY3Q3N1Sy1jbFVzZFBZWlJ6ajdaSkN2UkRfS1IzOUpPZjU1clhscUVaVENWRw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-02T23:14:13+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ペイクラウドHD、「アララ メッセージ」への不正アクセスで約7700万件のメールアドレスが流出 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtWUV5MUxEdV9BY3pGMVlCT29ub3dKazBJdmtaeHBVTUZBLVdOenp5dDZ2a0JXNVdLalJ0WmY2MVFMZzJjMnN6YVZNeWUtc182dXYtS3NIbVA5RWI5bElUejd0TmtodXZEVXNB?oc=5",
+      "source": "INTERNET Watch",
+      "published_at": "2026-11-02T16:47:56+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "不正アクセス問題で「ＧＭＯ」社長が初めて会見 過去にセキュリティー課題指摘も判明 顧客らに見舞金・補償の方針 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJZlJNckRlTjRGdUxYLVlQb1ZOWnBKS0FROWJUaWVrbU5PUlMwNFY0RV96S19aV3pQRHpUNG1UeFlYdHZWZEd5dW84M0o2YmY4ZWNkeEduMVdCTGNEX0pnejNHV2pZRlI1NVBOLW9sdUxla2NUcmVQaFEtYzNxcGc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T20:30:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ロードサービス利用者の個人情報 最大約550万件漏えい - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JNFFTajNKU1VpLU51OTI3NjJydk5jTmRhZnNEWHhIcm4wYjZWQVBBRng0aUJXX0tDbGxxMUxpREdmWDhpZkZRR3hqdVRYUjU3WE02bGt1anBpT2lwYnY4?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-02T20:46:20+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "流出情報投稿に警鐘 GMO不正アクセス SNS巡り 専門家 違法性を指摘 - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsdF94RDBJeGp4LTVxc1lnVnFpLVRQRjNHcEt0VlFXX3lNQ0FVN0dyamhKc2thcV9obnRmZlVRd1FYbktlTUNwdlFnNlJoSTM4MlYwWW4yVzFaOV9Va1E?oc=5",
+      "source": "沖縄タイムス社",
+      "published_at": "2026-11-03T04:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "不正アクセスで個人情報流出続く サントリーＨＤやノジマ - 静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBam5WVXUyRzhiU3ptdlB2eERzMk1VSi1Ec3A2d1VtYjRGdWtBWk0yMTBkWVF3VnRNaFhZbGE2YkVhWUoycENzanRPcWVUUQ?oc=5",
+      "source": "静岡新聞DIGITAL",
+      "published_at": "2026-11-02T21:42:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "Mリーグ 公式サイトに不正アクセス、9,502人の個人情報が漏えい 注文履歴13,922件とパスワードのハッシュ値も対象 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNG1PQjRpeElnc0h4aTJ3Y040VW1QVzV2QUdVd3JWeThMOU5CU0R4MWtsRjktdENwbmJSOUhUOGpDNzRCNkFJUUJWdTNDc0pLdnJJbklaMFFrZTlVcS1wM2E1ZW9MN1JCeTQzSDBlZkVkMTQwNmRVUFFVYjdfWXUwUHVHdTRtNzROdF9aWm9XSWZPSGV6am9MeFNWNEFsMHNkZWhNaWN6ZjRSd282aEhoTw?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-02T15:20:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "不正アクセスで会員情報432万件流出（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HbVNwTm5sb0lHYUdhdTU2VjJYRS0zUGxoOWtlVDhtSzl3TUJwbDNSLWVRdldkTmR6QUhZZDRKX3BwSnJLMC1IOEtST1hGS0kyT2hIaVJHS01mbkZRMGdPcWRDV0hWd0o0aU1yeXNOVzZ0WDdUWWJaRGF0a2FZNUk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T20:00:57+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーＨＤ、従業員や新卒採用応募者ら１０万人の情報漏えい…利用するクラウドサービスに不正アクセス - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04Sm0ydkVPLUF4WVpIemNsS2trTjVRZ2UtVkM5ZnplbjVkLW5VOXVjYkNhbkQ5bkk0LVV2MlJtVnhuR29pam9IWGFFQzFQVWhuYUpqRHpwRlk2ZEpIZmRFZkZnVFB0QmpfQlI1Z0hXRWswVHZaUUJFLUpRa0xwZ1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T19:21:53+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "「アットコスメ」に不正アクセス 約300万人の個人情報が漏えい、氏名や住所、肌質など - WWDJAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KRXVTODNxLUtERDhCcFRvUG9qWk1weXN2Vy1vekR1VW1URXliZVBXbVQtbWxJZVlnR2VVcG9Pcld3Rlh2Q0FzMmoxQmlxdTlqUktR?oc=5",
+      "source": "WWDJAPAN",
+      "published_at": "2026-11-02T17:10:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "くまモンのスタンプラリー事業 不正アクセスで４７８人分の個人情報漏えい【熊本】 - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FTXNpdnBUU09XTnd4SFNUZEMycWNXclEydXFOZzljNEo5UUtFU1dpM2NfZjlIUWdvUDJFdVFiNkdLcW9lel9NNUNqQzZLdw?oc=5",
+      "source": "FNNプライムオンライン",
+      "published_at": "2026-11-02T19:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "りそな、顧客のメールアドレスが漏えいの可能性 委託先に不正アクセス - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WWVdfN2xiamFlTVhVUlJKY18tRW04SXV1UF96Q2dFTnVGSkozVnRTQ2FIM0pxbF9BUVpoM056aGQ0LURUVkxEUnNPU05ZVXd1azRZQ2t4MzlEckprYXg4Q01xUExGWTZpNmtYUFRqaEQ1WGQyYUs3aHBVUTlkWms?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T16:41:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "アットコスメ、会員約300万人分の情報漏えい 不正アクセスで - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LbjBFNTQwMlVOajQ0eTdfeFdDbmVfTEJtWVhCRG5KMTZKZXF5Y1ZXTGs4NGF4MHUxeGVqYjIxWkJ5UEhrQkFiOTRXZ0pUZFFkeWw1aUhiME9TQU9UTzNUMVpWeGFVdGRPbmc?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-02T14:40:09+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "【速報】「近鉄・都ホテルズ」でメアド約13万件漏えい 姫路市でも流出の可能性 「アララ」への不正アクセス受け - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeUNSZlAwejJnWElmQ1JORW9XcHk4MGEzM3FERGNPUjdGNHZMN1lTMkpQbnlzbTZ3bW5OREpXNFpTYVJsVDM5SFhjZzhVbVlQVjhmVWZTVEhtRmtMNkVyS19LLXMzSEJTTzVHQzBXWXotU2N4cUotMEVyUEc1TUtWQWlkd3lNOXM?oc=5",
+      "source": "日テレNEWS NNN",
+      "published_at": "2026-11-03T00:22:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーHDなどで個人情報流出相次ぐ、ノジマは700万人分、ペイクラウドHDは7700万件 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BRVV6LU5uOEtSTUotWjhJbUdFX0pKTmZYcnk0bzFJczFmTW41aENkSVZhbGEwcFNUMFUzaHBadzZWZjNMY3Vrb0hYMUxyYUJDeVNiQ3B6eXJUdHUyZGRsR3BNbVlpdVgtVl85ZW9HZTM1dWU0?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-03T00:05:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "個人情報漏えい被害相次ぎ、IPAが相談窓口を強化（アスキー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yZjVQNVBQR2xhVnBQclVFSXlRRWJFYzQ5dHNYamRvMmxHWFBoVThQZjJ4SWpsTG1aRUdINzNJaTVITFhPMXFkNEw3NkpzamV4eU1Mby0xRklTdFpMUHozUHRaZjJ5NXlUUXhGS0hSNG04QVlHc3dORVlnazlUdXM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T14:55:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "KDDI、2万2541件の顧客情報漏えいか ライフネット生命への不正アクセスで（アスキー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0VlAzbG5oVUU2MzhxVjNTTUNMSHRJWTFTc0lUSGdZYWpGNDNta0Z6aGcyNVpDTDh3QWNkd3owbVhPZ1EydzR6Q1FBaXFQd3d4R3lFQldQOHE2V1BDd2JVMl9wWUFSeUgzUE5mSXJGLWEzREQ2VWh0VFM3ekRxVUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T12:05:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "相次ぐ個人情報流出「不正アクセス被害防止へ啓発」県警や県が商工団体などを訪問《長崎》 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3NKd1V2MC1fOUhFSXVNX3AtS1paejFXbnZnVDByXzZlQnJ0M1ptbzlLRzYtbDJwSlJlSUxETmNobjhEOFQxal94cmdscjdGWUJLVzc3bnBzRzRGdUk2MHhFS2lrSWJaOHpmY2x5X0FwQmtMMWhMdFlWQVB1OWhaX0VLTmlqRWs?oc=5",
+      "source": "日テレNEWS NNN",
+      "published_at": "2026-11-02T18:56:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "【速報】丸井で個人情報漏えい、銀行口座番号も - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KV0ZfbGtkWVdnZEkxbkNqOW91WTdIUENXQ01HQ0Y0aUhMQ1h0c2ZfdHBPVEE3YTVIaWZ1SzZVczZrZkc3QVlJU0R2aw?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-02T19:23:19+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーHD10万人分漏えい 従業員の氏名やメールアドレス（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WYW9fM3ZmcjBOdWZmTFhQdnA5QjJJRDdsNDY4LXZ3Q0RvMFhUR05sOExqcjU5QjMtTGZtNFM3Tk53OTJYZ3pfVnVUVlV4TTNVVENTb2tlOXVCSHk1ekt5cW1Nd216MTZSazVVUjdCQ3gwXzFMek1oNnpSVUxqYWc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T16:38:49+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "IPAが個人情報漏えいの被害者に向けて「情報セキュリティ安心相談窓口」を強化、電話・メールで相談可能 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41WFFlVUpDcm9BTmdqb1JtcGVqUUxkNjk2eVNlOUZFbmF2TFBjTzFSTkliT19BQUZ6ck5Eb0xDRkMtdklMa2Zpdk5neDVRSHV6c0JMQl8yeXdSV2xTNklJbll3aHVkWVlwTVJr?oc=5",
+      "source": "INTERNET Watch",
+      "published_at": "2026-11-02T15:52:47+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "HYBE、外部ハッキング攻撃による個人情報流出を謝罪…氏名からパスポート番号まで大規模な被害（Kstyle） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wN3M2ei02djgyQ0JPOGh0QUUzRUhsQWpuaU5NX3BILVgwRDhzZEtIRmNzamRUYkpzRDJ6a2JOR1dyUDNjZVlDR1VMNkt0aHFTTTlxdzJBWWZlWm5BV2xXbVlyZHJKNWFqYmIzVWZWd2NJNERvVmVqY3JobldYVk0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T16:21:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "713万通超の不審メール確認 「アララメッセージ」不正アクセスで [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnSnU1MFl0UW05ZU9iSkZFc2RsRDRIc3JnWFN1dEdqak1MbW1XdHZtU2pZbHA5T0RaeE9CRmdLdktNeDNiV3pKMkJaN3o1WU1kdUpFbTZSYUs2UUpYMkhiS0ZGRGtoQlE?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-02T14:18:04+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "北陸電力の「ほくリンク」会員のメールアドレス約55万件が外部に流出 メール配信委託の業者に不正アクセス（FBC 福井放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yUkE1aG5URGpjTTJTVGVucmp2VHBHU0RuanZYWEx0ZkVLb05lWjBONVE1ZlZMTktwMmZZX1ViVVpQaUtoeWFaVldNNDE5SFduRGI2ZFd5cTRoUVRSMmFHa0M1eHBzOGNCcFQwVDNaUVUtaVFTQmZFaV8zYmpKdnM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T22:12:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ライフカードの「Vプリカ」、委託先システムへの不正アクセスで個人情報漏えいの可能性 サービスを一部停止 - 株式会社アクト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ncFU3RmtyYy1FYXA1ajVBeU02a3FGd25TcWtvUy16cnkxVENLOFVCTVM1MlRvVFdGMjFJblNQOHhpLWNva0QxUw?oc=5",
+      "source": "株式会社アクト",
+      "published_at": "2026-11-02T15:31:51+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーに不正アクセス 取引先の従業員情報など10万人分漏えい（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pcjVjN0RsUHE0bTJfTGxhanEzaUxGNkc0N0ViV3pRQ05uOFRTZm5HRmtHYk8yaEtWOEI0dkxRNVFMbjR0cTBVenpnUkVuVmJRbllFU0tLNndOSU00WEdxcXFvM0E5X3dVR1VIZ2RQWnlXb3BoYkc2TmdUSW56Vzg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T18:36:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ＧＭＯ傘下、個人情報４．５万人分漏えい ９年間外部から閲覧可能、設定ミスで - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxbWc1aDd5cmczYS0yejRpaWtKQkh4Vzc0dW9XTlhITGxsX01xUl9ZaHo4R3pfcnZHV2FHNDVDOERHXzFmbHhuRWNjMlJCclVFY0ktcjBuOUtsV1RGMlI1TEtZSQ?oc=5",
+      "source": "時事ドットコム",
+      "published_at": "2026-11-02T12:21:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "GMO熊谷代表、システムの欠陥報告受けず 謝罪会見、涙ぐむ場面も [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xWkowMjFCamtxTTFxaXB1blNSWHhHam83MHIwNG1OLVpnRUY1aktBRzdMZjJUNTR3V2RtNkwzSExKa1JSdzNHc2tTT0FnaEE0SzRkeHJZSFBBYm0weDNQZ09ScHlxZ28?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-02T15:10:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ノジマ、個人情報700万人分漏えい（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uNTdHbkMzWko4d1RWSkxsNkpfWGNka2tObUlDX0E3SlNkcUlZbDF6dlpSSDg1ZFhmbjBCcjQzZEptYnJPQTZPSkRWUWJYVHY3d2hvNktxbFhDU3RWaUhUS3NnU2VsSXhCNFVURHNndWYyME1YYzhCWER0czMwajg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T20:14:30+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "東京電力HD、委託先 日本交通への不正アクセスで役員・社員らの個人情報漏えいのおそれ 自宅住所や電話番号も対象 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTEVvTjhFRXF2S19Ra2R6SlkzcFNnaEJBNlZCc203bW1BLTg4SEVpQWdyQS1vdzhqNUQ1blVDUmlKRVJuRTZPXzhrYV9ldUlTczVJMDNoNmRtWjZYSFZwTm5RR3RMSW5XSFQ5LTFrenBGdFNCVzcxZ0Vka0FRR1V3UE53elZOMDZhREd1TTZaSkt0ZmVhMlhwa21uRDNlOFRZQnlOd1pQSWNOQ2plTjUtNjdVS3FKcndvM2tVRlNJNHlaQ0xMMW1YUGZHYy0?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-02T13:30:59+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "プレステージ・インターナショナルに不正アクセス、最大約550万件の個人情報を持ち出し ロードサービスの車両・事故情報や口座情報も対象|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT21KU1ptTVFQUUNfVFV4cDNSQjN5Y1NRM0xwcTNnNDhjZ05oMnFfZjBXQ3pZSGJUa0dsSlhzem0zc3dXNTRlSGFpbjVrenN2eWFueF83MklMaXVheUJMcmQtU3BDdjJLRkplYnBydHZWUUYyVVVMRzJVVHd2ckpjTlJkOVNEOVZ0RHZ6MU9YdmlhLUlpR0pNbTVKUUtNa051aXhCekpsWk9UWTVMUXc?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-02T17:55:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリー、10万人の情報漏えい（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yZmZURmx3WjIzLXZDM3dwZXlXYUJ0VGk1LWU5ZnBzcU1oYVNuQnpPQy1KNEE4cG91aU4tVExQUUpnMVEyWXV1VmhScjlPci1QdEVVZXZ2NFhZaWwyWGNMd3JDMDZEZ1RaWnd3cTkwX01zSDI4OUY0MUFlaE5BSmM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T20:01:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ノジマ、会員情報700万件漏えい＝不正アクセスで(時事通信) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeDZsN0VlSlEzeldweGRyZ3JnLUgwUEF2ekZlUVQ2UUNyeHAtS3hDZ0JPVkJSWWhEM2xpWnNaWDZTbzFQVWpFVWZPZ3h4ZDQ4TGhpdWs1YnBxbFlzdXY2VHhxNFNaRXZPQlY2RDRMMU8wTGF2M1lpRFpXTS05TXFka2owdGI1ZFU?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published_at": "2026-11-02T21:45:52+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVzhMTEctdnphZGJ4T25EbFN2WFpCUWg1bXNURHBDeUlLZXFHNDRKc2kzUjVvVkk2cnBUcHFPTDBaTU5hUkJ6bk1sTFpxc1Q3anJEeXJDZ2U1N2NhaTRoT2paYnA1MHplMUE?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-02T10:48:11+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーホールディングスで約10万人分の個人情報が漏えい パートナー企業に勤める従業員、新卒採用応募者の氏名やメールアドレスなど（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5keXRSYVNJU3daQUFRQzdkS3VTQkZjY1F2b3ctdTdETDhjR0VMVnBQU2t4OEc5ZmwyR1BqWmN1VDIxVFp2dUxmLTdCTl90WnNNdUIzRHFTakJTZDlNWVI4YWpJZXBEc2xqZzRfSU5kQWR2ZzluZldtR211T1FJdzQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T17:10:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "【速報】ノジマ、個人情報700万人分漏えい - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCdzdVS3BGVE1WS3hFeS02b1ZzVXhuaVNYc1pxSWFHUTV0RGpmNk9RTUpXSUhkU0JtcWd2ckk2YzcyQUxuUEJrb0N5aw?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-02T20:14:30+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ノジマ、会員情報700万件漏えい（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15RHctU2tLaUJZZVNiWDZVeFFGVXNLeVJydHRXeDdBVnh1NEZzNk5Ba0I1MVBNRzlQWHByUThIUTVDczBBMTFnVHU2am5IQzR0RC1qN05JWmRGcXZYS0xaNjhSVXQ3cUNGcXg5RDBMVUVMeEtHbDlOc09wV1FfREk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T20:01:08+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリーHDに不正アクセス 約10万人分の名前やメルアドなど個人情報が漏洩（産経新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWjRXX08tVmRnRVI5dS1kQ21HdGpKUXJOZzB0LWNHZUd0NTB5MUc1VnV5VmxFUUg3MG5vcHRDNUlaSkZrSkViVXR6bk5oYjRyejY4bTItMjM5TDIxWERZc2JISTM1S3FCZTBRdHFlcEZEUEk4WTVtZmhacDd6dlU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T15:33:36+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "BTS所属の韓国大手芸能事務所「HYBE」で個人情報流出 パスポート番号や医療情報も 韓国メディア報道 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10ZjBuaHkzaFE0a3dlM0ZjV0RfQmdSazNiSzFZZkxJZ0xlSDhMOHVPUTk5MFRSelZ0d1hQenJuVGtienR0dk5qZW9pQ0U4dlpmdWJwT3FOMVp0R1AyTk03NDhhS0QzUTlSTHE1cEw3Q3otLVNRU3BnN09DWVNSV1U?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T20:40:31+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "不正アクセスで個人情報流出続く サントリーHDやノジマ - 西日本新聞me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HRnRGZk5uWkhTb0Jrc2hfVFBUOXY4bzFwZjJ4N0JOR0lqcWNjUHZyZUMxMG55ZzFkYWhSWjdNTmFmakFKeUwtSGtSM1JxOVZvV3JRWE1R?oc=5",
+      "source": "西日本新聞me",
+      "published_at": "2026-11-02T21:42:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "無印良品のオーダーカーテン発注者の個人情報、1万9,933件が流出の可能性 委託先ナノテックへの不正アクセスで氏名・住所・電話番号が対象|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2NNS0tweUFObWlYRTRCcVlRTFZrWUkwQ1VPR1BlTGtqVnE3Z011Z1BpRUNGSEJDQ2RGMFRmczlHbU4wVWZKTmJOMnN6ZUZCT2JwSXlubndjRVNtbHo0LUV6N3I4S2g1SS1FN2dLMFJPMU03V3NYWXJ4cExjUWFYYm5zWVV0OVdsM3RKUmEzQ2NDaDNmSHFCTGcwV0NpZw?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-02T17:45:26+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "【お詫び】アララ社への不正アクセスによる情報流出およびメールサービス停止について|インフォメーション - 神戸新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tcWFEaUZsT19GTUFJalo5SDNwakxlelZsUEVDR3JCMGFWTGdWT05FUkY3dDk4ZEEwWTZ1TjJZQ09UZUJYVV9tSGV6QWktNkFQYXB5ZjJyb0dxTkFyUGEwQ1FxSDRCT1VNUXVIS3BVdUZNcmc?oc=5",
+      "source": "神戸新聞",
+      "published_at": "2026-11-02T18:36:03+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "アットコスメに不正アクセス 約300万人分の肌質や髪質の情報流出（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yX3hCYTJZUmp1OXhNSnBsTVYtODVXdUZnY0RhUFMyaUhaSGtRdkZmNWdrUXRSbnlUbUpxUVRaYkFKY3N6OW9ZU1p3eGFiOW9uMFk5eGJ0dmpYSHNwWWs0LTFrdkdhQmhJUDN3WXFjMHZWcmpEY1hTT2JPTUpYMkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T18:58:37+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "【不正アクセス】県のARスタンプラリー478人の個人情報が再委託会社から漏えい 熊本市の事業でも1084人漏えい - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRHNXYTdWV1J0UHdMU2NjLTluTGhKdTBOV0lLeGZaZ2YtQm13cEpWM1FfXzBxd3g0RDJLY0RBbmZvTjdLRkdZX0xJUVRQOEt2WTJFLXI2NmJ3aTkweTlTLW1OamtqWmlnUWxKRnVMaGpCeldzd2lVS2JsSVJKQjVtNnJMOWhBN1k?oc=5",
+      "source": "日テレNEWS NNN",
+      "published_at": "2026-11-02T19:41:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "「アララ」不審メールが最大約713万通送信される 不正アクセス受けた影響（日テレNEWS NNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVHRMdkdudy13am1TWjJBMVVCVTdiZExCUXAtcEJpVDRWQ21sM1VRd04tZmxEalA0NV9ranpoVEZNYmYyTHpTMDVpYV80NC1faU9oUEN6Yk1ybmVWaTl6RGdaSHRzenpEQm9pSmpBX2d0eDBOVkZ0SGhSY0U5TWs?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T19:20:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "不正アクセスで個人情報流出続く - デイリースポーツ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GVTkxMld5MjJrUEpkTGRPOFBKaGRSQThPalhrVzVZdHJBQ09kbTI5MjB4SWxNNmtObzJsd2pmclFFdXAxUnlwUlN0NDJUTzRyU0NHalU4eEhFN1NkVlFTYlVTZXliYk4yOWgycnVmdEZCZw?oc=5",
+      "source": "デイリースポーツ",
+      "published_at": "2026-11-02T21:42:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "企業向けメール配信「アララ」、メルアド７７００万件流出…クレカ会社装う不審メール７１３万通送信も（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxc0VPdDFrZEtCTGtvUXJjZzl0YkRxU1V6Tmx4d0FpR0Q2TWpZcURGdERYeC1jZmxmX0xIZkI2ZHFEQ2FreEkteFpiT2RVZUx5QmJQR1puWF9WQ1BBLXJxYU5BRkdNc0s3UklIVzJfd3hrNHNzMmVQdTd0TncwQms?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T15:38:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "日本国として何ができるか 相次ぐ不正アクセス・情報漏えいに対する国家レベルの対策（前） - NET-IB NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YTllUYmtBZFlkRm5vYmFsMlZWWUNZQTFJcjEyekVkSUNYNWtnU1RXVVJKNm9hZGs2VnVHMXNCbGhHaHlIeEp0emEzUjViSEV3cmc?oc=5",
+      "source": "NET-IB NEWS",
+      "published_at": "2026-11-02T16:30:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "サントリー、10万人の情報漏えい＝メールアドレスなど、不正アクセスで(時事通信) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOandrb1pKRE9zX05TclVNMEtkeUQweEdTM2Z3RDVTNjdLZDIwcFlxVndoWUpCWm51Umk3RlYzYlNNX2NqV1U1d091dGlOdExCWU02SVg5WXc2R2tVZzBCMGdaVVVKSzFrakxSMXpzREJvWWoxOURiRm5RQ1FfekZkZWFjUUpwS1E?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published_at": "2026-11-02T18:03:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "cosme会員約300万人の個人情報が漏えい 退会済みでも対象、氏名や住所、生年月日も（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GSWJ0c0pGYzYxM1ZqRmloYkpsZENaU05TWktMbHdtTGVkemZISDI3SHZMWGxWRFZTTWpUbWxMNGRDcXcySGk2YXNENjZoZUtOdW9VTF80R25qTEJPU2JBN2hXUUIzd3JMSkM5T2drMEtHdTJ3Qm1pQzY2NHdORWc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T15:55:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "AI時代の論文投稿に潜む「見えない情報漏えい」 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ReDJfNFR1Z3BGRTM5ZUlyaEdKSnRkRVlrQW15eHVwa2I5QVhkVlVRSlNocUVLOVUyS1YxQlk2bmdkU1ZFLXV0bzZMRQ?oc=5",
+      "source": "ThinkIT",
+      "published_at": "2026-11-02T16:49:49+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "「守りのAX」から「攻めのAX」へ - 株式会社NTTデータ経営研究所",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yNHpKNTJueHlwZHhJSGJOU3hVUTg3MFJiY0txYlNIeVJQY09iN283WDYySXZLdjR6UVo3RFo3c2RCLTZoT0ZwcGNiemNZLTdzN3RnVEFuTXItNTB5UnhsR0hTSVM1QU9IbGZoV1NnSlM?oc=5",
+      "source": "株式会社NTTデータ経営研究所",
+      "published_at": "2026-11-02T16:15:45+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "機密情報を守りながら働く「AIセキュリティ対策エージェント」の実用化へ - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iWXB3c0prMHhsSDk3cWRaYUFxaFQ0bXRPVVpoZkhnUmxyd29HN2pkNmNwX1hFTzF6bUtQUXNJX2hrMlBUcnZld3VTX0d0WHhmR0E5al9UQUZNZVBGczAwQ1o1dzRzVTZJZ2xsV0JWaWR3dw?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-02T15:45:31+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "【先着3社 限定無料】「AIレビュー顧問」に新プラン『健康診断』を追加。AIで作ったシステムや既存アプリのセキュリティ相談が可能 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93QVZ3aENELTY1Vi1Ca0dKaTU1aEU2YTZXMkVPQmVWZnNWOWV6YURleVJXd0V2aVJoN1N3aEx2LTZrczllQUhZcVV6YkVady1CSnNvdVhhaXUxSXZ6SHhLS0NGRjhPc2cyT1d1bVhlUE5fZw?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-03T00:40:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "『AIフィッシング、BEC、QRコード詐欺――巧妙化するメール攻撃の最新動向』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03Q2xrblVoTEFabnhJRjdzVG5Sd2U0a3RIaHRoRHl4S1lKdXVsM2FXb2cwR01BVDNSb1VEcEUtS1drSUtQM08tRlpmT3FwUFlqNzBRMnZjMjRJNldpeVZZMXZKWnhkWUd3R3c?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-02T09:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "個人情報漏えい事故への対応をワンストップで支援 オープン、初動対応から問い合わせ窓口の運営まで担う「PIR-BPO」を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rNXI4U3BTaTZtNEpvTG9WV3M1dWRCdktXQnF2N3ZkcVE1ZXV4QUtSc3BGTHN0ZEtmaDl2ZWpzT3lueHI1S2wxcTE4TFVwZ1VON083SU9VaXFteE4wa2t3YlRiMWlpYWRCTmc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-02T10:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ＨＯＤＬ１[2345]：機密情報を守りながら働く「AIセキュリティ対策エージェント」の実用化へ 2026年11月2日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ib0pqWUpXVlY2MVlQN013cFlFeUtQRWtxR25PcmNjZEloOGJTZmdRazV1eHdIVHVWMnFJLXg5clRNNVk4Vnh1ZnNic2pxNmJxamFGakRKYng5eTFFdUVHQXY2M1F4QlUzNEE?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-02T13:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "プレスリリース：Cloudbase、エムオーテックス主催『Security MOTION 2026 Winter』に登壇。AI時代の防御戦略とAIペネトレーションテストの実践を解説（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNDZYM0xQcm5iY3dYNEJyNGx6QU41T05Lbm0zck1DTnQ2WVJlcXBtOVdHQ0lmRlBFR0cyWjA4Vk9hRlNKeEN3ZmFIdm9IdHRwRF9qVC1CRmpoVWtEOWplVUxlSk05LWxQ?oc=5",
+      "source": "毎日新聞",
+      "published_at": "2026-11-02T12:23:25+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "ベネッセ500円、タイムズカー3,000円、GMO5,000円…情報漏えいの「お詫び」に正解は？ - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PbXJBMEtidktLX3VvTDhab3lOUm9aMVpiTzVPY1hEcjluYnFGMEhYRGdCbnpKZnVrODJ6WGtpVndfLUxNQmJkRTdBRnY3eWkxRDBv?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-02T06:40:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "スマートニュースにまた不正アクセス、10日で2度目 ポイントの不正操作で交換停止 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZNXY2c1NhV0xhM0U5bERzWG4zSDUzSFhXR2Izb1Rsd0NnNWFnYk1hU0xmUG9KTUVXZU10c3FpYnI2OC1MQWd4Rk5mSVZwYzFyUHIw?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-02T10:56:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "28社創業・9社売却の経営ノウハウと外資コンサルの知見を融合 AIで「社長に依存しない経営」を支援する中小企業向け新サービスを提供開始｜シンパステクノロジー - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Wb3FGU0JZZUZac0RqdHcweF9fV2dpdU5Qc2xVdTdUa3pQUWkwb095eU5sSnVpbGdmcl9kV0VFMlVyb0VZeGhMYlgtUzhhZkptRnRiS0VmVmoxRFljMEZIaTVNeGtCMzFBREE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-02T10:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "楽天証券で延べ362件、社債購入者の情報が漏えいか JR西日本・野村證券にも波及 ｜FinTech Journal - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fZUtOcDFYVGZzcG9JeGw2ZEpXekJERjBHdHlGQkNqQVR1TjZ1SjVsZ1NaS0VGQ2drX082dEgyWXNwTUZGWnpKRnl2aVZDcG8?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-02T12:45:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    },
+    {
+      "title": "HODL1とRyodan、機密情報守るAIセキュリティエージェントを共同開発へ - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zRy00a2pndnMwalhMQ2lsRGNkX01KZU5YemsyVm5NLWNPTVNxS1R5U294M0prRU54QlF4WEdlVHNqYnliVXhEVUFfcTk5RG1ZSVpYMmxFVHYwUEc1c1FwYjZ5bFI?oc=5",
+      "source": "Dellows News",
+      "published_at": "2026-11-02T15:41:41+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:02:20+09:00"
+    }
+  ],
+  "errors": [],
+  "updated_at": "2026-11-03T06:02:20+09:00"
+}
