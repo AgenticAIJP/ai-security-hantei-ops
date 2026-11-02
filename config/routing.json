@@ -15,7 +15,7 @@
   "budget": {
     "managed_session_usd": 2,
     "managed_daily_usd": 60,
-    "on_daily_cap": "昼の仕事は managed_daily_usd − hanseikai_reserve_usd で止め、反省会の仕事だけ managed_daily_usd まで使う。止まった仕事は保留する。足りないときは、まず min_interval_min を延ばす（PLAN.md §6.4）",
+    "on_daily_cap": "昼の仕事は managed_daily_usd − hanseikai_reserve_usd で止め、反省会の仕事だけ managed_daily_usd まで使う。止まった仕事は保留する。足りないときは min_interval_min を 50 に延ばすか、hantei_daily_max を絞る。質は下げない（PLAN.md §6.4）",
     "hanseikai_reserve_usd": 10
   },
   "retry": {
@@ -132,8 +132,7 @@
         "eval_correction",
         "hanseikai_open",
         "tenken"
-      ],
-      "session_usd": 1
+      ]
     },
     "kanbei": {
       "executor": "managed",
@@ -153,7 +152,7 @@
       "executor": "managed",
       "active_from": "2026-11-02",
       "min_interval_min": 25,
-      "session_usd": 2,
+      "session_usd": 5,
       "reasons": []
     },
     "baseline": {
@@ -173,7 +172,7 @@
     "hantei": "信長の ENS が投稿した【判定】または【続報】。1 行目に「：記録のみ」「：対象外」があるものを除く。1 日 hantei_daily_max 件まで",
     "hantei_mid_high": "hantei のうち、本文に #家康 #官兵衛 の札があるもの（家康・官兵衛を起こす）",
     "baseline_case": "hantei_mid_high と同じ投稿。素の Claude を起こす（1 日 3 件まで）。送るのは incident_id と root_post_id",
-    "review": "武将の ENS が投稿した【判定】【続報】【独立判定】【技術分析】【反論】【攻め手の読み】【制度の視点】【速報】の新しい投稿（謙信自身の投稿と、信長の「：記録のみ」「：対象外」を除く）",
+    "review": "武将の ENS が投稿した【判定】【続報】【独立判定】【技術分析】【反論】【攻め手の読み】【制度の視点】【速報】の新しい投稿（謙信自身の投稿と、信長の「：対象外」を除く。「：記録のみ」は点検する）",
     "x_answer": "monomi の【X調査回答】。送り先は、引用元の【X調査依頼】を出した人",
     "correction_request": "謙信の【目付】。送り先は、引用元の投稿の作者",
     "eval_correction": "評定Claude の ENS の【評定】にある「■ 訂正の依頼：<key> <投稿 ID>」の行。送り先は key",

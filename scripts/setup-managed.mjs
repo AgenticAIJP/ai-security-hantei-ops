@@ -107,7 +107,7 @@ async function main() {
       });
       ids.deployments[d.name] = deployment.id;
       const next = deployment.schedule?.upcoming_runs_at?.[0];
-      console.log(`定時「${d.name}」：${action === 'created' ? '作りました' : '更新しました'}（${deployment.id}、次は ${next ?? '不明'}）`);
+      console.log(`定時「${d.name}」：${action === 'created' ? '作りました' : '更新しました'}（${deployment.id}、次は ${next ? jstIso(new Date(next)) : '不明'}）`);
     }
   }
 

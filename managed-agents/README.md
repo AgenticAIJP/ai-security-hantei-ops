@@ -17,7 +17,7 @@
 - `vault_ids`：その人の vault だけ（他人の vault を付けない）
 - `resources`：指示リポジトリ（`github_repository`、`/workspace/ai-security-hantei`、`main`）。トークンは読み取り専用の `BRAIN_REPO_PAT`（API が公開リポジトリでも求める）。git のプロキシが外で付けるのでコンテナには入らず、Agent は push できない
 - `initial_events`：起動通知の JSON だけ（`{"tasks":[...], "day":..., "sent_at":...}`）。投稿の本文は入れない
-- 金額の上限：$2（`routing.json` の `budget.managed_session_usd`）。人ごとの `session_usd` があれば、それを使う（寧々 $1、評定 $2）。定時にも同じ値を使う
+- 金額の上限：$2（`routing.json` の `budget.managed_session_usd`）。人ごとの `session_usd` があれば、それを使う（評定 $5）。定時にも同じ値を使う
 
 ## 気をつけること（SDK 1.3.0 と公式文書で確認）
 

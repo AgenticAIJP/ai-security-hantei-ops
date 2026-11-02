@@ -31,6 +31,7 @@ const REVIEW_TAGS = new Set(['判定', '続報', '独立判定', '技術分析',
 // Git に書いてよい場所（CLAUDE.md §4）。書くのは素の Claude だけ。これ以外が変わっていたら止まる。
 const AGENT_WRITABLE = ['baseline/', 'state/acks/'];
 const SHORT_RECORD = /[：:]\s*(対象外|記録のみ)/; // 信長の短い投稿の 1 行目（PLAN.md §2.2）
+const OUT_OF_SCOPE = /[：:]\s*対象外/;
 
 const now = new Date();
 const log = (msg) => console.log(`[${jstIso(now)}] ${msg}`);
@@ -150,7 +151,7 @@ async function main() {
     if (ak === 'monomi' && tag === 'X速報') add('nobunaga', 'x_sokuho', { post_ids: [p.id] });
     if (ak.startsWith('trusted:') && (tag === 'X速報' || tag === '速報') && !p.quoted_post_id) add('nobunaga', 'sokuho_other', { post_ids: [p.id] });
 
-    // 信長の短い投稿（記録のみ・対象外）では、誰も起こさない
+    // 信長の短い投稿（記録のみ・対象外）では、分析役を起こさない
     const isHantei = ak === 'nobunaga' && (tag === '判定' || tag === '続報');
     const shortRecord = isHantei && SHORT_RECORD.test(firstLine(p.content));
     if (isHantei && !shortRecord) {
@@ -172,7 +173,9 @@ async function main() {
         }
       }
     }
-    if (isTeam && ak !== 'kenshin' && REVIEW_TAGS.has(tag) && !shortRecord) add('kenshin', 'review', { post_ids: [p.id] });
+    // 事実の点検は、記録のみの投稿にも行う（速報の大半が記録のみになるため）。対象外だけを除く
+    const outOfScope = isHantei && OUT_OF_SCOPE.test(firstLine(p.content));
+    if (isTeam && ak !== 'kenshin' && REVIEW_TAGS.has(tag) && !outOfScope) add('kenshin', 'review', { post_ids: [p.id] });
 
     if ((ak === 'kenshin' && tag === '目付') || (ak === 'monomi' && tag === 'X調査回答')) {
       if (!p.quoted_post_id) continue;
