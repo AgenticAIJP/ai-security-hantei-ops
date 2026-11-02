@@ -301,7 +301,7 @@ async function main() {
 
     // 投稿する人のキーは vault にだけあるので、routine には移せない。起こせないときは保留する。
     let executor = cfg.executor;
-    const managedReady = Boolean(ids.environment_id && ids.agents?.[key]?.id && ids.vaults?.[key] && process.env.ANTHROPIC_API_KEY);
+    const managedReady = Boolean(ids.environment_id && ids.agents?.[key]?.id && ids.vaults?.[key] && process.env.BRAIN_REPO_PAT && process.env.ANTHROPIC_API_KEY);
     if (executor === 'managed' && (capped || !managedReady)) executor = 'blocked';
     if (executor === 'routine' && !routineTarget(key)) executor = 'blocked';
     const payload = { tasks: payloadTasks(tasks), day, sent_at: jstIso(now) };
@@ -319,7 +319,8 @@ async function main() {
       let sessionId = null;
       if (executor === 'managed') {
         const s = await startSession({
-          agentId: ids.agents[key].id, envId: ids.environment_id, vaultId: ids.vaults[key], payload,
+          agentId: ids.agents[key].id, envId: ids.environment_id, vaultId: ids.vaults[key],
+          repoToken: process.env.BRAIN_REPO_PAT, payload,
           budgetCents: Math.round((cfg.session_usd ?? routing.budget?.managed_session_usd ?? 2) * 100),
           title: `${key} ${jstIso(now)}`, metadata: { member: key, reasons: [...new Set(tasks.map((t) => t.reason))].join(',') },
         });

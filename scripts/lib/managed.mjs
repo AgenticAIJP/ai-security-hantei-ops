@@ -110,16 +110,19 @@ export async function ensureAgent({ name, model, system, metadata }) {
 
 // ---- sessions ---------------------------------------------------------------------------
 
-// 指示リポジトリは公開なので、トークンを渡さずに clone する。トークンがなければ Agent は push できない。
-const REPO_RESOURCE = { type: 'github_repository', url: REPO_URL, checkout: { type: 'branch', name: 'main' }, mount_path: REPO_MOUNT };
+// API は公開リポジトリでも authorization_token を求める（SDK の型の説明には「任意」とあるが、デプロイメントは 400 を返す）。
+// 読み取り専用の PAT を渡す。git のプロキシが外で付けるのでコンテナには入らず、書き込み権限がないので Agent は push できない。
+const repoResource = (repoToken) => ({
+  type: 'github_repository', url: REPO_URL, authorization_token: repoToken, checkout: { type: 'branch', name: 'main' }, mount_path: REPO_MOUNT,
+});
 
 /** Start one session for a member. `payload` is the wake-up JSON (ids only, never post bodies). */
-export async function startSession({ agentId, envId, vaultId, payload, budgetCents, title, metadata }) {
+export async function startSession({ agentId, envId, vaultId, repoToken, payload, budgetCents, title, metadata }) {
   return anthropic().beta.sessions.create({
     agent: agentId,
     environment_id: envId,
     vault_ids: [vaultId],
-    resources: [REPO_RESOURCE],
+    resources: [repoResource(repoToken)],
     initial_events: [{ type: 'user.message', content: [{ type: 'text', text: JSON.stringify(payload) }] }],
     budget: { type: 'limit', max_list_cost: { amount: String(Math.round(budgetCents)), currency: 'USD' } },
     title,
@@ -151,7 +154,7 @@ export async function sessionOutcome(sessionId) {
 
 // ---- deployments（Managed Agents の定時） ---------------------------------------------
 
-export async function ensureDeployment({ name, agentId, envId, vaultId, job, cron, budgetCents }) {
+export async function ensureDeployment({ name, agentId, envId, vaultId, repoToken, job, cron, budgetCents }) {
   const params = {
     name,
     agent: agentId, // 文字列で渡すと、作成・更新のときの最新版に固定される
@@ -159,7 +162,7 @@ export async function ensureDeployment({ name, agentId, envId, vaultId, job, cro
     initial_events: [{ type: 'user.message', content: [{ type: 'text', text: JSON.stringify({ job }) }] }],
     schedule: { type: 'cron', expression: cron, timezone: 'Asia/Tokyo' },
     vault_ids: [vaultId],
-    resources: [REPO_RESOURCE],
+    resources: [repoResource(repoToken)],
     budget: { type: 'limit', max_list_cost: { amount: String(Math.round(budgetCents)), currency: 'USD' } },
   };
   for await (const d of anthropic().beta.deployments.list({ agent_id: agentId })) {

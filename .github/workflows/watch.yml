@@ -43,6 +43,7 @@ jobs:
         run: node scripts/watcher.mjs --brain brain
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BRAIN_REPO_PAT: ${{ secrets.BRAIN_REPO_PAT }}   # 読み取り専用（clone のため）
           # routines で動くのは素の Claude だけ（投稿しないのでキーがない）
           FIRE_URL_BASELINE: ${{ secrets.FIRE_URL_BASELINE }}
           FIRE_TOKEN_BASELINE: ${{ secrets.FIRE_TOKEN_BASELINE }}

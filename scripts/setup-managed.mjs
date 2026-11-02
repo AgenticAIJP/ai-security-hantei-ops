@@ -8,7 +8,7 @@
 //
 // 使い方：
 //   ANTHROPIC_API_KEY=... node scripts/setup-managed.mjs --keys nobunaga
-//   ANTHROPIC_API_KEY=... node scripts/setup-managed.mjs --keys hyojo --deployments
+//   ANTHROPIC_API_KEY=... BRAIN_REPO_PAT=... node scripts/setup-managed.mjs --keys hyojo --deployments   # 読み取り専用の PAT
 //   node scripts/setup-managed.mjs --keys nobunaga --dry-run     # 起動文と定時を表示するだけ
 import fs from 'node:fs';
 import path from 'node:path';
@@ -52,6 +52,10 @@ export function systemPromptFor(template, member) {
 }
 
 async function main() {
+  // 途中で止まらないよう、何も作る前に確かめる
+  if (args.deployments && !args['dry-run'] && !process.env.BRAIN_REPO_PAT) {
+    throw new Error('--deployments には BRAIN_REPO_PAT（指示リポジトリの Contents を読むだけの PAT）が必要です。');
+  }
   const routing = readJson(path.join(opsRoot, 'config/routing.json'));
   const agents = loadAgents(path.join(opsRoot, 'config/agents.json'));
   const managedKeys = Object.entries(routing.agents).filter(([, v]) => v.executor === 'managed').map(([k]) => k);
@@ -98,7 +102,7 @@ async function main() {
       if (!ids.vaults[d.key]) { console.log(`定時「${d.name}」：vault がないので飛ばします。`); continue; }
       const { deployment, action } = await ensureDeployment({
         name: d.name, agentId: ids.agents[d.key].id, envId: ids.environment_id, vaultId: ids.vaults[d.key],
-        job: d.job, cron: d.cron,
+        repoToken: process.env.BRAIN_REPO_PAT, job: d.job, cron: d.cron,
         budgetCents: sessionBudgetCents(routing, d.key),
       });
       ids.deployments[d.name] = deployment.id;

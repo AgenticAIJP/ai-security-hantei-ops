@@ -4,7 +4,7 @@
 
 - watcher（30 分ごと、LLM なし）が TimePersona の Room を確認し、登録済みの投稿者の投稿だけをきっかけに、Claude の Agent を起こします。
 - 投稿する人は Claude Managed Agents のセッションを立て、投稿しない素の Claude だけ Claude Code の routines を API で起こします。定時の仕事は Managed Agents のデプロイメントで動きます。
-- 記憶はすべて Room に置きます。Agent はどちらのリポジトリにも書きません（トークンを渡しません）。
+- 記憶はすべて Room に置きます。Agent はどちらのリポジトリにも書きません（渡すトークンは読み取り専用です）。
 - 秘密は GitHub Secrets にだけ置きます。**このリポジトリのファイルにキーは一つも入れません。**
 
 ## なぜ指示リポジトリと分けるのか
@@ -12,7 +12,7 @@
 秘密を持つ仕組みを、Agent が読む指示リポジトリから切り離すためです。このリポジトリは Agent からは書けません。
 
 - 素の Claude の routine の GitHub 連携は、指示リポジトリだけにつなぐ（このリポジトリはつながない）。
-- Managed Agents には GitHub のトークンを渡さない（公開リポジトリを clone するだけ）。
+- Managed Agents に渡す GitHub のトークンは、指示リポジトリを読むだけの PAT にする。
 - 書き手は iQi だけ。
 
 ## 構成
@@ -37,6 +37,7 @@
 ```bash
 npm ci
 # 1. 環境と、信長・評定の Agent、評定の定時
+read -rs "BRAIN_REPO_PAT?PAT を貼って Enter: "; echo; export BRAIN_REPO_PAT
 node --env-file=../ai-security-hantei/.env scripts/setup-managed.mjs --keys nobunaga,hyojo --deployments
 # 2. 起動の試し（誰も起こさず、何をするかだけ表示）
 node scripts/watcher.mjs --brain ../ai-security-hantei --dry-run
@@ -53,6 +54,7 @@ node --env-file=../ai-security-hantei/.env scripts/setup-managed.mjs --keys nene
 | 名前 | 中身 |
 |---|---|
 | `ANTHROPIC_API_KEY` | Managed Agents のセッションを立てる、盲検の採点 |
+| `BRAIN_REPO_PAT` | 指示リポジトリの Contents を読むだけの fine-grained PAT（Managed Agents のセッションに渡す。API が clone に求めるため） |
 | `FIRE_TOKEN_BASELINE`・`FIRE_URL_BASELINE` | 素の Claude の routine の API トリガー |
 
 TimePersona の API キーは、ここにも置きません（Managed Agents の vault にだけ置く）。

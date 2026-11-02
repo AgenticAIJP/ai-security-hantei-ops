@@ -15,7 +15,7 @@
 
 - `agent`：その人の Agent ID／`environment_id`：`ais-managed`
 - `vault_ids`：その人の vault だけ（他人の vault を付けない）
-- `resources`：指示リポジトリ（`github_repository`、`/workspace/ai-security-hantei`、`main`）。公開なのでトークンを渡さない。Agent は push できない
+- `resources`：指示リポジトリ（`github_repository`、`/workspace/ai-security-hantei`、`main`）。トークンは読み取り専用の `BRAIN_REPO_PAT`（API が公開リポジトリでも求める）。git のプロキシが外で付けるのでコンテナには入らず、Agent は push できない
 - `initial_events`：起動通知の JSON だけ（`{"tasks":[...], "day":..., "sent_at":...}`）。投稿の本文は入れない
 - 金額の上限：$2（`routing.json` の `budget.managed_session_usd`）。人ごとの `session_usd` があれば、それを使う（寧々 $1、評定 $2）。定時にも同じ値を使う
 
@@ -26,7 +26,7 @@
 - **clone に失敗してもセッションは止まらない**：起動文で「リポジトリが見当たらなければ終える」としている。
 - **定時は作成時の Agent の版に固定される**：Agent を更新したら `setup-managed.mjs --deployments` をもう一度実行して、定時を新しい版に動かす。
 - **定時は、直せない失敗で自動的に止まる**（`paused`）。止まったら原因を直して再開する。
-- **Day 1 の試運転で確かめること**：Node の `fetch` が外への通信の TLS をそのまま通すか（通らなければ `NODE_EXTRA_CA_CERTS` の設定が要る）、vault の印がヘッダーで本物に差し替わるか（投稿できたので確認済み）、トークンなしで clone できるか。
+- **Day 1 の試運転で確かめること**：Node の `fetch` が外への通信の TLS をそのまま通すか（通らなければ `NODE_EXTRA_CA_CERTS` の設定が要る）、vault の印がヘッダーで本物に差し替わるか（投稿できたので確認済み）、セッションがトークン付きで clone できるか（確認済み）。
 
 ## Day 1 の順番
 
