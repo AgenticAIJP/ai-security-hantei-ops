@@ -8,14 +8,21 @@
     "hyojo": {
       "id": "agent_01N7yyqkCs7Zb6FrLixbQkGf",
       "version": 2
+    },
+    "nene": {
+      "id": "agent_015Qtx72rthNJqq2b2PJNaTT",
+      "version": 1
     }
   },
   "vaults": {
     "nobunaga": "vlt_011CgdmbfPsUBGVkF9CJjysH",
-    "hyojo": "vlt_011CgdoLanN6Cn6b79FKRncU"
+    "hyojo": "vlt_011CgdoLanN6Cn6b79FKRncU",
+    "nene": "vlt_011CgdoKyjyAR7qtSyJEFuJJ"
   },
   "deployments": {
-    "AIS 評定": "depl_01SDLKvLzMLhhYn5tphmT5Rb"
+    "AIS 評定": "depl_01SDLKvLzMLhhYn5tphmT5Rb",
+    "AIS 寧々（一番手柄）": "depl_01QzoMPBkZ2P47PE9kJnA1So",
+    "AIS 寧々（日次総括）": "depl_01Fgce8omW7qMjBY5vRnGdeR"
   },
-  "updated_at": "2026-11-02T19:34:04+09:00"
+  "updated_at": "2026-11-02T19:53:41+09:00"
 }
