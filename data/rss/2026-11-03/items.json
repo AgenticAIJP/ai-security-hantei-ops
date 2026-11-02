@@ -1323,8 +1323,224 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T06:30:56+09:00"
+    },
+    {
+      "title": "ロードサービス事業会社で最大550万件の情報漏洩 ナンバープレート番号や口座情報も - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlUk9pREEyZUphUFpxdkZ2VmM1VzZEYkdUVDVQQUpEM0dMcW5tLTFqeWtwVHZRWDB0Rnl4QURGdXg4RVExOUpfMkNkNUIzQXktN2hjZDc4amxrU2g1WUNxc0s1bnYzNUYycHd6bHVVdVhzUQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-02T23:21:08+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "兵庫・姫路市「オンライン手続サイト」で情報漏えいか 外部のメール配信サービスが不正アクセス受け (神戸新聞NEXT) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLTVPdVRaMkhJSjVzNnh2RFQ3N3YtWTdyZkJPbTBZbGRPT2FCbVdEVy1YRDh0ekpQSVQ3MDBrS29TRlZ3LUtwT3AxRTl1NnhLTnlrQ0tLaW5IYl9QaG9hWDRpMUJDYnRaVFA5Yy1mMGtwTU9aUFNpUnB0V2xqakZ0ejhsTDVZd0xkZVV5QkJR?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T22:26:04+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど クレカ情報はなし - GAME Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzV3VmWlV1RDUyZENfNTFDcmFpdHNmNGJ4cGZCNndXcGtiN3RGMXYwem41RVNXUHFhUklxejcyMFJ6OXV5UERjT3ljLW9ZaWlSV1NJYWcwZnpHbVpwWl9KY0NoeHJ0UQ?oc=5",
+      "source": "GAME Watch",
+      "published_at": "2026-11-02T19:52:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "政府がサイバー攻撃対策の特設サイトを公開！ 情報漏えいや不正アクセスへの相談窓口・注意喚起を一元化 - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EWlZJNHU4WC1Xb1J1YUNBejRnd09hQ2tXTUhZc3lIeGdWUmtEN1plRUFxM0p6bzFwTnlHRUgwX3drMlZFbW9PS3d4dWIxN1pk?oc=5",
+      "source": "DXマガジン",
+      "published_at": "2026-11-02T15:03:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "GMOが15時半から会見、5つのポイント 不正アクセスの全容は… [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zYlZ2YVlGdVFBRzktUUFxay1GOG10Y1BCMEVES3ByRWh4OUN0WGlNOUlZRl9QOFJQTzNhWGdFYmpFb1QyQUp5N3p1RjdQQWFuWGpGWE85NERHYnZnQV96bnA2ekx3VU0?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-02T11:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "個人情報漏えい事故への対応をワンストップで支援 オープン、初動対応から問い合わせ窓口の運営まで担う「PIR-BPO」を - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jZ19DRFYyeVVRV1NQNWxEb0g0U01Hak5STVhDYWdDcGFUTkZYeGxTanVIVm5SNFdKWE1tXzU4bEwycGxyRi1oWmU0cWNNZUQtMDZpWkZqMnhGS0o4WjFkbXFPQXBTdW8wZTdVS2RYc1UtME1iOG1tU0xfYw?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-02T14:15:23+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "【5社限定】「社員がAIに何を入力しているか、把握していますか？」AIリスクが組織の脅威3位に。がばいAIが新サービスを開始 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54R2E1QXUzVEdodUVyN3FPSHgxYjI3X1ZmbzV3c2FXVm5vdG1zMTBEVnJUS3JsT2FtRGJtQ2FWejRoc0oySFNVVUFzbnM4NUdUTjdZRnUwcGdFV2pHUzNCZG9fN0FjdDl6QXJJWUhYSEt6QQ?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-02T19:40:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "Cloudbase、エムオーテックス主催『Security MOTION 2026 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kS3k5bW1Qd2JxQnhfTmFkN0ZOUlNMT3dJSFJjU1QxeDRvLU4zaHBrbVhWQ1hPemF6bWRILVJMejVwRTQzTUh5UWJ0WVdLLUtNUlg3MVJGa19VcTB5c0RGTEV1Rlk3QllqMm9RaEV6UV9URUwwWTBLZkxOOA?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-02T15:45:22+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "ChatGPT・Claude・Gemini をひとつの画面で、月1,500円から 中小企業向けAIワークスペース「AITUKAO（エーアイ・ツカオ）」を提供開始 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLNG1xSFkxUjZQY1Z4UVk0M1Q2amxqZjlyUFFpbTRTUU9QcHMtRzVRcFZrOElKS2ZqUGtQUjNmb2pSZHhoM1dORDJxbnF0UE81NGtqbkJfUDAtYzkwcTZCcUlRd3NJUFlua0hHeUN0cTQ4dw?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-03T02:40:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "『徹底解説：SCS評価制度★取得に向けた準備と具体的な進め方』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsZGFCa2wtR0xkN3ZJbzJtUW9GR2FnTVZWR0YtRkFDS1NhYlJ1aE9oX2ZJbnJpa2dNWEo0cXItZlgyWlJxU1EwZ2lCZDZCeFk4SGpwQmNHV2VJNVhkNDNuSHV2NUs5eFlSRnc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-02T09:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "PE-BANKが「職場のサイバーセキュリティ意識」で調査、「意識している」は4割超に - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wS3pna2tMUXRIUHFEY1ZEOW4yNnlROTB0SHM1S2t4QXM0NlhON0RZTFd1ZUowcWxYX01hUWxHX2RmNTY0X2RRQ01aSlBaT28wMk5keXBfdFJhT21mSDZTbmw4cFhwcnowd3UyRkswUkF5OExrTUFSX3ZMVQ?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-02T16:06:25+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "@cosme会員約300万人の個人情報が漏えい 退会済みでも対象、氏名や住所、生年月日も - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fLVhqWWFnZi1IQS1XTGd2OGtQT1h5WVJVTDV4N29DVnp5QnFaaC1XemFGUUlWVHo5VWtabDJVZkVkWUZpOWFJQnhKLS0wWUdQZ0lZ?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-02T15:44:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "AI悪用とインサイダーの脅威にどう挑む？--マイクロソフトが示すAIエージェントの安全活用 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSjZkRk9FTU1ILXVsdVVBRTJneHAzN0RlN3dwczNXSTBNRXI2aldwcU9wdWFPQWVyZ1lJaHlXTG5QTGZuSVBIcmdNaldpYW5MdUZz?oc=5",
+      "source": "ZDNET Japan",
+      "published_at": "2026-11-02T07:30:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "企業の未来を左右するAIへのセキュリティー 変革を止めない支援は商機に - 週刊BCN＋",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BNGNrOU5Tb3FvV0VFR0pwZlhqVUpycDZRYVhCNUk4V0VQcW9lUzFDbl9vblVtM3VBbnp0RWZhM3BGLU4xa3UzQVhoTUQydExsZElYaTRtRkljeUdNTUdwaQ?oc=5",
+      "source": "週刊BCN＋",
+      "published_at": "2026-11-02T09:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "国会答弁案をＡＩ作成＝政府試行、議員質問も分析 - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fM1dnd29kVVoxUlE1am1oUFQxb1E2VGg0Uld4TWhhcVk4Yk1heTd0QU03SU1UTGxhZlNGQUZ1Um5qTmh3YjM3Q0F5UTRiZHNHWFFXYm0yS0k?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-02T14:55:30+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "JR九州、Google Workspace with Geminiを導入 非エンジニアが業務アプリを内製 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04ODQ4T25nV3FiZkFBUFFQTXdUZDA5TU1DVF9oV0I0ZjRRUDRRc05KS2pPRG9wcE5VQ19FNXV1ZUFMWjU5RHZVS2dZSW9xeWhMNzFXdktR?oc=5",
+      "source": "EnterpriseZine",
+      "published_at": "2026-11-02T15:35:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "GMO熊谷社長、謝罪会見で涙 「31年間、儲けると言ったことはない」 情報漏えい多発は「AIの発展が原因」と主張 - AdverTimes.（アドタイ） by 宣伝会議",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaRW5vS0M0NnhiRnF3SVA3MGp6eEtjcVUtWDNjQ21FOWJVcVFSaUtXQ2ZSQXp2TGE1ZUxqZERDb2JMV2R1RjlyZXY3X2pVdXZ6eE1ST3hXV0dDTTdFdmFzU1NKZVl0OHpG?oc=5",
+      "source": "AdverTimes.（アドタイ） by 宣伝会議",
+      "published_at": "2026-11-02T22:07:16+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "脅威を検知した社員のPC、端末初期化まで自動化する新マネージドMDM提供 - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByNF8yZ2ZHTTdjNUx2UF9scGFzaUFsc2ZDWmgzQkxpcXNSVm9BLVZ4aGdIam43VUdxcktwNWhnWVg2TE5lb3MwRjVYcWVlTTAzR1prRnY3UnpWTTlZOFg0MUpIZnAtQQ?oc=5",
+      "source": "キーマンズネット",
+      "published_at": "2026-11-02T07:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "Track、高度なサイバーセキュリティ能力を測定する「生成AIを活用した実践的サイバーセキュリティ問題」をリリース - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsR3M0U0F4VmplYktjZnA1aU1jYXFoOFhWcFowSWdyTncwcGpFRWpVR3AwdzQ1Q01lVnV3bHhYOFNQWjFOcVJ0dU4wU1dLU0NxX3ByNkczd1JlN1ZKSk5vNWdwRFg2NHFEWUdveGVPRWQ4Zw?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-02T10:15:26+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "SpicyCompany、AI時代のサイバー攻撃増加を見据え、システム開発・設計支援の取り組みを開始 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LNDNaOTdKXzJjNWg3NndtZ0VBYnEzcklPVUdSMnY3WG9fR1g1OW85dUh3dVdSWjd4RF9valNlNjU4M0JocklfdUZVcEJDbmdHNjhvNWZ5NWo5Q0RjR2l0OHRUQ1ByZmN2NnFzUFNoV3FiUQ?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-02T09:40:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "Node.jsが3系列のセキュリティ修正版を公開、圧縮データ処理などの脆弱性に対応 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PUTN3MzU1Q3dRbkU5b1ZyNGhDZVZRMENoNmllVW85SjYtUGpONXJ3aW51bEI1VkxCbWJyUGVkWm94MVBQX1NBZmdVUDFnaHpfMTNaNmppNWJ1RlVTVXM5VW5nMEJMOTZuZ0IyV21lREQ5UkZiMG5heU1TTQ?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-03T06:45:37+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "AGEST、緊迫するサイバーセキュリティ情勢に対応した、パッチ適用後の現新比較をURL入力だけで自動化する「AGEST ZERO TEST Lite」無償トライアル版を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sNXNqaFJ0TlhVU1k2cFFsWG8yQ2lOWE5iVUJmcTVkbXJyNDY1cFUyM2NtdUxlTGh3MUZURkNzb2QtRzB4akgtOHliV0lkWVJxUGpvR2Q2QlVRdWlFbGNUMHRHOVNkV3YxNVE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-02T11:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "HODL1が提携し開発するAIセキュリティ対策エージェントの実用化に向けた取り組み - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fLURqaTMtSFIzTV9aU1E1RElxMi1rdnZTVl83YlBBOElzM282aEJuU3RTbFh0dnM5Zm5zWG9HMmlHV2ljZVdjSjdjc0lOWklNOUdyU093Y0I5Qjh5TExQNVczQmRNdzVRYnJ5MFpR?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published_at": "2026-11-02T15:52:56+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
+    },
+    {
+      "title": "『【製造業向け】図面管理システムを導入したのに、なぜ現場で使われなくなるのか？』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOU2UxdjBXUWpiakY4a0xvN3FBVWtQX2Jqc1pfS3RDRU9TcWdrMk9RSklrYTlHZnJqaG45dU1XT2RUbTVva1Z4YW9ZUE9URnctek1zS0xETXNxb2Zka2ZJQllqZVhDUHBSTFE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-02T09:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T06:59:04+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T06:30:56+09:00"
+  "updated_at": "2026-11-03T06:59:04+09:00"
 }
