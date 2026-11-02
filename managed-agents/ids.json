@@ -12,17 +12,54 @@
     "nene": {
       "id": "agent_015Qtx72rthNJqq2b2PJNaTT",
       "version": 1
+    },
+    "shingen": {
+      "id": "agent_01LYMhsPhZW8o9o58wV4eGtr",
+      "version": 1
+    },
+    "mitsuhide": {
+      "id": "agent_018mR8jxRqhXcTFHUisDW5Lk",
+      "version": 1
+    },
+    "kenshin": {
+      "id": "agent_01JhEEHeDYRLT3BRC5eZDMBj",
+      "version": 1
+    },
+    "hideyoshi": {
+      "id": "agent_01SNvYcaVVwDAS4R2H8qjkKc",
+      "version": 1
+    },
+    "chacha": {
+      "id": "agent_01CgK5LKH63hkQmqaJXvXCPb",
+      "version": 1
+    },
+    "ieyasu": {
+      "id": "agent_013ErQfxQzUV5yiNJjEkvb7S",
+      "version": 1
+    },
+    "kanbei": {
+      "id": "agent_01VrRcUzzJaZekiqRPcNYpHd",
+      "version": 1
     }
   },
   "vaults": {
     "nobunaga": "vlt_011CgdmbfPsUBGVkF9CJjysH",
     "hyojo": "vlt_011CgdoLanN6Cn6b79FKRncU",
-    "nene": "vlt_011CgdoKyjyAR7qtSyJEFuJJ"
+    "nene": "vlt_011CgdoKyjyAR7qtSyJEFuJJ",
+    "shingen": "vlt_011CgdoH9FP82qnhJzMAFX9Y",
+    "mitsuhide": "vlt_011CgdoHyRKC1w34XRKSn3gE",
+    "kenshin": "vlt_011CgdoJVrQDcTDrLA4uEknL",
+    "hideyoshi": "vlt_011CgdoJtb8Y42LLV3EEQU6M",
+    "chacha": "vlt_011CgdoKJcF2fJ6FrKSGoPEf",
+    "ieyasu": "vlt_011CgdoKcKMXqyhJLsf7x1aG",
+    "kanbei": "vlt_011CgdoLHdVgF4hnmoRKohWN"
   },
   "deployments": {
     "AIS 評定": "depl_01SDLKvLzMLhhYn5tphmT5Rb",
     "AIS 寧々（一番手柄）": "depl_01QzoMPBkZ2P47PE9kJnA1So",
-    "AIS 寧々（日次総括）": "depl_01Fgce8omW7qMjBY5vRnGdeR"
+    "AIS 寧々（日次総括）": "depl_01Fgce8omW7qMjBY5vRnGdeR",
+    "AIS 家康（反省会の開会）": "depl_01BJkhYwLq1mmBdNoRVjYtKn",
+    "AIS 家康（反省会まとめ）": "depl_01WDPiUD2R9cEQyazzW5wmg5"
   },
-  "updated_at": "2026-11-02T19:53:41+09:00"
+  "updated_at": "2026-11-03T02:53:34+09:00"
 }
