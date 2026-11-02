@@ -23,7 +23,7 @@ jobs:
       # actions はコミット ID で固定する（タグの付け替えによる差し替えを防ぐ）
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      # 記憶リポジトリは公開なので、読むだけならトークンは要らない。
+      # 指示リポジトリは公開なので、読むだけならトークンは要らない。
       # 改ざん検知で「確かめた commit」と比べるため、履歴をすべて取る。
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -43,7 +43,6 @@ jobs:
         run: node scripts/watcher.mjs --brain brain
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          BRAIN_REPO_PAT: ${{ secrets.BRAIN_REPO_PAT }}
           # routines で動くのは素の Claude だけ（投稿しないのでキーがない）
           FIRE_URL_BASELINE: ${{ secrets.FIRE_URL_BASELINE }}
           FIRE_TOKEN_BASELINE: ${{ secrets.FIRE_TOKEN_BASELINE }}

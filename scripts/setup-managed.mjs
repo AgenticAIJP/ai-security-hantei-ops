@@ -1,14 +1,14 @@
 #!/usr/bin/env node
 // Managed Agents の準備（何度実行してもよい）。iQi が自分のターミナルで実行する。
 // - 環境 ais-managed（unrestricted）を作る
-// - 投稿する人ごとの Agent ais-<key>（モデルは config/agents.json、起動文は記憶リポジトリの prompts/_bootstrap.md）を作る・更新する
-// - その人の vault を metadata.agent_key で探す（キーは記憶リポジトリの scripts/register-agents.mjs が入れた）
-// - --deployments：--keys に入っている人の定時（下の DEPLOYMENTS）を作る・更新する（BRAIN_REPO_PAT が必要）
+// - 投稿する人ごとの Agent ais-<key>（モデルは config/agents.json、起動文は指示リポジトリの prompts/_bootstrap.md）を作る・更新する
+// - その人の vault を metadata.agent_key で探す（キーは指示リポジトリの scripts/register-agents.mjs が入れた）
+// - --deployments：--keys に入っている人の定時（下の DEPLOYMENTS）を作る・更新する
 // - 作った ID（秘密ではない）を managed-agents/ids.json に書く
 //
 // 使い方：
 //   ANTHROPIC_API_KEY=... node scripts/setup-managed.mjs --keys nobunaga
-//   ANTHROPIC_API_KEY=... BRAIN_REPO_PAT=... node scripts/setup-managed.mjs --keys hyojo --deployments
+//   ANTHROPIC_API_KEY=... node scripts/setup-managed.mjs --keys hyojo --deployments
 //   node scripts/setup-managed.mjs --keys nobunaga --dry-run     # 起動文と定時を表示するだけ
 import fs from 'node:fs';
 import path from 'node:path';
@@ -86,16 +86,19 @@ async function main() {
 
     const vault = await findVaultByAgentKey(m.key);
     if (vault) { ids.vaults[m.key] = vault.id; console.log(`  vault「${vault.display_name}」：あります（${vault.id}）`); }
-    else console.log(`  vault（agent_key: ${m.key}）：ありません。記憶リポジトリの scripts/register-agents.mjs で登録してください（それまでこの人は起こせません）。`);
+    else console.log(`  vault（agent_key: ${m.key}）：ありません。指示リポジトリの scripts/register-agents.mjs で登録してください（それまでこの人は起こせません）。`);
   }
 
+  // 定時の作成で止まっても、作った ID を失わないように先に保存する
+  ids.updated_at = jstIso();
+  writeJson(idsFile, ids);
+
   if (args.deployments) {
-    if (!process.env.BRAIN_REPO_PAT) throw new Error('--deployments には BRAIN_REPO_PAT（記憶リポジトリの Contents だけの PAT）が必要です。');
     for (const d of DEPLOYMENTS.filter((x) => keys.includes(x.key))) {
       if (!ids.vaults[d.key]) { console.log(`定時「${d.name}」：vault がないので飛ばします。`); continue; }
       const { deployment, action } = await ensureDeployment({
         name: d.name, agentId: ids.agents[d.key].id, envId: ids.environment_id, vaultId: ids.vaults[d.key],
-        repoToken: process.env.BRAIN_REPO_PAT, job: d.job, cron: d.cron,
+        job: d.job, cron: d.cron,
         budgetCents: sessionBudgetCents(routing, d.key),
       });
       ids.deployments[d.name] = deployment.id;

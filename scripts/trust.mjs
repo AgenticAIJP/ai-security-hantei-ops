@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// 記憶リポジトリの「iQi が確かめた commit」を更新する（watcher の改ざん検知の基準）。
+// 指示リポジトリの「iQi が確かめた commit」を更新する（watcher の改ざん検知の基準）。
 // 前回の基準から、Agent が書いてはいけない場所で何が変わったかを見せ、確かめてから基準を進める。
 //
 // 使い方：node scripts/trust.mjs [--brain ../ai-security-hantei] [--commit <sha>]
@@ -14,7 +14,7 @@ const opsRoot = path.resolve(here, '..');
 const args = parseArgs(process.argv.slice(2));
 const brainRoot = path.resolve(opsRoot, typeof args.brain === 'string' ? args.brain : '../ai-security-hantei');
 const trustedFile = path.join(opsRoot, 'config', 'trusted.json');
-const AGENT_WRITABLE = ['memory/', 'state/', 'data/', 'reports/', 'baseline/', 'eval/', 'playbook/'];
+const AGENT_WRITABLE = ['baseline/', 'state/acks/']; // Git に書くのは素の Claude だけ
 
 const git = (...a) => execFileSync('git', ['-C', brainRoot, ...a], { encoding: 'utf8' }).trim();
 
@@ -37,7 +37,7 @@ async function main() {
   console.log(`新しい基準：${target}（${git('log', '-1', '--format=%s', target)}）`);
   if (!(await confirm('自分で変えたものだけだと確かめました。この commit を基準にしますか？'))) { console.log('やめました。'); return; }
   writeJson(trustedFile, {
-    description: 'watcher の改ざん検知の基準。記憶リポジトリで、Agent が書いてよい場所以外が、この commit から変わっていたら watcher は止まる。scripts/trust.mjs で更新する。',
+    description: 'watcher の改ざん検知の基準。指示リポジトリで、Agent が書いてよい場所以外が、この commit から変わっていたら watcher は止まる。scripts/trust.mjs で更新する。',
     brain_commit: target,
     agent_writable: AGENT_WRITABLE,
     trusted_at: jstIso(),

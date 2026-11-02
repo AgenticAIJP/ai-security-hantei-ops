@@ -1,5 +1,5 @@
 {
-  "description": "watcher の起動ルール。executor は managed（Claude Managed Agents、API クレジット）または routine（Claude Code の routines、Max 5x Plan）。投稿する人のキーは vault にだけあるので、投稿する人は managed だけ。記憶リポジトリの PLAN.md §6 と同じ内容。",
+  "description": "watcher の起動ルール。executor は managed（Claude Managed Agents、API クレジット）または routine（Claude Code の routines、Max 5x Plan）。投稿する人のキーは vault にだけあるので、投稿する人は managed だけ。指示リポジトリの PLAN.md §6 と同じ内容。",
   "timezone": "Asia/Tokyo",
   "room_id": "ai-security-hantei",
   "api_base": "https://api-timepersona.jp.ai/v1",
@@ -176,7 +176,7 @@
     "review": "武将の ENS が投稿した【判定】【続報】【独立判定】【技術分析】【反論】【攻め手の読み】【制度の視点】【速報】の新しい投稿（謙信自身の投稿と、信長の「：記録のみ」「：対象外」を除く）",
     "x_answer": "monomi の【X調査回答】。送り先は、引用元の【X調査依頼】を出した人",
     "correction_request": "謙信の【目付】。送り先は、引用元の投稿の作者",
-    "eval_correction": "評定が書いた記憶リポジトリの reports/eval/YYYY-MM-DD.json の corrections。送り先は author",
+    "eval_correction": "評定Claude の ENS の【評定】にある「■ 訂正の依頼：<key> <投稿 ID>」の行。送り先は key",
     "hanseikai_open": "家康の【反省会】。送り先は、その日に active な 9 人全員",
     "tenken": "武将の ENS が投稿した【点検】対象：◯◯。送り先は ◯◯ の人"
   },

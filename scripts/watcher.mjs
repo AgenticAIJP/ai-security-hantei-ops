@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 // watcher：30 分ごと（GitHub Actions の watch.yml）。LLM は使わない。
-//  1. 指示ファイルの改ざん検知：記憶リポジトリで、Agent が書いてよい場所以外が iQi の確かめた commit から
+//  1. 指示ファイルの改ざん検知：指示リポジトリで、Agent が書いてよい場所以外が iQi の確かめた commit から
 //     変わっていたら、誰も起こさずに止まる（Actions の失敗として iQi に知らせる）。
 //  2. Room の新着を読み、登録済みの投稿者の投稿だけをきっかけに、起こす人と理由を決める（PLAN.md §6.2）。
-//  3. 受け取りの記録（ack）がない起動は、時間を置いて起こし直す。
+//  3. 正常に終わらなかったセッションを起こし直す（素の Claude だけは ack のファイルで確かめる）。
 //  4. 最短間隔・有効になる日・1 日の上限・金額の上限を守って、Managed Agents のセッションを立てるか routine を起こす。
 //
-// 使い方：node scripts/watcher.mjs --brain <記憶リポジトリのパス> [--dry-run]
+// 使い方：node scripts/watcher.mjs --brain <指示リポジトリのパス> [--dry-run]
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
@@ -15,7 +15,7 @@ import { readJson, writeJson, jstIso, jstDate, dayNumber, describeError, parseAr
 import { loadAgents, ensIndex } from './lib/agents.mjs';
 import { recentRoomPosts, getPost } from './lib/timepersona.mjs';
 import { routineTarget, fireRoutine } from './lib/routine.mjs';
-import { startSession, sessionCost, describeApiError } from './lib/managed.mjs';
+import { startSession, sessionCost, sessionOutcome, describeApiError } from './lib/managed.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const opsRoot = path.resolve(here, '..');
@@ -28,9 +28,8 @@ const MEMBERS = ['nobunaga', 'shingen', 'mitsuhide', 'kenshin', 'hideyoshi', 'ch
 const SHORT_NAMES = { nobunaga: '信長', shingen: '信玄', mitsuhide: '光秀', kenshin: '謙信', hideyoshi: '秀吉', chacha: '茶々', ieyasu: '家康', nene: '寧々', kanbei: '官兵衛' };
 const ANALYSTS = ['shingen', 'chacha', 'hideyoshi', 'mitsuhide'];
 const REVIEW_TAGS = new Set(['判定', '続報', '独立判定', '技術分析', '反論', '攻め手の読み', '制度の視点', '速報']);
-// Agent が書いてよい場所（CLAUDE.md §4）。これ以外が変わっていたら止まる。
-const AGENT_WRITABLE = ['memory/', 'state/', 'data/', 'reports/', 'baseline/', 'eval/', 'playbook/'];
-const POST_ID = /^[0-9a-f]{24}$/; // TimePersona の投稿 ID（MongoDB の ObjectId）
+// Git に書いてよい場所（CLAUDE.md §4）。書くのは素の Claude だけ。これ以外が変わっていたら止まる。
+const AGENT_WRITABLE = ['baseline/', 'state/acks/'];
 const SHORT_RECORD = /[：:]\s*(対象外|記録のみ)/; // 信長の短い投稿の 1 行目（PLAN.md §2.2）
 
 const now = new Date();
@@ -54,7 +53,7 @@ function untrustedChanges(trusted) {
   try {
     out = execFileSync('git', ['-C', brainRoot, 'diff', '--name-only', trusted.brain_commit, 'HEAD'], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
   } catch {
-    throw new Error(`記憶リポジトリの履歴に ${trusted.brain_commit} がありません（checkout の fetch-depth: 0 と、commit が push 済みかを確かめてください）。`);
+    throw new Error(`指示リポジトリの履歴に ${trusted.brain_commit} がありません（checkout の fetch-depth: 0 と、commit が push 済みかを確かめてください）。`);
   }
   return out.split('\n').map((s) => s.trim()).filter(Boolean).filter((f) => !AGENT_WRITABLE.some((p) => f.startsWith(p)));
 }
@@ -84,7 +83,7 @@ function payloadTasks(tasks) {
   const merged = new Map();
   for (const t of tasks) {
     if (t.reason === 'baseline_case') { merged.set(`b:${t.incident_id}`, { reason: t.reason, incident_id: t.incident_id, root_post_id: t.root_post_id }); continue; }
-    if (t.reason === 'eval_correction') { merged.set(`e:${t.post_ids.join(',')}`, { reason: t.reason, post_ids: t.post_ids, report: t.report }); continue; }
+    if (t.reason === 'eval_correction') { merged.set(`e:${t.post_ids.join(',')}`, { reason: t.reason, post_ids: t.post_ids, report_post_id: t.report_post_id }); continue; }
     const k = t.reason;
     const entry = merged.get(k) ?? { reason: t.reason, ...(t.rss_paths ? { rss_paths: [] } : { post_ids: [] }) };
     for (const id of t.post_ids ?? []) if (!entry.post_ids.includes(id)) entry.post_ids.push(id);
@@ -110,7 +109,7 @@ async function main() {
     state.alerts.push({ at: jstIso(now), type: 'untrusted_change', files: suspicious.slice(0, 50) });
     state.alerts = state.alerts.slice(-50);
     if (!dryRun) writeJson(statePath, state);
-    console.error(`止めました：記憶リポジトリで、Agent が書いてはいけない場所が変わっています（${suspicious.length} 件）。`);
+    console.error(`止めました：指示リポジトリで、Agent が書いてはいけない場所が変わっています（${suspicious.length} 件）。`);
     for (const f of suspicious.slice(0, 20)) console.error(`  - ${f}`);
     console.error('iQi が中身を確かめ、問題がなければ scripts/trust.mjs で確かめた commit を更新してください。');
     process.exitCode = 1;
@@ -187,6 +186,14 @@ async function main() {
 
     if (ak === 'ieyasu' && tag === '反省会' && !p.quoted_post_id) for (const m of MEMBERS) add(m, 'hanseikai_open', { post_ids: [p.id] });
 
+    // 評定の訂正の依頼は、評定Claude の ENS の投稿からだけ受け取る。ID の形だけを通し、指示文を起動文に混ぜさせない。
+    if (ak === 'hyojo' && tag === '評定') {
+      for (const m of p.content.matchAll(/^■ 訂正の依頼[：:]\s*([a-z]+)\s+([0-9a-f]{24})/gm)) {
+        if (MEMBERS.includes(m[1])) add(m[1], 'eval_correction', { post_ids: [m[2]], report_post_id: p.id });
+        else log(`訂正の依頼の宛先が不明です：${m[1]}（${p.id}）`);
+      }
+    }
+
     if (isTeam && tag === '点検') {
       const name = /対象[：:]\s*([^\s\n（(、。]+)/.exec(firstLine(p.content))?.[1] ?? '';
       const target = MEMBERS.find((m) => name.includes(SHORT_NAMES[m]));
@@ -195,40 +202,40 @@ async function main() {
     }
   }
 
-  // 評定の訂正リスト（reports/eval/YYYY-MM-DD.json）
-  const evalDir = path.join(brainRoot, 'reports', 'eval');
-  const evalDone = new Set(state.eval_done);
-  if (fs.existsSync(evalDir)) {
-    for (const f of fs.readdirSync(evalDir).filter((x) => /^\d{4}-\d{2}-\d{2}\.json$/.test(x))) {
-      let report;
-      try { report = JSON.parse(fs.readFileSync(path.join(evalDir, f), 'utf8')); } catch { log(`読めない訂正リスト：${f}`); continue; }
-      for (const c of report.corrections ?? []) {
-        const sig = `${f}#${c.post_id}`;
-        if (evalDone.has(sig) || !MEMBERS.includes(c.author)) continue;
-        // このファイルは Agent が書ける場所にある。ID の形だけを通し、指示文を起動文に混ぜさせない。
-        if (typeof c.post_id !== 'string' || !POST_ID.test(c.post_id)) { log(`訂正リスト ${f} の投稿 ID の形が正しくないので無視します。`); continue; }
-        evalDone.add(sig);
-        add(c.author, 'eval_correction', { post_ids: [c.post_id], report: `reports/eval/${f}` });
-      }
-    }
-  }
-  // rss_new は rss.mjs（Day 2）が data/rss/ に候補を書くようになってから加える。
+  // rss_new は rss.mjs（Day 2）が ops の data/rss/ に候補を書くようになってから加える。
 
-  // 3. ack の確認と起こし直し
+  // 3. 仕事が終わったかの確認と起こし直し。二重投稿は tp.mjs が止めるので、やり直しても残りの分だけが投稿される。
   const ackTimeoutMs = (routing.retry?.ack_timeout_min ?? 60) * 60_000;
   const maxRetries = routing.retry?.max_retries ?? 2;
   for (const d of state.dispatches.filter((x) => x.status === 'sent')) {
-    const acks = ackedIds(d.key);
-    if (d.tasks.flatMap(taskIds).every((id) => acks.has(id))) { d.status = 'acked'; continue; }
-    if (now - Date.parse(d.at) < ackTimeoutMs) continue;
+    let why;
+    let redo = d.tasks;
+    if (d.executor === 'managed') {
+      if (!process.env.ANTHROPIC_API_KEY || dryRun) continue;
+      let outcome;
+      try { outcome = await sessionOutcome(d.session_id); } catch (err) { log(`セッションの状態を読めませんでした（${d.session_id}）：${describeApiError(err)}`); continue; }
+      if (outcome.state === 'running') {
+        if (now - Date.parse(d.at) > 3 * 3600_000) log(`${d.key}：セッションが 3 時間以上動いています（${d.session_id}）。iQi が確かめてください。`);
+        continue;
+      }
+      if (outcome.state === 'done') { d.status = 'done'; continue; }
+      why = `セッションが正常に終わりませんでした（${outcome.reason}）`;
+    } else {
+      // routines（素の Claude）はセッションを追えないので、ack のファイルで確かめる
+      const acks = ackedIds(d.key);
+      if (d.tasks.flatMap(taskIds).every((id) => acks.has(id))) { d.status = 'done'; continue; }
+      if (now - Date.parse(d.at) < ackTimeoutMs) continue;
+      why = '受け取りの記録がありません';
+      redo = d.tasks.filter((t) => !taskIds(t).every((id) => acks.has(id)));
+    }
     if (d.attempt <= maxRetries) {
-      for (const t of d.tasks) if (!taskIds(t).every((id) => acks.has(id))) newTasks.push({ ...t, attempt: d.attempt + 1, at: jstIso(now) });
+      for (const t of redo) newTasks.push({ ...t, attempt: d.attempt + 1, at: jstIso(now) });
       d.status = 'retried';
-      log(`${d.key}：受け取りの記録がないので起こし直します（${d.attempt + 1} 回目）。`);
+      log(`${d.key}：${why}。起こし直します（${d.attempt + 1} 回目）。`);
     } else {
       d.status = 'failed';
-      state.alerts.push({ at: jstIso(now), type: 'no_ack', key: d.key, dispatch: d.id });
-      log(`${d.key}：${d.attempt} 回起こしても受け取りの記録がありません。iQi が確かめてください。`);
+      state.alerts.push({ at: jstIso(now), type: 'not_finished', key: d.key, dispatch: d.id, why });
+      log(`${d.key}：${why}。${d.attempt} 回起こしても終わらないので、iQi が確かめてください。`);
     }
   }
 
@@ -294,7 +301,7 @@ async function main() {
 
     // 投稿する人のキーは vault にだけあるので、routine には移せない。起こせないときは保留する。
     let executor = cfg.executor;
-    const managedReady = Boolean(ids.environment_id && ids.agents?.[key]?.id && ids.vaults?.[key] && process.env.BRAIN_REPO_PAT && process.env.ANTHROPIC_API_KEY);
+    const managedReady = Boolean(ids.environment_id && ids.agents?.[key]?.id && ids.vaults?.[key] && process.env.ANTHROPIC_API_KEY);
     if (executor === 'managed' && (capped || !managedReady)) executor = 'blocked';
     if (executor === 'routine' && !routineTarget(key)) executor = 'blocked';
     const payload = { tasks: payloadTasks(tasks), day, sent_at: jstIso(now) };
@@ -312,8 +319,7 @@ async function main() {
       let sessionId = null;
       if (executor === 'managed') {
         const s = await startSession({
-          agentId: ids.agents[key].id, envId: ids.environment_id, vaultId: ids.vaults[key],
-          repoToken: process.env.BRAIN_REPO_PAT, payload,
+          agentId: ids.agents[key].id, envId: ids.environment_id, vaultId: ids.vaults[key], payload,
           budgetCents: Math.round((cfg.session_usd ?? routing.budget?.managed_session_usd ?? 2) * 100),
           title: `${key} ${jstIso(now)}`, metadata: { member: key, reasons: [...new Set(tasks.map((t) => t.reason))].join(',') },
         });
@@ -338,7 +344,6 @@ async function main() {
   // 6. 状態を保存する（直近のものだけ残す）
   state.seen = [...seen].slice(-3000);
   state.pending = stillPending;
-  state.eval_done = [...evalDone].slice(-2000);
   const threeDaysAgo = now - 3 * 24 * 3600_000;
   state.dispatches = state.dispatches.filter((d) => Date.parse(d.at) >= threeDaysAgo);
   state.daily = Object.fromEntries(Object.entries(state.daily).slice(-10));

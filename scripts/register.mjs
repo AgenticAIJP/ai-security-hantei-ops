@@ -13,7 +13,7 @@
 //   ANTHROPIC_API_KEY=... node scripts/register.mjs --all
 //   node scripts/register.mjs --all --dry-run          # API を呼ばずに手順だけ表示
 // オプション：
-//   --brain <path>     記憶リポジトリのパス（既定 ../ai-security-hantei）。ENS を両方の agents.json に書く
+//   --brain <path>     指示リポジトリのパス（既定 ../ai-security-hantei）。ENS を両方の agents.json に書く
 //   --no-vault         vault に入れない（Console の vault に手で貼る）
 //   --no-clipboard     network secrets 用のクリップボード手順を飛ばす（あとで切り替えができなくなる）
 import path from 'node:path';

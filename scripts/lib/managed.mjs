@@ -110,22 +110,16 @@ export async function ensureAgent({ name, model, system, metadata }) {
 
 // ---- sessions ---------------------------------------------------------------------------
 
-/**
- * Start one session for a member. `payload` is the wake-up JSON (ids only, never post bodies).
- * The GitHub token goes through Anthropic's git proxy and never enters the container.
- */
-export async function startSession({ agentId, envId, vaultId, repoToken, payload, budgetCents, title, metadata }) {
+// 指示リポジトリは公開なので、トークンを渡さずに clone する。トークンがなければ Agent は push できない。
+const REPO_RESOURCE = { type: 'github_repository', url: REPO_URL, checkout: { type: 'branch', name: 'main' }, mount_path: REPO_MOUNT };
+
+/** Start one session for a member. `payload` is the wake-up JSON (ids only, never post bodies). */
+export async function startSession({ agentId, envId, vaultId, payload, budgetCents, title, metadata }) {
   return anthropic().beta.sessions.create({
     agent: agentId,
     environment_id: envId,
     vault_ids: [vaultId],
-    resources: [{
-      type: 'github_repository',
-      url: REPO_URL,
-      authorization_token: repoToken,
-      checkout: { type: 'branch', name: 'main' },
-      mount_path: REPO_MOUNT,
-    }],
+    resources: [REPO_RESOURCE],
     initial_events: [{ type: 'user.message', content: [{ type: 'text', text: JSON.stringify(payload) }] }],
     budget: { type: 'limit', max_list_cost: { amount: String(Math.round(budgetCents)), currency: 'USD' } },
     title,
@@ -140,9 +134,24 @@ export async function sessionCost(sessionId) {
   return { status: s.status, costCents: amount == null ? null : Number(amount) };
 }
 
+/**
+ * Did the session finish its work? Agents no longer write acks to Git, so this replaces them.
+ * running: still working. done: stopped normally. failed: budget, errors, or waiting on something.
+ */
+export async function sessionOutcome(sessionId) {
+  const s = await anthropic().beta.sessions.retrieve(sessionId);
+  if (s.status === 'running' || s.status === 'rescheduling') return { state: 'running' };
+  if (s.status === 'terminated') return { state: 'failed', reason: 'terminated' };
+  for await (const e of anthropic().beta.sessions.events.list(sessionId, { types: ['session.status_idle'], order: 'desc', limit: 1 })) {
+    const reason = e.stop_reason?.type ?? 'unknown';
+    return reason === 'end_turn' ? { state: 'done' } : { state: 'failed', reason };
+  }
+  return { state: 'running' }; // idle だが、記録がまだ届いていない
+}
+
 // ---- deployments（Managed Agents の定時） ---------------------------------------------
 
-export async function ensureDeployment({ name, agentId, envId, vaultId, repoToken, job, cron, budgetCents }) {
+export async function ensureDeployment({ name, agentId, envId, vaultId, job, cron, budgetCents }) {
   const params = {
     name,
     agent: agentId, // 文字列で渡すと、作成・更新のときの最新版に固定される
@@ -150,7 +159,7 @@ export async function ensureDeployment({ name, agentId, envId, vaultId, repoToke
     initial_events: [{ type: 'user.message', content: [{ type: 'text', text: JSON.stringify({ job }) }] }],
     schedule: { type: 'cron', expression: cron, timezone: 'Asia/Tokyo' },
     vault_ids: [vaultId],
-    resources: [{ type: 'github_repository', url: REPO_URL, authorization_token: repoToken, checkout: { type: 'branch', name: 'main' }, mount_path: REPO_MOUNT }],
+    resources: [REPO_RESOURCE],
     budget: { type: 'limit', max_list_cost: { amount: String(Math.round(budgetCents)), currency: 'USD' } },
   };
   for await (const d of anthropic().beta.deployments.list({ agent_id: agentId })) {
