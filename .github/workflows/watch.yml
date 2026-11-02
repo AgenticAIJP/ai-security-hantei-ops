@@ -71,10 +71,11 @@ jobs:
           fi
 
   # GitHub の定時（schedule）が動かないことがあるので、次の実行を自分で予約する。
-  # 手動の実行から始まり、約 30 分ごとに続く。定時が動いても、最短間隔の確認で二重には起こさない。
+  # 手動の実行から始まり、約 30 分ごとに続く。定時の実行からも次を起動する（定時が割り込んでも連鎖が切れないように）。
+  # 連鎖が切れても、次の定時が動けば復活する。次がすでに待っていれば増やさないので、二重には増えない。
   next:
     needs: watch
-    if: ${{ always() && github.event_name == 'workflow_dispatch' }}
+    if: ${{ always() }}
     runs-on: ubuntu-latest
     timeout-minutes: 40
     permissions:
