@@ -41,42 +41,6 @@
     {
       "key": "nobunaga",
       "reason": "x_sokuho",
-      "at": "2026-11-02T18:52:10+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae852f7f27e65e1fc099a96"
-      ]
-    },
-    {
-      "key": "nobunaga",
-      "reason": "x_sokuho",
-      "at": "2026-11-02T18:52:10+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae85989f27e65e1fc099dde"
-      ]
-    },
-    {
-      "key": "nobunaga",
-      "reason": "x_sokuho",
-      "at": "2026-11-02T18:52:10+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae85989f27e65e1fc099de8"
-      ]
-    },
-    {
-      "key": "nobunaga",
-      "reason": "x_sokuho",
-      "at": "2026-11-02T19:35:26+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae860c3f27e65e1fc09a294"
-      ]
-    },
-    {
-      "key": "nobunaga",
-      "reason": "x_sokuho",
       "at": "2026-11-02T19:35:26+09:00",
       "attempt": 1,
       "post_ids": [
@@ -317,10 +281,57 @@
       "status": "done",
       "cost_cents": 41,
       "cost_final": true
+    },
+    {
+      "id": "nobunaga-1793617301147",
+      "key": "nobunaga",
+      "executor": "managed",
+      "session_id": "sesn_01JRwXRnwcHGA9xb2TUaiGWV",
+      "tasks": [
+        {
+          "key": "nobunaga",
+          "reason": "x_sokuho",
+          "at": "2026-11-02T18:52:10+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6ae852f7f27e65e1fc099a96"
+          ]
+        },
+        {
+          "key": "nobunaga",
+          "reason": "x_sokuho",
+          "at": "2026-11-02T18:52:10+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6ae85989f27e65e1fc099dde"
+          ]
+        },
+        {
+          "key": "nobunaga",
+          "reason": "x_sokuho",
+          "at": "2026-11-02T18:52:10+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6ae85989f27e65e1fc099de8"
+          ]
+        },
+        {
+          "key": "nobunaga",
+          "reason": "x_sokuho",
+          "at": "2026-11-02T19:35:26+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6ae860c3f27e65e1fc09a294"
+          ]
+        }
+      ],
+      "at": "2026-11-02T20:01:41+09:00",
+      "attempt": 1,
+      "status": "sent"
     }
   ],
   "last_dispatch": {
-    "nobunaga": "2026-11-02T19:35:26+09:00"
+    "nobunaga": "2026-11-02T20:01:41+09:00"
   },
   "daily": {
     "2026-11-02": {
@@ -331,5 +342,5 @@
   },
   "eval_done": [],
   "alerts": [],
-  "last_run": "2026-11-02T19:53:47+09:00"
+  "last_run": "2026-11-02T20:01:41+09:00"
 }
