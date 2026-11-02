@@ -7,6 +7,7 @@
   "day1": "2026-11-02",
   "start_from": "2026-11-02T12:00:00+09:00",
   "hantei_daily_max": 8,
+  "hantei_slot_hours": 3,
   "choose_by_priority": [
     "x_sokuho",
     "sokuho_other"
@@ -170,13 +171,13 @@
     }
   },
   "rules": {
-    "x_sokuho": "trusted_authors.monomi の ENS が投稿した、【X速報】で始まる新しい投稿（親投稿・返信とも）。信長が返信するまで待ち行列に残し、毎回一覧で渡す（信長が pick 件を選ぶ）",
+    "x_sokuho": "trusted_authors.monomi の ENS が投稿した、【X速報】で始まる新しい投稿（親投稿・返信とも）。信長の返信か【判定まとめ】に載るまで待ち行列に残し、毎回一覧で渡す（信長が pick 件までカードにし、残りを【判定まとめ】に載せる）",
     "sokuho_other": "trusted_authors に載った monomi 以外の ENS が投稿した、【X速報】または【速報】で始まる新しい親投稿。trusted_authors にない投稿者の投稿では起こさない",
     "rss_new": "rss.mjs が見つけた、Room にまだない記事（post_ids の代わりに rss_paths を送る）",
-    "hantei": "信長の ENS が投稿した【判定】または【続報】。1 行目に「：記録のみ」「：対象外」があるものを除く。1 日 hantei_daily_max 件まで",
+    "hantei": "信長の ENS が投稿した【判定】または【続報】。1 行目に「：記録のみ」「：対象外」「：枠外」があるものを除く。1 日 hantei_daily_max 件まで。枠は hantei_slot_hours 時間ごとに 1 件ずつ開く（使わなかった分は持ち越す）",
     "hantei_mid_high": "hantei のうち、本文に #家康 #官兵衛 の札があるもの（家康・官兵衛を起こす）",
     "baseline_case": "hantei_mid_high と同じ投稿。素の Claude を起こす（1 日 3 件まで）。送るのは incident_id と root_post_id",
-    "review": "武将の ENS が投稿した【判定】【続報】【独立判定】【技術分析】【反論】【攻め手の読み】【制度の視点】【速報】の新しい投稿（謙信自身の投稿と、信長の「：対象外」を除く。「：記録のみ」は点検する）",
+    "review": "武将の ENS が投稿した【判定】【判定まとめ】【続報】【独立判定】【技術分析】【反論】【攻め手の読み】【制度の視点】【速報】の新しい投稿（謙信自身の投稿と、信長の「：対象外」を除く）",
     "x_answer": "monomi の【X調査回答】。送り先は、引用元の【X調査依頼】を出した人",
     "correction_request": "謙信の【目付】。送り先は、引用元の投稿の作者",
     "eval_correction": "評定Claude の ENS の【評定】にある「■ 訂正の依頼：<key> <投稿 ID>」の行。送り先は key",

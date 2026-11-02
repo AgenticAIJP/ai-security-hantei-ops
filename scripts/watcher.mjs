@@ -27,10 +27,10 @@ const statePath = path.join(opsRoot, 'state', 'watcher.json');
 const MEMBERS = ['nobunaga', 'shingen', 'mitsuhide', 'kenshin', 'hideyoshi', 'chacha', 'ieyasu', 'nene', 'kanbei'];
 const SHORT_NAMES = { nobunaga: '信長', shingen: '信玄', mitsuhide: '光秀', kenshin: '謙信', hideyoshi: '秀吉', chacha: '茶々', ieyasu: '家康', nene: '寧々', kanbei: '官兵衛' };
 const ANALYSTS = ['shingen', 'chacha', 'hideyoshi', 'mitsuhide'];
-const REVIEW_TAGS = new Set(['判定', '続報', '独立判定', '技術分析', '反論', '攻め手の読み', '制度の視点', '速報']);
+const REVIEW_TAGS = new Set(['判定', '判定まとめ', '続報', '独立判定', '技術分析', '反論', '攻め手の読み', '制度の視点', '速報']);
 // Git に書いてよい場所（CLAUDE.md §4）。書くのは素の Claude だけ。これ以外が変わっていたら止まる。
 const AGENT_WRITABLE = ['baseline/', 'state/acks/'];
-const SHORT_RECORD = /[：:]\s*(対象外|記録のみ)/; // 信長の短い投稿の 1 行目（PLAN.md §2.2）
+const SHORT_RECORD = /[：:]\s*(対象外|記録のみ|枠外)/; // 信長の短い投稿の 1 行目（PLAN.md §2.2）
 const OUT_OF_SCOPE = /[：:]\s*対象外/;
 
 const now = new Date();
@@ -117,6 +117,13 @@ async function main() {
     return;
   }
 
+  // 議論の枠：1 日の上限を、時間で少しずつ開ける（朝に使い切らず、夜の大きな事案にも残すため）。使わなかった分は持ち越す。
+  const discussionAllowed = () => {
+    const max = routing.hantei_daily_max ?? Infinity;
+    if (!routing.hantei_slot_hours) return max;
+    return Math.min(max, 1 + Math.floor(Number(jstIso(now).slice(11, 13)) / routing.hantei_slot_hours));
+  };
+
   // 2. 新着の分類
   const ensToKey = ensIndex(agents);
   const monomiEns = (routing.trusted_authors?.monomi ?? agents.find((a) => a.key === 'monomi')?.ens ?? '').toLowerCase();
@@ -157,8 +164,8 @@ async function main() {
     const shortRecord = isHantei && SHORT_RECORD.test(firstLine(p.content));
     if (isHantei && !shortRecord) {
       // 全員で議論する件数の上限。信長も数えて振り分けるが、ここでも止める
-      if ((daily.hantei ?? 0) >= (routing.hantei_daily_max ?? Infinity)) {
-        log(`今日の議論の上限 ${routing.hantei_daily_max} 件に達しているので、分析役を起こしません（${p.id}）。`);
+      if ((daily.hantei ?? 0) >= discussionAllowed()) {
+        log(`今の議論の枠 ${discussionAllowed()} 件に達しているので、分析役を起こしません（${p.id}）。`);
       } else {
         daily.hantei = (daily.hantei ?? 0) + 1;
         for (const a of ANALYSTS) add(a, 'hantei', { post_ids: [p.id] });
@@ -279,11 +286,16 @@ async function main() {
   const overDayCap = spentToday >= dailyCap - (routing.budget?.hanseikai_reserve_usd ?? 0);
   if (overDayCap) log(`今日の Managed Agents の費用が ${spentToday.toFixed(2)} です（${overDailyCap ? '1 日の上限' : '反省会の分を除いた上限'}に達しました）。`);
   const isHanseikai = (t) => (routing.ignore_min_interval ?? []).includes(t.reason);
-  // 速報は届いた順に処理しない。信長が、待っている速報の一覧から大事なものを選ぶ。
-  // 返信がつくまで待ち行列に残すので、選ばれなかった速報も失われない。
+  // 速報は届いた順に処理しない。信長が、待っている速報の一覧から大事なものを選んでカードにし、残りは【判定まとめ】に載せる。
+  // 返信か【判定まとめ】に載るまで待ち行列に残すので、速報は失われない。
   const isChoosable = (t) => (routing.choose_by_priority ?? []).includes(t.reason);
   const nobunagaEns = agents.find((a) => a.key === 'nobunaga')?.ens?.toLowerCase();
   const answered = new Set(posts.filter((p) => p.agent?.toLowerCase() === nobunagaEns && p.quoted_post_id).map((p) => p.quoted_post_id));
+  // 信長が【判定まとめ】に載せた速報も、判定済みとして扱う（行頭の「- <投稿 ID>」だけを読む）
+  for (const p of posts) {
+    if (p.agent?.toLowerCase() !== nobunagaEns || tagOf(p.content) !== '判定まとめ') continue;
+    for (const m of p.content.matchAll(/^- ([0-9a-f]{24})/gm)) answered.add(m[1]);
+  }
   const isAnswered = (t) => isChoosable(t) && (t.post_ids ?? []).every((id) => answered.has(id));
 
   // 5. まとめて起こす
