@@ -2916,8 +2916,26 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-03T20:33:08+09:00"
+    },
+    {
+      "title": "横浜市の電子申請システム、約82万アカウントの個人情報漏えいを調査　アララへの不正アクセスでログイン停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/yokohama-online-application-arara-email-leak-risk/",
+      "source": "",
+      "published_at": "2026-11-03T20:40:07+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T21:01:07+09:00"
+    },
+    {
+      "title": "セブン－イレブン・ジャパンのデリバリーサービス「7NOW」配達委託先に不正アクセス 約16万9000件の利用者情報が流出 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xQzFmRC1udFpjT0ppQTQ4bldiSHB2R1JKM0dWVFVCdnZNWGlHZkFIaUFtVXB0b3hYejhiRjE3R0lKUldoakd6T3B1bk1sSDFEQjJNOGZyQVY0Rlpr?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-03T20:23:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T21:01:07+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T20:33:09+09:00"
+  "updated_at": "2026-11-03T21:01:07+09:00"
 }
