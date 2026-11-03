@@ -2277,8 +2277,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T13:32:07+09:00"
+    },
+    {
+      "title": "「くまモンテクテク」参加４７８人分の個人情報漏えい、データ管理会社が消去しておらず…不正アクセス被害 (読売新聞オンライン) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHN2VXFTNVBTeldWbzVBcTJqVTV0OG5jdS1TaVcwc2w0aWs0RG9CdjFlLWRVVlp2V0dpcUx1eGJ5X2pRSExKbndUVF9YeEVYN0h1VE5ZaktNQjNCbnE0dXZRYzlNTnZkWC1KM3BZUDBpc0JVU3hCYnVQSlpmWEE4d2xMejFHQ1VOMnNhcjRn?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T11:48:59+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T14:00:17+09:00"
+    },
+    {
+      "title": "【速報】「大阪市行政オンラインシステム」で利用者のメールアドレスや氏名など漏えいの可能性 システムが利用する「アララ」のメール配信サービスで情報漏えいの可能性で - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ERWpROERWeUNLc3NBazR5cnUtcGRGYlczVTJqX0Raa3MwcVlDSmRkbmdsSk5ENncxcWlXYnZicHJWUkRHU2pxT1pyWkhBd2hzQzBTVlFtWjM0VUY5TVljUk11UVFpVjdlektoN193?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-03T13:27:26+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T14:00:17+09:00"
+    },
+    {
+      "title": "防災メールの宛先313万件流出か アルカディアが調書提出、府警が不正アクセスで捜査 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDYmplZmRtcy00Tzg4c0tHZjV6NVNoYkV0RWNLVHFCZDMtQzFDeUR6am5jMmxqUFkzczZtLTdIdHhRX3dXa2p2STRMUHNtT3VvMkhz?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-03T13:14:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T14:00:17+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T13:32:07+09:00"
+  "updated_at": "2026-11-03T14:00:17+09:00"
 }
