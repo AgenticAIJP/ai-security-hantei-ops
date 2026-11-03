@@ -1665,8 +1665,107 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T06:28:18+09:00"
+    },
+    {
+      "title": "栃木銀行、メールアドレス約1,000件が流出　アララへの不正アクセス、第2報で判明",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/tochigi-bank-arara-email-leak-1000/",
+      "source": "",
+      "published_at": "2026-11-04T06:54:47+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
+    },
+    {
+      "title": "ビックカメラ・コジマ・ソフマップ、約1,490万件のメールアドレス等の情報漏洩の恐れ、アララへの不正アクセスによるサイバー攻撃で",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/biccamera_kojima_sofmap_arara/",
+      "source": "",
+      "published_at": "2026-11-04T06:50:48+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
+    },
+    {
+      "title": "大阪市の行政オンラインシステム、利用者情報が漏えいした可能性　アララへの不正アクセスで新規登録・パスワード再設定も停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/osaka_city_online_system_arara_tkc_20261104_revised/",
+      "source": "",
+      "published_at": "2026-11-04T06:46:42+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
+    },
+    {
+      "title": "久世福商店などのサンクゼール、会員メール87万8,343件が漏えい　アララへのサイバー攻撃が波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/stcousair-kuzefuku-arara-email-leak-878343/",
+      "source": "",
+      "published_at": "2026-11-04T06:44:33+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
+    },
+    {
+      "title": "アソビュー、会員1,582万1,184件の個人情報漏洩の恐れ、委託先アララへの不正アクセスによるサイバー攻撃で",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/asoview-arara-data-leak-15821184-ticket-history/",
+      "source": "",
+      "published_at": "2026-11-04T06:38:36+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
+    },
+    {
+      "title": "Linuxカーネル、1週間に129件の脆弱性を公表　iSCSI関連2件はCVSS 9.8、ストレージ接続先から不正応答を受けるリスク(CVE-2026-99154,CVE-2026-99153他)",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/linux-kernel-129-cves-iscsi-cve-2026-99153-99154/",
+      "source": "",
+      "published_at": "2026-11-04T06:30:11+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
+    },
+    {
+      "title": "ロードサービス向け業務システムを手がけるプレステージ・コアソリューション、不正アクセスで最大550万件の情報漏えい - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55aWxfdjJWV05EU3FoandWakpzcFlnMnBoMF9GNGFYcjhWY05GaVJkbGJHM2FtMy1xTlJQaWRidVlLMlhqamFEeW42NDNyeVpuVUxHZHJqdGJRUjZIaDZfRzdrNFh1RXVMdE9xSVBwUk5XT3VrdGF2eEJRTlNwa1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T06:40:22+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
+    },
+    {
+      "title": "大阪市の行政オンラインシステム、利用者情報が漏えいした可能性 アララへの不正アクセスで新規登録・パスワード再設定も停止|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjRYWHZtb1RWaVJRZWk3dFFxUzdLWkVGZ1BLRDlBSkJ6YWNOYWItbW15SXRiWmNxNFVDVEloQnlGaGU3bWlUdG9vVnJsQVl4TERHZmdQRVZCVExRWVJUNlRaUW1ZeEl6NGtzczdwTC1kR21TTi1lUUlPeTUxVXl2S3Z6b1QxR19CNWlzTXZvOVZ1QTZmMHFXNE02RWlMWEc4VHc?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-04T06:46:42+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
+    },
+    {
+      "title": "ビックカメラ・コジマ・ソフマップ、約1,490万件のメールアドレス等の情報漏洩の恐れ、アララへの不正アクセスによるサイバー攻撃で|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVdVVmFXRW5EcDZRanRnX1ZEMmkzN1FnNFl0UHZ5c2x1UlBtRmk5TENlLXdRNkZzMTBRYkxtUEVnQlVCcEdnSlA3d3JESzlSdHdaRDJZbVpYOWxfOE1acVM5aXVoRlB3Ymw4czYzM1JrTzVzdXJJN2pJbE8zdTZsZUN2cjY?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-04T06:50:48+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
+    },
+    {
+      "title": "セブン−イレブン・ジャパンのデリバリーサービス「7NOW」配達委託先に不正アクセス 約16万9000件の利用者情報が流出 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qeXZ1OU5iV2JJMl9TdS1RSHVta2s2eFZnRnBxQ0JVY3pGT2Etc0hYdUZDcV82TzY0UldacGZjMVAwRjY0ak1scHc4WEJJTkZCb1hSOG9TZWhoLU94TFJub1lsSkt5djFUMktlWFFjSE1MUdIBd0FVX3lxTE03VG1Kem1oOS1wNDR2c0ZKSFlZSUphOERnU2lNNkNvb2xoajFFdVl1b3lqVGRaYk13M2JZQkI0T2hUYUhjUl9nUmprYmQ2eHVndUFqVjJPLWRsZmJFblIyaktzM3h5blQzNFE3S1R1aENvc2h6S200?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-03T20:23:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
+    },
+    {
+      "title": "企業の情報漏えいが止まらない。セキュリティ専門家が警告する「野良AIエージェント」と子会社の死角 - Business Insider Japan",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmZGWjY0Z2ZCZ3BjbXRJajhEYWdRSkttUFN1X3Z3RFlSMlRWZ05nNFZfMFYzdzFSZ2RjXzhpRm9PSTN4MHBiYXFIMERoa1RGTllFY1g2d1BBb3NKZWZJTUhKMzB4QW0zSDdjRXF6ZmFGN3Mzd3R0cFBaTzIyTWRsaEdCQ2dQdUY5Wi1nbXZiWQ?oc=5",
+      "source": "Business Insider Japan",
+      "published_at": "2026-11-04T06:30:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:56:32+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T06:28:18+09:00"
+  "updated_at": "2026-11-04T06:56:32+09:00"
 }
