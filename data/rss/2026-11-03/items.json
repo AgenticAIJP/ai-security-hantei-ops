@@ -2844,8 +2844,80 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T20:05:05+09:00"
+    },
+    {
+      "title": "「アララ」メアド７７００万件流出＝サントリーは従業員ら１０万人―不正アクセス - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yTkoteFJ1QmgybmtBQlp4Y2swTG9tN0RrVUU2SHJldEkyWnJFeTdVNWYwQ2NVZkxCYlZJNjVzX0RBcFFpX1FRUVAzOWNnNVduNjVLb3F3Rk4?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-03T17:26:48+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:33:08+09:00"
+    },
+    {
+      "title": "越境ECサービス「WorldShopping」に不正アクセス、海外顧客301名の個人情報が漏えい 1枚目の写真・画像 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OQ256SUFRbEdJbTN0MDZEVmwtT196MFBYYnIteWFyRERVbEtpdmM5cUtmeXlZcHFVd1RGNDBHMDIxVFFoNmpDV0xPei1wUGZZYjE2R1J4WnlpbnRzcjRfRmJuOExtZHNmUzNoNjhjOEc1V2RRdkE?oc=5",
+      "source": "ScanNetSecurity",
+      "published_at": "2026-11-03T02:43:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:33:08+09:00"
+    },
+    {
+      "title": "セブンイレブン「７ＮＯＷ」、業務委託先に不正アクセス…顧客情報１６万９１５１件漏えいか - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTG9aYUxjdks3MjJIQnV4akt1V1RaYjRJeGhWQkQ5ZGo3dm5lbFdyVVAtTTdUYkhQQV9fQzdSTE1GeVdUVHEzQUc4U1hKejJrbFNsY2NlSDVYZUxfcGVta2x3VTViSE1nTmx1ZUdOU1RzNXZwT3NLVnI2WFBxc0NRS1JMWm15MVHSAYwBQVVfeXFMTnlkODVpS21odGh4djBobTMxZUV4TG1UYXJ4cTN1aTZnSmZ2NEN4dmowRUNvSE0teEdBTlg0S1NYUkI1SmxnN0FhTnctZzVDaTlrZW5qbUZOSVdiN1JfU1dEZ0ViYjRWOHhMelFMaHFNb2x3UzlBQ29oXzV1U0swQ3ZaNzVud3VEMlNiUEE?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-03T20:19:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:33:08+09:00"
+    },
+    {
+      "title": "『@cosme』不正アクセスで約300万人分の情報漏えい 「肌質」「髪質」流出にネット騒然 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wOGoyd29rVW9uNFNDZVdETkNEZk1HYWhkMjhHUXpxdlMxejB4MEx6elRWYmtPVzJ4ekt4THBuQjJ3Q01aWHJpQVl2ZnlHeVVzdWMwRG9tODNTeF85azRHbWxJNW0xSnM4Q1R1T29jcTU5MmNqV0ZISHhWTQ?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-03T09:06:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:33:08+09:00"
+    },
+    {
+      "title": "ENEOSでんきでも不正アクセス！57名の個人情報が漏えい、申し込んでも大丈夫？ - セレクトラ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83R19XbVhxSDhBY3B4NzgwX295c2t3ZjZEN3VDUFZmTUZFV05WeU9iUjJDNjAxRTVMczZLVWkwa0g5aE5zQjVIQXNHV3FiSkM0LURSLUpYWjNBMERkZHEyVkExWFFSSFQxenQza0s1ZldHOGVqLVpxOG8ydm5sZw?oc=5",
+      "source": "セレクトラ",
+      "published_at": "2026-11-02T23:04:28+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:33:08+09:00"
+    },
+    {
+      "title": "北陸電力「ほくリンク」会員のメールアドレス約55万件が流出 委託先のメール配信サービスに不正アクセス - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xTkttNmhfQm9nZnhmUFB0ek9HSlJyNnN2dzhSY0o3ajFINkg0OGU4emlQLXpReG9FZC02RGl1bjZKMXRGeHZoQzhEeDhqOW91eXgwd3pDY3pGRl9WSEpzVkM0R3RMek9zSUs5NEg5WGtFQnRZMF9RZV9oTTJNQTA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T21:57:23+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:33:08+09:00"
+    },
+    {
+      "title": "丸井G、顧客情報最大9000件流出＝デジタル社債管理委託先に不正アクセス(時事通信) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVWhhaEhDU1ZDTXlLMU9leU5wME9hX3QyRFdXSG9zcENTRnF2ZU1RNVdBNnJUYy1USzlsdnhMbmRidlZXMHVubGlnUUpqR3lIallOSVc3OW1aWEpiRVFfbFJxZGYwSTRMMTh2ZDlCd2UzalUwWFF6c2kwVE52UW5mWmJZRjc0V28?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published_at": "2026-11-02T21:14:19+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:33:08+09:00"
+    },
+    {
+      "title": "女性向け風俗で情報漏えい騒動 利用者からは「最悪です…」と不安の声 (2026年11月3日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MQzFCdnIzakR2S1pIOWllLVFDUy1BdFlkQW1zczhlMkpJeWhZdnp0RFpFNkJiZEdpLXRaVE5aUmxhVHBreDZzcWNYTVNyR0dSSXI3dkJqcUpHdG1Kanc?oc=5",
+      "source": "ライブドアニュース",
+      "published_at": "2026-11-03T20:05:47+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:33:08+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T20:05:05+09:00"
+  "updated_at": "2026-11-03T20:33:09+09:00"
 }
