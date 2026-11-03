@@ -1494,8 +1494,35 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T01:43:49+09:00"
+    },
+    {
+      "title": "韓国のHyundai Motor、自動運転・ロボティクスR&D組織で外部生成型AIを遮断…技術流出の防御壁 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oQWpYbV9RV0l2U1dPNDJoODhVRjV1cVZyVjd0SXZDTlVHSkVyakxCLXJPblRRVkU0S0RfcWFGMGtodXNHa1ZBcjBwM3FMajlvOElpQzVGY0IyeENBVU5FSEF3WmFyRW9PbWdXM2lYR0NZQkw1?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-03T18:27:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T02:11:57+09:00"
+    },
+    {
+      "title": "大阪市行政システム 情報漏えいか - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBST05YcXJINTB1U0lzNUpHWGdLdU5hSVpFb2lyZHJxdXdvbUIzMlN5REtBdE9BQjlfTFhJZmtLQ181SUl1OWVvMERyX0IwcEhS?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T13:50:05+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T02:11:57+09:00"
+    },
+    {
+      "title": "バイナンス巨額流出で注目、暗号資産の安全を守るセキュリティー関連株5選【日本株】 - トウシル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRLXowT1JSbU43SzVvOWE4MWtKMzVaOHV0YklQTElwQjBGYm1ROUtIcml0cDhvcU1oSUtBUGtPSjdLRVpSYjg2WkxkRjlLNmFDZ2ZybnR5MDJkQQ?oc=5",
+      "source": "トウシル",
+      "published_at": "2026-11-03T16:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T02:11:57+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T01:43:50+09:00"
+  "updated_at": "2026-11-04T02:11:57+09:00"
 }
