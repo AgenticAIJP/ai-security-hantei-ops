@@ -2646,8 +2646,17 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T18:12:30+09:00"
+    },
+    {
+      "title": "メール配信業者「アララ」7700万件メアド流出 悪用しカード会社装うメール大量送信か（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaFMzWndYWXQyMUVGUDFVcXY5WUZLWUxzLW5SbmQwQlpSWEZQa0M3aG8takVqZFNyRTZ2VFNFZmdnaXN3d2ZncUJ5Tm1Gdm0wNXRveTVKZExDU2FrSV9uY0NuOFBFQWxMT0doVXhWN1hIYURhcHFyT0dIS3dsNkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T11:36:17+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T18:40:43+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T18:12:30+09:00"
+  "updated_at": "2026-11-03T18:40:44+09:00"
 }
