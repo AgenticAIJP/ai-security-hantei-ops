@@ -2304,8 +2304,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T14:00:17+09:00"
+    },
+    {
+      "title": "ChatGPT、チャットなら利用上限を気にせず使える時代が終了へ “高度な推論”も利用量に応じた制限に - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ybUVrZlRSOVRJeTFpWjFyeTJma1RWQjN6Z2w0a203VVFSS1NBTmhsZTZDUHlyOElZR2VWVmg0SEJmR1YtXy1DS1Y3bjcycWJMRWpMX2M4QTloQUdVbzJXTw?oc=5",
+      "source": "ASCII.jp",
+      "published_at": "2026-11-02T16:25:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T14:28:18+09:00"
+    },
+    {
+      "title": "セキュリティ予算「27年度は増加」が27％ どんな対策に投資する？ - Howl.Link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5hWUlzamhxZHpLMVFDb1VyTHE5cERfMUl0Z0JwNUZBYmJfZGNFZllXck1lTG5wRkswWWRn?oc=5",
+      "source": "Howl.Link",
+      "published_at": "2026-11-03T08:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T14:28:18+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T14:00:17+09:00"
+  "updated_at": "2026-11-03T14:28:18+09:00"
 }
