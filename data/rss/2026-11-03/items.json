@@ -2034,8 +2034,62 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T10:43:59+09:00"
+    },
+    {
+      "title": "Ivanti Connect Secure、ゼロデイ 脆弱性2件を追加修正-3件の連鎖攻撃でroot権限奪取、CISAが悪用確認(CVE-2026-111357,CVE-2026-118527)",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ivanti-connect-secure-cve-2026-111357-118527-patched/",
+      "source": "",
+      "published_at": "2026-11-03T11:00:01+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:12:00+09:00"
+    },
+    {
+      "title": "クラブツーリズムに不正アクセス 個人情報約432万件漏えいの可能性、サイト停止（ITmedia NEWS） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42RE5NeG5fajhsY2RwWnhyS1daSFprbnFQSTJlU3VpQ3JxazdxUnA3QnRjLVFURlI0TlJQZEwtMTVhU0p0NXZyVXd0NlhnUXJLZl9zeXg3U2xsaWVHMVQzWXNETWtyeFFrZUdPWTZFeHl4ZmJJLTNTV1JwZGg0cGc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T12:03:36+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:12:01+09:00"
+    },
+    {
+      "title": "「みんなの純金」への国外からの不正アクセスを完全阻止 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aMm5sVlNlLWt2cFEzYnphM1FQNVVVekFpMXlQckd4S0VWSUlwcmdZajVmdnh6R0o2V0Q0dUhiYWpmcTFDa1diQVY1OTRKU05KOVVSeC12aFdHZno2b005NDhYUW1ldlRqeHFPUmhjU3ZCZw?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-03T10:15:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:12:01+09:00"
+    },
+    {
+      "title": "急増するサイバー攻撃 情報漏洩相次ぐ - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-02T19:18:38+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:12:01+09:00"
+    },
+    {
+      "title": "企業の個人情報流出… 長崎県警と県が対策呼びかけ パスワード強化など - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PYm52Q2cyYldoTVU3d2RFR3h3Y21DZFE3aURyZ1NBeFEwVkpCTko3QXliYmU4SC02TVhUTEJWN3BtVUswQzJzNTcwYw?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-03T10:50:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:12:01+09:00"
+    },
+    {
+      "title": "便利だけど法的なリスクがわからない…！企業がAIを安心して使うために必要なガイドラインとは？ - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KNjA4WmR4alVTYWx0U2wwRUVXTEFacW04YmZUZjRwYndUaWloT1RnYjZxZEdOYk5tMUwwNWxIVUI2cDZHYkhTazZ4Sl8?oc=5",
+      "source": "DXマガジン",
+      "published_at": "2026-11-03T11:04:36+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:12:01+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T10:43:59+09:00"
+  "updated_at": "2026-11-03T11:12:01+09:00"
 }
