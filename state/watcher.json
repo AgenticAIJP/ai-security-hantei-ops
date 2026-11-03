@@ -281,54 +281,10 @@
     "6ae9d5322bcb2ca012fe451a",
     "6ae9d5422bcb2ca012fe4530",
     "6ae9dfd72bcb2ca012fe4a3d",
-    "6ae9e69a2bcb2ca012fe4d6f"
+    "6ae9e69a2bcb2ca012fe4d6f",
+    "6ae9eabc2bcb2ca012fe4fbe"
   ],
   "pending": [
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-03T10:15:53+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae92f6e2bcb2ca012fde960"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-03T10:15:53+09:00",
-      "attempt": 2,
-      "post_ids": [
-        "6ae908122bcb2ca012fdd01c"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-03T06:02:05+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae8eb4cf27e65e1fc09f005"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-03T06:02:05+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae8eb50f27e65e1fc09f01c"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-03T06:02:05+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae8eb52f27e65e1fc09f02f"
-      ]
-    },
     {
       "key": "kenshin",
       "reason": "review",
@@ -408,6 +364,51 @@
       "attempt": 1,
       "post_ids": [
         "6ae908032bcb2ca012fdcffe"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-03T10:15:53+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6ae92f6e2bcb2ca012fde960"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-03T10:15:53+09:00",
+      "attempt": 2,
+      "post_ids": [
+        "6ae908122bcb2ca012fdd01c"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-03T06:02:05+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6ae8eb4cf27e65e1fc09f005"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-03T06:02:05+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6ae8eb50f27e65e1fc09f01c"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-03T06:02:05+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6ae8eb52f27e65e1fc09f02f"
       ]
     },
     {
@@ -3660,10 +3661,10 @@
       "managed_usd": 63.71,
       "baseline": 3,
       "hantei": 8,
-      "scheduled_usd": 2.02
+      "scheduled_usd": 2.42
     }
   },
   "eval_done": [],
   "alerts": [],
-  "last_run": "2026-11-03T22:53:22+09:00"
+  "last_run": "2026-11-03T23:21:22+09:00"
 }
