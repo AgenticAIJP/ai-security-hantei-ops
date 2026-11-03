@@ -1971,8 +1971,206 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T07:52:35+09:00"
+    },
+    {
+      "title": "WordPress バージョン 6 系および 7 系における遠隔からの任意のコード実行が可能となる複数の脆弱性（Scan Tech Report）",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56667.html",
+      "source": "",
+      "published_at": "2026-11-04T08:20:02+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "Proofpoint Blog 第60回 日本のランサムウェア感染率が 2 年で約 2 倍に急増 ～ ランサムウェア感染率/身代金支払率 12 か国調査 2026",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56666.html",
+      "source": "",
+      "published_at": "2026-11-04T08:15:02+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "PQC 移行の現在地とこれから TLS 1.3 から学ぶ移行戦略 ～ Internet Week 2026",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56665.html",
+      "source": "",
+      "published_at": "2026-11-04T08:10:02+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "再開を断念 PHPの重大脆弱性受け「くみあいアプリ」がサービス終了",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56664.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:34+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "外務省のネットワークに不正アクセス、7月27日に検知",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56663.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:31+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "「MUJIアプリ」で最大 約2,726万件の顧客情報が流出した可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56662.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:28+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "松屋公式アプリに不正アクセス 会員情報等が漏えい",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56661.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:25+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "「アイリスプラザ」に不正アクセス、安全確保のため一時停止",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56660.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:22+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "ELESTYLEのシステムに不正アクセス、加盟店の登録情報が外部に取得された可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56659.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:19+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "競輪・オートレース投票サービス「チャリロト」に不正アクセス、点検で不審なログを発見",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56658.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:17+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "高速道路情報サイト「ドラとら」に不正アクセス、登録情報が閲覧された可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56657.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:13+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "東京都水道局で個人情報を含む外付けHDD4台が施錠されたキャビネットから紛失",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56656.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:09+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "ハウス電子マネー発行サービス「Value Card」に不正アクセス、ID番号等が流出",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56655.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:07+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "台東区のウェブサイト管理者トラベルジップに不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56654.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:05+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "「グッドスマイルカンパニー公式ショップ」に不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56653.html",
+      "source": "",
+      "published_at": "2026-11-04T08:05:02+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "首相官邸、個人情報流出の被害者への相談窓口を案内",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56652.html",
+      "source": "",
+      "published_at": "2026-11-04T08:00:05+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "HA8000V 対応 HAモニタオプション（管理サーバーレス）にローカルアクセスによりOSコマンドインジェクションの攻撃を受ける恐れがある脆弱性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56651.html",
+      "source": "",
+      "published_at": "2026-11-04T08:00:03+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:40+09:00"
+    },
+    {
+      "title": "集英社オンラインの個人情報漏えいに関する取材協力",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/media-inquiry-shueisha-online-information-leak-20261104/",
+      "source": "",
+      "published_at": "2026-11-04T08:16:12+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:41+09:00"
+    },
+    {
+      "title": "丸井グループ、デジタル社債応募者最大9,086名の個人情報が一部流出　54名は銀行口座番号も対象か",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/marui-group-securitize-digital-bond-applicant-data-leak/",
+      "source": "",
+      "published_at": "2026-11-04T08:00:16+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:41+09:00"
+    },
+    {
+      "title": "ノジマオンライン、会員情報約700万件漏えい 不正アクセスでサイト休止、再開未定 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15bnZhUzdMVFM3LUNXemlfM1ZFZmFtMWFsNVc1elUxa0M0VjBISTNPU205Wk5TMWhfN0tZS0s2dzl4clUzVTRySnZTVnR2RG9ZQ0ZXZ293Q1U3WU1iRTFPNDdaNkRGQXBvYUE?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-04T07:04:35+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:41+09:00"
+    },
+    {
+      "title": "無印良品や松屋らアプリ被害 企業へ不正アクセス相次ぐ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BekRoeTZZVG5nOE9LMWsxdGl6LVNtTkF6M3pQTTFDQ2doR0JaRTZYT3UySnlCQ0kwTzRjQWZLUHB0NXhhNjRLRmcxT2JiZVl6Ync?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-04T06:44:37+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:41+09:00"
+    },
+    {
+      "title": "全社員を「AIマスター化」した広告代理店の“研修じゃない”人材戦略 - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hZ2NRcVE1M0FiTDQzZ1h1UzRSUmtLVEoxU1ZNZE93bGhKallqcGNKWTYwZjBuUGdmcm5FZTFQRUd1SzBrWERTU0prZUd1WHRpYjdtZ3JENmF2NWFBbGdiS1p1ZWhrUQ?oc=5",
+      "source": "キーマンズネット",
+      "published_at": "2026-11-04T06:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:20:41+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T07:52:36+09:00"
+  "updated_at": "2026-11-04T08:20:41+09:00"
 }
