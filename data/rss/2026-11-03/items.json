@@ -2592,8 +2592,62 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-03T17:44:29+09:00"
+    },
+    {
+      "title": "韓国大統領夫妻ら168人のパスポート情報がVirusTotalで約5カ月間露出　政府が調査、旅券再発行へ",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/korea_presidential_passport_virustotal_leak_168/",
+      "source": "",
+      "published_at": "2026-11-03T18:02:14+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T18:12:29+09:00"
+    },
+    {
+      "title": "【速報】京都市の「市民緑地」指定管理者に不正アクセス 不特定多数に迷惑メール大量送信、個人情報流出か（京都新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZm1iODVrQ0VmSmVKVkk5RFpoZVNkYU5JRmJoSDBvMkdDZ2ZTWkdZSHZDdnZva3M0VnNrc0xwc3lsU2hIbzVYNnpaS0kyQWtiM1hESWJCSnVhRWpjR3ZrNUJZU2FYdU1qLUhtVWpaLWdiNW5lWHdNR191VFB2Sjg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T17:48:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T18:12:29+09:00"
+    },
+    {
+      "title": "情報漏えい急増、北海道警察に相次ぐ講話依頼 「攻撃受ける前提で対策を」 - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83OVFvM1N6c1QzbktjUkdnZXNJUEFuMU9uU3p4QjltMzVvUDV5OTlxLS1sOU0tU1pVcVZSRVQ4eUcxYlBZaXQ2THY1ZnotanpVbVp6YXpoNHJCZw?oc=5",
+      "source": "北海道新聞デジタル",
+      "published_at": "2026-11-03T17:40:59+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T18:12:29+09:00"
+    },
+    {
+      "title": "大阪市の行政オンラインシステム、登録者の氏名など漏洩の可能性　アララへの不正アクセス - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSkJ4WkJZb2QzQ2hQMnMwcFlSekNqMlRwRVEtLTZScEs3WDBmNFB1UFZId2FVZElsZl9vb0Rkc1B4V1E2X0lsaHBuNV9pcUl6OXFhelliUTZVMEZVTUg0Sm95UDlBVm5MbVAta01SLWJDc215aDFSQ205eXpfcUtwMzBnd3lsUVZZdkVB0gGQAUFVX3lxTE1wZTgtQjkzNmNNalBfSDRfTXVTWWlzbG9EYllhbjRyYVlhTUlfSEd1eTdCTjF6MFFJdVJhSVBhUG9HUXF2bTZIYWNJb3N1ZHVjY2k5UGY4R2lFUGQySEFNV0R0ajRfbWtIR3U1dWcybTNqOFRHaWpTcU9YZ2RXcmtReThLQko5dXNuV2FuVkpTLQ?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-03T17:39:03+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T18:12:29+09:00"
+    },
+    {
+      "title": "韓国大統領の個人情報流出 専用機搭乗名簿、ネットに - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1pXVFZsWVIwUjFfbHFfM0xMRXViS3VKNGRIUjNfS1RuN2dscjMycS1XVVVURmdqTVlKd0NaQVljdEZlWlNWYzZMTDF4Ukp4QUktWlJONHRZU0RIeWhROG9CdmZNZXNEMHREVl9GeVVVZ0VsNTZ2aEpnSnY0TFNCXzNR?oc=5",
+      "source": "時事ドットコム",
+      "published_at": "2026-11-03T15:58:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T18:12:29+09:00"
+    },
+    {
+      "title": "サイバー攻撃で顧客情報が流出。身代金を支払わなかった企業に責任はあるのか？ 弁護士が解説 - bizSPA!",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsTUZBZUIzcGdqLThPOWRBajA1TU5MTkoyS2RHaWxJc25yYU5LN2gwQjhiTHVRM1laYkFVaTFqZ09BbXFC?oc=5",
+      "source": "bizSPA!",
+      "published_at": "2026-11-02T20:35:04+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T18:12:30+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T17:44:29+09:00"
+  "updated_at": "2026-11-03T18:12:30+09:00"
 }
