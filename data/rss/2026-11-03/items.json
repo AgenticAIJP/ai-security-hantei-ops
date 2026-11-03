@@ -2781,8 +2781,71 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T19:37:00+09:00"
+    },
+    {
+      "title": "サイバー攻撃で情報漏えい…専門家「流出する前提で備えて」個人でできる対策は？（khb東日本放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zOTMzMi0wSXl2aEpuUWZkSzZmSkNVS1I1WVNfRElWelRURGppREZwbFVhRWh0Mk00M1hfSUtuUmtVTUV4WDM5c2RjUmpsbGgtS0tCVWFkZXNLWXI3Qm80d1ZxVkhMV2xsVkM1cHNwYXZ6RU9sU3AycnQ4T20xa1E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T19:01:35+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:05:05+09:00"
+    },
+    {
+      "title": "京都市の「市民緑地」指定管理者に不正アクセス 不特定多数に迷惑メール大量送信、個人情報流出か - 京都新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kWUZENnJvVkYyUklrdjBPby1SQ0ZEWDQ4akt4eF81RWlXelAtVVFzdG85N2wyTEhhemxiWmRCbXhGTXlvUzFuVmw4UFFRdVBxQjNqYll1d1c?oc=5",
+      "source": "京都新聞デジタル",
+      "published_at": "2026-11-03T17:41:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:05:05+09:00"
+    },
+    {
+      "title": "流出したメールアドレスは最大２２４０件　岡山県管理のメールマガジン登録者情報が外部流出【岡山】 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KNlhjWU1fQnZtd0VMd05DZzM1cUxJbVRsVVdTeUtuM3lVNm1YTUF0dHFKS2d5U0pNVEF2VmpaY193b3RKU1FmMTBwcUhpSXdGblRJaTZLWmZKZTR1MXUwd3RBQ3lSMTVHZTNMTNIBckFVX3lxTFBRRFV2NmVfX2c1ZW0tbXBFdS1NNWdvWWhYY0RRQVpqcnRQLWppU09nM3BxS3ducWF5WVZLOTR1UjV1NTBhYTZhVEFMRXU0eXdHdWpUdmFZeXpqcUh0VEJDVnc0NlZOMlpGU2RUamJBUDdvUQ?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-03T11:45:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:05:05+09:00"
+    },
+    {
+      "title": "自社のAIは本番前に破られないか クラウドストライクが100種超で試すDreadnode買収 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkUFJod2JnR2dFZXJIX1hFZDlodWgxU0hTMjJXRF91OXA4RXAtYURRX0JXUVBKZEVYRkhqMmNGcFh2MDNMLWhhREdOTVlsZ0pzTnJ3?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-03T18:45:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:05:05+09:00"
+    },
+    {
+      "title": "見送られた8億円AI 精度上がっても「1％」の異議どう尊重? - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXbFBjdWp6RU56NmlZdi0wTzFCVDl6ZkdRZ2N4S0ZPRGcxWFE2Mmh1eTBuWHJURHAxeWVac0tac29rdHJDNFRVSXZjd2NJY2RLMV9XSHlMZ1RrSWtsakE2czJhUFpiNE1u?oc=5",
+      "source": "毎日新聞",
+      "published_at": "2026-11-03T16:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:05:05+09:00"
+    },
+    {
+      "title": "岡山の金融機関でＡＩ活用広がる ローン審査の補助や研修で機能発揮 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vQ3ItTkVsWFlaM2tlUEF1R21IQTY2Qmoxb2M1bHJfV3pHTndJZFF5SjZrUHlQQjlIV3k3RUU1TnlsRDlyZUlyVXBTWGZxeExQVGc?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-03T17:48:20+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:05:05+09:00"
+    },
+    {
+      "title": "米AI開発大手「アンソロピック」最大35億ドル＝5500億円あまりを日本で調達計画 新規上場で 今後条件決まる - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5odC1SOUVPeVA3aEpibElpRHFKSmVMWmVmVDY0clYyaGZKQ1NxaEJsa0Vtb3M4TlZYUkZUeXRSUGZtUjhvb0pBNVpaRGRWQ1BHQVlYdVRranhLUHktSHAxT056ZVlrZHNfT2Z1aGZ3?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-02T21:45:37+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T20:05:05+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T19:37:00+09:00"
+  "updated_at": "2026-11-03T20:05:05+09:00"
 }
