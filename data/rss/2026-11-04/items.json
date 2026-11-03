@@ -1539,8 +1539,35 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T02:40:05+09:00"
+    },
+    {
+      "title": "生成AIの発達でサイバー攻撃が「時短」 今年度すでに2億6000万人分漏えい…個人や企業に求められる対策とは - TVer",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0THc2emxsdm1iRHoxYWF4WHRLLXpwWHpOVk1xV3FwVzlnNktQRl9PQWRVSmFLQmRZclM1Q1diWjB5SW5PemNSX3hFNA?oc=5",
+      "source": "TVer",
+      "published_at": "2026-11-04T02:46:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T03:08:28+09:00"
+    },
+    {
+      "title": "農家の困りごとに学生がAIで挑む「Metagri Student Challenge 2026」募集開始、企画書だけでも応募可能 - MONOLAB",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90WmE3dVVvUlpXT2xyWnd4MHZ0QmduRHJ4ci1fN21XRjBQM1I3a2FZQUFwWThNdHFMb2d5ODE4ZDQ2el8zQmpHRG42Mko?oc=5",
+      "source": "MONOLAB",
+      "published_at": "2026-11-03T12:52:41+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T03:08:29+09:00"
+    },
+    {
+      "title": "流出情報 ダークウェブで高値に (2026年11月3日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzdjg2Z2hPVVR6SzM3N3diWUNSb3VMTmc3SmtPbEFBQkxYa1hyTlA5dmExNmtCQ1dlZnhQQnp4OHZVQmFuTnJTYlBYWGE1X2pzckdPUTNEZzFfYm9uUlE?oc=5",
+      "source": "ライブドアニュース",
+      "published_at": "2026-11-03T21:39:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T03:08:29+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T02:40:05+09:00"
+  "updated_at": "2026-11-04T03:08:29+09:00"
 }
