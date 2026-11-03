@@ -2385,8 +2385,107 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T15:24:18+09:00"
+    },
+    {
+      "title": "最大550万件が流出 口座・車両情報も ロードサービスに不正アクセス、自分も対象か（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPOTNSSGdtUW0tWnYzdFd4dDBWc3R3SkVtMHRBUzZtck5sZEpranA2aDltTk9jMFV0ajRJZlJSaDBfVEdGN2VfUHlEUGpsSXloejk0TUs3dFhvZnBHSGVyeXJKc1dZdG0tN3hPRmtsdTBxRUd1bHFBZUw2aU1NZnM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T11:25:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:20+09:00"
+    },
+    {
+      "title": "韓国大統領らの個人情報漏洩 有料サイトに5カ月公開 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85X3BURV90d1QxSk1PcjNQTTV3NDQ5d3JYT0RNQzcwWDFlenVGZmN1RUc4WmxtX254Q3dTNmZOa0sxYy1qNFFHMFZSUlMyOGtHSzZaVnYxWURUbTJqMW1LT0I1Q1h4TVBKNHpkZXpfZGRVa0h1d0R3NDB3?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-03T14:12:26+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:20+09:00"
+    },
+    {
+      "title": "大阪市行政システム 情報漏えいか - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBST05YcXJINTB1U0lzNUpHWGdLdU5hSVpFb2lyZHJxdXdvbUIzMlN5REtBdE9BQjlfTFhJZmtLQ181SUl1OWVvMERyX0IwcEhS?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T13:50:05+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:21+09:00"
+    },
+    {
+      "title": "ＧＭＯ熊谷正寿会長兼社長「情報漏えいはＡＩ発展が原因」と持論展開…専門家「被害者らが知りたい情報と乖離」 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GNUcwbXNmSnVSN0s5TWlkVWlTYUo1V0xWcFVaaVpQbDZGNTk5ejRlV21NOHpMVl9FT0R2TENPT1F4b1VWNTRzSGFzalVhb0l2Y3NoTVRFWUZJS1dTd0hwN0tLY2cxbFUx?oc=5",
+      "source": "読売新聞",
+      "published_at": "2026-11-02T21:28:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:21+09:00"
+    },
+    {
+      "title": "「冷凍庫が55度に」スウェーデンとベルギーへ拡大、サポート切れの制御機器に疑い - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxUmRKcXN1ejRzaHA1MlBrTkRYVGdfdVRPbjVMcHlQWkZ0b21aVTZleWhQYUJ0cnI3eTZSTDJYUzVmVWpqeW5pMHFjZGxFOFM5U2dn?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-02T21:48:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:21+09:00"
+    },
+    {
+      "title": "アマゾンと基本合意 旭化成ホームズ 生成AIで住宅サービス高度化 - 住宅新報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zdVR4YmRPQTFEQmdCZm5OcW9JZ0NNaEZqMGtzUUxaT0lRU182TmZNUzEzV1JxcTZUaVNVeExsLTJsdEFWNm81YXZLdm1nYnlMNHc?oc=5",
+      "source": "住宅新報",
+      "published_at": "2026-11-03T00:03:37+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:21+09:00"
+    },
+    {
+      "title": "ゼンリンなど 地理空間情報とAI融合 - 住宅新報",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ULWJxMmtkb2R5NXQ3TjJRa0NWRU9lOW5CS1NqNWFTWnFQVFprb1NuajJWalJ4ZXk5YUVLTVFNMmVYcHM4QUxENG05WGFzcU83WGc?oc=5",
+      "source": "住宅新報",
+      "published_at": "2026-11-03T02:58:26+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:21+09:00"
+    },
+    {
+      "title": "DeepSeek Harnessにクリエーターモード用のプラグイン作成機能が追加 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcnlfUFhlVldIaVZlX2lxaFJCei1PdVV5NFl3UWdTQlRzeTVETk5pSVktWWQxaWcwanNtUGhKaXlHa3dkN2lLUE1zYTlJMlU0blFsalh4Y2xpeG1yT2NTakJHc1ZWYko3Y25KRHBIU0RQQkN0VUsta0tvQVhUdUR3Tk10eWlXWUg5Q1F0akp3?oc=5",
+      "source": "Unite.AI",
+      "published_at": "2026-11-03T06:54:11+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:21+09:00"
+    },
+    {
+      "title": "NTTデータ委託先への不正アクセス、楽天証券や近鉄など影響を受けた企業一覧 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rdlFwallLbUpEbHhCcVE4SzFZaFZTQlNkTWxCVjh6Z2hSN2U0b0FZeDhOMUpIN3F2MThCUUQ2YVhRQUJMVEd6Q2lIMUtoZnJtWjk4MWdpNTFidVY4cFN6Ynd2WVdKRnFu?oc=5",
+      "source": "マイナビニュース",
+      "published_at": "2026-11-02T16:44:53+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:21+09:00"
+    },
+    {
+      "title": "間取り図作成の効率化支援で新サービス カナリー - 住宅新報",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FYlBFZzVDbUY0cTN0WHFIR05sWldKTExyZWRwVTJrcE5lNER2dWJNSTJYdUpZU1NMeXJHSFlRU1FjWE5kbDV3WUtKQTBSLXFr?oc=5",
+      "source": "住宅新報",
+      "published_at": "2026-11-02T16:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:21+09:00"
+    },
+    {
+      "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpck5pWFd6MEh0SmY1Z1M4U014NTRSTEdMUE9SYlhpSmVzaUdyUEVURWFibG9QM0JiZHhnRS1COHVPNEEzTUJYN1hCWlNaQnlobjZHNndzTzQ1ckVkeFNNa3psdw?oc=5",
+      "source": "sannichi.co.jp",
+      "published_at": "2026-11-02T18:17:05+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T15:52:21+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T15:24:18+09:00"
+  "updated_at": "2026-11-03T15:52:21+09:00"
 }
