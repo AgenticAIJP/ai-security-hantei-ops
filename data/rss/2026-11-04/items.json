@@ -1881,8 +1881,98 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T07:24:34+09:00"
+    },
+    {
+      "title": "「WordPress」更新機能のRCE脆弱性 - 悪用に米当局が注意喚起",
+      "url": "https://www.security-next.com/192310",
+      "source": "",
+      "published_at": "2026-11-04T07:26:27+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T07:52:34+09:00"
+    },
+    {
+      "title": "「Chrome 157」で脆弱性213件を修正 - 「クリティカル」は7件",
+      "url": "https://www.security-next.com/192316",
+      "source": "",
+      "published_at": "2026-11-04T07:51:41+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T07:52:34+09:00"
+    },
+    {
+      "title": "Android、11月のセキュリティ更新で216件を修正　23件がCritical、操作不要の遠隔コード実行脆弱性も(CVE-2026-58868、CVE-2026-58876、CVE-2026-58936、CVE-2026-58882)",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/android_november_2026_security_update_216_vulnerabilities_cve_2026_58868/",
+      "source": "",
+      "published_at": "2026-11-04T07:46:32+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T07:52:35+09:00"
+    },
+    {
+      "title": "コーヒースタイルUCC、LINEユーザーID44万9,442件が漏えい　ニックネーム17万件超、会員ポイント機能も停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/coffee-style-ucc-comsbi-line-user-id-leak-449442/",
+      "source": "",
+      "published_at": "2026-11-04T07:33:18+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T07:52:35+09:00"
+    },
+    {
+      "title": "週刊CSIRTブリーフィング：Ivanti実悪用ゼロデイ、Linux・Synologyの重大脆弱性とアララ大規模流出【2026年11月第1週】",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/weekly-csirt-2026-11-week1/",
+      "source": "",
+      "published_at": "2026-11-04T07:30:57+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T07:52:35+09:00"
+    },
+    {
+      "title": "オンラインゲーム「ハンゲ」、不正アクセスの可能性で緊急メンテナンス　11月3日23時10分から原因調査",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/hange-unauthorized-access-emergency-maintenance/",
+      "source": "",
+      "published_at": "2026-11-04T07:26:50+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T07:52:35+09:00"
+    },
+    {
+      "title": "IPA、不正アクセスによる個人情報漏えい被害者の「相談窓口」を強化 対応方法やアドバイスなどを提供 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JaURzdUNRZnd2TnZyS08xY3ZyMDdvTVpUMHNIbFg4MlBnVzZqOW01T2lPUlhfejFDcWRDcDVBZm50Qlh2dWItc3Z3OWNubWhrQVBnRXlR?oc=5",
+      "source": "EnterpriseZine",
+      "published_at": "2026-11-04T07:07:22+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T07:52:35+09:00"
+    },
+    {
+      "title": "アットコスメ、約300万人の個人情報が漏えい 不正アクセス被害により - Fashionsnap.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fTkVXWFhLWUZXT3pIRjdCY0N1R1BZdWY5Nk9nVWlZSVd0dVZocWVHbFhYbGVmYmFPVGl2NGtmM1F4dFd5WmJMcUNMWC1nYjVaNmJnYXQ4dThONXNfblBGNTZ0MUVhMmRnWm5pUHNPbmVRS05RcWc?oc=5",
+      "source": "Fashionsnap.com",
+      "published_at": "2026-11-04T07:46:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T07:52:35+09:00"
+    },
+    {
+      "title": "セブン「7NOW」の利用者情報が漏えい 配達委託先に不正アクセス - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aOTUtWFNmTzNVRXFleWtKa19EV2hveFFKM05WOTV5Z3BSUGpWYU9kTkNjaVM4UE9fZ09KbkJZM1pjb3lONjF4MjdSZHB3czV0THc?oc=5",
+      "source": "CNET Japan",
+      "published_at": "2026-11-04T07:20:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T07:52:35+09:00"
+    },
+    {
+      "title": "アソビュー、委託先メール配信の不正アクセスで会員1582万件流出 購入履歴も - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54TkoxbjZwRElYdHBtSnY1QXN2X3VmZlFVbGJrMnNYRkVHOWNSMHFtb0RXUlpGc2tSMTJ6YTdlZTFSTndYdUFFWTM5UmdDMlhaQ25Nd1ozT3RYNXdsTzRzOTdCeXdKOG9xUUxaeFdWc1VXSkRx?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-04T07:35:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T07:52:35+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T07:24:35+09:00"
+  "updated_at": "2026-11-04T07:52:36+09:00"
 }

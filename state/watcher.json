@@ -385,63 +385,10 @@
     "6aea5a772bcb2ca012fe9371",
     "6aea5dbe2bcb2ca012fe9514",
     "6aea5dbe2bcb2ca012fe951c",
-    "6aea5dbe2bcb2ca012fe9525"
+    "6aea5dbe2bcb2ca012fe9525",
+    "6aea5f522bcb2ca012fe95fb"
   ],
   "pending": [
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T05:31:14+09:00",
-      "attempt": 3,
-      "post_ids": [
-        "6aea1e932bcb2ca012fe7224"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:34:16+09:00",
-      "attempt": 2,
-      "post_ids": [
-        "6aea2b152bcb2ca012fe79dd"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:34:16+09:00",
-      "attempt": 2,
-      "post_ids": [
-        "6aea2b3b2bcb2ca012fe7a05"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:05:17+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aea2b3f2bcb2ca012fe7a1f"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T07:24:28+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aea58da2bcb2ca012fe924b"
-      ]
-    },
-    {
-      "key": "nobunaga",
-      "reason": "correction_request",
-      "at": "2026-11-04T07:24:28+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aea5a772bcb2ca012fe9371"
-      ]
-    },
     {
       "key": "nobunaga",
       "reason": "x_sokuho",
@@ -4767,18 +4714,96 @@
       ],
       "at": "2026-11-04T07:24:28+09:00",
       "attempt": 1,
+      "status": "done",
+      "cost_cents": 24,
+      "cost_final": true
+    },
+    {
+      "id": "kenshin-1793746349416",
+      "key": "kenshin",
+      "executor": "managed",
+      "session_id": "sesn_01T3EM9YrDMTc7DDhQ2HKzvr",
+      "tasks": [
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T05:31:14+09:00",
+          "attempt": 3,
+          "post_ids": [
+            "6aea1e932bcb2ca012fe7224"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T04:34:16+09:00",
+          "attempt": 2,
+          "post_ids": [
+            "6aea2b152bcb2ca012fe79dd"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T04:34:16+09:00",
+          "attempt": 2,
+          "post_ids": [
+            "6aea2b3b2bcb2ca012fe7a05"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T04:05:17+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aea2b3f2bcb2ca012fe7a1f"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T07:24:28+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aea58da2bcb2ca012fe924b"
+          ]
+        }
+      ],
+      "at": "2026-11-04T07:52:29+09:00",
+      "attempt": 3,
+      "status": "sent"
+    },
+    {
+      "id": "nobunaga-1793746349416",
+      "key": "nobunaga",
+      "executor": "managed",
+      "session_id": "sesn_01PS1CCw39VbiuAqJcTMSA3B",
+      "tasks": [
+        {
+          "key": "nobunaga",
+          "reason": "correction_request",
+          "at": "2026-11-04T07:24:28+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aea5a772bcb2ca012fe9371"
+          ]
+        }
+      ],
+      "at": "2026-11-04T07:52:29+09:00",
+      "attempt": 1,
       "status": "sent"
     }
   ],
   "last_dispatch": {
-    "nobunaga": "2026-11-04T06:56:26+09:00",
+    "nobunaga": "2026-11-04T07:52:29+09:00",
     "shingen": "2026-11-04T04:05:17+09:00",
     "chacha": "2026-11-04T04:05:17+09:00",
     "hideyoshi": "2026-11-04T04:05:17+09:00",
     "mitsuhide": "2026-11-04T04:05:17+09:00",
     "ieyasu": "2026-11-04T04:05:17+09:00",
     "kanbei": "2026-11-04T07:24:28+09:00",
-    "kenshin": "2026-11-04T06:56:26+09:00",
+    "kenshin": "2026-11-04T07:52:29+09:00",
     "nene": "2026-11-04T00:19:03+09:00",
     "baseline": "2026-11-04T04:05:17+09:00"
   },
@@ -4795,7 +4820,7 @@
       "scheduled_usd": 7.47
     },
     "2026-11-04": {
-      "managed_usd": 34.01,
+      "managed_usd": 34.25,
       "baseline": 2,
       "scheduled_usd": 0,
       "hantei": 2
@@ -4811,5 +4836,5 @@
       "why": "セッションが正常に終わりませんでした（budget_reached）"
     }
   ],
-  "last_run": "2026-11-04T07:24:28+09:00"
+  "last_run": "2026-11-04T07:52:29+09:00"
 }
