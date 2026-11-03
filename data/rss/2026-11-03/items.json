@@ -2484,8 +2484,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T15:52:21+09:00"
+    },
+    {
+      "title": "両備バス、アララ「repica」への不正アクセスでメールアドレス延べ4万3,221件が流出　メルマガ配信再開は未定",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ryobi-bus-arara-repica-43221-email-leak/",
+      "source": "",
+      "published_at": "2026-11-03T16:00:29+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T16:20:17+09:00"
+    },
+    {
+      "title": "〈女性向け風俗で情報漏えい騒動〉「偽名登録」でも安心できない？ 家族、彼氏、会社に“絶対バレたくない”利用者たちの不安 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42cVhjQUVFWEVTWUZ2aHhFc0M1UlN6a19mUFROcWFTX1k5Z3B3aXdVWUxTMTAzZG9pX0RocHlNTDQyYVBFWElRUEtBdGgwa013LUdGZWdhbk8zSmE0WnhmU3lYb1J3UVhza0hnMDBOVDA0a2haRkFTSjlRc2p6M2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T16:00:34+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T16:20:17+09:00"
+    },
+    {
+      "title": "韓国大統領の個人情報流出 専用機搭乗名簿、ネットに（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55LWcyWUhIRVBOdXQ3NHE2ajdFLWhyS0RYR2F2dmZiVHBtbGNvLTdNSGVUYjU4YnpmX3BCN044Vk9HeFpRQ0RrTGh4UUlzaVpUV3h3b2lyN2tmY1o3SVBBQXJfWVVYcXMxNmhRZlNOa2dVRWhwYlg3bkhnckFzZjA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T15:59:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T16:20:17+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T15:52:21+09:00"
+  "updated_at": "2026-11-03T16:20:18+09:00"
 }
