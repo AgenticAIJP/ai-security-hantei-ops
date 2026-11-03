@@ -3015,8 +3015,80 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-03T21:57:21+09:00"
+    },
+    {
+      "title": "ウクライナとロシアの緊急警報アプリが相次ぎサイバー攻撃を受ける　偽の核攻撃警報を配信、ロシアでは33地域に影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ukraine-russia-emergency-alert-apps-fake-nuclear-warning/",
+      "source": "",
+      "published_at": "2026-11-03T22:00:05+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T22:25:26+09:00"
+    },
+    {
+      "title": "栃木銀行、顧客のメールアドレス1000件流出 「アララ」不正アクセスで - 下野新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YaHduNjUyYzNzMzc2Z2JnMks3bWh0OWtnMTRsd3ZQTHE0S1lldjk4UzZKek54aDR0WkJSSDRHaS03RElvNFl0TGY5T3NxV3JaaVBKY1dyLW5Falk?oc=5",
+      "source": "下野新聞社",
+      "published_at": "2026-11-03T17:23:02+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T22:25:26+09:00"
+    },
+    {
+      "title": "大和証、２２万件漏えいか 不正アクセス、個人情報も - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUUDc4SXBhaU1WTVVBNGVScFJSWnJKOGFoMkRnQTZKdGlPUmNJWGxQQ1BnZTNiSzBiZFptZ2RCWmwwR1IyS2lGbUwwSENJazB1enhYR1o0enhCVUdj?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-03T12:05:03+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T22:25:26+09:00"
+    },
+    {
+      "title": "ビックカメラGの顧客アドレス約1490万件漏洩か　クレジットカード情報などは被害なし - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkU4bFoweC1jUHNuUG94LWNBeWpNSmsyZEJpWWNEbkNZLWxFZTdFMWpHTEdyLVVtd0ZYMTR1ZjlZNmVQTmVNV2htQnFQekhKa01nTHFmeFIwZGdjVzhUaURzaUF0RldMdkthU2NLMWtQZVBfTVhpYjlDQUVScEo2WXBiVUIzd20yQ0HSAY8BQVVfeXFMTVVVRDdnYV81Q2xHNDBWRmpvM3p1R0FvZ2hlUHlrTzZGUUFLRUotNmFHYnNYRnp0bS0yMDRzVzlsVktBNU5fd3AtYlBNUUljS1Zzd1loM1pJSXVDYm8tRmVvMm1iYmdIRjFQS1hrNk5yUk5OUmNtR1U0QXQwR3N1TXB4WDJadWVaZEE5R2NBakk?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-03T16:46:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T22:25:26+09:00"
+    },
+    {
+      "title": "佐川急便、５千万件超が流出か 個人情報、不正アクセスで - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBcXlSYVl6RHgxcjVBclZlZnFlaWVPREhqd2t2dy0yX01nNWZrWkRvTlh4Q29aUnhJTkRWSDVTeW5yX1NnSk9odjRTMmV3TzRLZDBsMlpSMzJSTncxRmMyem9xYW5zUlFH?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-03T13:56:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T22:25:26+09:00"
+    },
+    {
+      "title": "ポイントサイト「ワラウ」、口座情報など漏えいの可能性 「流出していない」とした初報を訂正 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JVFBuN1pyT0UzQnZ3R1VRRVFvQWlwQ0xOWlkwcGNnc2RxUVI2ZE5nZXN3Z3NSWUVmM3dadGwta0F2WUxhdEYtWlBQMXV0UHJUNm9taGtZWE03bmxpRGRB?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-03T12:04:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T22:25:26+09:00"
+    },
+    {
+      "title": "横浜市のオンライン行政手続きシステムに登録された約82万件のメールアドレスなど個人情報が漏洩か - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CSTh3VlRYT0EwczBoSGxycVVsU0hCWWVHRERFd0dLM1I5T2JWT0dhcmluNlVxLXpVSUV5UnFFcGEtakhvSnNnSUd5cmpxSWtWZjRmOHA4ZFpxd3Jx?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-03T12:44:27+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T22:25:26+09:00"
+    },
+    {
+      "title": "【独占】「当面、AIには手を出すな」…現代自動車、ハッキング懸念で中核部門に使用禁止令 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkSUhmcGtoZ3hvSm1uR1luNC1iMXZ0d2dMMS1DajA0aFFSWEhKUE5rcnVlZkt2UWxkUjNHdXdBN2RfVkNNZUczMU9iTjBoZ2R1aEtv?oc=5",
+      "source": "매일경제",
+      "published_at": "2026-11-03T17:38:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T22:25:27+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T21:57:22+09:00"
+  "updated_at": "2026-11-03T22:25:27+09:00"
 }
