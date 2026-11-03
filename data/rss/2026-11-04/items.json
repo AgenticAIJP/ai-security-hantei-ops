@@ -1629,8 +1629,17 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T05:31:21+09:00"
+    },
+    {
+      "title": "ダークウェブで日本人の個人情報の取引急増 世界で500万件以上も GMO社長会見で謝罪 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ncGd2dWlWckMwQ3pQMDNvLWpJelhRX0tzNnVsN1ZXdlRpY1lGeHo3eWl0TGhtUGF0QldVeWRFcU1OYU5ILURJcTJjMnJJakFOWlA1UmNBenFZRVloY29BTzV5UHE?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-03T15:02:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T05:59:50+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T05:31:21+09:00"
+  "updated_at": "2026-11-04T05:59:50+09:00"
 }
