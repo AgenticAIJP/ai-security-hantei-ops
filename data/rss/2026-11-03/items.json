@@ -1845,8 +1845,62 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T09:19:51+09:00"
+    },
+    {
+      "title": "生活協同組合ユーコープ、メールアドレス21万495件が流出　委託先アララの「repica」への不正アクセスが影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ucoop_repica_email_breach/",
+      "source": "",
+      "published_at": "2026-11-03T09:41:42+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:48:00+09:00"
+    },
+    {
+      "title": "北陸電力「ほくリンク」でメールアドレス約55万件が流出　委託先が利用するメール配信サービスへのサイバー攻撃が波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/hokuriku_electric_hokulink_550k_arara_email_breach_20261103/",
+      "source": "",
+      "published_at": "2026-11-03T09:32:17+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:48:00+09:00"
+    },
+    {
+      "title": "欧州のスーパーで冷凍・冷蔵設備へのサイバー攻撃が再発　スウェーデンでは温度設定が50℃に、7カ国で障害報告",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/europe_supermarket_refrigeration_cyberattacks_second_wave/",
+      "source": "",
+      "published_at": "2026-11-03T09:26:18+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:48:00+09:00"
+    },
+    {
+      "title": "【情報漏えい】サントリー、大阪ガス…関西企業でも相次ぐ サントリーHD鳥居副会長「防御できず…ご迷惑をかけた」と陳謝 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NaG5CT1JKd3Nwc1pyTVJacElLZ1EyNkFKMHZGV3VLMFRCSTJ1ZDN2U0Y0NlFramFHdlFFQk81LV9SbGlyaThXTFllTUJac2xKZ0dyTDladFJUQ3dlcUthdU12ZHBvV2s?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-11-03T09:36:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:48:00+09:00"
+    },
+    {
+      "title": "不正アクセスで個人情報流出続く サントリーHDやノジマ (共同通信) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUzROMEZrLVJ3WFR1UE9mT191azZwSjBGVjl3Q192VmlqMGw3eG5BeXQ3Y3owNjYzM3A2WGdGU3R1MUJXVkRxRGtkRDhxbjhPMzhYQlFZMkotbUprSlZHUml3NlFIV3dzOUU3RjVubGx0YS1ySEtCNmxnNDBoSXkyVGRHV3hFTl9SZjdCa3B3?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T21:42:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:48:00+09:00"
+    },
+    {
+      "title": "アットコスメ、約300万人の会員情報が漏えい 肌質や髪質も - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05R28yc0xoaXFlTEMzeUgzRWNaNnhnamJHSnhxdmFiVmVDSWhmc29CZkQySFF5VHQ0cHpGcWZyZWVlOGt0UG9kcWlVQ2JTZ3A2c2c?oc=5",
+      "source": "CNET Japan",
+      "published_at": "2026-11-03T08:15:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:48:00+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T09:19:51+09:00"
+  "updated_at": "2026-11-03T09:48:00+09:00"
 }
