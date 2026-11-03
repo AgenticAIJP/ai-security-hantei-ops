@@ -2511,8 +2511,53 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-03T16:20:17+09:00"
+    },
+    {
+      "title": "「くまモンテクテク」参加４７８人分の個人情報漏えい、データ管理会社が消去しておらず…不正アクセス被害 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04NEpaVm85UElJcXNQOEhPTy1Zak9tUEw1dUVDMDN3YzljWHVLWEhaWnA5eW9wZ1dMVGlYMEx1MTRmZm9yQ3o1NXF2bzJ2elNBYmx6XzJrSU5fREZZN2MzekhGUXlvQXRfTldrcmx3SUF6dw?oc=5",
+      "source": "読売新聞",
+      "published_at": "2026-11-03T11:48:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T16:48:29+09:00"
+    },
+    {
+      "title": "バイナンス巨額流出で注目、暗号資産の安全を守るセキュリティー関連株5選【日本株】 - トウシル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRLXowT1JSbU43SzVvOWE4MWtKMzVaOHV0YklQTElwQjBGYm1ROUtIcml0cDhvcU1oSUtBUGtPSjdLRVpSYjg2WkxkRjlLNmFDZ2ZybnR5MDJkQQ?oc=5",
+      "source": "トウシル",
+      "published_at": "2026-11-03T16:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T16:48:30+09:00"
+    },
+    {
+      "title": "Sarah Webb、LawVuの最高執行責任者（COO）兼共同創業者—インタビューシリーズ - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ0hiSlhkXzczTEhpOXpZOTdWTTd3VklxWjRNSXJWMVlrVGZ2WjItVGQxYWRndDBmYkd6NVJCX2x5UF8xNHkzN1l6NUN1QXpHaU45WXhZRjd0cFlLZzZVa0xtWUlqQS1LaE5MYzRUaE0wTkczb0d2ZVF1U2luWmNWczZESUFRSms?oc=5",
+      "source": "Unite.AI",
+      "published_at": "2026-11-03T02:41:45+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T16:48:30+09:00"
+    },
+    {
+      "title": "アイティフォー、サイバーセキュリティ相談の急増を受け法人向け専用相談窓口を設置 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HUVF4cDIybUYtVXV3d0pGY25RLUdaTlZRRnJKWHBTTXFGWTNGeV9VVFVOaG9KeE9CLXdpZ3VYSnlpQkh4czRaZGtmbW9yUE5tSElBSWZtcXBZX1diMTg5YlRZRXhXZHV5SXFyRU9QY0xabmNQVzllMUFnNA?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-03T03:51:14+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T16:48:30+09:00"
+    },
+    {
+      "title": "防災次官に長橋和久氏＝統括官は横山征成氏ら - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mVm1ZVGhONld6cFYxVUJHZ0ViV1NLR1drRFUta2VHUWljSkZzTXFEU0gtTXJrNUFQYjBCOVc2ZjQ5SmJIV0VTd29LdDM2all3eV9sVEp0bTc?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-02T17:11:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T16:48:30+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T16:20:18+09:00"
+  "updated_at": "2026-11-03T16:48:30+09:00"
 }
