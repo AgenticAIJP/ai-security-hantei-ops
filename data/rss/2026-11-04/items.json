@@ -1638,8 +1638,35 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T05:59:50+09:00"
+    },
+    {
+      "title": "2026年10月のサイバー攻撃の事例｜国内で未曽有のインシデント多発、SaaS侵害・AI悪用攻撃と重大脆弱性",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/https-rocket-boys-co-jp-security-measures-lab-2026-10-latest-cyber-attack-cases/",
+      "source": "",
+      "published_at": "2026-11-04T06:00:46+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:28:18+09:00"
+    },
+    {
+      "title": "「アソビュー！」メール配信システムに不正アクセス…1580万件の個人情報流出か 福井県立恐竜博物館のチケット購入者も対象の可能性 県が二次被害に注意喚起 - 福井テレビ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRZktWZGVqa2t5WUd2WGJEMlhjZDVETmVtRkk1NS16LVFjZ3BfdWRvLVdUV0QyUTRrR3YySHNfalZfMTVfcVpESlAybk1hc2w5N0ZBOVFBMzhQb0d3U0xla29GX2RSVUdL?oc=5",
+      "source": "福井テレビ",
+      "published_at": "2026-11-03T22:35:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:28:18+09:00"
+    },
+    {
+      "title": "不正アクセス相談が37％→57％に 攻撃者から自社のシステムはどう見えているか（画像）（1/2枚目） - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHg2VzdRWlZ6MjdMaUxZSlFQQWFmQ2dMVWJOZ09qOVNVMUlTT09aX3hlaTluZmpEYUFfc3Q4WUxSV3VJQWtmNUJTN1QwbEtrRU53YjZPWVpNZHRVSlFfRDdHNy1Jcm95MXZIMHVQRFNFa2R0NmQ1dVFPdUpqdVZwRmtBRS0?oc=5",
+      "source": "TechTargetジャパン",
+      "published_at": "2026-11-04T05:11:51+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T06:28:18+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T05:59:50+09:00"
+  "updated_at": "2026-11-04T06:28:18+09:00"
 }

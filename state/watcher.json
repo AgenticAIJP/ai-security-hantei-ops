@@ -384,6 +384,42 @@
     {
       "key": "kenshin",
       "reason": "review",
+      "at": "2026-11-04T04:05:17+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aea2b4e2bcb2ca012fe7a3c"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-04T04:34:16+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aea30f52bcb2ca012fe7d73"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-04T04:34:16+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aea31002bcb2ca012fe7d90"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-04T05:59:37+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aea45072bcb2ca012fe885a"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
       "at": "2026-11-04T05:31:14+09:00",
       "attempt": 3,
       "post_ids": [
@@ -433,42 +469,6 @@
       "attempt": 1,
       "post_ids": [
         "6aea2b3f2bcb2ca012fe7a1f"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:05:17+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aea2b4e2bcb2ca012fe7a3c"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:34:16+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aea30f52bcb2ca012fe7d73"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:34:16+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aea31002bcb2ca012fe7d90"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T05:59:37+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aea45072bcb2ca012fe885a"
       ]
     }
   ],
@@ -4668,7 +4668,9 @@
       ],
       "at": "2026-11-04T05:59:37+09:00",
       "attempt": 3,
-      "status": "sent"
+      "status": "failed",
+      "cost_cents": 205,
+      "cost_final": true
     }
   ],
   "last_dispatch": {
@@ -4696,13 +4698,21 @@
       "scheduled_usd": 7.47
     },
     "2026-11-04": {
-      "managed_usd": 29.77,
+      "managed_usd": 31.82,
       "baseline": 2,
       "scheduled_usd": 0,
       "hantei": 2
     }
   },
   "eval_done": [],
-  "alerts": [],
-  "last_run": "2026-11-04T05:59:37+09:00"
+  "alerts": [
+    {
+      "at": "2026-11-04T06:28:12+09:00",
+      "type": "not_finished",
+      "key": "kenshin",
+      "dispatch": "kenshin-1793739577553",
+      "why": "セッションが正常に終わりませんでした（budget_reached）"
+    }
+  ],
+  "last_run": "2026-11-04T06:28:12+09:00"
 }
