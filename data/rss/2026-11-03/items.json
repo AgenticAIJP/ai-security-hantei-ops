@@ -2322,8 +2322,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T14:28:18+09:00"
+    },
+    {
+      "title": "新潟市オンライン申請システム（e-NIIGATA）の外部メール送信サービスへの 不正アクセスに伴う影響について - 新潟市",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3FjTHRoU0g2ZFpYRmV4UVBpNlZ4Tl9JeHV0a1hTbWNlTVhnVjcxNlUxblRzWE1GRE5sQXZGbzA5cldDY3BpUWcxNDl6UW44SlBqaU84eDlHOERKdGdCNG5tQTUyQUlmOEltVURXbmxhb1dWUDdUcjlhenpMd2w2LVVXNDhXTUlaVmc?oc=5",
+      "source": "新潟市",
+      "published_at": "2026-11-03T14:42:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T14:56:19+09:00"
+    },
+    {
+      "title": "大阪市が使う配信サービスで氏名など漏洩か アララへの不正アクセス [大阪府] [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSDh4T29yX24zVDJUMk1TajRsMmlTSmtFMTgxR1dnNkN6a09EMlRyQ3BPOGpldFlXRkZ3QUlqT21pa1NuY3IyVTk5dXhPWFpWSnMydFRsdmFjanV5MC1aZHgtZjNJVGJFS1JDWm5PNC1YUTlfeXVEMmVmVFdBWm05NXpHRFNYSVE?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-03T14:47:59+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T14:56:19+09:00"
+    },
+    {
+      "title": "大阪市の行政オンラインシステムで利用者情報が流出か - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51T01WdmNBX0xUOXByM2ZmcGlUelFUMFhpdlR4c01GYXZ5c3pTa0xtVG10NlozLUJibUFKcWJBeTFOVkpXRGpkNGdTTlN4RXBjZlgzOXRqUDZiUG40Q1JfLW9OYUtBTmFDQ19FRld0c2lPYjNycHpJ0gF8QVVfeXFMT09MTXJUWmFRazhXRmpjeGJ2WXNsQ19WMVlEWFdRNU9EbVpYYkxMTUJ2OGUweEp0T3NrdWgtVzl0M2wxN01iU2VJN3gxUjdEdEFDYW9CbHp4NXhIOU5uZ3dsbng4RzQ3eWs4SW9Cbk1xZDBHTWpCdzA2VnI5Zw?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-03T14:28:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T14:56:19+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T14:28:18+09:00"
+  "updated_at": "2026-11-03T14:56:19+09:00"
 }
