@@ -2565,8 +2565,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T17:16:29+09:00"
+    },
+    {
+      "title": "ミツカン、顧客の個人情報漏えいか＝佐川急便への不正アクセスで - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EMS1TVUlPRU1PQ1Jtclk5ZTJVbTNCbHNZWW9tYi1mTEpNdHh3dkZ3ZGhrRDFCbDJRQjZNZ3hoZjVPYjdnUkZBQnU2MnlYZjQ2VmVEaU9MNnQ?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-03T17:26:48+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T17:44:29+09:00"
+    },
+    {
+      "title": "栃木銀行、顧客のメールアドレス千件流出 「アララ」不正アクセスで - 下野新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YaHduNjUyYzNzMzc2Z2JnMks3bWh0OWtnMTRsd3ZQTHE0S1lldjk4UzZKek54aDR0WkJSSDRHaS03RElvNFl0TGY5T3NxV3JaaVBKY1dyLW5Falk?oc=5",
+      "source": "下野新聞社",
+      "published_at": "2026-11-03T17:23:02+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T17:44:29+09:00"
+    },
+    {
+      "title": "北朝鮮関与は「荒唐無稽」＝金与正氏、バイナンスの暗号資産流出で - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tUXZkYW9leF9zRVNWc1JVbTBpUGtmMGhmT05PWWkzNzJ0R2lXVGxkLWNyWWZpdXp1M2xCZFM1QmZ6ekxHbmd1NlVxa1BfQlVVNGk2X2l1a1M?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-03T17:26:48+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T17:44:29+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T17:16:29+09:00"
+  "updated_at": "2026-11-03T17:44:29+09:00"
 }
