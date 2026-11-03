@@ -1584,8 +1584,53 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T05:02:47+09:00"
+    },
+    {
+      "title": "PHP2ShellでPalo Alto製ファイアウォール24台と管理サーバーが侵害　WordPressでは約7.8万件の攻撃試行も侵害未確認",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/php2shell-palo-alto-25-compromised-wordpress-unconfirmed/",
+      "source": "",
+      "published_at": "2026-11-04T05:30:16+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T05:31:21+09:00"
+    },
+    {
+      "title": "サム・アルトマン氏「すべてのバグを修正するだけでは追いつかない」　AIによる脆弱性発見が加速、サイバー防御の転換を警告",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/sam-altman-ai-vulnerability-patching-defense-shield/",
+      "source": "",
+      "published_at": "2026-11-04T05:15:56+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T05:31:21+09:00"
+    },
+    {
+      "title": "Lovable製アプリから情報漏えい、パスポート番号と20万件のチャット - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IMlZXcFRNb1lRZjZocm5DQVB0UTdwM21Ia2xlQXZwSHFOUS1aZTZoTi1CTDRrWm5ZSUozOWtRQ2dWaHFuR0FMRzM1alJ3dDlDTE1wbWtxQXBpMVlmNVpGRFMteERhd0tsQnUxRlkzdDIxTGtZNVFhNkFn?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published_at": "2026-11-04T05:30:46+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T05:31:21+09:00"
+    },
+    {
+      "title": "英政府機関NCSCが警告 AIは攻撃者の「力の増幅装置」、重要インフラへのAIランサムも - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kQXJXdHc2U0Z0V040d0FFQVZoek5KQklzMWRSVGxaTUpNTVRteXc3em0wOHVjano2eG9yeUNORS1mZThRMHFsOFhETXBXYkpFT040?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-03T21:43:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T05:31:21+09:00"
+    },
+    {
+      "title": "県立恐竜博物館のチケット購入者情報が流出か メアドや氏名、電話番号など - 福井新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yLXVkNGVnQW5CU0wyWDl4em50Z3lubzNIWUtRYklvMHRWWjdKMmFVVWlaMk1SM3ZseXBtdld2b2FobW5vR0tCNzR2dTdONjVxanpheHJjNjhza1l6WVE?oc=5",
+      "source": "福井新聞社",
+      "published_at": "2026-11-03T23:10:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T05:31:21+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T05:02:47+09:00"
+  "updated_at": "2026-11-04T05:31:21+09:00"
 }
