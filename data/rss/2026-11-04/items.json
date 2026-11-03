@@ -1521,8 +1521,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T02:11:57+09:00"
+    },
+    {
+      "title": "チケット購入者の個人情報漏えいか 県立恐竜博物館の予約販売サイト 外部システムで不正アクセス被害 流出件数はのべ1582万件超 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFBNOXk3QkZsaU9qRFZHRWZCeTJIU1lYSDUxN25meERTckJLVEVMVFNBbXhYY1J3YThwMnB4dE01bDhPMEc3bnBCSExjOE56ZE8tOVYtRkc3eXhIX1JqUnpwV2tGTXcwRFh6VGFKcUxLV2M1dVFQRTVfQ0xLX1ZPNkpyd2pFZHc?oc=5",
+      "source": "日テレNEWS NNN",
+      "published_at": "2026-11-04T00:34:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T02:40:05+09:00"
+    },
+    {
+      "title": "韓国大統領の個人情報流出 専用機搭乗名簿、ネットに：時事ドットコム - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NcEM4QmJuQlZYYW9tTWFONWZCQnRPaHQzM2pMZnl0dVloUXF5QTF3SVFKZjQ1VFF5MERWNWU1Q0Fla05VN2VKS1dRTVVybUQ5cnVMb3VURjliZW00M19WVktDQQ?oc=5",
+      "source": "時事ドットコム",
+      "published_at": "2026-11-03T15:58:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T02:40:05+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T02:11:57+09:00"
+  "updated_at": "2026-11-04T02:40:05+09:00"
 }
