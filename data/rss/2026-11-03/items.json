@@ -3168,8 +3168,53 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-03T23:21:27+09:00"
+    },
+    {
+      "title": "セブン‐イレブン「7NOW」で16万9,151件の個人情報漏洩の恐れ、配送委託先CBcloud「ピックゴー」への不正アクセスが原因",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/seven-eleven-7now-cbcloud-pickgo-data-breach/",
+      "source": "",
+      "published_at": "2026-11-03T23:42:46+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T23:51:06+09:00"
+    },
+    {
+      "title": "セブン、16万件情報流出 宅配サービス、氏名や住所（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EVFRmYzNHR0xMMkUyUVZrbjc0cl8wN3VLckJHd2tiUERhaVl6c3JxV0R0dnNQNFJJYmtZMmhPOUViUWUzMmdsSWJYR3o1TkFKTEE0OWdJWGNsZHhMUWtPOThBRkMteHpmM2loQkNSZjFYMTdyN2ZwNGZ1MXRPV00?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T22:28:23+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T23:51:06+09:00"
+    },
+    {
+      "title": "漏えいした免許証などの個人情報「新しい個人情報ほど高く販売」ネット上の“闇市場”の最新動向をセキュリティ会社が分析【Nスタ解説】 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oZ096WG1GSm9HdEVQTW1tUUFodm8xMEtLeE5lYWprbml6aGFSejFNV2JmT3Raa05pVHBNTFhySkdqaV9YeHJRczRkbDFUaU8zVXZyR3pZZXN6T2Y1c0tWYWR2SmxTQmc0OWFXenhNNNIBdEFVX3lxTE5ZSjI5enhDMUZSeDNMQVNlbTgwLXNBUlU4T01sNlR3T203cWJHWHhEZTF3Y1BPbUxVWk9lZzc2Z24wOWRkZUZ2anFUNDhiNm9KNVh6UWJmcnFQdy0tNFlHaUtRWnFHWEdZU3VMSWtkOVY2Y2Nr?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-03T21:39:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T23:51:06+09:00"
+    },
+    {
+      "title": "トヨタの豊田章男会長「幸せを量産するという思いで、多くの仲間と挑戦続けてきた」…秋の叙勲・旭日大綬章 - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YcHlYcGxIVVQyVGloTGhYMkdvUldnbjk4cTlCckE2MlNHM3BQUThuZjVJMUJZY29zUC0tMEtfY1NYR1pfeFJweG1ZREJsc3Fyb2JhYXhFMVRoblZYZml4ZEpqZnBFREhBNURzM093?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-03T10:10:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T23:51:07+09:00"
+    },
+    {
+      "title": "米アンソロ、売上高47％増 7～9月、新モデル投入で利用増 - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53Mzl6T3pvYWJFUk8ybUJ1dDNvaU9rdU0zbEVZRkFNTUxnNEd2R0g0b3BUVEZkZ04tVzJPRkQ0ZjBEX2dXaGVQQjhfN0Y5eE1TanlqLXlJTUlFX2w0WUdz?oc=5",
+      "source": "ライブドアニュース",
+      "published_at": "2026-11-03T09:53:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T23:51:07+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T23:21:28+09:00"
+  "updated_at": "2026-11-03T23:51:07+09:00"
 }
