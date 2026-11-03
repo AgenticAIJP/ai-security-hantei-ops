@@ -1953,8 +1953,89 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T10:15:59+09:00"
+    },
+    {
+      "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ　CVE-2026-58882をGoogleがCriticalで修正",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
+      "source": "",
+      "published_at": "2026-11-03T10:31:45+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T10:43:58+09:00"
+    },
+    {
+      "title": "ノジマ 不正アクセスで約700万件の個人情報漏えい | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zVFc3cElkcmdfRWU1ZTlxMF96RVJIaTVfaUpyUHdkaVJ6c25HOGVUZVE1Y012Y1ZxY0hqSjdUMTZONDZ3MTVNdFJfNHFEUDg1Z1BjQUk1Nll2dHFVNGJN?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-02T19:16:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T10:43:58+09:00"
+    },
+    {
+      "title": "サントリーで約9万人の個人情報が流出、外部クラウドに不正アクセス…応募者7,173人も（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MNnVWR3dqZkxHNlpyeTZEQnh0bHo5M0E3ZF92RldXR2RuR09SUnpoWEdocE0tNGNlMlZ3Mi1LbVphTFlSSWpaOGhRWjR2SEJYVEo0M1dhVFg1T3VRNTBWcmNPR25RV3BTc0o5UjExX0x6WGk0aEJ2NUpOS0dSOUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T16:55:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T10:43:58+09:00"
+    },
+    {
+      "title": "「悪用を完全に防ぐ方法はない」有名企業で相次ぐ個人情報漏えい…カード不正利用、アカウント乗っ取りを防ぐ自衛策 - 弁護士JP",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1Hb1pmZ0I1OENyenJMakNYRHdSalV3QVBYTDZOcjRRYS04VVdLb1hXdWx2VkV4TWdINHFPOTdua1E5Uktk?oc=5",
+      "source": "弁護士JP",
+      "published_at": "2026-11-03T10:18:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T10:43:58+09:00"
+    },
+    {
+      "title": "NTTデータ、2789人の情報漏洩を確認 委託先の不正アクセスで - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPSThmRzBZWUwzcjNxdDNpYndUWTBoTURPN29QOWM3OW1WWGw0NnJOWE0wSDlNQk85TGpnNXBGc2VSMEdsNU1Keng1RXRsZnJaczVMMnZkbzRlNEZCbFpTRWpNME15ZkcwR2M1Rw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-02T22:20:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T10:43:58+09:00"
+    },
+    {
+      "title": "【速報】「近鉄・都ホテルズ」でメアド約13万件漏えい 姫路市でも流出の可能性 「アララ」への不正アクセス受け（読売テレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUExDaS1ZYkNnS3F6TnVyM0huQVpVTFpmZEc5TE5OMjl0Z0t4b1JTb202eXNzN3o3MlVxLXVjU2ZqMlpGeVNXUURjVkhtUVVtamJxRXc3WUxaTDhQOEhWS2RkbzVUdEZDYlNOTmJqaVpETXZNb2RiMmlGaWxXN1U?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T00:22:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T10:43:58+09:00"
+    },
+    {
+      "title": "【速報】サイバー攻撃受けたIT関連企業「アルカディア」が被害をまとめた調書を大阪府警に提出　警察は不正アクセス禁止法違反の疑いで捜査 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRDk1ak9ydmJPWF9aaTJxLWNfSm9oVFBCcHQ4UHA2Vk81M1ZPS054cnE4SldJeXNBb2E2eTZKMVZhbVg4NUNCa0JmWFNmaVhqNmdndWtkS1BrMkVUc2V1Z1ZmUHpPWk9sWVFhTjd5c01zUUk2MmpPU2xhenZpRVZFWXRZdzJVUEJLX2Rwa3N0OTlRTklaWHFON2wzZUM1dktvQ18tYW5VTXhVeU13ekxrOEZxVEl3NEgxamlwRnJtZk04c0dCYURQQXBKRy1KbknSAX9BVV95cUxNdWVrbEhUWDE1NV9sd3ZhOUxnVkJrWTg2ekdpbEpIdnhhd2VseGFfcjhJYUh2SHFfVEQyWWVFNGt3bzEtN0dMTEJxR0JmVHZYMVNGSVFVd0x1VHREbk84NjdkdnhYeWJsV016OUZwa1hhN2NNbnhISlNOMkhHYjJ3?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-03T09:56:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T10:43:58+09:00"
+    },
+    {
+      "title": "セキュリティ予算「27年度は増加」が27％ どんな対策に投資する？（2/3 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhc1VGSU5ja01jc1E1Z3dSTGw5TUxFTkRnN0ZuWHZnNVBMR1VUWE1hNmJuUGNueTVZc1RWaUVOeXBlbGlldWpyNmxCaWVXYVhOZ1dIRm12RXNuSXFWQ0FvZy04MUhpRmUyd3pZeTVXSHF6emZN?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-03T08:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T10:43:59+09:00"
+    },
+    {
+      "title": "IPAが情報セキュリティ安心相談窓口を強化 個人情報漏えい相次ぎ対策助言 - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NMkVZTXJ0bEJjUmxtcXJadi1CZHg4TWg2eUY5QzI5Qk52UnczXzNqZ0ZFMU03MWVVeXNwUmZiQWtoN1ZvSlNr?oc=5",
+      "source": "Dellows News",
+      "published_at": "2026-11-03T03:40:40+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T10:43:59+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T10:15:59+09:00"
+  "updated_at": "2026-11-03T10:43:59+09:00"
 }

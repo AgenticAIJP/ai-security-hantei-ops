@@ -218,60 +218,6 @@
     {
       "key": "kenshin",
       "reason": "review",
-      "at": "2026-11-03T07:55:23+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae90e7b2bcb2ca012fdd3cc"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-03T07:55:23+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae90ebb2bcb2ca012fdd425"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-03T08:23:33+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae915e32bcb2ca012fdd898"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-03T08:23:33+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae916092bcb2ca012fdd919"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-03T08:23:33+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae9161e2bcb2ca012fdd933"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-03T08:23:33+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6ae916352bcb2ca012fdd956"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
       "at": "2026-11-03T06:30:43+09:00",
       "attempt": 1,
       "post_ids": [
@@ -2821,17 +2767,92 @@
       "status": "done",
       "cost_cents": 41,
       "cost_final": true
+    },
+    {
+      "id": "kenshin-1793670232712",
+      "key": "kenshin",
+      "executor": "managed",
+      "session_id": "sesn_01MqewFdRLQnjv6CuZgg4arY",
+      "tasks": [
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-03T07:55:23+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6ae90e7b2bcb2ca012fdd3cc"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-03T07:55:23+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6ae90ebb2bcb2ca012fdd425"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-03T08:23:33+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6ae915e32bcb2ca012fdd898"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-03T08:23:33+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6ae916092bcb2ca012fdd919"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-03T08:23:33+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6ae9161e2bcb2ca012fdd933"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-03T08:23:33+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6ae916352bcb2ca012fdd956"
+          ]
+        }
+      ],
+      "at": "2026-11-03T10:43:52+09:00",
+      "attempt": 1,
+      "status": "sent"
+    },
+    {
+      "id": "nobunaga-1793670232712",
+      "key": "nobunaga",
+      "executor": "managed",
+      "session_id": "sesn_01XqYQXacjE8ugdVzno1LSJg",
+      "tasks": [],
+      "at": "2026-11-03T10:43:52+09:00",
+      "attempt": 1,
+      "status": "sent"
     }
   ],
   "last_dispatch": {
-    "nobunaga": "2026-11-03T09:47:54+09:00",
+    "nobunaga": "2026-11-03T10:43:52+09:00",
     "shingen": "2026-11-03T08:23:33+09:00",
     "chacha": "2026-11-03T09:19:44+09:00",
     "hideyoshi": "2026-11-03T08:23:33+09:00",
     "mitsuhide": "2026-11-03T08:23:33+09:00",
     "ieyasu": "2026-11-03T09:19:44+09:00",
     "kanbei": "2026-11-03T08:23:33+09:00",
-    "kenshin": "2026-11-03T09:47:54+09:00",
+    "kenshin": "2026-11-03T10:43:52+09:00",
     "nene": "2026-11-03T03:31:57+09:00",
     "baseline": "2026-11-03T06:30:43+09:00"
   },
@@ -2850,5 +2871,5 @@
   },
   "eval_done": [],
   "alerts": [],
-  "last_run": "2026-11-03T10:15:53+09:00"
+  "last_run": "2026-11-03T10:43:52+09:00"
 }
