@@ -2169,8 +2169,71 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T08:20:41+09:00"
+    },
+    {
+      "title": "創刊 28 周年記念キャンペーンのおしらせ（3）特別企画『When I'm 28』寄稿者決定のおしらせ",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/04/56668.html",
+      "source": "",
+      "published_at": "2026-11-04T08:25:02+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:48:46+09:00"
+    },
+    {
+      "title": "大学コンソーシアム大阪に不正アクセス、学生延べ1,557人分・43大学の管理用アカウントが漏えいのおそれ　近畿大学の延べ789人分にも影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/university-consortium-osaka-data-leak-1557-students-43-universities/",
+      "source": "",
+      "published_at": "2026-11-04T08:33:03+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:48:47+09:00"
+    },
+    {
+      "title": "NICT、IoT調査「NOTICE」の送信元IPアドレス208個を公表　特定アクセス行為の93個も明示、誤検知を防ぐログ確認方法",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/nict_notice_scan_ip_addresses/",
+      "source": "",
+      "published_at": "2026-11-04T08:30:01+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:48:47+09:00"
+    },
+    {
+      "title": "大学コンソーシアム大阪に不正アクセス、学生延べ1,557人分・43大学の管理用アカウントが漏えいのおそれ 近畿大学の延べ789人分にも影響|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcU1meTFuM2RGUFJtd2MxTXZyYzBVOXdLNE1TNFpzZW03Wk5IOWg4UlRIX20tMGc1SjB1WU9zbHpVRE1PeFNQendZYnhFa0RFbjF5ODFZXy1pMXF1Y0VtbXZRZFVUM3pRWG9aLWpiWFNNbEw1UTN1Sl8zdldBNTBTVzZhQlRSNDVyZ2FJVGExLUlsbURxbnZZRHlxSWtybjI3Nlk5dk5OU1BfOTh6VUZLTlZ6SGhfYnc?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-04T08:33:03+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:48:47+09:00"
+    },
+    {
+      "title": "全日空、顧客情報流出か 不正アクセス、影響調査中 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBneWlkem1uenZWN1RPMmluY1hidlFzVFB5OXN3ZGpDLXo5RkhHb1kxaklGelNxR2VlWGRQLU1ESkh6MW1Idk90MTlTYkJOZmFZTkE?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-04T07:56:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:48:47+09:00"
+    },
+    {
+      "title": "「よけい不安になった」タイムズカー情報漏洩をめぐる“あいまいな記載” 質問しても真相は闇（1/3 ページ） - 乗りものニュース",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBQkx6ME44RkpUYy1tOVpVVzJsMGpfR29ERjJUYzI3MzA5dEtpbm15MFhmWDNtRVp4ek05SE5hWTVKQWpFVDdZLW93?oc=5",
+      "source": "乗りものニュース",
+      "published_at": "2026-11-04T08:42:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:48:47+09:00"
+    },
+    {
+      "title": "ノジマオンラインに不正アクセス、約700万人分の個人情報が流出か サイトは一時休止へ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8za3R3MUJqZDBPeGloLVpodEJSZDUxVzF1SjlOY25aWlhxSGhpcTRJcC1zdTR5TmF6UTd2ZU9PdXpYNGhUdGlfbGNIQV9TTUMyMm1BS0d6YXpJcGw1bVVpYm1wUFhZYnliTnc0b2QyOVBjc0tCcWp0Ui05Yw?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-04T08:39:22+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T08:48:47+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T08:20:41+09:00"
+  "updated_at": "2026-11-04T08:48:47+09:00"
 }
