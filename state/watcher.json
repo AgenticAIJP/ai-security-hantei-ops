@@ -375,63 +375,10 @@
     "6aea31232bcb2ca012fe7dd6",
     "6aea31322bcb2ca012fe7dfd",
     "6aea313a2bcb2ca012fe7e14",
-    "6aea314b2bcb2ca012fe7e36"
+    "6aea314b2bcb2ca012fe7e36",
+    "6aea37b52bcb2ca012fe8189"
   ],
   "pending": [
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:34:16+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aea313a2bcb2ca012fe7e14"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:34:16+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aea314b2bcb2ca012fe7e36"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:34:16+09:00",
-      "attempt": 2,
-      "post_ids": [
-        "6aea1df42bcb2ca012fe7162"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:34:16+09:00",
-      "attempt": 2,
-      "post_ids": [
-        "6aea1e182bcb2ca012fe71a3"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:34:16+09:00",
-      "attempt": 2,
-      "post_ids": [
-        "6aea1e3e2bcb2ca012fe71c6"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-04T04:34:16+09:00",
-      "attempt": 2,
-      "post_ids": [
-        "6aea1e932bcb2ca012fe7224"
-      ]
-    },
     {
       "key": "kenshin",
       "reason": "review",
@@ -505,12 +452,12 @@
       ]
     },
     {
-      "key": "nobunaga",
-      "reason": "x_sokuho",
-      "at": "2026-11-04T03:08:21+09:00",
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-04T05:02:41+09:00",
       "attempt": 1,
       "post_ids": [
-        "6aea1e512bcb2ca012fe71f0"
+        "6aea37b52bcb2ca012fe8189"
       ]
     }
   ],
@@ -4564,6 +4511,73 @@
       "tasks": [],
       "at": "2026-11-04T04:34:16+09:00",
       "attempt": 1,
+      "status": "done",
+      "cost_cents": 48,
+      "cost_final": true
+    },
+    {
+      "id": "kenshin-1793736161664",
+      "key": "kenshin",
+      "executor": "managed",
+      "session_id": "sesn_01D7s4Mzu4aRaKjh4QMcqFdj",
+      "tasks": [
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T04:34:16+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aea313a2bcb2ca012fe7e14"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T04:34:16+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aea314b2bcb2ca012fe7e36"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T04:34:16+09:00",
+          "attempt": 2,
+          "post_ids": [
+            "6aea1df42bcb2ca012fe7162"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T04:34:16+09:00",
+          "attempt": 2,
+          "post_ids": [
+            "6aea1e182bcb2ca012fe71a3"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T04:34:16+09:00",
+          "attempt": 2,
+          "post_ids": [
+            "6aea1e3e2bcb2ca012fe71c6"
+          ]
+        },
+        {
+          "key": "kenshin",
+          "reason": "review",
+          "at": "2026-11-04T04:34:16+09:00",
+          "attempt": 2,
+          "post_ids": [
+            "6aea1e932bcb2ca012fe7224"
+          ]
+        }
+      ],
+      "at": "2026-11-04T05:02:41+09:00",
+      "attempt": 2,
       "status": "sent"
     }
   ],
@@ -4575,7 +4589,7 @@
     "mitsuhide": "2026-11-04T04:05:17+09:00",
     "ieyasu": "2026-11-04T04:05:17+09:00",
     "kanbei": "2026-11-04T04:05:17+09:00",
-    "kenshin": "2026-11-04T04:05:17+09:00",
+    "kenshin": "2026-11-04T05:02:41+09:00",
     "nene": "2026-11-04T00:19:03+09:00",
     "baseline": "2026-11-04T04:05:17+09:00"
   },
@@ -4592,7 +4606,7 @@
       "scheduled_usd": 7.47
     },
     "2026-11-04": {
-      "managed_usd": 26.73,
+      "managed_usd": 27.21,
       "baseline": 2,
       "scheduled_usd": 0,
       "hantei": 2
@@ -4600,5 +4614,5 @@
   },
   "eval_done": [],
   "alerts": [],
-  "last_run": "2026-11-04T04:34:16+09:00"
+  "last_run": "2026-11-04T05:02:41+09:00"
 }
