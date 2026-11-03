@@ -1737,8 +1737,116 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T08:51:47+09:00"
+    },
+    {
+      "title": "神戸新聞NEXT、アララへの不正アクセスでメールアドレス約4万件が流出　ニュースレター・メルマガを停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/kobe-shimbun-arara-message-email-leak-40000/",
+      "source": "",
+      "published_at": "2026-11-03T09:07:43+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:50+09:00"
+    },
+    {
+      "title": "大阪ガス「FitDish」でメールアドレス3万4,489件が流出　委託先アララへの不正アクセス、偽の配送・支払い案内に注意",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/osaka-gas-fitdish-arara-email-leak-34489/",
+      "source": "",
+      "published_at": "2026-11-03T08:53:09+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:50+09:00"
+    },
+    {
+      "title": "二段階認証は必須！パスワードは使い回ししない！できるだけ長いものを！専門家が語る個人情報流出防衛策 - TOKYO MX",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QVFBFMXVnenpYNlkzZVk3c1IyLTJ1NE1rckp6NEl2X1lzcVh5akN5MlNZMFhpUWl2aklLZ1JVUzdLRkc5M1lyLXlBYmpBcHNsQm1qdlFtU01IV1V0WGhtbHUzcmlMc1dKemZ3Y1Bn?oc=5",
+      "source": "TOKYO MX",
+      "published_at": "2026-11-03T06:50:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:51+09:00"
+    },
+    {
+      "title": "大阪ガスのおかず定期便サービスで３万件の情報流出 「ＦｉｔＤｉｓｈ」利用者のメールアドレスが不正アクセス被害 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aazM3T0E1cWF0VHNuTnRWb05CRTlacXhXNjFqM2RJSTNlcElsbTJNT21IUzR1MlNKcXNfa1hoQW1ESkdrSHZqVkhyanNoUWFsWmxSNmFfQy1xY2M4eml1RzdlY1lWX2g2dWltLThYRGNVMEV6R01xWHdlcHdmdHM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T19:49:26+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:51+09:00"
+    },
+    {
+      "title": "『増え続ける情報漏洩、専任担当がいなくてもクラウドセキュリティは守れるか？』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GZ3ZrOEVnVjk5ajNWZE5ScGR6eGdZZUxQdktncTFXWTRCc3l0bXl2cU1QZVVzU2FUYWczSEs3N0xZSTBZZE9YSFYxTVdjRjVhZFJHQlRudl9LcDA1emJiS204U3c3bWtXeWc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-03T09:00:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:51+09:00"
+    },
+    {
+      "title": "『【このままアンチウイルスだけで大丈夫？】相次ぐサイバー攻撃、これから始めるEDR対策』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80QUtqY0NlMlAwYWpHUWg3RkN3djUydGVwV2hRM1E1WldOMDdwRzV4MkhUN3JFVjJNTEdFV0laclgzLW1vRVhwLW5BaVhyQnJiMXB3ajhtUWlHQ2ktWldUSUJmQUNTQy1GRXc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-03T09:00:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:51+09:00"
+    },
+    {
+      "title": "『【再放送】情シスキーマンが辞めても業務は回るか？』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LTzZ2SV9hRW1xU3p2c2ppcGVFb0IzTjJZNGFoWlNJbE1nTFplSGJ2TUphR3AxUXNsOUo4YUlRRUlHeUtGUzh3akFCLUYyWDcwYkxBNmhBalZUUlhRdS16R2t4V0VHMW9PQ1E?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-03T09:00:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:51+09:00"
+    },
+    {
+      "title": "『生成AIに聞く前に、その集計データ、信用できますか？』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FejNqbnIyblFMbi1mXzFjTGprb0xFLUZzRU40bWVLeUlMcXhqTDM4djVBTUxRVXIyZzhabkxkTUM1LVRWWlRnRHB5T0NpNUNJbHhaWTlBT2pscXY3bXVtckxhS1VoRGVwQ1E?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-03T09:00:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:51+09:00"
+    },
+    {
+      "title": "『AI駆動開発、PoCから製品化する際の品質をどう担保する？』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0UlBrOWdCdkROVnFGLXgtT3RaVUplbVlmd2RVSEVEV0QtNlpaNjE2WVVXb1VaWjBJNFpuODlZOTdjcER1T2N3WlJlX1M1UUp3V3d1dnpzc1ZWdm1DMjJ4b1BtdjIxTnYtRGc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-03T09:00:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:51+09:00"
+    },
+    {
+      "title": "『ServiceNow導入が急務だが、導入期間と構築費用が壁となり検討中から抜け出せない』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ec2djR29TNF9WTWdTd002UkZMWGhEWlU3OGdPd2J0bmNCcS1wSW5HQ05MdzFqNk5pVlhsU2xMVlFyMHpxN0dXdk9CeVZDRGZLT0tub2ktOVhrWHZBQmI0QVItUGRicC1XMVE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-03T09:00:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:51+09:00"
+    },
+    {
+      "title": "オプティム、医療領域で初のM&A医用画像共有サービス「Drs'HotLine(R)」を提供するMediTech株式会社を子会社化 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNczRvSUxzX0pCQXl1WUdiY21KX0lXYlpkajdvdkIyU0lCREFMQ05KODdNR05YcUN1Q0lmLXBNTEpBMGNnUlJPWk5zN1MwUXgyM1NkMnY4TlZTdEw3RHlwaXNyWklBWExh?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-03T03:45:21+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:51+09:00"
+    },
+    {
+      "title": "『【再放送】【販売店様向け】ランサムウェア対策でバックアップ改ざん防止需要が増加。設計・選定の手間をどう減らす？』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sTGhuRjZtRThfWGREam4wVXRVMGNRdTR1eFJ3N1d4UVdWS1NoaEdHWlRfUTEzS015cE0xbFlXaXY2b0IxMXkyQTZJa28teU9MVlNVU0U2VXJVdVR5clhlNmsxbm5TRmdWTkE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-03T09:00:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T09:19:51+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T08:51:47+09:00"
+  "updated_at": "2026-11-03T09:19:51+09:00"
 }
