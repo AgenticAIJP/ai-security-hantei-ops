@@ -2088,8 +2088,53 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T11:12:01+09:00"
+    },
+    {
+      "title": "とんかつ「まい泉」に不正アクセス、宅配注文者・配送従業員96名の氏名とお届け先位置情報が流出　外部クラウドからファイルを持ち出し",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/maisen-cloud-delivery-location-data-breach/",
+      "source": "",
+      "published_at": "2026-11-03T11:18:15+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:40:03+09:00"
+    },
+    {
+      "title": "最大550万件が流出 口座・車両情報も ロードサービスに不正アクセス、自分も対象か - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vcVNBaUpvc1VCUDEySlctWnhsVjNBWDZVTnBvTWZuRzRNYWdyRDAzNlB5Z1h2U2NmaTl4di0wQmhOOEdHZjFReDFZMTZ1LUxRdEFV?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-03T11:15:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:40:03+09:00"
+    },
+    {
+      "title": "とんかつ「まい泉」に不正アクセス、宅配注文者・配送従業員96名の氏名とお届け先位置情報が流出 外部クラウドからファイルを持ち出し|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONy1DMmhHTnBuenV5NU53dTNrMGN4VmpiZVBSclNhcHhfSkJZUkFETW9WUV9jQ201Qkk1QjlIS21wVXl3RG5EUC1YektMcjZWZUVUTzdhN2RoeG1sVnpaTVl5a1JIYWVBX0pZak1jaks4VGNqc2dtcnNVT0hmRkZoMC1rZ0VqMUkxdmUwYXJmSHMxN3dWbHc?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-03T11:18:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:40:03+09:00"
+    },
+    {
+      "title": "ロードサービス事業 最大約550万件の情報流出 車両情報や口座番号など 不正アクセスで（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jX1BsblViMkc5WjNneEtObjJkR1BYeXlMNXhJaEZWaG9ONjVldlRUeW5oTlZfckRTMjM3aW9SbEdRbUo5cC1vSjQySGYxTWh4cTgyNjJpc2paSUQ2UEV1bkRQQk1QWXJ6N2xNeWJmY2xjTl9NLWxmeExweFJfUHM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-02T20:23:34+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:40:03+09:00"
+    },
+    {
+      "title": "TKC顧客のメアド最大223万件漏えいか 宇都宮市の電子申請システムも 「アララ」不正アクセス - 下野新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01SFYyTGhVOURVa3NuOHJkMFFnWkRSUER1RGFtbXNaLW1nZF81UHo1TUdVSDV0Y2NnM1h2SmxoWF9LV2ttUGJtSWhZV3VhS0tqZGEwai0tRy00Njg?oc=5",
+      "source": "下野新聞社",
+      "published_at": "2026-11-03T11:32:31+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T11:40:03+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T11:12:01+09:00"
+  "updated_at": "2026-11-03T11:40:03+09:00"
 }
