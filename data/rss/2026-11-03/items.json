@@ -2223,8 +2223,17 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-03T12:08:04+09:00"
+    },
+    {
+      "title": "不正アクセスで個人情報流出続く サントリーＨＤやノジマ | | 全国のニュース - 佐賀新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yNHVHVWtBdjgxVllSVFFhQXhZc0ltU2htVm9UcS1nQ0swUk1jUU96VEpkbHBxNnVoeUMyYjZPbURzdl9VVXRqS3hwNFlVckNic1NaWUNB?oc=5",
+      "source": "佐賀新聞",
+      "published_at": "2026-11-02T21:42:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-03T12:36:07+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-03T12:08:04+09:00"
+  "updated_at": "2026-11-03T12:36:08+09:00"
 }
