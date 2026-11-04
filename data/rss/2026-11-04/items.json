@@ -3366,8 +3366,89 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T15:49:10+09:00"
+    },
+    {
+      "title": "Anthropic、Claude Coworkの仮想マシン内にEDRセンサーを導入可能に CrowdStrikeなど7社に対応、AIエージェントの実行状況を監視",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/anthropic_claude_cowork_edr_vm_security_monitoring_20261103/",
+      "source": "",
+      "published_at": "2026-11-04T16:00:27+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:17:21+09:00"
+    },
+    {
+      "title": "不正アクセス／物流企業で被害相次ぐ、個人情報漏えいやサービス停止 - 物流ニュースのLNEWS",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nbUdaR0NuX08zaE40Y2ZjT2tFNENDM3JBdS1laWZOeVFqMEdwTlFjU0VKN2NiUHdZOTZXdF9ObFNHbDFPVVFNejY4TXBXRXk2aDk4LQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "published_at": "2026-11-04T15:53:33+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:17:21+09:00"
+    },
+    {
+      "title": "ソニー銀行、不正アクセスで621件の個人情報漏洩 一部は口座番号も - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15SWNpS3hnanRuMm9ZbTI4UzhfRUF5TTZBSC1PVEJ1N2ZHNVItSDliTnhTd1F3UnkxVDJXUmU1OEluc05ObUpYOUJhblptVTJSWFQzaUdfRW9HbjFlWmJXMzZVbGF6NXJzVzVmUg?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T15:21:53+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:17:21+09:00"
+    },
+    {
+      "title": "ワークマン、メルマガ会員のメールアドレス最大約145万件が漏えいの可能性 配信委託先に不正アクセス - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RaFUyZ2liRFJDbVoxSDJaandkYWJ5MjVUSnpWSTd2RVdIZzlhVUsyS2VyTUhHMXJoSVNxUWlnMVFOWmZOLW85LUVBNkZzay1lTjFCNllsWkpLODh1Wlc4blp1NzVqTVBhUFdtbThUTk8xdEdQbUJlRS1NYWJnSk0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T15:35:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:17:21+09:00"
+    },
+    {
+      "title": "ワークマンが不正アクセス被害 メールアドレス最大約145万件が流出か（FASHIONSNAP） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aS3hOenNSSTNRRzJYWFBudS16aU04VnJicm51amZiSTRDSWlRbzhWUTgyU09HMmF2VHRFc0NNaFpVVER4N3dYRUZVMTdhYkFLUlJsbFFmUHFKSmY1Ry1iM2VlSXlxT2cwTkQ4eWUzakR5ZzF1QkViby1TY3ZhaXM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T15:41:57+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:17:21+09:00"
+    },
+    {
+      "title": "福井県立恐竜博物館 チケット購入者の情報漏えいか - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pZm0zWWZtajFnd0paWUxBc0QzUzhhUldTSFNxUnVJbUxjbTFac2IyS29ock5zQ0xKUzJPMVlGZTlETnFWY3pyeV9aMUc3UzFMc2dlRWVPbjVVT0FNbVBF?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-04T11:28:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:17:21+09:00"
+    },
+    {
+      "title": "プレステージ・インターナショナルに不正アクセス 最大約550万件持ち出し - 株式会社アクト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKRHZEOVdnZVR0ZWdkYkVkY3p1OXEydG11czBWNEFIR3NVZE9XUVRCbWdPa0pqaFB6OS1PeVBNaUNQRnRzbWJPUg?oc=5",
+      "source": "株式会社アクト",
+      "published_at": "2026-11-04T09:54:25+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:17:21+09:00"
+    },
+    {
+      "title": "ドンキ、顧客情報漏えいか 業務委託先に不正アクセス - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tS2tBMTFVcTdqaVl1QWVfalNtejFBaTJ6T1oyVERFUjBTMWRYZjRaM0J0Y19pZDE0VzhWTzdOeFRpeVl0ZjJVVFdOZnM2Y1VUTlgzal9GWWxTQlc1blBJM2lBbWNvQ2ts?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-04T07:51:46+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:17:21+09:00"
+    },
+    {
+      "title": "ビックカメラで情報流出 1490万件、顧客メアド（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdFNLMTNDd09haXhHbWFwMW50ME9YdmNBUUNTd182VE9ab3RNTXRUT1RWRDdsVm1IUzZ6Q29Gc0ZUd28wWkxkQTZkUGxEeVpDcjZ6RFpMS0RJcWxxWUV3RXpDaXZncXJ1dnF1czBCSEJvWVJ1NTJBZTM2cXEzTm8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T12:34:09+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:17:21+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T15:49:10+09:00"
+  "updated_at": "2026-11-04T16:17:21+09:00"
 }
