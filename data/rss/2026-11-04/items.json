@@ -3690,8 +3690,89 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T18:09:24+09:00"
+    },
+    {
+      "title": "電通総研「FACERE」で不正アクセス、特定企業の個人情報が流出した可能性-アクセス権限の設定不備が原因",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/dentsu_soken_facere_unauthorized_access_permission_misconfiguration/",
+      "source": "",
+      "published_at": "2026-11-04T18:33:04+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:37:24+09:00"
+    },
+    {
+      "title": "各種サービスへの不正アクセス及び個人情報流出に関する注意喚起 - 長泉町",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ZGZwX0pCaTZBN2tGRGRUdlRsb0E2N3pJSzB1VGIzVmRTT1FBekFPQ05CWEtaRG9NLWRubzBub2VlbmZ1anF5OHBZM1VwcnFxUUNLT0phcUJsVmhmVFBQTzRQemd2SEo2YUxlQ2NDY2UyQQ?oc=5",
+      "source": "長泉町",
+      "published_at": "2026-11-04T16:15:31+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:37:25+09:00"
+    },
+    {
+      "title": "GMO傘下企業の不正アクセス「企業責任果たして」 埼玉・大野知事 [埼玉県] [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FSkFZMUNUSEh3SHJTOXN3U0REZlBnM3pvNkloT1hKV1I5Y1B1ZEE0VF9wMVZnTTV4b3VUNVJobTRBbjZFc3lTQVk5cTZoRTdLRklWaHk0SHFwUTRTODNhbU1VMXZQRG8?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-04T17:45:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:37:25+09:00"
+    },
+    {
+      "title": "デニーズアプリに不正アクセス、旧アプリ移行処理で認証情報を不正作成 個人情報漏えいか - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4RlFUSFEwb0xoQm9GSUNZaWxlVHlfWmxzQjA5bTR2Sm5zOGdBVkdzbm9fNE4yalNITERkVUhxQVZUNEJaM1UxM2JUM0JyblpPVHhJZG1HRmxSdXhYb25Wcy1ZTm9DTTRVWjR0Ykc5UHpIMWpZ?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-04T18:05:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:37:25+09:00"
+    },
+    {
+      "title": "デニーズ 旧アプリで漏えいか 「キッズバースデー」も対象 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KcWRtb0g1SzNpSjdZUVRvN2xGM0VBeURSVzdRZXhvZGRYcEVmUGtXeTFISTlnMGI2NzR1NEtHbFhHaWp3QmtIUkFPMnZNbU90RV9hZ1UxTm13b0dMOWR6MGk1ZkdpSk9aRVhGYm5XNGk2QQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-04T17:44:54+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:37:25+09:00"
+    },
+    {
+      "title": "外務省のネットワークに不正アクセス、7月27日に検知 1枚目の写真・画像 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FQjJESFFOQkJPNlJsY2F3bXdHM3lZdGcxU3pmd2V0aUx3MnYzQjVRWUlLTW9ETlIxZU5sVnNyeUJxVHVpVU5EVDhwRHNlaUNGWnpIUUxFV0xqbk1NRnVLQjN0U3pJTDNPVFVVbVZQb2xuNHFhTWc?oc=5",
+      "source": "ScanNetSecurity",
+      "published_at": "2026-11-04T17:11:54+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:37:25+09:00"
+    },
+    {
+      "title": "ペイクラウドがＳ安、子会社アララ情報漏えいの規模拡大を嫌気 - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WZC1lanpCUTY3YnhESlpfSElydlFrTkc0UVVzQWI4V0dsd3hKVWRfUmxJQnB2azdZSlRaYlJ0cFU1TERreC1Ec01kSktSZjQweHc4NHdtYkM1cHViWUdNYw?oc=5",
+      "source": "株探",
+      "published_at": "2026-11-04T16:30:57+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:37:25+09:00"
+    },
+    {
+      "title": "野村子会社で情報漏えい システムに不正アクセス | | 全国のニュース - 佐賀新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FTlVZNmEzZGNTY3ZtazJTVE1rbEVJNHlUYklyU0E4QTFoeVBtVVdtdWJ0YnZGcHB4T1ZxeGtrNnVIVlJPZEgxMUZQaGRzRk9YOVNnOENn?oc=5",
+      "source": "佐賀新聞",
+      "published_at": "2026-11-04T12:13:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:37:25+09:00"
+    },
+    {
+      "title": "デニーズアプリに不正アクセス 旧アプリ移行処理で認証情報を不正作成される 個人情報漏えいか（画像）（3/3枚目） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZ3ZDRUhpRDFBc09UUjA2UV9PUk8wWnhZLWlDZHNvVlBqZjZoUTJZWFU0ME0yb2dxNXN1RHl0ZWtGTl9ld25qSGpxLXAteENRbE1Ic1FyMktTd2ZqWlVpb0JUdnMyMXFtZmxSdmQ5UVRjQ0JxbHBWbUM0endRQQ?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-04T17:30:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:37:25+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T18:09:24+09:00"
+  "updated_at": "2026-11-04T18:37:25+09:00"
 }
