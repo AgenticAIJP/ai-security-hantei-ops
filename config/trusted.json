@@ -1,9 +1,9 @@
 {
   "description": "watcher の改ざん検知の基準。指示リポジトリで、Agent が書いてよい場所以外が、この commit から変わっていたら watcher は止まる。scripts/trust.mjs で更新する。",
-  "brain_commit": "9e4dbff7711b1259b5289cbe4cfe8dbe9125436a",
+  "brain_commit": "bc3c1345167cacbdde869e06ef8bcc82aca8686e",
   "agent_writable": [
     "baseline/",
     "state/acks/"
   ],
-  "trusted_at": "2026-11-04T09:48:52+09:00"
+  "trusted_at": "2026-11-04T11:25:01+09:00"
 }
