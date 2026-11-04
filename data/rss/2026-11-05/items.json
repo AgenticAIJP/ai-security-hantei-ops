@@ -1809,8 +1809,53 @@
       "feed": "セキュリティ対策Lab",
       "kind": "news",
       "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "Cisco、AI エージェントの暴走を検知する「Project Quarry」をオープンソース化",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56682.html",
+      "source": "",
+      "published_at": "2026-11-05T08:15:03+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:42:53+09:00"
+    },
+    {
+      "title": "2026年のフィッシング動向と対策の現状 ～ Internet Week 2026",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56681.html",
+      "source": "",
+      "published_at": "2026-11-05T08:10:03+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:42:53+09:00"
+    },
+    {
+      "title": "デニーズ 旧アプリ利用者の個人情報漏えいか 不正アクセス受け - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85MDVSa2xoNndFbFR1ZnNYU3NuQVd3eFNVcTVZSmh1YnNRLTRZTVd2elgwU2N0bDJuQkY1ODJxTmMxYktyU0lrWVdXRW1zMHJLQk5PME9KQmRRODRBdy13?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-04T13:24:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:42:53+09:00"
+    },
+    {
+      "title": "マイナカードの手続きした市民のメールアドレスが漏えいのおそれ 「アララ」への不正アクセスで 福岡市（TNCテレビ西日本） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51emphUUQ5UXR5X3NfYkRsWFdBdjdaVFJwLS1hSHRBNUM1dC1ja2E1OEVHb21kc3B2ZWN6WERmdV9fMzlPMVA2bjZWdm5hcmRiVkFxNFdJeXhfdWdXZGhPUEx2OTVZZFVPZ2xNVFJJeVZaRWNFU1Q4emlabVRvcTA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T19:32:02+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:42:53+09:00"
+    },
+    {
+      "title": "「アソビュー」会員のメアドや利用歴など1500万件超流出 「アララ」不正アクセスで（産経新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yOXZBZWtVNFYxTGs2WUt3OHhBdVNsaTRyTkN2NjU5SktWWTZQM0hXeFFjR1NjZU55cldSWXFqMEVoQ29lS1Y1bWRnLVFJeTlLQ3h5U20wQzV1MDRXd3pvV3J6MXR1Y1lPVW80RklfNV82anRjeXJ5TW53ZGN2VkU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T10:23:04+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:42:53+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T08:14:46+09:00"
+  "updated_at": "2026-11-05T08:42:54+09:00"
 }
