@@ -1359,8 +1359,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T02:09:58+09:00"
+    },
+    {
+      "title": "モスフードサービスで751万件情報流出（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTZ1R1NUVEWlBzRzcyYUtlMUJnTVcyOHRuajZEd016Y0Mwb1JERS1DYVZVdmJheDRIQzd2NEdlNDdWV2RzTVNqRWgwTUtFME9hZEdpSHluVEIyVGZjanFTbkc3VDlHNjRBXzRSSGczRzhrVmtrbEFiQWlxSk1iMGs?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T20:00:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T02:38:17+09:00"
+    },
+    {
+      "title": "野村グループで2週間に2件目の漏えい 「機関Navi」停止、氏名・メール流出の恐れ ｜FinTech Journal - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12LXQyRG1kLTY0b3ZZeWxOQTByc3V2Nm1sUE5aalZSUnFNZUpMSHZpSy10Rm1kRnB5VzhXZWlpNWZtRU8wMmJ4bUxJdjhuVzA?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-04T13:43:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T02:38:17+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T02:09:58+09:00"
+  "updated_at": "2026-11-05T02:38:17+09:00"
 }
