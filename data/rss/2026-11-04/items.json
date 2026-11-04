@@ -3141,8 +3141,71 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T13:57:19+09:00"
+    },
+    {
+      "title": "Apache Wicketに19件の脆弱性、最大CVSS 8.3のDoSやXSS・認可回避　8.20.0／9.25.0／10.12.0で修正",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/apache-wicket-19-cve-vulnerabilities-20261103/",
+      "source": "",
+      "published_at": "2026-11-04T14:00:55+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:25:14+09:00"
+    },
+    {
+      "title": "三井住友海上とあいおい、不正アクセス検知 顧客向けサイト一時停止 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VWDF0cEpVZlpJUlF2cVdFZVpTNThFSWhDbVdnUHRDcWI0VUs4U29rQlVJYmJXTVhUbkJrVDB2UWhNSi1hWG9Td3RJaWFleklKbFVMQVA5NklxXy1DYW9WMGJHblUxREJIYjJpWQ?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T12:44:42+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:25:14+09:00"
+    },
+    {
+      "title": "ビックカメラ、メールアドレス流出か 配信委託先に不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fczR1a3ZHZlo4aWhkdmtWdm1yNHBmZkNMU1g2cVJDMkszVUFOOEJRc2hkUzZHMDJ2eHFvT0Z3bzZyME93QjZSOHN2UWJ2UjZWS0pyZlYyYjMwNXExdFV4dVFVTXhfeFBRUmR5aA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T10:41:48+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:25:14+09:00"
+    },
+    {
+      "title": "ノジマオンライン、約700万件の会員情報が流出 パスワードを強制リセット - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JUEhNV1RuQUh2YVVFZUs1dndTMkZlUC0zUHlXaVdtQWppalBqUTZtSk1TVnFxSzBWZENYYjU3TTJGUWNpZmIyOEhoc0NrWFVxWHc?oc=5",
+      "source": "CNET Japan",
+      "published_at": "2026-11-04T13:57:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:25:14+09:00"
+    },
+    {
+      "title": "アソビュー、会員情報約1582万件が流出 アララのメール配信サービスへの不正アクセスで - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4ZnlQWlNEMzBOcDU4VFQ0bV9kQVZTN3ZfMWhYRjRPbjdHYmEta25VQk9KcW5HSVhSN2RERm9hVXRQM2tiSGo0LXpvRHl1cV9yN2EtX3hhdE5EMl90?oc=5",
+      "source": "NOVAIST",
+      "published_at": "2026-11-04T13:53:08+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:25:14+09:00"
+    },
+    {
+      "title": "ビックカメラ・コジマ・ソフマップで1,490万件流出か アララ経由、大手小売へ拡大 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iZkN5Rk5uMVFkVGdPeWRveEhOMlZIaE5LNWFMS2ZyRmx1UGNfUGVlZmdCRlMzLXAwc0s2TVB3cDlxQmdGamtwYVlYUmNXMXBMV3V3?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-04T13:53:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:25:15+09:00"
+    },
+    {
+      "title": "Berryが生成AI活用の規制動向と実務対応を解説する無料オンラインセミナーを開催 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEg0OFg4M2R3YVRhQWhoQXgzdjFuTURFaVdxNDBwNk9Jb1NDQ05XQWtITTVLTjRpc0ViSThFcDlQNDg2MXJtUGFFT0VIcDlHTVVFVWd2SmxvSFhZRXJmWHlDQXhFZ3ktWDZkbFduSmM3WUZjWkVrTmpsVmtvaDRVZXc2X1NhQdIBiwFBVV95cUxNdFZBWlp1RGNTU080cWMxdzRZWmZfSm9tOHlzWWNrTTBBRVNZNjFmXzdhOVJWQmhUdlVDeWZ0TDQ5MkhUVlRNdVAxUEtUNHdVcDM3ZV9XbmVtdUZXbXpobHZLcHpYTUNqbEtrT19KQXJ5eXV3TmR3cjVUYjBFVEZuSk5tSkhjSjI2ZDIw?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-04T13:57:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:25:15+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T13:57:19+09:00"
+  "updated_at": "2026-11-04T14:25:15+09:00"
 }
