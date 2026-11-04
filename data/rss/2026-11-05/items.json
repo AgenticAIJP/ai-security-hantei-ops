@@ -1539,8 +1539,35 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T06:22:44+09:00"
+    },
+    {
+      "title": "2026年10月ランサムウェアの被害 事例 まとめ｜国内企業・大学への攻撃、犯行声明、情報流出と復旧状況",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/2026-10-ransomware-cases-summary/",
+      "source": "",
+      "published_at": "2026-11-05T06:30:36+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T06:50:42+09:00"
+    },
+    {
+      "title": "情報流出にあったら…金銭で補償してもらえる？ 額はどう決まるのか - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Pb3pWYzI1X2Z3ejA4X3d4OFBzNG92R0pYYVJLVjhQZHYySmVHMWp6TkxSdjZEZ0ZwTFVGOW9yNlZkMmN6T1RNb2dmQ1VTN0U1ellDTzk1UGpObGxieDEyXzFHN1IwbUE?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-05T06:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T06:50:42+09:00"
+    },
+    {
+      "title": "“サイバー攻撃で新チーム運用” 対策パッケージで政府調整 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wQWQwc1dNVmhwUmxwcTN5TzF0ejNsTTk0SHdJRExVZDhvS1RuV01XRnV2ejEzUThRYkRUSkV5UFVwUUl3eXo1SXlxNDRzVlZWZWhHazBhREZFVFhxTDZN?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-05T06:23:49+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T06:50:42+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T06:22:44+09:00"
+  "updated_at": "2026-11-05T06:50:42+09:00"
 }
