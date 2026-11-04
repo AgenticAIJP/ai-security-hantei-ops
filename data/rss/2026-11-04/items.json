@@ -2709,8 +2709,89 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T11:09:09+09:00"
+    },
+    {
+      "title": "都ホテルズ＆リゾーツ「都プラス」、会員メールアドレス12万9,153件が漏えい　アララへの不正アクセスが波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/miyako_hotels_miyako_plus_arara_129153_email_leak/",
+      "source": "",
+      "published_at": "2026-11-04T11:32:40+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:37:12+09:00"
+    },
+    {
+      "title": "通販サイト Northmall(ノースモール、旧Otto)、顧客16万9,585名の個人情報漏えいを確認　ブラストメールへの不正アクセスで氏名・生年月日・最終購入日も対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/northmall-blastmail-data-leak-169585/",
+      "source": "",
+      "published_at": "2026-11-04T11:31:12+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:37:12+09:00"
+    },
+    {
+      "title": "REVOLVE（リボルブ）に不正アクセス、保存カード情報が流出した可能性　米で約19.7万人に通知、日本の利用者への影響は未公表",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/revolve-group-payment-card-data-breach-japan-impact/",
+      "source": "",
+      "published_at": "2026-11-04T11:30:32+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:37:12+09:00"
+    },
+    {
+      "title": "アソビュー 会員情報1582万件余流出 「アララ」不正アクセスで - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LMEVObVBXUlVuZGt4MzVacUM3eHpXdW5pN0Q2VzRYd292S3kwdUU3QmNRRXRKaUJhalIxYkhVSGxueEdNcVppNS1jQmh3SUNPMk5TaUwyc00yaWl0V2Nz?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-04T11:21:53+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:37:12+09:00"
+    },
+    {
+      "title": "REVOLVE（リボルブ）に不正アクセス、保存カード情報が流出した可能性 米で約19.7万人に通知、日本の利用者への影響は未公表|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN09md3ZEZlpnN2x3U05QUlNieHFxUXFwemZvNnF0SmRMNHJYT1FITUlqUGVVdDdLQzB4d0RsNk5vbzRlMTRTdDJpU3FOQjJOX0RLSGdoUklUOGdWTHR6LXpUSjFBMkRZY09DWUNQYnVaWGk3QUYwYXJ1OTJubDRia0hxemdYaWxPdDRXczdFN1kyMVRXYjZoTDM4UWNEcWgzN0E?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-04T11:30:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:37:12+09:00"
+    },
+    {
+      "title": "丸井グループの社債顧客約9000人分の情報流出、一部口座番号も　委託先に不正アクセス - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDRVWFRfR3RZZmdKZFpVUnlsSU1pZS00MDRKcTlROWdJWkpiX1A4UDBMSGg2dDg1SWljRGVienBxUVlYUWJlbE4zLTNCaThpcS01ZG9fSWo1YVEzOElScWFaNzg2bHdjR2RUZlZyX3RObjdwc05VWmRqeW5zbkJBd0FYamc5ZGkwVlRtR2h0MNIBlAFBVV95cUxOSjR6aUxyTmJlSW1JNVRjdy10alBiNUIxU0VweW1ReFdYb2xld3VJYVppdEptUFozTUZWRWUzY0t0OEx5aU0zbWNucS1QY0lncDZadm9RdkZuNFRaelFtLUdfQm00ZUthU05nQk9KN0lTQnk2UTRTX25tUUpfTUxSUlBIVzh3OFJ2VnRfVTBYNG13WjAt?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-04T11:14:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:37:12+09:00"
+    },
+    {
+      "title": "プレスリリース：［緊急企画］相次ぐ情報漏えいを受け、Nishika、デジタルハックと共催ウェビナー「守りのITから攻めのITへ！セキュリティを整えて始めるAI議事録ツール活用」を11/18に開催（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMSWxzbmlScTVSNnJfWG5XaUtWWmpaTUd4REpEVS1TU1B0Q0hSM1dSUVdkQlNqVU9RVEJXby05aFZIbExxSm8wR00xaWVONU5tSWpCajhUVjA1ZHJ3ekVPRFJhRHRoaXoy?oc=5",
+      "source": "毎日新聞",
+      "published_at": "2026-11-04T11:23:16+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:37:13+09:00"
+    },
+    {
+      "title": "【セミナーレポート】自治体の情報政策の今がわかる3日間！2026~ジチタイワークス・スペシャルセミナー~【DAY3】 - ジチタイワークスWEB",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRdWwycmJmeWNxd09FVnA4dEwxVTRPX3NNU01KTkpEUjZMRHAxY0c2VDFENFEyTmkwVkd6cENvNi1uN19ReDJzMGc3cVQ?oc=5",
+      "source": "ジチタイワークスWEB",
+      "published_at": "2026-11-04T11:21:31+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:37:13+09:00"
+    },
+    {
+      "title": "パナソニック、禁止した生成AIに33万人分の個人情報 従業員の家族も（2ページ目） - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBab2lhdUlSOVFLV3NkYWZ0T1lINkFkVVpjYnBTSE9jUG1PREt5VFI2UXFQMDAtMkNFbHFaSjdydVU4VjhMYlZfdzlJd3pKNVlMQjJQVFFGQ01SYjVuQ2E2cmF6ZG5ZbGlLTklmaUxNbzhnUQ?oc=5",
+      "source": "日経クロステック",
+      "published_at": "2026-11-04T05:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:37:13+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T11:09:09+09:00"
+  "updated_at": "2026-11-04T11:37:13+09:00"
 }
