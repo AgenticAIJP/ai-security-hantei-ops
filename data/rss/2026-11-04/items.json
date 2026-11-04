@@ -3447,8 +3447,89 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T16:17:21+09:00"
+    },
+    {
+      "title": "クラシエ薬品「カンポフルライフ」、メールアドレス59,428件の情報流出　アララ「repica」への不正アクセスが影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/kracie-kampoful-life-arara-repica-email-leak-59428/",
+      "source": "",
+      "published_at": "2026-11-04T16:40:16+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:45:21+09:00"
+    },
+    {
+      "title": "『勝利の女神：NIKKE』PCランチャーに改ざんの可能性、公式が修正　研究者は遠隔操作マルウェアの配信経路を指摘",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/nikke_pc_launcher_script_tampering_supply_chain/",
+      "source": "",
+      "published_at": "2026-11-04T16:17:47+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:45:21+09:00"
+    },
+    {
+      "title": "不正アクセスによる個人情報の漏えい事案が相次いでいます！ - 亀岡市",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96djVaVTNONUt5TjAtdjFqUENzY014NUN4RnRObG1KUS05MkZ3OTEzMEZoR3pqcUlja1loWVFVTlVqdEhLVUFoazVtSE95NDVlNEgzZXZ2OXg1VTlXTkUxbnFtNHM2QQ?oc=5",
+      "source": "亀岡市",
+      "published_at": "2026-11-04T15:08:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:45:22+09:00"
+    },
+    {
+      "title": "ワークマン、会員メアド１４５万件漏えい＝不正アクセスで - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoaTJlUGNveW5LVGpJWEtCLUYwcjRFb3AzSDhSNXZuampYakNIbUo5MC1jdnJkSHZSemtFa1ZGV3lzZnNpS2dWMEhocE84SU9RUmVwMklWU2k?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-04T16:29:03+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:45:22+09:00"
+    },
+    {
+      "title": "本物のメールまで怖くて開けない… 情報漏洩の頻発が招いた「警戒疲れ」の末路、崩れ始めた「ネット社会の信頼」の行く末 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zZVJNOWZZSVJ5em5ZdjI3Wnh1R1J5VUg3UFNrdUNXaFY5UEdqSWtHSHJDSEdHMU03RFRuekRuX2tqTlU5ekJSX2NzTzVwS0xTVFlVTmQtNVRxYkphZUZCQjU3ZjBZM2VuaW1rZkJCLTRIaVVLQ3ZQeHZmX3pieUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T05:46:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:45:22+09:00"
+    },
+    {
+      "title": "ライフ、顧客情報298件漏洩か 公式アプリに不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlYXJoRldFNW9VZEpIRTJadm5rekZBcVFmTklyY3BmSFJXdU5Oc3AxVVRpOXZEMG0weEJSWEJxREpPSmpHUVpMSF84cjcwTm13N3V2M1M4MW9FQXFiSmF0Z0RGWGZmbnNKYVpXeg?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T14:03:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:45:22+09:00"
+    },
+    {
+      "title": "サントリー、外部クラウドに不正アクセス 従業員ら約9万人の情報漏えい - 株式会社アクト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yMkJod2twSWQ5V1p4aHF6NHZTaTlTYWRzR2pwVzVuaW5QWEprLWpXVl9TaENoMFNEYkJLaUR1aTNzZ2tsLUM3SA?oc=5",
+      "source": "株式会社アクト",
+      "published_at": "2026-11-04T09:54:26+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:45:22+09:00"
+    },
+    {
+      "title": "メルカリに学ぶ、AI 時代のセキュリティ対策 ― VDI に依存しないデータ保護とブラウザ起点のアプローチ - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iSHJJcENaU2stcFU4U1VYUVkzRFg4dDFyeDdaak1NY0oxUFQ3Q1BXWExCYTNlcFJCUVFKY0NiN3lrNGJYQzhFUU1hOTc2WjVmcXhjQlhjVHVST3h1M3BTOVhCT2xRN3dxQUFudkVPeVdBbWlKa1EwNndPN3A?oc=5",
+      "source": "ZDNET Japan",
+      "published_at": "2026-11-04T16:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:45:22+09:00"
+    },
+    {
+      "title": "八十二長野銀、2種の独自AI利用開始 資料作成など効率化 - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0NTlZU3R5TF9yZHRvek84NHR2ZjBRb1g1OWVBakJDOS10bUdscHpaUWdXSzdZUHZsTzZiNDFJbWRySF9EcXZCRVFPcjQyTE44NldiNmF3?oc=5",
+      "source": "ニッキンONLINE",
+      "published_at": "2026-11-04T16:24:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T16:45:22+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T16:17:21+09:00"
+  "updated_at": "2026-11-04T16:45:22+09:00"
 }
