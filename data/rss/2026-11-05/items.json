@@ -1611,8 +1611,53 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T07:18:46+09:00"
+    },
+    {
+      "title": "Node.js 22・24・26、11月11日に「HIGH」の脆弱性 修正へ-開発チームがセキュリティ更新を事前予告",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/nodejs-22-24-26-security-release-high-november/",
+      "source": "",
+      "published_at": "2026-11-05T07:43:50+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T07:46:46+09:00"
+    },
+    {
+      "title": "ナバック「RESERVE GATE α」で最大35万件の会員情報が漏えい　宿泊先・チェックイン日も対象、フィッシングメールを確認",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/navac_reserve_gate_alpha_350000_data_leak_20261104/",
+      "source": "",
+      "published_at": "2026-11-05T07:40:20+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T07:46:46+09:00"
+    },
+    {
+      "title": "Zaif、顧客メールアドレス380,536件が流出　アララへの不正アクセスが原因、暗号資産の被害は確認されず",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/zaif_arara_email_leak_380536/",
+      "source": "",
+      "published_at": "2026-11-05T07:36:45+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T07:46:46+09:00"
+    },
+    {
+      "title": "Northflankに不正アクセス、顧客のAI APIキーが無断使用　環境変数の認証情報を一斉交換するよう警告",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/northflank-ai-api-key-unauthorized-use-secret-rotation/",
+      "source": "",
+      "published_at": "2026-11-05T07:30:38+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T07:46:46+09:00"
+    },
+    {
+      "title": "JR九州、メールアドレス最大1万3000件流出 委託先に不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUc1dCMzVJQmtnaTVDYlFIampJMDJ6d3JBa3VROVl6QXdIOTFDQmJaZlB2emZuRkwwUU5BZkc5MVNCTVB1X3lBaGdLeVE1LUxjN1JWTzBlMkgzV3p3eXNuSXpyd2NaX3FhLUxJVw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T20:08:39+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T07:46:47+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T07:18:46+09:00"
+  "updated_at": "2026-11-05T07:46:47+09:00"
 }
