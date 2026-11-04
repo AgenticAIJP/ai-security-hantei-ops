@@ -3303,8 +3303,71 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T15:21:10+09:00"
+    },
+    {
+      "title": "三井住友海上、第三者からの不審アクセスを検知　契約者ページや1DAY保険など9サービスを一時停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/msig_suspicious_access_9_services_suspended_20261104/",
+      "source": "",
+      "published_at": "2026-11-04T15:41:37+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:49:09+09:00"
+    },
+    {
+      "title": "デニーズアプリに不正アクセス、移行処理で認証情報を不正作成　会員情報漏えいの可能性、対象人数は調査中",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/dennys_app_unauthorized_credentials_migration_20261104/",
+      "source": "",
+      "published_at": "2026-11-04T15:35:58+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:49:09+09:00"
+    },
+    {
+      "title": "ちょびリッチ、会員メールアドレス134万8,525件が流出　会員番号・保有ポイント数なども流出の可能性-アララのサイバー攻撃が波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/chobirich_arara_email_leak_1348525_20261104/",
+      "source": "",
+      "published_at": "2026-11-04T15:25:26+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:49:09+09:00"
+    },
+    {
+      "title": "ワークマン、メールアドレス 最大約145万件が情報流出の恐れ、アララメッセージへの不正アクセスが影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/workman-arara-email-leak-1450000-20261104/",
+      "source": "",
+      "published_at": "2026-11-04T15:23:36+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:49:09+09:00"
+    },
+    {
+      "title": "ワークマンが不正アクセス被害 メールアドレス最大約145万件が流出か - Fashionsnap.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWDhQanlsQXJmX1Q5WWROck9MRkRBbFl0cGMwZDNGRHlqa1l2N09pNDVieXZKUjZSSTA5bjcxTXdlc3NzYzRTaDNScjJVdWJwTUVSZFFEaDBvZUZtcjZaUURKeWZsVmNveG9kVGZIT2d2dGwtVnMtVnVfSlI3eldobA?oc=5",
+      "source": "Fashionsnap.com",
+      "published_at": "2026-11-04T15:41:57+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:49:10+09:00"
+    },
+    {
+      "title": "ちょびリッチ、会員メールアドレス134万8,525件が流出 会員番号・保有ポイント数なども流出の可能性-アララのサイバー攻撃が波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGotU3J6YnpjdmJOSE9rYnBMOWVwajhsYlV4VktMVkEwSGh2SkNsbnltWkZiQnR3aWlEbDhtSlFHU1RwS2ZwVGZHQy1MenJGOTgxRXNvaFB4TEtzbHBQS2JrT09jdXRfZTdEZ094NHNTdlkyWWpfR1RGRWZXNE5feHdwclhlUGtaZ2pXT3FkZWVCekNuc0JR?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-04T15:25:26+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:49:10+09:00"
+    },
+    {
+      "title": "ノジマオンラインに不正アクセス 会員情報約700万件が漏えい - 株式会社アクト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05TkpzVG5WVlpZYkNidHNXUEVKQVlKZ0xjX1FQZWptVUQ0UDZEYXJEX2w5VkJQTVNlTWlDQ0hmUWQxV0RwNzJsOA?oc=5",
+      "source": "株式会社アクト",
+      "published_at": "2026-11-04T09:54:28+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:49:10+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T15:21:10+09:00"
+  "updated_at": "2026-11-04T15:49:10+09:00"
 }
