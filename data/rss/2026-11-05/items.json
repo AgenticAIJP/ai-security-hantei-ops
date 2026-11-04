@@ -1413,8 +1413,17 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T04:02:45+09:00"
+    },
+    {
+      "title": "サイバー攻撃で情報漏えい約3.8億件、教育・学習支援業は24％増 ＭＭ総研調査 - こどもとIT",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GTGhDc3NTakpPV01WSWJkZHNOcHJNaWozbUV0d3dLTDktX2UxQTZRX0hGckc0Y1R5c1E3VkhVRGVDWFNEem04MERYeVRjZ3oxR2w3LXFwMXdlSG5oR0J4bzVPdW4?oc=5",
+      "source": "こどもとIT",
+      "published_at": "2026-11-04T16:30:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T04:58:51+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T04:30:48+09:00"
+  "updated_at": "2026-11-05T04:58:51+09:00"
 }
