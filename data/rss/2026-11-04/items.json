@@ -2457,8 +2457,89 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T09:44:55+09:00"
+    },
+    {
+      "title": "LXD・IncusにCVSS 10.0の認証回避脆弱性　公開証明書だけで管理APIになりすまし、Linuxホストのroot権限取得の恐れ-CVE-2026-112816",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/lxd_incus_cve_2026_112816_certificate_auth_bypass/",
+      "source": "",
+      "published_at": "2026-11-04T10:00:56+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:13:01+09:00"
+    },
+    {
+      "title": "セブン-イレブン「7NOW」の利用者情報16万件超漏えい 配達委託先に不正アクセス、出前館でも約800件（ITmedia NEWS） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSY243ZC0tZ2k0SUZLOGluRXdpSDZnNTNrQzBUWkZYdXkzNkpTRnVVVERyYzd6MHUwVHM3U0J3TWVlSnlJYmdDdUM0TTJLbFU3cEFjckVra2xqN3Nfb0NWUU9VcFpNam5RZ25KaE9NbXo2WjRYUF9EX09zMTFKMms?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T09:41:22+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:13:01+09:00"
+    },
+    {
+      "title": "アソビュー、会員情報1582万件流出 最終ログイン日や利用施設も メール委託先・アララ不正アクセスで - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IZDgyS1Nyel95eWZmUndCdEpCYWZydVVkNTk5cXVkUmNxenJGMEpqeTA1S1pvcGxzellDX0FNVU9IOU1PcHZWN1VuaVNBSno3WC1JWkRWR2ZwOWpsWWdINElaVWdtcTdScnc?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-04T09:37:39+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:13:01+09:00"
+    },
+    {
+      "title": "アソビュー！1500万件情報流出 “セブン宅配”でも不正アクセス - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKOXpUS3ZXcHIzMkczRUg5dmdJWm85R3pqV0tlU1Q3ejY4OGh4cGZMUVFzUnJYaE8wVDVQWTNSNmtsWmpmX0l1RmxMWmJDM0k3cTViNDV6Y25IVVdqRHNaQkFKZ0ZEaHlQR0tvZW5n?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-04T06:33:17+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:13:01+09:00"
+    },
+    {
+      "title": "アソビューが個人情報1500万件超が流出したと公表 委託先に不正アクセス (2026年11月3日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBldjh3WmMwV1N0eDBlX0xJcDFBaWNwVkNPQVJjSjNDYVJOYnQ2X1NaQUhwRUxkOVVpVnJROGhOWEtmOFpiNE40VGtXc1A3NVc4RTRfalBoQVFMUkg0QWc?oc=5",
+      "source": "ライブドアニュース",
+      "published_at": "2026-11-04T09:47:36+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:13:01+09:00"
+    },
+    {
+      "title": "【解説】韓国大統領らの旅券番号がVirusTotalで閲覧可能と報道｜検査に上げたファイルはどこへ行くのか - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1MDJBOVhfZ0QtTEJZM2NrLVdjNW5SQ3p5Yi1TTzB4T1NJNUU5cFdIbXpzU3BhVzN6YmRobXY2UjZmT1BlSnNtWTJRWWVFYUtDdkR0UnVONmRqZFpMUWs2MlZTekEtRmVZdGFqb2VnM1dXNGc?oc=5",
+      "source": "innovaTopia",
+      "published_at": "2026-11-04T09:51:07+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:13:02+09:00"
+    },
+    {
+      "title": "AI時代のエンタープライズ・セキュリティ ── Leading.AI、日本の漏えい公表文300通と世界の提言211件を一次資料で検証し、経営者が平時に定めるべき3つの方針を提言 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnVVhXWm5rRWtJNnVXX1U1OGJKWDVjczRaSE4ydEJWVEV1Qi1VaVA2YTJZcll1Y0NRb21XeEVwNWwxZF9LUzRteldPNDRxY2VXM284YXF1SllDeEFBRVJFR2ljWHQ4eFZQakE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-04T10:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:13:02+09:00"
+    },
+    {
+      "title": "AI時代の新NASサーバー、「AI Locker」を販売開始。文書を社外に出さず、ローカルAIで整理・検索・要約が可能。 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZ2xHakNPbHdpcnlZUDhETEJFZTJxYXRUU0g5cFR6eDdTV1ZwbmNBbGRXOTVVWlFaQkpISFA0UkZKUTRGTkhJUGZvSk9sVjNMeGZPdm1rZlV2amVma3BGOXIxTnR2ZlNzRGc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-04T10:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:13:02+09:00"
+    },
+    {
+      "title": "TWOSTONE AIvita、AI利用を最適化しコストを削減する「トークンマネジメントバンク」 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DdFE4bGxzM2xyWkJ0T2NDQVJ5X2hCVlJhUmMzc1lfR19wZjhoSU9zZHdKRk5VN0pJOFJpMmdlWjJGaDdUT25vVndidlotbmhkX2dUZDNFanNyUFF4TG5DSUszZW9Gd3M?oc=5",
+      "source": "クラウド Watch",
+      "published_at": "2026-11-04T10:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:13:02+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T09:44:55+09:00"
+  "updated_at": "2026-11-04T10:13:02+09:00"
 }
