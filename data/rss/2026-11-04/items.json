@@ -4194,8 +4194,62 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T20:59:03+09:00"
+    },
+    {
+      "title": "アララ不正アクセス 福岡県内でも個人情報漏えいの可能性 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Rd19qc3daSW9CWVF3dGlrbGVYSVBfSm9QUVUzR1VtSlZTYlZmMi1XeEdqZWpVbzFnSGkyYW84elVzQUk2dXpBQTBjTXpwUlJna3BXMV9ZTHBWcFRjMzdJ?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-04T21:06:33+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T21:27:05+09:00"
+    },
+    {
+      "title": "AIRDOでメアド流出 67万件、不正アクセス受け（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qWlRDSF9BUFdYSl9lX1NzbnViRk9pYXdjdHowS21hczQwNTNuMFBzWTBpbXVWclJERktudjh1QXZ2Mm5GeWRVWW81TG1sMFR5VHhCLUxBc09sWGVTeUhndHprOUx2U2diTkVNOEgyN1owMGItdklSUzNFakJSVFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T21:16:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T21:27:05+09:00"
+    },
+    {
+      "title": "ソニー銀行、顧客４人の口座番号と６１７人の氏名が流出…現時点で不正な取引は確認されず（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFWk93T2VUQ1RaTHlkNUsxTkROYnpSVlZiUy1OLURNYnZfXzJkZERwS2tadEFZVWhiSGdwV0lLenlBWjh1dU9XTDZJTFY1UGFrcjllWTdmQy04WWJOczd4QjEySDdwajJpQ09lTVlQMFlVWmV0S0syWU8xRE8yWkk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T18:50:56+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T21:27:05+09:00"
+    },
+    {
+      "title": "セブンのデリバリー「7NOW」、委託先不正アクセスで個人情報漏えい - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52UFJYem9ERzl1WmZHRGYzUmpPQUpqaG1HbE5QRFJHd1hwSlc4bm1RTFEtcGJ5M3NBdnVUWEV6Wl9nSU1FNHZPRXVsZGV2X3FWakZJWUxiUXY5M0pPQTJzeld6RG4?oc=5",
+      "source": "Impress Watch",
+      "published_at": "2026-11-04T10:10:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T21:27:05+09:00"
+    },
+    {
+      "title": "詐欺メール713万通、アララ配信基盤「乗っ取る」 漏洩の影響広がる - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TZXVXV0xWVUFjNEw0Q0w1LWFxMnMtZ08yZ181RVZLZzhQa2JuOHNlVGhpbVpRV0JEVGhVZVYyOFh0aDAxSFpRVXdja1E1eWRDRVlDZ1paQ0lDVkNPSHpsZWtFYlI1YkFZdEVMSw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T18:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T21:27:05+09:00"
+    },
+    {
+      "title": "三条市が利用する電子申請メール配信サービスに不正アクセス 利用者のアドレス漏えいの可能性 – kenoh.com - kenoh.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBNUmpCNEZqUUxuT1hYMENocGFFMW91bUxvNGNXZlV0ZVRuY1VHbkVRTGQ0Z0E3aUYzQ0hPWWVIZnRRclhDUWVLdFp3?oc=5",
+      "source": "kenoh.com",
+      "published_at": "2026-11-04T16:25:07+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T21:27:05+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T20:59:03+09:00"
+  "updated_at": "2026-11-04T21:27:06+09:00"
 }
