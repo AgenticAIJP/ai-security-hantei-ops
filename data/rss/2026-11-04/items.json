@@ -3015,8 +3015,134 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T13:29:18+09:00"
+    },
+    {
+      "title": "Linuxカーネル、IPv4のTCP接続処理に深刻な脆弱性 - 実証報告も",
+      "url": "https://www.security-next.com/192332",
+      "source": "",
+      "published_at": "2026-11-04T13:55:32+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:17+09:00"
+    },
+    {
+      "title": "貿易業務プラットフォーム Shippioに不正アクセス、輸送関連書類約1,300件を不正取得　全顧客の企業情報閲覧、API認証情報も不正作成",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/shippio_platform_unauthorized_access_1300_files/",
+      "source": "",
+      "published_at": "2026-11-04T13:41:45+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "古いiPhoneに修正困難なBootROM 脆弱性、機内モードでも暗号資産ウォレットにリスク　checkm8・usbliter8の影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/iphone_bootrom_checkm8_usbliter8_seed_phrase_risk_20261103/",
+      "source": "",
+      "published_at": "2026-11-04T13:30:56+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "野村子会社で情報漏えい システムに不正アクセス（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55LUxUbm4tYW42YnlhTC14LWc3enFRd2JQckVjU3lWVVVLejlJMU1oNC1vQVFKZE02NDEwUTF4SGwyM1MxekZpbXkyY2JuM3VpNm9IT3o5UWlQd0ZFWTVvODJ1elBOS04zeFpqbWxmZTRBT0lXVlpPR2tMYlV2X3M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T12:13:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "マイナンバーカード交付予約及び管理システムの委託先における不正アクセスに伴う個人情報漏えいの可能性について - 本庄市ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10bXNUZVlQUEhoNXVWVTdEZDlJQ3FhYXBtWHh6bkEwTUZSYlBUMGIwenF2MFFhLTVoWFFhcWdxVWRpX3Jhd25oZjI5UldPUW9DQmh1c3RwWk1MX0NSZXdVQS1JMVRqcXY5?oc=5",
+      "source": "本庄市ホームページ",
+      "published_at": "2026-11-04T12:04:55+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "壬生町スマート申請システムで利用している外部メール送信サービスへの不正アクセス及び個人情報の漏えいのおそれについて - 壬生町",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKdThFbFJja0dRd3B4ZXF5akV1dk5jcV9xM0RKOWs3WFhhSDluNk1NYmZBODBYVU5nY3lyY256Wms1U0dtQWJMNWF1NzBoOE4weDhtV29qLURPbmlTZmxya3hB?oc=5",
+      "source": "壬生町",
+      "published_at": "2026-11-04T11:58:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "【徹底解説】1,000万件級の個人情報流出はなぜ止まらないのか？相次ぐ不正アクセスの共通点とAI時代のサイバーリスク - ブルーモ証券",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yWnRUNEtuQUFCWS1BOHNqZGNtTi1hQzY4Q3ZQeUdtZTRCRFlYOS1zSWVfalZIcGp6SUQ1NWZ3enZZMHI2VjlDZGJWRklfcWYyRjkzWlJNQ1V1MTd3R0E4dDNkcll3QUw4YjdLbw?oc=5",
+      "source": "ブルーモ証券",
+      "published_at": "2026-11-04T12:37:17+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "松屋公式アプリに不正アクセス 会員情報等が漏えい 1枚目の写真・画像 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51blhFdlZFZl9JOEdOclUzLTBDYzdUbHFSV0xqRDE5YUpaeXNxYzFoSUJsTWMwRTdyNWxUUWtCZHI3ZXhIVE80anRJOEhmYWVMTWJrQU1IZXJpZDc1ZWd2anBxSkNNUm5rQWxpOEJFcTl2ZkZaREE?oc=5",
+      "source": "ScanNetSecurity",
+      "published_at": "2026-11-04T12:44:41+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "貿易業務プラットフォーム Shippioに不正アクセス、輸送関連書類約1,300件を不正取得 全顧客の企業情報閲覧、API認証情報も不正作成|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDBDUExpbzFXTVI3VjZfZWdZTnkxMEZRRkZFckNyaGhFbF8xWXM1dUV2aDNJRnhKSlFVd2JNR1FCOXg4OFBWdVhiaGxUVE5fbUxWS0tHeC03S3ZSTEpOX0c2eFktZkNweTRIazNwSVUwUU9EXzdoajZVV1JIZGg3NlJpajRZT21MRDZtLTJYRW8tVFJRV3l1aWJXUmc?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-04T13:41:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "ノジマオンライン、会員情報約700万件漏えい 不正アクセスでサイト休止、再開未定 (ITmedia NEWS) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFNEbW1SZXlLN1NuTVZQN2hJWGFFanNLMkhZVUZ3bTNvdlJrbkpENXNLeGdmMWdORi0yU1NwdzdHbWFOUmlJLXl0RlpwX3FxdWprWWR3N09RWDFqVkRBUzQ5bGxLeUxSbDFIb0NzTHg0ckZZcDFqMjNxbTVrNlBoYzRGRE51MVlfUVotMENB?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T07:06:12+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "高速バス予約サイト「不正アクセス」でクレカ情報が約7000件漏えいか 不正利用の報告も 埼玉・志木市「平成エンタープライズ」 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KU01FLUNtZTJrcVJhb0hlM0w5TXl5R3dwOWY0NkhFR24tU19YY3hLRlotZ2lPcF96TWI2WHR4eHh5WDA2aVVKTTNIbURrR1I4cGFVdF9tSkRuQlRBMEhGRTRHdnVHNUxM?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-04T13:48:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "テレ東、日経の情報漏えいの影響巡り対応状況を説明 問い合わせは「日本経済新聞社が開設した専用窓口へ一本化しております」 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02UWxtbnZybHJ4RkVVS1Z1ejZpTFl5TTFkdFI2aUxJSWZvWU95aTJGR1JxNS0zUEphWnpwNmNWNlAxVGRhNjV5Z0FMZjZnMnlDN2c?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-04T01:47:34+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:18+09:00"
+    },
+    {
+      "title": "野村グループで2週間に2件目の漏えい 「機関Navi」停止、氏名・メール流出の恐れ ｜FinTech Journal - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12LXQyRG1kLTY0b3ZZeWxOQTByc3V2Nm1sUE5aalZSUnFNZUpMSHZpSy10Rm1kRnB5VzhXZWlpNWZtRU8wMmJ4bUxJdjhuVzA?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-04T13:43:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:19+09:00"
+    },
+    {
+      "title": "県内景気「緩やかに回復」おととし11月から続く判断据え置く エネルギー価格の高止まりについては警戒感 日銀秋田支店 - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lVUNZMWc0dTlYMGxkdUV0Mm1YVC1FYTUyUUNIU2JfdzlkSDNpbU1tR3ZtbEhhNE1xcm5USDA4ZkFrRXJQdVJ2cGtRSGJuZnJWMGtJZ0w5RlZ5SnFYQVVJ?oc=5",
+      "source": "ライブドアニュース",
+      "published_at": "2026-11-04T13:19:24+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:57:19+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T13:29:18+09:00"
+  "updated_at": "2026-11-04T13:57:19+09:00"
 }
