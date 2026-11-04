@@ -4401,8 +4401,44 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T23:19:21+09:00"
+    },
+    {
+      "title": "県立学校6校で生徒指導要録が所在不明 - 静岡県",
+      "url": "https://www.security-next.com/192171",
+      "source": "",
+      "published_at": "2026-11-04T23:30:09+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T23:48:38+09:00"
+    },
+    {
+      "title": "ＡＮＡからパスポート番号など３万７８００人の個人情報流出、無印は２７２６万件漏えいか…退会者の情報も（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GYTM2eGFEUGVCdU5FRnQ1YzVMU2ZsTEU1dFZzUjFhUUFHbFpKM3lFOVdqT1VMVE1PYmNXMGtuRnVFMHlUcEJWaGk4R1pOWTVWMDNkVU16MFdSZHF1NEVkeE5nQjhZYS04alJ0UVlUbThyc095NmhtbkhZd3BxRmc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T18:41:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T23:48:39+09:00"
+    },
+    {
+      "title": "モスフードサービスで７５１万件情報流出 - 京都新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzTS1vMnBlMEdBLW5ON0lLVDRlal9wZ3lkdkJybjZZMl92OFhxbVUxWUFXY3duMkVkd181bGptZnNaY09WZE1WSG9LQXNDY2ExX2xqWDM5Zm50ZEE?oc=5",
+      "source": "京都新聞デジタル",
+      "published_at": "2026-11-04T20:00:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T23:48:39+09:00"
+    },
+    {
+      "title": "福岡市で新たに情報漏えいか マイナンバーカード関連システム「アララ」に不正アクセス - 西日本新聞me",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEOXlzYjlVQVpadGpKdU95ZEx2N0YwaTJBU0NCTHVSVWlpMlhiRFR6NDBuU083NXJpSVJSYUxXcmZoNUxHelJFOC1OYVM3dFJaSE12Y2JR?oc=5",
+      "source": "西日本新聞me",
+      "published_at": "2026-11-04T22:58:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T23:48:40+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T23:19:21+09:00"
+  "updated_at": "2026-11-04T23:48:40+09:00"
 }
