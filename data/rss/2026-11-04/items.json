@@ -2790,8 +2790,53 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T11:37:13+09:00"
+    },
+    {
+      "title": "イープラスに再び不正アクセス、「ポルノ超特急2021」申込者3,571件の個人情報が流出　管理画面への総当たり攻撃が原因",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/eplus-fes-app-porno-chotokkyu-2021-3571-brute-force-breach/",
+      "source": "",
+      "published_at": "2026-11-04T11:45:25+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T12:05:19+09:00"
+    },
+    {
+      "title": "セガ フェイブ不正アクセス、「ALL.Net」停止が太鼓の達人など他社8タイトルに波及 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02RDVzSHV1QUNGMDVBVzdrQmRsTGtzaTkwR0ZmSmtxYTE5X1hBbEZsTHpxTGNQWklIeWN4RXc2aHE0dC0tNjBOMkI5UThmMnZJZXFv?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-04T11:44:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T12:05:20+09:00"
+    },
+    {
+      "title": "Webアプリの脆弱性を、攻撃者と同じAIで先に試す「Egeria AI Shield」を提供開始 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjbmJzb3kwRnFtY3BLTnNQVFpRYm1fLVZtMmNRU1lvN1daV1oyZVpfR2hObnUzYzg2OFNOSERGbzdSVkJOblNWSzFPbVJZdDNDdXplRldNaTBPeUp1MUR1SzNxNW5HRXlsS3FmZ216cTFHTHBYNUVjWTYwSQ?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-04T11:15:26+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T12:05:20+09:00"
+    },
+    {
+      "title": "サイバー対策、まずは「現在地」の把握を キヤノンITS、SCS評価制度を解説 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42UjR5WUVKTVluWmotSmFzcXd2azExclI5dWZpZTJMZy00aVVwdlZBRU9GMi1Wbi01TGdGRVRpRjZzM25yb3dPdHkxNkVhblJTLUphbnpuZlZwUUZkaGc?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-04T11:42:12+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T12:05:20+09:00"
+    },
+    {
+      "title": "GMO熊谷正寿社長に「なぜ野々村議員想起」3時間半の会見全文 - zakⅡ",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdDg5OXJibV8tcXNKNmdDSFhQbjRlU1hLT081bVF2bWxIcDdtd2QybEJ6dHpOZExuaG9EYlo4Nk9RLVlWWjk1c3FlVlRjMGxjeFhsUGloTjFSOXZLOVhKMDlZMV9wak0xTWFJUTdiRjlldEQ2WXJsUtIBjAFBVV95cUxQNDBIVUlfT0lHM0FqVlFLN2t6WVl2RjkwWFNFS1dhaVpXUkVMTWhlR2lLRnhra3JyOGJvYk5FaGphOHlPLUo0aHFOM3BReUVKQVVKbmhsM1VpVjdIb2NnWDVXRjREYnhkWTdfRC1KdVJuUV83b1JhdWV0MHlEWjl5LXdlN1luYW4xODNUbg?oc=5",
+      "source": "zakⅡ",
+      "published_at": "2026-11-04T11:58:30+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T12:05:20+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T11:37:13+09:00"
+  "updated_at": "2026-11-04T12:05:20+09:00"
 }
