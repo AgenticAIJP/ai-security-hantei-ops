@@ -1485,8 +1485,62 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T05:54:47+09:00"
+    },
+    {
+      "title": "AIコードエディタCursorのマーケットプレイス「Claude Code」拡張機能に悪性コード混入、最大5,000ユーザーに影響の可能性　SSHバックドア設置狙う",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/cursor-claude-code-extension-supply-chain-ssh-backdoo/",
+      "source": "",
+      "published_at": "2026-11-05T06:00:03+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T06:22:44+09:00"
+    },
+    {
+      "title": "無印良品の情報流出、連携終了後も残ったカード番号109万件が問う「手放す設計」 - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGeEl1X3FtSHREaFBvT0ZqX3BWYW5JVjJBQXdQemIzQjhLbmFBNEdVYjBNN1BlSnR0UW5LRzJDS0RBVnRDRExhUHU0dU1MN1lfSjloY2IzQzh6MTNxczZ6aDYwUVNReHNrZFZ3TEJZcVhuZkU?oc=5",
+      "source": "innovaTopia",
+      "published_at": "2026-11-05T06:04:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T06:22:44+09:00"
+    },
+    {
+      "title": "琉球銀行、9万6000件のメールアドレス漏洩 委託先に不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82bXBYclBkWDRRZi1QS0NDYThPemg4eVJNUTI0ZExmWGZzZzRWLWotUDFIT0oxZ0pQbW40SEd5OUwxTFhETHYwNllRWVhmUm5XeHRvZzktbEhackhGLWh1R1JnOUlEU1lSSy1xcQ?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T15:13:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T06:22:44+09:00"
+    },
+    {
+      "title": "流出３億件超でまさかの事態！ 個人情報〝供給過多〟で「値段つかない」 - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sWkVhTFRNYURZV3MwdVBUcUhRc0pzOHFMcmYtN21NTkJjQ1JxcC1ILXQ5dTRDMGNtdFY0MDI3TGxCTlUyU21icW1COUgwZGJHYkM5OVhuVUNzOUt0bDAyMjEwOW9zSjZIQnlNaVpR?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-05T06:02:53+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T06:22:44+09:00"
+    },
+    {
+      "title": "無印良品「MUJIアプリ」情報流出は2726万件に、セゾン発行「MUJI Card」全桁も対象 - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FRGdHZWVwR1dkUWtaRFRjUXo0RWtrUWpmRHFqU0pkSzA4OTRSa1U2UUJVNkwxOHo3OTNxSmVra05XcXBhekpkUTdhQVdUelM2LTBvWV82QmlXSThyak1FWHVOcW1TU0E?oc=5",
+      "source": "ケータイ Watch",
+      "published_at": "2026-11-04T19:36:35+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T06:22:44+09:00"
+    },
+    {
+      "title": "プレステージ・インターナショナル、ロードサービス利用者の個人情報が最大550万件漏えい 子会社に不正アクセス - 日刊自動車新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IbXNVVGc0NFNtN2E2RGVOa0JKT1gtTzRlSU0wZ000dXJFSF9ndWpJeWVUZEhjdnVqczR0T2xHbE5rclFaaEc3Y2FxRHAtRUVQM3c?oc=5",
+      "source": "日刊自動車新聞",
+      "published_at": "2026-11-05T05:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T06:22:44+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T05:54:48+09:00"
+  "updated_at": "2026-11-05T06:22:44+09:00"
 }
