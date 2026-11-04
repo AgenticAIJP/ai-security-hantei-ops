@@ -3240,8 +3240,71 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T14:53:12+09:00"
+    },
+    {
+      "title": "Google、130万台超のAndroid TV機器を悪用した「XCPE」ボットネットを解体　製造元Videostrongによるバックドア組み込みを指摘、警察庁も協力",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/google_xcpe_botnet_videostrong_13million_takedown_20261103/",
+      "source": "",
+      "published_at": "2026-11-04T15:00:21+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:21:09+09:00"
+    },
+    {
+      "title": "はせがわ[8230]：当社委託先のメール配信サービスへの不正アクセスによる個人情報漏えいに関するお知らせ（第１報） 2026年11月4日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91Vm9PRUZ4a1FneVZkT1Q2cVVrSkZPNzNVelRMQnJjT0NvX1QtWmlSVEdrQlZJd1pMTy1fR2J3WFlnMUVDbHFwNG16TXNwU3U5bEkxdUhaSXNjZ3BKR1JzUVQ5WmZkcnByV3c?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T15:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:21:10+09:00"
+    },
+    {
+      "title": "松屋公式アプリに不正アクセス 会員情報等が漏えい 2枚目の写真・画像 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRFZNR2YyRGk2b2VfNzUwYnc2UDZOR3lBYkdMV3l0b1FfZTJ1WDNQNy1VanVQSWVuQzd5YW1aaDZNenVHeW5DQVl0cHI2SVk3ZEp2Y3BIYWY3b2Q5QVVCY3h1eDdvbzRCNkRMb3VyQUM2OE5tX0E?oc=5",
+      "source": "ScanNetSecurity",
+      "published_at": "2026-11-04T12:44:39+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:21:10+09:00"
+    },
+    {
+      "title": "オンライン申請システム巡り不正アクセス 横浜・川崎で情報漏洩か（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Pd3BJd0l4TDA5WmpVZGt0WUJ1X0h3TU9PRVpSYi1Sc1liQlFuY05uR2lVZkFJaUEtTUluRmh0YTdlMmVIQU90TVRiWGl2dFQ3Vi1mTEI3Tm5jclJNTXM5VHRtem9WX3gtR3QzMlJjNThUQUZwbkNYYkZfYjJWdWc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T11:15:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:21:10+09:00"
+    },
+    {
+      "title": "セブン-イレブン「7NOW」の利用者情報16万件超漏えい 配達委託先に不正アクセス、出前館でも約800件 (ITmedia NEWS) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWxLejgwUGdZZkNrWU1FSkFtTXJyVnd4OTVWdFctRk94U0U2SXRzaDBjZGRqSkRDWHBrT2YyVmROTTY1ZkhIZ1JSUnRPWTBnYVpxcnVoSlZ0WF80cGpQNnNqcXdmaURBUkdYUmdZNFk3czVMbU5jcWZvTEJaa1pHbk5HNG1ZMXN0UWF3Mmpn?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T09:41:22+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:21:10+09:00"
+    },
+    {
+      "title": "アソビュー、会員情報1582万件流出 最終ログイン日や利用施設も メール委託先・アララ不正アクセスで (ITmedia NEWS) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMzZ4amZ4M3V6RE16UmppWk1GdWJnSkViLXlSNXpKdG94cktzYXNZSFpTS2xmcl9vdVRFendjWU80bzhYMFc0alBlb0lVN1dmYVJrdEJRMS1rTVdNeDdHZ2Uyci1SeWt3RWtEUkdZekVnTUpQTjRaWXdnb0d4SUs4aHoyc1FWX0NLODJVWE5R?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T09:44:53+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:21:10+09:00"
+    },
+    {
+      "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81R2hhcDQ5enk0UzF4TGYzbUhDUnhoUnAwYTIxYmhHbWRKNlRNTjZta0FzUUdRNWgxZ095dlNjVGxUQmhTNFNCY1ljTmZZTk4tSjQ1YnU4N3U4ak9ERlREU1czTQ?oc=5",
+      "source": "sannichi.co.jp",
+      "published_at": "2026-11-04T12:30:03+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T15:21:10+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T14:53:12+09:00"
+  "updated_at": "2026-11-04T15:21:10+09:00"
 }
