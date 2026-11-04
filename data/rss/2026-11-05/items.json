@@ -1323,8 +1323,17 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T01:13:35+09:00"
+    },
+    {
+      "title": "各種サービスへの不正アクセス及び個人情報流出に関する注意喚起 - 長泉町",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ZGZwX0pCaTZBN2tGRGRUdlRsb0E2N3pJSzB1VGIzVmRTT1FBekFPQ05CWEtaRG9NLWRubzBub2VlbmZ1anF5OHBZM1VwcnFxUUNLT0phcUJsVmhmVFBQTzRQemd2SEo2YUxlQ2NDY2UyQQ?oc=5",
+      "source": "長泉町",
+      "published_at": "2026-11-04T16:15:31+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T01:41:47+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T01:13:36+09:00"
+  "updated_at": "2026-11-05T01:41:47+09:00"
 }
