@@ -7,6 +7,10 @@
   "day1": "2026-11-02",
   "start_from": "2026-11-02T12:00:00+09:00",
   "hantei_daily_max": 8,
+  "held_reasons": ["an_review", "correction_request", "eval_correction"],
+  "check_hours": { "nobunaga": [8, 13, 19], "hojo": [], "default": [9, 20] },
+  "check_batch_max": 6,
+  "hojo_fallback_hours": 4,
   "hantei_slot_hours": 3,
   "choose_by_priority": [
     "x_sokuho",
@@ -32,6 +36,20 @@
     "tenken"
   ],
   "agents": {
+    "hojo_deep": {
+      "executor": "routine",
+      "active_from": "2026-11-05",
+      "min_interval_min": 25,
+      "max_items_per_run": 3,
+      "reasons": ["memo"]
+    },
+    "hojo": {
+      "executor": "routine",
+      "active_from": "2026-11-05",
+      "min_interval_min": 50,
+      "max_items_per_run": 12,
+      "reasons": ["memo", "x_sokuho_plan", "card_personal", "card_prepare", "daiko", "request", "instruction", "correction_request", "eval_correction"]
+    },
     "nobunaga": {
       "executor": "managed",
       "active_from": "2026-11-02",
@@ -178,6 +196,14 @@
     "hantei_mid_high": "hantei のうち、本文に #家康 #官兵衛 の札があるもの（家康・官兵衛を起こす）",
     "baseline_case": "hantei_mid_high と同じ投稿。素の Claude を起こす（1 日 3 件まで）。送るのは incident_id と root_post_id",
     "review": "武将の ENS が投稿した【判定】【判定まとめ】【続報】【独立判定】【技術分析】【反論】【攻め手の読み】【制度の視点】【速報】の新しい投稿（謙信自身の投稿と、信長の「：対象外」を除く）",
+    "x_sokuho_plan": "補助bot が動いているときの、monomi の【X速報】。補助bot が下調べをして【案】信長殿へ を出す。処理されないときは 4 時間で信長に戻す（x_sokuho）",
+    "an_review": "補助bot の【案】◯◯殿へ。依頼者を check_hours の時刻に起こす。■ 緊急：はい ならすぐ起こす。謙信と光秀には渡さない。寧々は総括で自分で読む",
+    "memo": "補助bot の【案】信長殿へ で「区分案：全員」の行。重い分析の routine（Fable 5.1）が【調査メモ】を書く。進まなければ Opus 5.5 の補助bot に戻す",
+    "card_personal": "補助bot が動いているときの、信長の「：原因待ち」「：枠外」の【判定】。茶々の依頼として案を書く",
+    "card_prepare": "補助bot が動いているときの、「：原因待ち」で「■ 深刻度：高」の【判定】。信玄の依頼として案を書く",
+    "daiko": "費用の上限で本人を起こせないとき。信玄、茶々、秀吉、家康、官兵衛の hantei を、補助bot の下書きに回す",
+    "request": "武将の投稿の「■ 補助botへの依頼：」の行（謙信と光秀を除く）",
+    "instruction": "武将の投稿の「■ 補助botへの指示：」の行",
     "x_answer": "monomi の【X調査回答】。送り先は、引用元の【X調査依頼】を出した人",
     "correction_request": "謙信の【目付】。送り先は、引用元の投稿の作者",
     "eval_correction": "評定Claude の ENS の【評定】にある「■ 訂正の依頼：<key> <投稿 ID>」の行。送り先は key",

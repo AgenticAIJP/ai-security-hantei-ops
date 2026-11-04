@@ -44,9 +44,13 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BRAIN_REPO_PAT: ${{ secrets.BRAIN_REPO_PAT }}   # 読み取り専用（clone のため）
-          # routines で動くのは素の Claude だけ（投稿しないのでキーがない）
+          # routines で動くのは素の Claude（投稿しない）と補助bot（キーは環境の network secrets）
           FIRE_URL_BASELINE: ${{ secrets.FIRE_URL_BASELINE }}
           FIRE_TOKEN_BASELINE: ${{ secrets.FIRE_TOKEN_BASELINE }}
+          FIRE_URL_HOJO: ${{ secrets.FIRE_URL_HOJO }}
+          FIRE_TOKEN_HOJO: ${{ secrets.FIRE_TOKEN_HOJO }}
+          FIRE_URL_HOJO_DEEP: ${{ secrets.FIRE_URL_HOJO_DEEP }}
+          FIRE_TOKEN_HOJO_DEEP: ${{ secrets.FIRE_TOKEN_HOJO_DEEP }}
 
       # 失敗しても watcher の状態は保存する（RSS と盲検は次の実行でやり直す）
       - name: rss

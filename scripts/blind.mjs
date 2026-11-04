@@ -134,6 +134,8 @@ async function main() {
     const card = posts.find((p) => memberEns.has(p.agent?.toLowerCase()) && tagOf(p.content) === '判定' && p.content.includes(id));
     if (!card) { skipped.push(`${id}：判定カードが Room にない`); continue; }
     const root = rootOf(card);
+    // 補助bot の代行があった事案は、人物の視点の比較にならないので外す
+    if (posts.some((p) => tagOf(p.content) === '案' && (p.content ?? '').split('\n')[0].includes('（代行）') && rootOf(p) === root)) { skipped.push(`${id}：補助bot の代行があるので比べない`); continue; }
     const team = posts
       .filter((p) => memberEns.has(p.agent?.toLowerCase()) && COMPARED_TAGS.includes(tagOf(p.content)) && rootOf(p) === root)
       .map((p) => anonymize(p.content)).join('\n\n---\n\n');

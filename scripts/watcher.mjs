@@ -27,6 +27,8 @@ const statePath = path.join(opsRoot, 'state', 'watcher.json');
 const MEMBERS = ['nobunaga', 'shingen', 'mitsuhide', 'kenshin', 'hideyoshi', 'chacha', 'ieyasu', 'nene', 'kanbei'];
 const SHORT_NAMES = { nobunaga: '信長', shingen: '信玄', mitsuhide: '光秀', kenshin: '謙信', hideyoshi: '秀吉', chacha: '茶々', ieyasu: '家康', nene: '寧々', kanbei: '官兵衛' };
 const ANALYSTS = ['shingen', 'chacha', 'hideyoshi', 'mitsuhide'];
+const REVIEWERS = ['kenshin', 'mitsuhide']; // 点検と反論の役は補助bot を使わない（事情を知らない目を残す）
+const SUBSTITUTABLE = ['shingen', 'chacha', 'hideyoshi', 'ieyasu', 'kanbei']; // 手が足りないときに、補助bot が案を書ける役
 const REVIEW_TAGS = new Set(['判定', '判定まとめ', '続報', '独立判定', '技術分析', '反論', '攻め手の読み', '制度の視点', '速報']);
 // Git に書いてよい場所（CLAUDE.md §4）。書くのは素の Claude だけ。これ以外が変わっていたら止まる。
 const AGENT_WRITABLE = ['baseline/', 'state/acks/'];
@@ -79,7 +81,7 @@ function taskIds(t) {
 }
 
 function taskSignature(t) {
-  return `${t.key}|${t.reason}|${taskIds(t).join(',')}`;
+  return `${t.key}|${t.reason}|${t.for ?? ''}|${taskIds(t).join(',')}`;
 }
 
 /** Merge tasks with the same reason into one entry for the payload (ids only, never post bodies). */
@@ -87,11 +89,13 @@ function payloadTasks(tasks) {
   const merged = new Map();
   for (const t of tasks) {
     if (t.reason === 'baseline_case') { merged.set(`b:${t.incident_id}`, { reason: t.reason, incident_id: t.incident_id, root_post_id: t.root_post_id }); continue; }
+    if (t.reason === 'daiko') { merged.set(`d:${t.for}:${t.post_ids.join(',')}`, { reason: t.reason, for: t.for, post_ids: t.post_ids }); continue; }
     if (t.reason === 'eval_correction') { merged.set(`e:${t.post_ids.join(',')}`, { reason: t.reason, post_ids: t.post_ids, report_post_id: t.report_post_id }); continue; }
     const k = t.reason;
     const entry = merged.get(k) ?? { reason: t.reason, ...(t.rss_paths ? { rss_paths: [] } : { post_ids: [] }) };
     for (const id of t.post_ids ?? []) if (!entry.post_ids.includes(id)) entry.post_ids.push(id);
     for (const p of t.rss_paths ?? []) if (!entry.rss_paths.includes(p)) entry.rss_paths.push(p);
+    for (const id of t.line_ids ?? []) { entry.unanswered ??= []; if (!entry.unanswered.includes(id)) entry.unanswered.push(id); } // まだ決めていない速報
     merged.set(k, entry);
   }
   return [...merged.values()];
@@ -142,6 +146,11 @@ async function main() {
     return null;
   };
 
+  // 補助bot（下請け）。登録と起動の準備が済むまでは、今までの流れで動く。
+  const hojoCfg = routing.agents?.hojo;
+  const hojoReady = Boolean(hojoCfg && agents.find((a) => a.key === 'hojo')?.ens && today >= (hojoCfg.active_from ?? '') && routineTarget('hojo'));
+  const hojoDeepReady = Boolean(hojoReady && routing.agents?.hojo_deep && routineTarget('hojo_deep')); // 重い分析（Fable 5.1）の routine
+
   const POST_LIMIT = 1000;
   const posts = await recentRoomPosts(routing.room_id, POST_LIMIT);
   const seen = new Set(state.seen);
@@ -159,7 +168,7 @@ async function main() {
     const tag = tagOf(p.content);
     const isTeam = MEMBERS.includes(ak);
 
-    if (ak === 'monomi' && tag === 'X速報') add('nobunaga', 'x_sokuho', { post_ids: [p.id] });
+    if (ak === 'monomi' && tag === 'X速報') add(hojoReady ? 'hojo' : 'nobunaga', hojoReady ? 'x_sokuho_plan' : 'x_sokuho', { post_ids: [p.id] });
     if (ak.startsWith('trusted:') && (tag === 'X速報' || tag === '速報') && !p.quoted_post_id) add('nobunaga', 'sokuho_other', { post_ids: [p.id] });
 
     // 信長の短い投稿（記録のみ・対象外）では、分析役を起こさない。原因待ちと枠外の判定では、茶々を起こす。深刻度が高の原因待ちでは、信玄も起こす（枠は使わない）
@@ -184,19 +193,46 @@ async function main() {
         }
       }
     } else if (isHantei && tag === '判定' && PERSONAL_ONLY.test(firstLine(p.content))) {
-      add('chacha', 'hantei', { post_ids: [p.id] });
-      if (WAIT_CAUSE.test(firstLine(p.content)) && HIGH_SEVERITY.test(p.content)) add('shingen', 'hantei', { post_ids: [p.id] });
+      const high = WAIT_CAUSE.test(firstLine(p.content)) && HIGH_SEVERITY.test(p.content);
+      if (hojoReady) {
+        add('hojo', 'card_personal', { post_ids: [p.id] });
+        if (high) add('hojo', 'card_prepare', { post_ids: [p.id] });
+      } else {
+        add('chacha', 'hantei', { post_ids: [p.id] });
+        if (high) add('shingen', 'hantei', { post_ids: [p.id] });
+      }
     }
     // 事実の点検は、記録のみの投稿にも行う（速報の大半が記録のみになるため）。対象外だけを除く
     const outOfScope = isHantei && OUT_OF_SCOPE.test(firstLine(p.content));
     if (isTeam && ak !== 'kenshin' && REVIEW_TAGS.has(tag) && !outOfScope) add('kenshin', 'review', { post_ids: [p.id] });
+
+    // 補助bot の案は、依頼者に渡す。点検する役には渡さない。寧々は 21:05 の総括で自分で読む。調査メモは事実なので、謙信が確かめる。
+    if (ak === 'hojo' && tag === '案') {
+      const target = MEMBERS.find((m) => firstLine(p.content).startsWith(`【案】${SHORT_NAMES[m]}殿へ`));
+      const lineIds = [...p.content.matchAll(/^- ([0-9a-f]{24})/gm)].map((m) => m[1]);
+      const urgent = /^\s*■\s*緊急[：:]\s*はい/m.test(p.content);
+      if (target && !REVIEWERS.includes(target)) {
+        if (target !== 'nene') add(target, 'an_review', { post_ids: [p.id], ...(lineIds.length ? { line_ids: lineIds } : {}), ...(urgent ? { urgent: true } : {}) });
+        // 全員で議論する案の事案は、重い分析の routine が調査メモを書く
+        if (target === 'nobunaga') for (const m of p.content.matchAll(/^- ([0-9a-f]{24})｜.*区分案[：:]\s*全員/gm)) add(hojoDeepReady ? 'hojo_deep' : 'hojo', 'memo', { post_ids: [m[1]] });
+      } else log(`補助bot の案の宛先を読み取れないか、渡せない相手です（${p.id}）。`);
+    }
+    if (ak === 'hojo' && tag === '調査メモ') add('kenshin', 'review', { post_ids: [p.id] });
+    // 武将から補助bot への依頼と指示。点検する役は依頼しない（案を読まないため）。指示は誰でも出せる。
+    if (hojoReady && isTeam) {
+      if (/^\s*■\s*補助botへの依頼[：:]/m.test(p.content) && !REVIEWERS.includes(ak)) add('hojo', 'request', { post_ids: [p.id] });
+      if (/^\s*■\s*補助botへの指示[：:]/m.test(p.content)) add('hojo', 'instruction', { post_ids: [p.id] });
+    }
 
     if ((ak === 'kenshin' && tag === '目付') || (ak === 'monomi' && tag === 'X調査回答')) {
       if (!p.quoted_post_id) continue;
       try {
         const q = await getPost(p.quoted_post_id);
         const target = authorKey(q.agent);
-        if (MEMBERS.includes(target)) add(target, ak === 'kenshin' ? 'correction_request' : 'x_answer', { post_ids: [p.id] });
+        // 対象者の範囲と個人の守りの誤りはすぐ直す。ほかの訂正は、決まった時刻にまとめて行う。
+        const urgent = ak === 'kenshin' && /^\s*■\s*種類[：:].*(対象者の範囲|個人の守り)/m.test(p.content);
+        if (MEMBERS.includes(target)) add(target, ak === 'kenshin' ? 'correction_request' : 'x_answer', { post_ids: [p.id], ...(urgent ? { urgent: true } : {}) });
+        else if (target === 'hojo' && ak === 'kenshin') add('hojo', 'correction_request', { post_ids: [p.id] });
         else if (target === 'monomi') log(`物見bot あての【目付】があります（${p.id}）。Grok に伝えてください。`);
       } catch (err) { log(`引用元を読めませんでした（${p.quoted_post_id}）：${describeError(err)}`); }
     }
@@ -206,7 +242,7 @@ async function main() {
     // 評定の訂正の依頼は、評定Claude の ENS の投稿からだけ受け取る。ID の形だけを通し、指示文を起動文に混ぜさせない。
     if (ak === 'hyojo' && tag === '評定') {
       for (const m of p.content.matchAll(/^■ 訂正の依頼[：:]\s*([a-z]+)\s+([0-9a-f]{24})/gm)) {
-        if (MEMBERS.includes(m[1])) add(m[1], 'eval_correction', { post_ids: [m[2]], report_post_id: p.id });
+        if (MEMBERS.includes(m[1]) || m[1] === 'hojo') add(m[1], 'eval_correction', { post_ids: [m[2]], report_post_id: p.id });
         else if (m[1] === 'monomi') log(`物見bot への訂正の依頼があります（${m[2]}）。物見bot が Room で読みます。`);
         else log(`訂正の依頼の宛先が不明です：${m[1]}（${p.id}）`);
       }
@@ -222,7 +258,26 @@ async function main() {
 
   // rss_new は rss.mjs（Day 2）が ops の data/rss/ に候補を書くようになってから加える。
 
+  // 補助bot が動かないときは、仕事を本人に戻す（信長が速報を直接読む、今までの流れ）
+  const backFromHojo = (t) => {
+    const at = jstIso(now);
+    if (t.reason === 'x_sokuho_plan') return [{ key: 'nobunaga', reason: 'x_sokuho', post_ids: t.post_ids, at, attempt: 1 }];
+    if (t.reason === 'card_personal') return [{ key: 'chacha', reason: 'hantei', post_ids: t.post_ids, at, attempt: 1 }];
+    if (t.reason === 'card_prepare') return [{ key: 'shingen', reason: 'hantei', post_ids: t.post_ids, at, attempt: 1 }];
+    if (t.reason === 'daiko') return [{ key: t.for, reason: 'hantei', post_ids: t.post_ids, at, attempt: 1 }];
+    return [];
+  };
+
   // 3. 仕事が終わったかの確認と起こし直し。二重投稿は tp.mjs が止めるので、やり直しても残りの分だけが投稿される。
+  // 補助bot はリポジトリに書かない。処理した投稿は、投稿の「■ 処理した投稿」の行で確かめる。
+  // 同じ速報の ID が、案と調査メモの両方に載るので、分けて数える。
+  const hojoAcks = new Set();
+  const hojoMemoAcks = new Set();
+  for (const p of posts) {
+    if (authorKey(p.agent) !== 'hojo') continue;
+    const line = /^\s*■\s*処理した投稿[：:](.*)$/m.exec(p.content)?.[1] ?? '';
+    for (const m of line.matchAll(/[0-9a-f]{24}/g)) (tagOf(p.content) === '調査メモ' ? hojoMemoAcks : hojoAcks).add(m[0]);
+  }
   const ackTimeoutMs = (routing.retry?.ack_timeout_min ?? 60) * 60_000;
   const maxRetries = routing.retry?.max_retries ?? 2;
   for (const d of state.dispatches.filter((x) => x.status === 'sent')) {
@@ -240,13 +295,15 @@ async function main() {
       why = `セッションが正常に終わりませんでした（${outcome.reason}）`;
     } else {
       // routines（素の Claude）はセッションを追えないので、ack のファイルで確かめる
-      const acks = ackedIds(d.key);
-      if (d.tasks.flatMap(taskIds).every((id) => acks.has(id))) { d.status = 'done'; continue; }
+      const acks = d.key === 'hojo' || d.key === 'hojo_deep' ? hojoAcks : ackedIds(d.key);
+      const finished = (t) => taskIds(t).every((id) => (t.reason === 'memo' ? hojoMemoAcks : acks).has(id));
+      if (d.tasks.every(finished)) { d.status = 'done'; continue; }
       if (now - Date.parse(d.at) < ackTimeoutMs) continue;
       why = '受け取りの記録がありません';
-      redo = d.tasks.filter((t) => !taskIds(t).every((id) => acks.has(id)));
+      redo = d.tasks.filter((t) => !finished(t));
     }
-    if (d.attempt <= maxRetries) {
+    // 重い分析は起こし直さず、すぐ Opus 5.5 の補助bot に戻す（題材で止まっているなら、やり直しても同じため）
+    if (d.attempt <= (d.key === 'hojo_deep' ? 0 : maxRetries)) {
       for (const t of redo) newTasks.push({ ...t, attempt: d.attempt + 1, at: jstIso(now) });
       d.status = 'retried';
       log(`${d.key}：${why}。起こし直します（${d.attempt + 1} 回目）。`);
@@ -254,6 +311,8 @@ async function main() {
       d.status = 'failed';
       state.alerts.push({ at: jstIso(now), type: 'not_finished', key: d.key, dispatch: d.id, why });
       log(`${d.key}：${why}。${d.attempt} 回起こしても終わらないので、iQi が確かめてください。`);
+      if (d.key === 'hojo') newTasks.push(...redo.flatMap((t) => backFromHojo(t)));
+      if (d.key === 'hojo_deep') newTasks.push(...redo.map((t) => ({ ...t, key: 'hojo', at: jstIso(now), attempt: 1 })));
     }
   }
 
@@ -302,17 +361,45 @@ async function main() {
     if (p.agent?.toLowerCase() !== nobunagaEns || tagOf(p.content) !== '判定まとめ') continue;
     for (const m of p.content.matchAll(/^- ([0-9a-f]{24})/gm)) answered.add(m[1]);
   }
-  const isAnswered = (t) => isChoosable(t) && (t.post_ids ?? []).every((id) => answered.has(id));
+  const isAnswered = (t) => {
+    if (t.reason === 'an_review' && t.line_ids) { // 信長への案は、全部の行を決めるまで次の確認にも届ける
+      t.line_ids = t.line_ids.filter((id) => !answered.has(id));
+      return t.line_ids.length === 0;
+    }
+    return (isChoosable(t) || t.reason === 'x_sokuho_plan') && (t.post_ids ?? []).every((id) => answered.has(id));
+  };
 
   // 5. まとめて起こす
   const pendingBySig = new Map(state.pending.map((t) => [taskSignature(t), t]));
   for (const t of newTasks) if (!pendingBySig.has(taskSignature(t))) pendingBySig.set(taskSignature(t), t);
   // 速さは求めないので、費用の上限で止まった仕事も翌日に回す。48 時間たったものだけ捨てる。
-  const allPending = [...pendingBySig.values()].filter((t) => !isAnswered(t));
+  const allPendingRaw = [...pendingBySig.values()].filter((t) => !isAnswered(t));
+  // 補助bot が動いていない、または長く処理されない仕事は、本人に戻す
+  const hojoFallbackMs = (routing.hojo_fallback_hours ?? 4) * 3600_000;
+  const allPending = allPendingRaw.flatMap((t) => {
+    if (t.key === 'hojo_deep') return hojoDeepReady && now - Date.parse(t.at) <= hojoFallbackMs ? [t] : [{ ...t, key: 'hojo', at: jstIso(now), attempt: 1 }];
+    if (t.key !== 'hojo' || (hojoReady && now - Date.parse(t.at) <= hojoFallbackMs)) return [t];
+    const back = backFromHojo(t);
+    if (back.length) log(`補助bot の仕事を本人に戻します：${t.reason}（${taskIds(t).join(',')}）`);
+    return back.length ? back : hojoReady ? [t] : [];
+  });
   const pending = allPending.filter((t) => now - Date.parse(t.at) < 48 * 3600_000);
   if (allPending.length > pending.length) log(`48 時間たっても処理できなかった仕事を ${allPending.length - pending.length} 件捨てました。`);
   const byKey = new Map();
   for (const t of pending) byKey.set(t.key, [...(byKey.get(t.key) ?? []), t]);
+
+  // 案の確認と訂正は、決まった時刻にまとめて行う（本人の起動を減らす）。緊急のものはすぐ起こす。
+  const heldReasons = new Set(routing.held_reasons ?? []);
+  const isHeld = (t) => heldReasons.has(t.reason) && !t.urgent;
+  const checkOpen = (key) => {
+    const hours = routing.check_hours?.[key] ?? routing.check_hours?.default;
+    if (!hours?.length) return true;
+    const passed = hours.filter((h) => h <= Number(jstIso(now).slice(11, 13)));
+    if (!passed.length) return false;
+    const opened = Date.parse(`${today}T${String(Math.max(...passed)).padStart(2, '0')}:00:00+09:00`);
+    const last = state.last_check?.[key];
+    return !last || Date.parse(last) < opened;
+  };
 
   const stillPending = [];
   let dispatched = 0;
@@ -322,6 +409,11 @@ async function main() {
     if (cfg.active_from && today < cfg.active_from) continue; // まだ有効でない人あての仕事は捨てる
     // 反省会の仕事を先にする（1 回に 1 件の人でも、点検と応答が遅れないように）
     let tasks = [...tasksAll].sort((a, b) => Number(isHanseikai(b)) - Number(isHanseikai(a)));
+    if (tasks.some(isHeld) && !checkOpen(key)) {
+      stillPending.push(...tasks.filter(isHeld));
+      tasks = tasks.filter((t) => !isHeld(t));
+      if (!tasks.length) continue;
+    }
     if (cfg.daily_max) {
       const room = Math.max(0, cfg.daily_max - (daily[key] ?? 0));
       if (tasks.length > room) log(`${key}：今日の上限 ${cfg.daily_max} 件を超える分は扱いません。`);
@@ -330,11 +422,16 @@ async function main() {
     }
     if (cfg.max_items_per_run) {
       // 質を保つため、1 回に扱う件数を絞る。残りは次の回に回す。選べる速報は、あとで pick 件だけ選ばせる。
-      const fixed = tasks.filter((t) => !isChoosable(t));
+      const batchMax = routing.check_batch_max ?? 6; // まとめて確かめる仕事は、1 回に扱う件数を別に数える
+      const batch = tasks.filter(isHeld);
+      stillPending.push(...batch.slice(batchMax));
+      const fixed = tasks.filter((t) => !isChoosable(t) && !isHeld(t));
       const choosable = tasks.filter(isChoosable);
       if (fixed.length >= cfg.max_items_per_run) {
         stillPending.push(...fixed.slice(cfg.max_items_per_run), ...choosable);
-        tasks = fixed.slice(0, cfg.max_items_per_run);
+        tasks = [...fixed.slice(0, cfg.max_items_per_run), ...batch.slice(0, batchMax)];
+      } else {
+        tasks = [...fixed, ...batch.slice(0, batchMax), ...choosable];
       }
     }
     const last = state.last_dispatch[key];
@@ -355,7 +452,8 @@ async function main() {
     if (executor === 'routine' && !routineTarget(key)) executor = 'blocked';
     const choosableNow = tasks.filter(isChoosable);
     const fixedNow = tasks.filter((t) => !isChoosable(t));
-    const pick = choosableNow.length ? Math.min(choosableNow.length, (cfg.max_items_per_run ?? 4) - fixedNow.length) : null;
+    // まとめて確かめる仕事は別に数えるので、選べる速報の件数には入れない
+    const pick = choosableNow.length ? Math.min(choosableNow.length, (cfg.max_items_per_run ?? 4) - fixedNow.filter((x) => !isHeld(x)).length) : null;
     const payload = { tasks: payloadTasks([...fixedNow, ...choosableNow]), ...(pick ? { pick } : {}), day, sent_at: jstIso(now) }; // 訂正などを先に
 
     if (dryRun) {
@@ -364,7 +462,11 @@ async function main() {
     }
     if (executor === 'blocked') {
       log(`${key}：起こせません（${cfg.executor === 'managed' && capped ? '今日の費用の上限' : 'Managed Agents の準備か routine の起動トークンが未設定'}）。仕事は保留します。`);
-      stillPending.push(...tasks);
+      // 費用の上限で本人を起こせないときは、補助bot に下書きを頼む。本人は費用が戻ったら確かめて、自分で書く。
+      const handOver = hojoReady && cfg.executor === 'managed' && capped && SUBSTITUTABLE.includes(key)
+        ? tasks.filter((t) => t.reason === 'hantei' || t.reason === 'hantei_mid_high') : [];
+      for (const t of handOver) stillPending.push({ key: 'hojo', reason: 'daiko', for: key, post_ids: t.post_ids, at: jstIso(now), attempt: 1 });
+      stillPending.push(...tasks.filter((t) => !handOver.includes(t)));
       continue;
     }
     try {
@@ -385,6 +487,8 @@ async function main() {
         at: jstIso(now), attempt: Math.max(1, ...fixedNow.map((t) => t.attempt ?? 1)), status: 'sent',
       });
       stillPending.push(...choosableNow); // 信長の返信がつくまで残す
+      stillPending.push(...fixedNow.filter((t) => t.reason === 'an_review' && t.line_ids?.length)); // 決めていない行は、次の確認にも届ける
+      if (tasks.some(isHeld)) (state.last_check ??= {})[key] = jstIso(now);
       state.last_dispatch[key] = jstIso(now);
       if (cfg.daily_max) daily[key] = (daily[key] ?? 0) + tasks.length;
       dispatched++;
