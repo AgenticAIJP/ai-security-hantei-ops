@@ -3204,8 +3204,44 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T14:25:15+09:00"
+    },
+    {
+      "title": "Shippio／不正アクセスで貿易DXサービスを一時停止、顧客情報漏えいを確認 - 物流ニュースのLNEWS",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RU0YycDQ4MzFwM1JyZXhjN3h5S3d2bXVERGcxTWxNeUJLSU5UNXdnS2ZYMVAwQkdZWTJ5c2VRQWZMa1AxVmJSU1hleHZodkdpaUFqWA?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "published_at": "2026-11-04T14:49:16+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:53:12+09:00"
+    },
+    {
+      "title": "不正アクセス、どうして増えている？ パスワードなど管理が重要（毎日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lc0J2YnZtWC1Qa21nMWJwNy1ROV95Mlp2ek1aRXVVNXRwZ053TUY0SWNRVlZab1MzRF80MTZPc09EcG9ubm44Mkt2ZVA4QUUtSGlqSGV2bDZIVXB5THNmWmRnLXdrV29JclhFVlEyRTFEZGlNTkVfREszYjQtSkk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T13:25:03+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:53:12+09:00"
+    },
+    {
+      "title": "大阪市の「行政オンラインシステム」で市民の個人情報漏えいか 氏名やメールアドレスなど（ABCニュース） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92RGVuZWFNYlQ0WkRXWmZIM0lhQ2xQZHdGLW51OUVkRmsxN2tWQnl0V0lVbzNCVHlNX205WGtqTS10RTIwQzRvczctWWdPRmpfLVo3d2dZZWhtOFJsUlMzTFZ0LXNxV3JPLWN5dDdOLW1GX2xLQjlySU9oaHVMMG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T19:09:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:53:12+09:00"
+    },
+    {
+      "title": "かっこ.グループのAnycloud、AIエージェントが攻撃者視点で脆弱性を検証する「AI セキュリティ診断サービス」のPoC開始 - 日本ネット経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Mdy0xOFh3bFoxUWs3R2NtMFdVUWtCa2NPelE0cmhyRkEtN2NNYVRoa1JUZVdSQjM0MkM4S2FBZVdnY2I0NG44ZnJlM3Y4NzNhNGhsRnhn?oc=5",
+      "source": "日本ネット経済新聞",
+      "published_at": "2026-11-04T14:31:50+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T14:53:12+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T14:25:15+09:00"
+  "updated_at": "2026-11-04T14:53:12+09:00"
 }
