@@ -2646,8 +2646,71 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T10:41:09+09:00"
+    },
+    {
+      "title": "Synology製NASに「C3RB3R」ランサムウェア攻撃　古いDSMの修正済み脆弱性を悪用、メーカーが緊急更新を呼びかけ",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/synology_c3rb3r_ransomware_nas_dsm_warning/",
+      "source": "",
+      "published_at": "2026-11-04T11:00:59+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:09:08+09:00"
+    },
+    {
+      "title": "ゴルフネットワーク、メールアドレス20万9,460件が流出　アララ「repica」への不正アクセスが波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/golfnetwork_arara_repica_email_leak_209460_20261104/",
+      "source": "",
+      "published_at": "2026-11-04T10:52:08+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:09:08+09:00"
+    },
+    {
+      "title": "セブン-イレブン “配達委託先から個人情報16万件余り漏えい” - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ndnRFRWNKQzM5aFZnbzJRZnlsWnhLZm9qWGRaQVJWdmlBaDYwSlJ4OUFNbW94V2RUdFF2SmdsdkppM2pkeVNpNzBnd29QSXEwR0lRdy1PaURLR0U2V2lz?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-04T10:26:16+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:09:09+09:00"
+    },
+    {
+      "title": "アソビュー、会員情報約1582万件流出 委託先に不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OcDk1Tm9NWXB2bkFBS05acHk2OXlnb0NaM2RTaThBdmYzVW5CM2dpN0pia3doaUdmTXo4UUVETHVBNU91SWc2cDFkakk2b0p1Ynk2ZWtOREZBZUwyNWJqaEtQZlllUDJxZWJUWA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T10:30:59+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:09:09+09:00"
+    },
+    {
+      "title": "メルアド7700万件流出か アララメッセージの不正アクセスで続報 共通環境から契約企業のサーバへ侵入 悪用も確認 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RWEtrSUg1YmhyWW4yU1FFVVc4V0pDVzgxcFJDUHlha19DYllpQ2laSUYybnZJS2MxcFBvbkQtUThCLWZNdjZLSFJiUGYxSTd2MXFpaEdqX1JmdXdTVW85aG9HcUc5VU52SEE?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-04T10:41:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:09:09+09:00"
+    },
+    {
+      "title": "サイバーセキュリティクラウド、「AWS re:Invent 2026」に4年連続で出展 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RNEw5c3Z0NVZ5ckdCV0tpeDR1b1Z2RUhSLWszckpSdjJ0UHdYY21zWjNOYVRBWGM4TFYtc09QMlFKMnlrYVRvandmTnMxUjJlbWJZ?oc=5",
+      "source": "ZDNET Japan",
+      "published_at": "2026-11-04T11:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:09:09+09:00"
+    },
+    {
+      "title": "PBシステムズ---反発、セキュリティの脆弱性を発見・対処するサービスを提供開始 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTFrMVlncnVVMmRTX3YwaEs2N2JnSmNVeWgwd3RXTlBnVFh3V3loVDViZ2RYN2dENFA5dDgxWTNHWGZKbVoxNl83VHBDTnMtdXh5MU5oQjRnVGZBdGVHVVNTZmlzVjRoQktPRzk0WlplVU9JTkx3cVRhSXpkdDVMdmI0Y0FTMnPSAYwBQVVfeXFMTlU4M2g4T0Fua2VCVnhudm0wOFAzT1Z2cVc0aXJIeDlqX2hreThiRXdlcVhoWC1IdVR4Q0J2OE9LQXdRcXd4NW5fREpTejBWQkE5SURSOWtPODV4TnFaNC1zNDdHMXVySmlXbFM2QkFnMU03QVlaZ1BOSk5wOTVnWXZaWHlSa0syMFE5OU0?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-04T10:08:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T11:09:09+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T10:41:09+09:00"
+  "updated_at": "2026-11-04T11:09:09+09:00"
 }
