@@ -1305,8 +1305,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T00:45:03+09:00"
+    },
+    {
+      "title": "ワークマン、メールアドレス最大約145万件が流出か 不正アクセス被害により - Fashionsnap.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWDhQanlsQXJmX1Q5WWROck9MRkRBbFl0cGMwZDNGRHlqa1l2N09pNDVieXZKUjZSSTA5bjcxTXdlc3NzYzRTaDNScjJVdWJwTUVSZFFEaDBvZUZtcjZaUURKeWZsVmNveG9kVGZIT2d2dGwtVnMtVnVfSlI3eldobA?oc=5",
+      "source": "Fashionsnap.com",
+      "published_at": "2026-11-04T15:41:57+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T01:13:35+09:00"
+    },
+    {
+      "title": "セガ フェイブの「ALL. Net」に不正アクセス、「太鼓の達人」「チュウニズム」などのアーケードゲームに影響 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nZWJzcXY5NldiamJrLW00NHAwMm5TUnQtSXB6ekVXYUY1Z0YzWVVKV1BMRzdIRzd5WC1YdEdXLUJVUU85Mm1sam1jTlJvcnZ1UnA3LUtVX3JDd19kZEl6bXhLNDJXcXBIdEJ3?oc=5",
+      "source": "INTERNET Watch",
+      "published_at": "2026-11-04T10:21:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T01:13:35+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T00:45:03+09:00"
+  "updated_at": "2026-11-05T01:13:36+09:00"
 }
