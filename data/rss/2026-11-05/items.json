@@ -1377,8 +1377,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T02:38:17+09:00"
+    },
+    {
+      "title": "福島市 マイナンバー交付予約者の個人情報漏えいの可能性（ふくしまNEWS -KFBデジタル-） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQmtaTGlNQkFIdFQwM1Q4UTctX3RUWDBGTndrNEg0SFgxU0VhZHdWcXdfSXBMZ0JMeHZ6eDRGVXNBWFNSVUZhekJ4b1Z2NFVxUURBb0ZjcVNwMnY4RUtoMld1OV9IQzQtTG5nc3NwVmF0ZnYtRzhYMlMyRjJkN2c?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T19:48:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T03:06:36+09:00"
+    },
+    {
+      "title": "日本郵便 サイバー攻撃で海外向け配送「UGX」一部停止 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fX1lndFVMZkY1RTRlQTBTM09abGRaelQtYUtOOXp4NmxDOTAtQ3ZNWEtxakZLTkZxbzFxSTJVZzRkZl8xcFJHbks1NXVBanN6dHR5U01Sd3RYaU5FVU04?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-05T02:20:03+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T03:06:36+09:00"
+    },
+    {
+      "title": "デニーズ 旧アプリで漏えいか 「キッズバースデー」も対象 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KcWRtb0g1SzNpSjdZUVRvN2xGM0VBeURSVzdRZXhvZGRYcEVmUGtXeTFISTlnMGI2NzR1NEtHbFhHaWp3QmtIUkFPMnZNbU90RV9hZ1UxTm13b0dMOWR6MGk1ZkdpSk9aRVhGYm5XNGk2QQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-04T17:44:54+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T03:06:36+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T02:38:17+09:00"
+  "updated_at": "2026-11-05T03:06:36+09:00"
 }
