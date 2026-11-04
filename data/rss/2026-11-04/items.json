@@ -4104,8 +4104,98 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T20:31:04+09:00"
+    },
+    {
+      "title": "国税庁 e-Tax、不審な通信を検知し利用停止　緊急メンテナンスで年末調整期の税務手続に影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/etax-suspicious-traffic-emergency-maintenance-20261104/",
+      "source": "",
+      "published_at": "2026-11-04T20:57:07+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:59:02+09:00"
+    },
+    {
+      "title": "琉球銀行、顧客メールアドレス96,477件が流出　アララ「repica」への不正アクセスが原因",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ryugin-bank-email-leak-vendor-cyberattack-20261102/",
+      "source": "",
+      "published_at": "2026-11-04T20:45:51+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:59:02+09:00"
+    },
+    {
+      "title": "ソラシドエア、メアド流出 49万件、委託先に不正アクセス（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxeUIwZmRkbzBkaFYtejRFWTZ0WVczLXhwSDNCbmY3ZENrcUNRYzVIR2pDUG5ocnQwRDhFTWRLdGdhUzlLVEFiOUpTWmpmaTF6LVg2cW5nR09LcmlnYXlVYkFYR1l0Vzd3TXJGdWhHOEtkTmJ4Z2JvS0VsY1NKa3c?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T20:44:53+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:59:02+09:00"
+    },
+    {
+      "title": "デニーズ、顧客情報流出か 公式アプリに不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DTzNyc1NycHliVlh4Ml9sNy1EYUJ5ZjVVcjluM2JEbTR1NnpWQTdOVFh4R2c0OEpVY2RMaHJiV2ZNc2VGQ3ZMMHhiYWljTjdDbi02S3VudE93VzdwODQ3aU9EUzYycFZ4ZEFTcg?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T20:44:10+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:59:02+09:00"
+    },
+    {
+      "title": "「アララ」への不正アクセス 小田原市と湯河原町で個人情報漏えいか - カナロコ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwa210em9lcmt6cEY0MzVhQVpocXhaN2d5YldiVGctbElCd3d0cUFaMUxkaWxNT1dVNlU0OXB6N2d1V3VrZ2xLOURKUzlCbWNiUklrMS05Wmh5VWhncHRiYnZSaUdESDg5MUxsQg?oc=5",
+      "source": "カナロコ",
+      "published_at": "2026-11-04T20:40:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:59:02+09:00"
+    },
+    {
+      "title": "三井住友海上など、契約者サービス停止＝不正アクセス受け - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hbExwNkR2aU1ER2ZBRGZXMTJweTY3Q2dxRV9ObzlvUl9YM0p6V0Nnc2o4ZzJGOEIwMG01VmstbWdobVdRa1d0NVZ1a2Q1Ti1OTkRhOUtJWUg?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-04T17:29:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:59:02+09:00"
+    },
+    {
+      "title": "モス、個人情報750万件が流出 委託先のメール配信サービスから - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54Tm05c0pRMmNVb2RrcVBOUVZWVnZjZ0JVWlFlZzRJMXB6WERnSUpmLTJ4UXNIOWMyWmN4aDZiaDJvUVYxT19wVWJWc29UeXBvcFlLOW0zVHJNLUlzYkdPZU9YOUtWZTlKTHRQTA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T20:19:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:59:02+09:00"
+    },
+    {
+      "title": "住友不動産、メールアドレス20万件流出（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSFhPNDF4NXpnS2Y3cEFsQk9RS0NSem5iNmhVN0Zhb08wa0RlNFh6eGV2bEFkY0xrT0M2ZjFDZjFwMjlWelFtWjVzXzQ1WGw3LVBZQ21fZkZ6cHBYT1p3Smt4NEVkUkFXcjVNMU5mQ2trMFQ2MldDbmZDUnotenM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T20:18:12+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:59:02+09:00"
+    },
+    {
+      "title": "「無印良品」カード番号全桁も流出か 約109万件 調査で新たに判明 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tRG8zQ2xtTGJ5RlFBTmRaZXlfb3B6SldVS2xkT3Y3WC1LaTFiT2VMalh0dEVuUmE2aE1pT3BxcW8tYWVEUFVmZER4alZwQzluZ2VLa01yajFJT2hkS000UUV2ZUZ5TERGSmhyS0FtazlXdw?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-04T18:30:49+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:59:02+09:00"
+    },
+    {
+      "title": "Android、216件の脆弱性を修正 操作不要でコード実行の恐れ、自社の端末は大丈夫か - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEckVDd0Q2NVJMYl9aVFgzOTFDVG82THF5UXNPcGhSeDBDZm9QMjRWSTdrVDIzTzcweFF3c250RnBkR0ZuRlN6ODRmZlRqREJnU2Vv?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-04T03:44:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:59:03+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T20:31:05+09:00"
+  "updated_at": "2026-11-04T20:59:03+09:00"
 }
