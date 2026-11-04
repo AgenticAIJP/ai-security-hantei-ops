@@ -4284,8 +4284,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T21:55:10+09:00"
+    },
+    {
+      "title": "《個人情報の漏えいはなし》RKCアプリ 不正アクセス被害【高知】（2026年11月4日掲載）｜RKC NEWS NNN - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZkZxNlU3OEJHTHQxMFRWVmVRT1F6Q3pBQmtjMmJldW1xUDdYNC1uVVg5RmxqS3ZPZXV4dFhTVUl0bHEyeDhKTlpDN3F5a3AzRXhTaFFaS2pNV0pIMVdBNE14bFUwTWNlbVBZMXNFeEo1RjFzbVRZUHdtWmZkWExXa3JFYnk3Tkk?oc=5",
+      "source": "日テレNEWS NNN",
+      "published_at": "2026-11-04T18:54:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T22:23:15+09:00"
+    },
+    {
+      "title": "アソビュー 1500万件超の情報流出 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Tb3lVU1pJelFYUHl3NWVzcm5ORkdBNXp5NWM1dHpLRjIySkVneDhlaEQ1T1E1Wm1icHV4VWlMcGZ4eENwczk2YTJUNTZQS1ZY?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T23:59:10+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T22:23:15+09:00"
+    },
+    {
+      "title": "「よけい不安になった」タイムズカー情報漏洩をめぐる“あいまいな記載” 質問しても真相は闇 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sOG5RUWxZcTFzbk4xRjhSNmhraVhqTjF1SmRLbkZnNHA2TFB2ZmhsNnc2VDk1czFtMDJPRk16YWtUZ3l6WkMwc3lyV0xsVWF6Q1UtSm43VlhWcVJJUHpCRWliVnFtZ3BpcDkzNzlxTVBpZTl2XzZZbVFOYXFOX1E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T08:42:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T22:23:15+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T21:55:10+09:00"
+  "updated_at": "2026-11-04T22:23:16+09:00"
 }
