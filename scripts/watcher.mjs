@@ -30,7 +30,10 @@ const ANALYSTS = ['shingen', 'chacha', 'hideyoshi', 'mitsuhide'];
 const REVIEW_TAGS = new Set(['判定', '判定まとめ', '続報', '独立判定', '技術分析', '反論', '攻め手の読み', '制度の視点', '速報']);
 // Git に書いてよい場所（CLAUDE.md §4）。書くのは素の Claude だけ。これ以外が変わっていたら止まる。
 const AGENT_WRITABLE = ['baseline/', 'state/acks/'];
-const SHORT_RECORD = /[：:]\s*(対象外|記録のみ|枠外)/; // 信長の短い投稿の 1 行目（PLAN.md §2.2）
+const SHORT_RECORD = /[：:]\s*(対象外|記録のみ|枠外|原因待ち)/; // 全員を起こさない信長の投稿の 1 行目（PLAN.md §2.2）
+const PERSONAL_ONLY = /[：:]\s*(枠外|原因待ち)/; // 議論には回さないが、個人の守りは茶々が書く
+const WAIT_CAUSE = /[：:]\s*原因待ち/;
+const HIGH_SEVERITY = /^\s*■\s*深刻度[：:]\s*高/m; // 深刻度が高の原因待ちでは、信玄が原因を推測せずに備えを書く
 const OUT_OF_SCOPE = /[：:]\s*対象外/;
 
 const now = new Date();
@@ -159,7 +162,7 @@ async function main() {
     if (ak === 'monomi' && tag === 'X速報') add('nobunaga', 'x_sokuho', { post_ids: [p.id] });
     if (ak.startsWith('trusted:') && (tag === 'X速報' || tag === '速報') && !p.quoted_post_id) add('nobunaga', 'sokuho_other', { post_ids: [p.id] });
 
-    // 信長の短い投稿（記録のみ・対象外）では、分析役を起こさない
+    // 信長の短い投稿（記録のみ・対象外）では、分析役を起こさない。原因待ちと枠外の判定では、茶々を起こす。深刻度が高の原因待ちでは、信玄も起こす（枠は使わない）
     const isHantei = ak === 'nobunaga' && (tag === '判定' || tag === '続報');
     const shortRecord = isHantei && SHORT_RECORD.test(firstLine(p.content));
     if (isHantei && !shortRecord) {
@@ -180,6 +183,9 @@ async function main() {
           }
         }
       }
+    } else if (isHantei && tag === '判定' && PERSONAL_ONLY.test(firstLine(p.content))) {
+      add('chacha', 'hantei', { post_ids: [p.id] });
+      if (WAIT_CAUSE.test(firstLine(p.content)) && HIGH_SEVERITY.test(p.content)) add('shingen', 'hantei', { post_ids: [p.id] });
     }
     // 事実の点検は、記録のみの投稿にも行う（速報の大半が記録のみになるため）。対象外だけを除く
     const outOfScope = isHantei && OUT_OF_SCOPE.test(firstLine(p.content));
