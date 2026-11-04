@@ -2538,8 +2538,116 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T10:13:02+09:00"
+    },
+    {
+      "title": "セガ フェイブに不正アクセス、ALL.Net・Aime停止がバンダイナムコ8タイトルにも波及　「太鼓の達人」などに影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/sega-fave-allnet-aime-unauthorized-access-bandai-namco-eight-titles/",
+      "source": "",
+      "published_at": "2026-11-04T10:30:41+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:08+09:00"
+    },
+    {
+      "title": "ライトアップショッピングクラブ、メール配信基盤「repica」への不正アクセスで顧客メールアドレスが一部流出　対象件数は調査中",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/lightup_shopping_club_arara_repica_43506/",
+      "source": "",
+      "published_at": "2026-11-04T09:10:00+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:08+09:00"
+    },
+    {
+      "title": "セブンのデリバリー「7NOW」、委託先不正アクセスで個人情報漏えい（Impress Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yWVBsQkhmbms1Y1RMazk5VldpSFI5Rjd5MjQzQnhxOWY1UlBZbmsxS0lsNlJjVEdZTlhXNXlfd3RqcXpkN0ZVeW43YVpiQ0RJeFNTX3NVUlV3TUxLYnNNSGEwZVJrNVozSmtNakVlMUIwbFFvZXpaNUJGTnFJYzg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T10:10:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:08+09:00"
+    },
+    {
+      "title": "セガ フェイブの「ALL. Net」に不正アクセス、「太鼓の達人」「チュウニズム」などのアーケードゲームに影響 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nZWJzcXY5NldiamJrLW00NHAwMm5TUnQtSXB6ekVXYUY1Z0YzWVVKV1BMRzdIRzd5WC1YdEdXLUJVUU85Mm1sam1jTlJvcnZ1UnA3LUtVX3JDd19kZEl6bXhLNDJXcXBIdEJ3?oc=5",
+      "source": "INTERNET Watch",
+      "published_at": "2026-11-04T10:21:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:08+09:00"
+    },
+    {
+      "title": "Shippioが不正アクセス受け貿易業務効率化支援システムを一時停止、個人情報漏えいも★初報 - LOGI-BIZ online",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wWVdia1dUZ0lmNWF6eEZLUl8yd0xwVTljREFEVkd3b2t5blBPUHI2ZmJkZE43V1JuV2dTR2RXSnBvak5yVndyU0FWSQ?oc=5",
+      "source": "LOGI-BIZ online",
+      "published_at": "2026-11-04T10:17:04+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:08+09:00"
+    },
+    {
+      "title": "アソビュー会員1,582万件が流出、氏名や生年月日も…あなたは対象か、特定は未了 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NclpxR3ZIeU1qMWxfX2pVUUF0dW4yYTBSaUFGeUYyQ1luc1lnMXJwVjFzcm1peVZvSFd4OGoyUk9IX1dPWlBlTWFwX3Q1eVFhanJV?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-04T04:48:27+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:08+09:00"
+    },
+    {
+      "title": "セブン-イレブンの宅配7NOWで顧客16万件超の氏名流出 委託先経由、自社は大丈夫か（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SNHVjOTJnMzk2RjR3X2ZBTksyVUlUWDQ3V0xibTQxRzR3cEVtU083bW83d1VCX3N2ODNURFVUTWRXLW9TNmxBb2pETVhubTJZREo0ZzdIYld3Y1BONDhHdnJ2NkxkY0wtaW1qRElmQ1RIMk5TUlEwR0l6Mks1ZjA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T00:05:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:08+09:00"
+    },
+    {
+      "title": "「アソビュー」会員のメアドや利用歴など1500万件超流出　「アララ」不正アクセスで - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU2hRN1RpNl9mUkN0M3VBTmtYN01EWnM0YzFGUkZGbDZyZmZiX0dReEZGaTN5a3RCX3A0ZnM1OHlJR3lVaVRiLXhUT0Q1eTVtYldWNzV1dEx6UDBTQ2hnQzRzTldUU0RPdDRIRHFwZUpLaTJVYmpkMzZzejdpUVJ5MEdWblM5MHJBRTd5MWd4ZC1PTTRZTG81cDZQWUxWSWI4TWtOWtIBqgFBVV95cUxQZXFacVdBYXoydHpJeTBxcTBNYWhuUk9PdDBIYUJ1bW5hRGFfaGtzRU90WUZ5LWVfYkt1Zk1NazdjZmdOMlRLaDU2TlA0MEpScXZGbjFRMTlES1hBcHpmaVh4QUxVZEZnR0Y4M1ZQcG02aEY3Ny0yZ01sS3hFYjdNVHQtZHpqSFdyVkxJOEo3Y0ZsSjE1V2dIQmR3eDh6NGlEZ2hpb19mSDg1UQ?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-04T10:20:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:08+09:00"
+    },
+    {
+      "title": "【緊急企画】相次ぐ情報漏えいを受け、Nishika、デジタルハックと共催ウェビナー「守りのITから攻めのITへ！セキュリティを整えて始めるAI議事録ツール活用」を11/18に開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DSURfdmVXcUM2dkRWNTBVVHBmNHFMX3FjTHdwRDhRX3MtQ0UwRU16U0Z2YlVIeDBTRGRaekhpcUFfRjhsVlJRajZwM0hLSzM5UHYxWnc2WFY5eThsaXlKaUxtVVpXRUxSUkE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-04T10:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:09+09:00"
+    },
+    {
+      "title": "プレスリリース：Webアプリの脆弱性を、攻撃者と同じAIで先に試す「Egeria AI Shield」を提供開始（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ERW9jbVU4Q1E1S3dvYnl4Yk9pUk5NcjN0a082WjhMcUFVSnlpTmZPNEpfYXR1OUJWRG45MnpGQmd4ZDExcUNkYkxIUkVkWm5tLTF5SnBobS1qNFFPbHFUbFFQaGNOMTZK?oc=5",
+      "source": "毎日新聞",
+      "published_at": "2026-11-04T10:23:14+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:09+09:00"
+    },
+    {
+      "title": "「ジャパンタイムズ」のランサムウェア被害、元従業員のマイナンバーなどにも漏えいの恐れ - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yX2ZSaDVzYXBSZ3JYUW9KNlVkMjcycE9CZWNscnQyRk40UHhJcFpsYmJvS2lSZUNMY0wta1RVMm8tOHdsRnUxVHhSc2NlUFlfbW1fZTFSWjhVUE1KUWZJM0xVMGY2a2FKMU1UZjBn?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-04T10:18:17+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:09+09:00"
+    },
+    {
+      "title": "大阪市のサービスで情報漏えいの可能性 アララ不正アクセスの影響 (2026年11月4日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfZnBWOUg0UWFIaXhfX1ZTV3N1Q2lzTTNpb0JyQ0ZZeTJoUHNVYzMya3R3dXl1OUFiTmlUUXJWZkFIVE01TTAxMWx2blhqUko4Uk5yMnF1Z05GbDBOenc?oc=5",
+      "source": "ライブドアニュース",
+      "published_at": "2026-11-04T09:18:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T10:41:09+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T10:13:02+09:00"
+  "updated_at": "2026-11-04T10:41:09+09:00"
 }
