@@ -4248,8 +4248,44 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T21:27:05+09:00"
+    },
+    {
+      "title": "デニーズアプリに不正アクセス 旧アプリ移行処理で認証情報を不正作成される 個人情報漏えいか (ITmedia NEWS) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVN3OXBnTjJMeTdTRFdxbU16TGgteGNXaXBLY1QxNGZoaWw0RERyN1YzUWNQU3pqSkdERHJyTkN3bUcwbUV0cUNRQzVQVFFOdTlsazlGNGgwRFV5bU13TDdIdnVCd0M5M1Fid2pkaG9vVTlsUTZCQnBFYXo1aWpkSHFyUXZPOERPOHR4c1ZB?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T16:56:51+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T21:55:10+09:00"
+    },
+    {
+      "title": "モスで個人情報750万件流出 アララ不正アクセスで、クレカ含まれず - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54Tm05c0pRMmNVb2RrcVBOUVZWVnZjZ0JVWlFlZzRJMXB6WERnSUpmLTJ4UXNIOWMyWmN4aDZiaDJvUVYxT19wVWJWc29UeXBvcFlLOW0zVHJNLUlzYkdPZU9YOUtWZTlKTHRQTA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T20:19:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T21:55:10+09:00"
+    },
+    {
+      "title": "Payどん「個人情報漏えいは利用者や加盟店のメールアドレス」最大25万件 鹿児島（MBC南日本放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yZ2FHVUVKOTNmQWhBb3piVjZxRWpaZEdTRE5XV3FWV1pXT3RHLU9aeEtMZXQ3NktXRkotV3V2MTJ1MERUc2NDQjVqYjBvRlc3RHNLa05EYmV1UzR4bHFDaDh6UWF3ZUFRYk5lN1VzQjYyX2xUSV9RYnV0UFhzNVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T20:05:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T21:55:10+09:00"
+    },
+    {
+      "title": "無印良品、カード番号「全桁」約109万件に流出か…第一報の「含まれません」を覆す - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CQXVPenpRMF9tWUpvWlFjczFtWWZVMmJWN2hoVWoxcm1XZUYwU3piYlpzZmx1Zll2MEwyeGNfSmxFZm4tbVVKb2xGcmNxYVBIcmY0?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-04T21:26:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T21:55:10+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T21:27:06+09:00"
+  "updated_at": "2026-11-04T21:55:10+09:00"
 }
