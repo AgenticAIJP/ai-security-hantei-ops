@@ -1656,8 +1656,161 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T07:46:47+09:00"
+    },
+    {
+      "title": "GMOペイメントゲートウェイ、ライフカード向けサービスで顧客情報一部流出の可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56680.html",
+      "source": "",
+      "published_at": "2026-11-05T08:05:27+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "ライフネット生命の一部システムに不正アクセス、KDDIが保有する顧客情報が漏えいした可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56679.html",
+      "source": "",
+      "published_at": "2026-11-05T08:05:24+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "ドン・キホーテ委託先にランサムウェア攻撃、時計修理を依頼者の個人情報が漏えいした可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56678.html",
+      "source": "",
+      "published_at": "2026-11-05T08:05:21+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "日本郵政グループ労働組合に不正アクセス、4万件以上の組合員情報が漏えい",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56677.html",
+      "source": "",
+      "published_at": "2026-11-05T08:05:19+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "障害者支援アプリ運営委託事業者ミラボに不正アクセス、設計段階で想定していなかった不備",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56676.html",
+      "source": "",
+      "published_at": "2026-11-05T08:05:14+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "ドトールコーヒーのシステムに不正アクセス、従業員及び退職者 計951名の個人情報が漏えいした可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56675.html",
+      "source": "",
+      "published_at": "2026-11-05T08:05:11+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "ギフティへの不正アクセスによるeギフトの不正発行、約5.5億円の損失見込み",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56674.html",
+      "source": "",
+      "published_at": "2026-11-05T08:05:07+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "LINE連携基盤「COMSBI エンタープライズ基盤」に不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56673.html",
+      "source": "",
+      "published_at": "2026-11-05T08:05:05+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "バリューデザインへの不正アクセス、一部のモスカード番号等が流出",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56672.html",
+      "source": "",
+      "published_at": "2026-11-05T08:05:02+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "ヤマハ製 YMS-VPN8 および YMS-VPN8-CP に引用符で囲まれていないファイルパスの脆弱性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56671.html",
+      "source": "",
+      "published_at": "2026-11-05T08:00:17+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "Yamaha LAN Monitor for Windows のインストーラにDLL読み込みに関する脆弱性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56670.html",
+      "source": "",
+      "published_at": "2026-11-05T08:00:07+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "ヤマハ製 NWR100 に複数の脆弱性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56669.html",
+      "source": "",
+      "published_at": "2026-11-05T08:00:03+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "Redmine、深刻度「High」4件を含む7件の脆弱性を修正　7.0.3・6.1.6・6.0.12を公開",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/redmine-7-0-3-6-1-6-6-0-12-security-fixes-202611/",
+      "source": "",
+      "published_at": "2026-11-05T08:06:00+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "Linux 7.4-rc1公開、マージ期間の変更は約2万件で過去最多　AIによる不具合検出・修正が増加、Torvalds氏が開発体制に言及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/linux-7-4-rc1-record-merge-window-ai-assisted-patches-202611/",
+      "source": "",
+      "published_at": "2026-11-05T08:00:25+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "MOTEX(エムオーテックス)、Webサイトへの不正アクセスでLANSCOPE関連5サイト停止　ライセンス認証・更新手続きに影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/motex_lanscope_websites_unauthorized_access_2026/",
+      "source": "",
+      "published_at": "2026-11-05T07:54:47+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "AIRDO（エア・ドゥ）、メールアドレス最大673,920件が流出　アララへのサイバー攻撃が原因、予約・運航通知も停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/airdo_arara_email_leak_673920_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T07:50:42+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
+    },
+    {
+      "title": "ソラシドエア、顧客メールアドレス約49万件が情報流出　委託先の「漏えいなし」報告から一転、予約・搭乗メールも停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/solaseedair-490000-email-breach-vendor-notification-202611/",
+      "source": "",
+      "published_at": "2026-11-05T07:47:44+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T08:14:45+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T07:46:47+09:00"
+  "updated_at": "2026-11-05T08:14:46+09:00"
 }
