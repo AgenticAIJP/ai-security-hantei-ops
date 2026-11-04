@@ -498,15 +498,6 @@
       "at": "2026-11-04T12:05:12+09:00",
       "attempt": 1,
       "post_ids": [
-        "6aea9b492bcb2ca012febdc8"
-      ]
-    },
-    {
-      "key": "chacha",
-      "reason": "hantei",
-      "at": "2026-11-04T12:05:12+09:00",
-      "attempt": 1,
-      "post_ids": [
         "6aea9b492bcb2ca012febe08"
       ]
     },
@@ -519,6 +510,15 @@
         "6aeaa8622bcb2ca012fec711"
       ],
       "urgent": true
+    },
+    {
+      "key": "chacha",
+      "reason": "hantei",
+      "at": "2026-11-04T12:05:12+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aea9b492bcb2ca012febdc8"
+      ]
     },
     {
       "key": "kenshin",
@@ -6120,7 +6120,7 @@
       "why": "セッションが正常に終わりませんでした（budget_reached）"
     }
   ],
-  "last_run": "2026-11-04T19:34:12+09:00",
+  "last_run": "2026-11-04T20:02:26+09:00",
   "last_check": {
     "nobunaga": "2026-11-04T11:37:05+09:00"
   }

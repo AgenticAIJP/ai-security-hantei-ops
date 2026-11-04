@@ -3942,8 +3942,98 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T19:34:17+09:00"
+    },
+    {
+      "title": "外務省のネットワークに不正アクセス、7月27日に検知 2枚目の写真・画像 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3dlRFTm1SYU1jVk9tSE5WempFdTNlcjJRU3kyYWdoOGZqMUVSQmgxNWhlSVR4QkNqMFlDdHVVLWlxdGN2RUxJNzh5ZEtkWk84MEhCb3RCdXEwanJtSWFTNUhNLUJxTXZFaUR4Y2cweWVkUmpZOGc?oc=5",
+      "source": "ScanNetSecurity",
+      "published_at": "2026-11-04T17:11:54+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:02:30+09:00"
+    },
+    {
+      "title": "無印良品 クレカ情報約109万件が流出の可能性 カード番号全桁などが不正に閲覧されたおそれも（スポニチアネックス） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjUmtwZVpPYkRMRXh4bGswV0VOT1g2WllVVDQ3VXpKZzFTSHg2a2poR1AxbW83X0NJN1IxdnpCWlQ5X09xN2JFYUFacE5MZTZvaVpaNEZlUnFKQjdpZFJNejlpdkJaNmEyWXZkb1JqT2pHcVFlRkRNbXFteE1PMk0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T17:37:10+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:02:30+09:00"
+    },
+    {
+      "title": "維新 不正アクセス受け 個人情報の消去義務化で法改正など提言 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wTS1neXgxaS0zaEQ3S2pRdjZBRWtLTHB1ZHV0aTJ5Qlo4Q0N0X1NUUWMzQ1NPdXZPdWZyMkt5U1hOZkR5MjE0X0ladjkta2d1Yk9Uc2Y5bzgyWDZpZ3Iw?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-04T19:58:19+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:02:30+09:00"
+    },
+    {
+      "title": "福島市 マイナンバー交付予約者の個人情報漏えいの可能性（ふくしまNEWS -KFBデジタル-） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJQmtaTGlNQkFIdFQwM1Q4UTctX3RUWDBGTndrNEg0SFgxU0VhZHdWcXdfSXBMZ0JMeHZ6eDRGVXNBWFNSVUZhekJ4b1Z2NFVxUURBb0ZjcVNwMnY4RUtoMld1OV9IQzQtTG5nc3NwVmF0ZnYtRzhYMlMyRjJkN2c?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T19:48:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:02:30+09:00"
+    },
+    {
+      "title": "不正アクセスによる影響相次ぐ 「無印良品」ではクレカ情報流出か（日テレNEWS NNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TMnRyVGJUd0UwZE5HYjJXRlYxckRyRkVDNUpFNVJESkxsejI2X1NLTlZjTk50WDR2VTluLU5KT00tUmdxRlV4cVNoTEJxZURFQV9DNVpYcDdhdzBNR2lfWWs5bjFqT0Z2MUFnYThDMHRlU0JyRFI3d0g4RzlqZkU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T19:28:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:02:30+09:00"
+    },
+    {
+      "title": "「デニーズ」で個人情報流出か パスワードやクレカ情報は含まれず 対象人数は確認中（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsVFBpS0F0SjZUMjN6VlpUZ1dPWkFhX1RmODNUb093VUU4QUhtTFJSMjdYZWd5RGdZQzN0VmVMVmFSS3hLNnRXWVhSY1J5NURBUmx2VHFYM3Qxd3BGVTZVOEFSVDRoR19mN0tEZl9tV0puMm5FckJLRHRmekpyQ2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T19:20:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:02:30+09:00"
+    },
+    {
+      "title": "松屋公式アプリに不正アクセス 会員情報等が漏えい 3枚目の写真・画像 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0LVFlY0pLbGdYZ2g2bGtRT2RvZUNISUFVVk4xMURFSlhUR3U3bUdwZ2lGSmxITVliRFFGbllUVTNXMFZjaDJQOGdrMjdKV0JiUC00S3dRbGtMUEpBSHN6Zm9CRnUzRUEzMXhIc2s2TXRoN2RkU0E?oc=5",
+      "source": "ScanNetSecurity",
+      "published_at": "2026-11-04T12:44:39+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:02:30+09:00"
+    },
+    {
+      "title": "Ｈ２Ｏ 個人情報126万件余漏えいを陳謝 原因究明進める - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KLXV6LVZrZWFWRkM5YTh6MTdVNExNTTFKanNOX0hVZHdIcGVPLURuTEd0bU1uVHJyWFJnN2l4SG85dmRvSFZzMnlNWV9rWFVqUFBlaVNoMFJmN3ZDWWZZ?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-04T18:57:08+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:02:30+09:00"
+    },
+    {
+      "title": "ダスキン 顧客のメールアドレス６５万件以上流出 委託先への不正アクセスで - 朝日放送",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oZWVmcC1ycmFjN2ZfM204SVlFWWFhT3BqUVlIVDE3RXNQdFExRDh5NFBCZ0phTzJ4VDBkdkVGRG11RVB3ZVRHM1pxbmJFaUppSFZ5TGFVdUhMeS1uQjBGVllR?oc=5",
+      "source": "朝日放送",
+      "published_at": "2026-11-04T18:42:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:02:30+09:00"
+    },
+    {
+      "title": "本日のランキング【値下がり率】 (11月4日)(株探ニュース) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFdxbjYtdGZOdGdiVWpGazNVdVNDTWtWZXUxcDFBcFhxdi1BQUZYcXlnOWN4Y2F2QlFERWRfMUVSU01hbnRIX2VJZXFjQVp0RWcwTmNLbzRTTUlJRG5TN0VTaXc1cTNvQkI5c0JiR0E1N014azg4VnNCMFZkOXYxWFFVMVJNemc?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published_at": "2026-11-04T15:46:11+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T20:02:31+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T19:34:17+09:00"
+  "updated_at": "2026-11-04T20:02:31+09:00"
 }
