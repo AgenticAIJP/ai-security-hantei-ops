@@ -3528,8 +3528,53 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T16:45:22+09:00"
+    },
+    {
+      "title": "化粧品口コミ情報サイトで侵害 - 会員情報が流出",
+      "url": "https://www.security-next.com/192337",
+      "source": "",
+      "published_at": "2026-11-04T14:34:45+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T17:13:22+09:00"
+    },
+    {
+      "title": "鎌倉シャツ、顧客メールアドレス約16万件が流出した可能性　アララ「repica」への不正アクセスが波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/kamakura_shirts_arara_repica_email_leak_160000/",
+      "source": "",
+      "published_at": "2026-11-04T17:02:56+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T17:13:23+09:00"
+    },
+    {
+      "title": "2026年米中間選挙で民主党が上下両院を奪還　トランプ政権への影響、イラン戦争・関税と日本の安全保障を検証",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/us_midterms_2026_democrats_congress_trump_iran_tariffs_japan_security/",
+      "source": "",
+      "published_at": "2026-11-04T17:00:45+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T17:13:23+09:00"
+    },
+    {
+      "title": "デニーズアプリに不正アクセス 旧アプリ移行処理で認証情報を不正作成される 個人情報漏えいか（ITmedia NEWS） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0UUtxdUtWZzFFT0FzSGhwc2Q0djE2SDk0aXNldDE1V0tsVENVVWxPUGlHV2ZjU1ItUl9qRWpROUx5eHBRNWdCcHJhUWxyMGdvWTVBTGwwdWZ4YjFPNjVYUnJtY19BWWtmOFlPVkYzNVFoWGpRNE5RZkxsVFBhVjQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T16:56:51+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T17:13:23+09:00"
+    },
+    {
+      "title": "野村子会社で情報漏えい システムに不正アクセス (2026年11月4日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YOVo0X2RtcTFzNE1WUlNJU0JEaVNWakVVb0puaDh6Y0JDR1RYRlNOYkdmRGRIU1BCZHRCN2toTnRzT0N4TnVXTU9BTHZzSWN6NWEyU0pJazB4NG16RGc?oc=5",
+      "source": "ライブドアニュース",
+      "published_at": "2026-11-04T13:40:11+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T17:13:23+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T16:45:22+09:00"
+  "updated_at": "2026-11-04T17:13:24+09:00"
 }
