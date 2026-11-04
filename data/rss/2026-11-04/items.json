@@ -2961,8 +2961,62 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T13:01:16+09:00"
+    },
+    {
+      "title": "福岡ひびき信用金庫を装う偽メールを確認　「個人情報流出」「口座の一時制限」で不安あおる、送信元ドメインも偽装",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/fukuoka_hibiki_credit_union_spoofed_breach_notice_phishing/",
+      "source": "",
+      "published_at": "2026-11-04T13:00:45+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:29:17+09:00"
+    },
+    {
+      "title": "デニーズ 旧アプリ利用者の個人情報漏えいか 不正アクセス受け - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85MDVSa2xoNndFbFR1ZnNYU3NuQVd3eFNVcTVZSmh1YnNRLTRZTVd2elgwU2N0bDJuQkY1ODJxTmMxYktyU0lrWVdXRW1zMHJLQk5PME9KQmRRODRBdy13?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-04T13:24:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:29:18+09:00"
+    },
+    {
+      "title": "ＩＴ関連会社「アルカディア」が大阪府警に調書提出 不正アクセスで情報漏えいの可能性 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMNmViZDVTT3VqSzMxV3BDMk00R1VlZWpzZFo4SUNTSXQ1UU82cGNFNHliTVhkZ0lhU3ZWS3pNTUxfampSbFFIWm9WOXRnM2gxTkdSYXhVMXphRW9jYmRLZTBvbmx6MzJXWUNEeU9DRmdFSXpJTkUycVpvZTAwUFU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T13:22:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:29:18+09:00"
+    },
+    {
+      "title": "セブンのデリバリー「7NOW」、委託先不正アクセスで個人情報漏えい (Impress Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWRnNFdVMGRJX1YtT3VRMm9pN2F3Zm5NYzRnQkZYdFQzdHd6b2liamtNRmhxM2JTc0hKOThwd1RjRXNTMkdWMWdwc1Q4RzlIaFBmTF80Nk5UVG9YUmFFLV9RWE03azlWdXE2Qzkyb0M0R2hxZHlRekdaWGpEWFFydjdhWG42bktWUW41aGRR?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T11:20:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:29:18+09:00"
+    },
+    {
+      "title": "不正アクセス、どうして増えている？　パスワードなど管理が重要 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkZieW9YVlM5S1hZV1NGMUZId0ZidWlvTVpnWlZNdDhMa0Y2Nm9uNHFWSlUyT2FPbkV2SGZJaUFkUGVqRXJzQXFUNWtVNW9uTDRBZDE0MXlWdko5bXE0Q09YVF9MNEVzX2JDdkt3Yk9kc05xd0EyWGo1YUJEby1sbTJIYlNXVWFxVkNlMS03SXlUOXgya3Q5aXExVkp1Q2JSZ29xUmJsUEnSAZsBQVVfeXFMTXQwcVBINWNYdHFhaXYwdUdrS2k4bTdtVnpJdWVvc25rb0x2a0JiX1Awb2VCUEw0YWxlbHBfd0pZOVFGYWcyckg5eHduenQ2Nl9MSmlKSGpOaEFJYWxtRGt2dE9TYVNacFlNVVpWX0ZwSlNPQTFhMDA0WXlBUjlPYmhvUE1ERkJBeFVkUnc5QlNmV2hSYmZ4ZmZaQ00?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-04T13:24:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:29:18+09:00"
+    },
+    {
+      "title": "GMO熊谷正寿社長に「なぜ野々村議員想起」3時間半の会見全文（1/14ページ） - zakⅡ",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdDg5OXJibV8tcXNKNmdDSFhQbjRlU1hLT081bVF2bWxIcDdtd2QybEJ6dHpOZExuaG9EYlo4Nk9RLVlWWjk1c3FlVlRjMGxjeFhsUGloTjFSOXZLOVhKMDlZMV9wak0xTWFJUTdiRjlldEQ2WXJsUg?oc=5",
+      "source": "zakⅡ",
+      "published_at": "2026-11-04T11:58:30+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:29:18+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T13:01:16+09:00"
+  "updated_at": "2026-11-04T13:29:18+09:00"
 }
