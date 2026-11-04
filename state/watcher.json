@@ -599,7 +599,8 @@
     "6aeb7b392bcb2ca012ff4181",
     "6aeb7b3a2bcb2ca012ff4191",
     "6aeb7b9c2bcb2ca012ff41e5",
-    "6aeb81742bcb2ca012ff4497"
+    "6aeb81742bcb2ca012ff4497",
+    "6aebac772bcb2ca012ff585b"
   ],
   "pending": [
     {
@@ -7437,6 +7438,26 @@
       "status": "done",
       "cost_cents": 25,
       "cost_final": true
+    },
+    {
+      "id": "hojo-1793830720059",
+      "key": "hojo",
+      "executor": "routine",
+      "session_id": null,
+      "tasks": [
+        {
+          "key": "hojo",
+          "reason": "x_sokuho_plan",
+          "at": "2026-11-05T07:18:40+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aebac772bcb2ca012ff585b"
+          ]
+        }
+      ],
+      "at": "2026-11-05T07:18:40+09:00",
+      "attempt": 1,
+      "status": "sent"
     }
   ],
   "last_dispatch": {
@@ -7450,7 +7471,7 @@
     "kenshin": "2026-11-05T03:34:38+09:00",
     "nene": "2026-11-05T00:16:34+09:00",
     "baseline": "2026-11-04T08:20:29+09:00",
-    "hojo": "2026-11-05T03:34:38+09:00",
+    "hojo": "2026-11-05T07:18:40+09:00",
     "hojo_deep": "2026-11-05T03:06:27+09:00"
   },
   "daily": {
@@ -7488,7 +7509,7 @@
       "why": "セッションが正常に終わりませんでした（budget_reached）"
     }
   ],
-  "last_run": "2026-11-05T06:50:38+09:00",
+  "last_run": "2026-11-05T07:18:40+09:00",
   "last_check": {
     "nobunaga": "2026-11-04T11:37:05+09:00"
   }

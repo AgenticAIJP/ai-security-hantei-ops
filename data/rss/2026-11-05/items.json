@@ -1566,8 +1566,53 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T06:50:42+09:00"
+    },
+    {
+      "title": "サーバー防御ソフト「cPGuard」の自動更新が乗っ取られ、約2,950台に悪性コード　SSH鍵やDB認証情報が窃取対象、開発元の約7,900アカウント情報も流出",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/cpguard-opsshield-auto-update-hijack-backdoor/",
+      "source": "",
+      "published_at": "2026-11-05T07:00:27+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T07:18:45+09:00"
+    },
+    {
+      "title": "「アララ」への不正アクセス影響 利用企業で情報漏えい相次ぐ | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LMEVObVBXUlVuZGt4MzVacUM3eHpXdW5pN0Q2VzRYd292S3kwdUU3QmNRRXRKaUJhalIxYkhVSGxueEdNcVppNS1jQmh3SUNPMk5TaUwyc00yaWl0V2Nz?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-04T11:21:53+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T07:18:45+09:00"
+    },
+    {
+      "title": "「デニーズ」で個人情報流出か パスワードやクレカ情報は含まれず 対象人数は調査中（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsVFBpS0F0SjZUMjN6VlpUZ1dPWkFhX1RmODNUb093VUU4QUhtTFJSMjdYZWd5RGdZQzN0VmVMVmFSS3hLNnRXWVhSY1J5NURBUmx2VHFYM3Qxd3BGVTZVOEFSVDRoR19mN0tEZl9tV0puMm5FckJLRHRmekpyQ2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T19:20:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T07:18:45+09:00"
+    },
+    {
+      "title": "無印良品、クレジットカード情報も漏洩か 番号全桁など約109万件 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TZU9fUnBsYnowaGQyNkFLM0dOQnFrX09oN19GQVV0ZFFPaXZncXRfTzBpRjBuaVhiamxEcFRJQm1WeEpram56WUw2dTExUkxfQ2wxWXNaX1FBeXJCelU2NVVYRU4yZlRxMUFCVQ?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T19:19:54+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T07:18:45+09:00"
+    },
+    {
+      "title": "Webアプリの脆弱性を、攻撃者と同じAIで先に試す「Egeria AI Shield」を提供開始 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CcHVOTzFTMHFjaUo5YkJiUERnZnhORUZvQjhuanhfM3I3MXNLTFdVODFORG85OEhqMndLYnNrNFBzVlNIYzh1Y184LUU0M2IxQ2h2M1ZfcmRxa2Z5VFVFT05JMDRkd2xORUNJUTZXeTZTUQ?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-04T09:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T07:18:46+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T06:50:42+09:00"
+  "updated_at": "2026-11-05T07:18:46+09:00"
 }
