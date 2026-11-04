@@ -2925,8 +2925,44 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-04T12:33:17+09:00"
+    },
+    {
+      "title": "野村ＨＤ子会社で情報漏えい - 京都新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wRXBkckpjRUhSX00xemFPcWpCVkUxWi1VOWJYQVF1a3liTFhJNXEzaXF3UzVNbE01VTdneXZJR2FBekJVWmRXa09nbWViN085RWRjMlBiRW0?oc=5",
+      "source": "京都新聞デジタル",
+      "published_at": "2026-11-04T12:07:53+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:01:15+09:00"
+    },
+    {
+      "title": "ビックカメラで情報流出　1490万件、顧客メアド - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrRWdaQ0tzWndwOWlBWU1SR3hFemJTbVRZLUhsZU0zYkJxM0dkbTUyWlVzNFNwS0UzRExEdlRHUFk1YVlUQU5SZVJYckk4T3Zucmo2ZFV3eURNVlBlT2R6Zm0wckUwbmxPaUU4b2haUdIBdEFVX3lxTE1CZGQyN2xnblFJMG1FMEFuY2g2T09TXzlmazBaemZlTWYyUXhnVC1VN0dGRkE4ZUJkMUpHQ3IyOTJVLW9ycmU1ckEyd1RMZnZ5RTFncHEzR1U3YU9udE9naHh2ODJaVTJ1VE9tdGkzdmVVWGdI?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-04T12:34:09+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:01:15+09:00"
+    },
+    {
+      "title": "VALANCE、AIが作る業務アプリを安全に動かすAI Native業務OSを正式リリース - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83WmpaVE1DUlVvLUhDLThPX2luQkdYWEM1U1EyaFBSQkcycW5QTVJHeVhqRzRnYndEMFZwY2w3M3h6TVdEQXE5NFR0a1RrcFBzNk4zcjlTOU53UQ?oc=5",
+      "source": "EnterpriseZine",
+      "published_at": "2026-11-04T12:15:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:01:16+09:00"
+    },
+    {
+      "title": "プレスリリース：和から、生成AIの60講座以上が月額11,880円で学び放題の「和からの生成AIパス会員」を本格開始 ライブ講座への無料参加・月例会・学習相談も（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wTWQ5UjZmNkZ2bFYwN3F4WnYxQ2dpWnBOeU85a3lxdjUzWHNzYnlIOGU4ekFXM2pFaXBraW9HRmFfVG9iM19LRldLdUhMVHIxaFY1eHdRQkNiaktIQVowa0VDRmpNdnVx?oc=5",
+      "source": "毎日新聞",
+      "published_at": "2026-11-04T12:23:11+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T13:01:16+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T12:33:17+09:00"
+  "updated_at": "2026-11-04T13:01:16+09:00"
 }
