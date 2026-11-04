@@ -1422,8 +1422,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T04:58:51+09:00"
+    },
+    {
+      "title": "中国ベンド、不正アクセスで設計・製作資料の流出を確認-ランサムウェア グループ Everestが約90GBのデータ窃取を主張、公開先も掲示",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/chugoku-bend-everest-90gb-data-leak/",
+      "source": "",
+      "published_at": "2026-11-05T05:00:38+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T05:26:49+09:00"
+    },
+    {
+      "title": "中国ベンド、不正アクセスで設計・製作資料の流出を確認-ランサムウェア グループ Everestが約90GBのデータ窃取を主張、公開先も掲示|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzZYN0Nldmkwb2dySE81UTAwZDgzWTRZc2pXZDNsbDEwTzktUTJSVS1OSGY0cS1ZckxjU2Z6SWlUS1RkcUxIazFtWTdxVlE3czk5NkltYjMwNHVWWUJWMjdwTzVoWnpVRzFRWDZjMjJZWnBVOFNDR3ptbFlJMFcxanhVTzhmWXQ3bExLaQ?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-05T05:00:38+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T05:26:50+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T04:58:51+09:00"
+  "updated_at": "2026-11-05T05:26:50+09:00"
 }
