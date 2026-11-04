@@ -1332,8 +1332,35 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T01:41:47+09:00"
+    },
+    {
+      "title": "退会者データ、削除義務化を 維新がサイバー対策提言 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VVFVfYlhSVHJPMG9qU3RISmg3dTZMbHlQdzV4elhLS2NhdmZIRV9XS2RVcEIxMFd1dGo5QmdLdTNwVXQ4eExPUUZfZEtqQkhveGVCYjYwSjFYc1c1eW5mdC1Idw?oc=5",
+      "source": "時事ドットコム",
+      "published_at": "2026-11-04T19:46:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T02:09:57+09:00"
+    },
+    {
+      "title": "無印良品のクレジットカード「番号全桁」含む会員情報１０９万件漏えいか…ソニー銀行は口座番号や氏名流出 - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1adXRWa0w1V0tGLW1nM2ZIbTliVDM4RHVLZW5ydWE0bDhlbDhIOVI2NnhLVFZEekw0N1BHM19oVmZQSVJMTjV0RW0tVW13b0x1X0M4TnJmVHZMYnhGcm1xWG5nbEVPWU5tdENGN3J3?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-05T01:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T02:09:57+09:00"
+    },
+    {
+      "title": "メルカリに学ぶ、AI 時代のセキュリティ対策 ― VDI に依存しないデータ保護とブラウザ起点のアプローチ - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iSHJJcENaU2stcFU4U1VYUVkzRFg4dDFyeDdaak1NY0oxUFQ3Q1BXWExCYTNlcFJCUVFKY0NiN3lrNGJYQzhFUU1hOTc2WjVmcXhjQlhjVHVST3h1M3BTOVhCT2xRN3dxQUFudkVPeVdBbWlKa1EwNndPN3A?oc=5",
+      "source": "ZDNET Japan",
+      "published_at": "2026-11-04T16:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T02:09:58+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T01:41:47+09:00"
+  "updated_at": "2026-11-05T02:09:58+09:00"
 }
