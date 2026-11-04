@@ -3654,8 +3654,44 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-04T17:41:26+09:00"
+    },
+    {
+      "title": "大磯町スマート申請システムが利用する外部メール送信サービスへの不正アクセス及び個人情報の漏えいの可能性について - 大磯町",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXEyZ1lKb29IejRKM0hnVG8tU09RaEhoaENGRV9FZGtFX0VzdU1XN0tUeFlvZThJd0xKUVRSejFRN09MSWU1UnAzc1BHYWZ4MEVPUVNjbk9wcFhteVpNMWRQcTlmdkl0WVBmTFNwa2p2b0dpYnV6YzdiS1h0RDNockN3bW0?oc=5",
+      "source": "大磯町",
+      "published_at": "2026-11-04T15:40:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:09:24+09:00"
+    },
+    {
+      "title": "郡山市利用のメール配信サービスで不正アクセス 約5万件の個人情報が漏えいした可能性 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHRza0hwcGFONXMtY1U3dV9pcWdWcnFaZ2Z1anRIMHc2ckM1ZElxRnozX0Z6UmRHRXlSZmpDNE1sakpoWm4xMG93WmZBcnoweUtEeHFhdi10Rk5IajFTNDE3QVRzVU9VYVZGb3FBQWY3S0U4YWRhSnpXX0xLWkU3XzZCM0E2LUk?oc=5",
+      "source": "日テレNEWS NNN",
+      "published_at": "2026-11-04T17:49:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:09:24+09:00"
+    },
+    {
+      "title": "「アソビュー！」メール配信の外部システムに不正アクセス 1580万件の個人情報流出か 福井県立恐竜博物館のチケット購入者も対象の可能性 県が二次被害に注意喚起（福井テレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91VTVkYWZaY3V5Z0tnZnlBUlJTdkx3UENVQXkzbWIxSEFaRDJmUloxbTJDLW9XenNXcVI3Yndnc0llb2U5ZDl4Y2pndF9JTHhqRHVpT3NxYWxwcnc1QmhMeFU4U1lGVlVYb0FsVlVkeFNweWR0Ri04dEs2dHo1MDA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-03T22:40:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:09:24+09:00"
+    },
+    {
+      "title": "安心安全情報メール「かすかべ」登録者メールアドレスが不正アクセスで流出　埼玉・春日部 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb2FYVHFUUTIxeGF0OHk0TE1sbDdWUWNXVTJJZkk4aUlCQV9CUkE5VDFydzVxMWJEYkd4ZWN6OUk1WGlnMVY5b0M4MGlJbTdFSkk1ZkJveC1NMDZDdUZvTmZDTEY2SUNPT3B4bncwZnpwVkdvc2hCRG5PNlRxQVVPYlBtRWpQeXltVFp1Q0ZQa9IBlAFBVV95cUxOZDg0RUJqY1B4am1fbG9HYkdycVNYdG55MzZfaE5DSk5wdjduVUZtZVc1U2NGT2dnN21oZkY0b0FRc09QLU0yLW4wNDNDT0M1bDQ0WXprai1OR1dQNU9YMDl2RUx5QnA2MzViSXFKNXgxMkU3RnFSZlF5dFFUcVp4RnFrWXptbVJDaS1GbHNLX2hfUVdY?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-04T17:25:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-04T18:09:24+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-04T17:41:26+09:00"
+  "updated_at": "2026-11-04T18:09:24+09:00"
 }
