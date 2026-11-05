@@ -4095,6 +4095,177 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "個人情報含む業務用USBメモリが所在不明に - 奈良県",
+      "url": "https://www.security-next.com/191606",
+      "source": "",
+      "published_at": "2026-11-05T19:17:18+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:05+09:00"
+    },
+    {
+      "title": "山梨県、富士山吉田ルート予約情報最大19万7,556人相当に流出の可能性　アソビュー委託先のアララに不正アクセス",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/yamanashi_fujisan_yoshida_route_asoview_arara_197556_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T22:04:35+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:06+09:00"
+    },
+    {
+      "title": "GMOペイメントサービス、最大10万6,997件の個人情報が漏えい　氏名・請求金額・購入商品情報も対象、アララへの不正アクセスで",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/gmo_payment_service_arara_106997_group_incidents_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T21:59:15+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:06+09:00"
+    },
+    {
+      "title": "【重要】マイナンバーカード交付予約受付サービスでの個人情報漏えいのおそれについて - 南会津町",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWXg2V1BJNVBvdzk3ZjlUR0Y1VlVFUWx1dHVFZ3IxTjhsWXotSEVRbV92UG5FRW93ZUNvR0ktV21NeHA0ZjZQRHpDV2lyV296bE1NT2xCR1ZNOFhoRVVJTkZWbHdkc1h6NjV0SDZ4Z3g4dlF0THJjZ0hjZUJGOC14MnBxcE8zUXlaRkdKNE1OMVB3Qm11OTZNckxuYw?oc=5",
+      "source": "南会津町",
+      "published_at": "2026-11-05T21:59:28+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "SMBCコンシューマーファイナンスで最大32万人分の個人情報漏えい 免許証番号やローンの保証額など含む - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vOHVnQlBtY0VsZUowSHlZakx3X0RzR2xRV2ViVVp3ZzNRN2FONzZQeHUwVXV4el9ZZlB3X3NEM2NwZFVRNC1nbmhFWWpWdHNzY0ZPckZHLWhCb1BSaWtMUU5jdC0wV3kweUNxc3BMNXBRZ3JSYnFwZXdXVjQ0dkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T18:08:16+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "北洋銀行が取り扱うカードローン「スーパーアルカ」利用者情報が漏えい（名前・住所・勤務先・免許証番号など）外部保証会社が不正アクセス受け流出＿新規申し込みなど停止…銀行への不正アクセスなし＜北海道＞ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsck9fckhjcHJvLWlMa01xVGt6SGFiTDNUbllXQnJvU0ZqLUxLNXM4SFQ2MF9CLUlMR2I0c3FqbUEteTJNUk14aVgwTUhUcTRBYlBNX2pHOHotdERBYl8tYmF0MkU2aDN3UE95eDEweVBaSU1BckRMSDBDZVB4em8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T21:50:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "小田原市立総合医療センター、小児科の予約システムに不正アクセス 個人情報漏えいの可能性 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBodE53czUyZWkyZkJmTUJoN0ZpbHJvbFFRbzlodTVWVnA4dy1PQWdTaG1WU1J4UHRpREZSLWVSN1U3am9lVlNVVXBpOA?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-05T22:01:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "770万人分情報漏えいか アイリスオーヤマ（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WSmpZQ3VlWWdXSTk3SkRXYnpYbFpqcm9XUHFoUGNfZU9yZDlMR01RT2g3cUsxbWpoUkQ0UXRadDZ5QlNJZi0yWjktVmtPZFo5d2pWcDJ1ZzRUdEczSFpmSERGV2Q0a1k1SjBYV3o2cFhSYVJCTk5KN2Q1NFQ3WHM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T21:48:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "ドコモ不正アクセス、最大約30万件の個人情報流出 | スマートニュース - SmartNews",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPSVk5NUpoa2V5TUx6ODFNQU9qdWl6cmNhN21FbWpYQjV6T0daTnFPdmFoTlJJRTZ5MHdsanY2WnFPTnJSNEZCSzFHMDZOR0R3ZC0yNHE0Wm44OHFBMDhQMXlVYXdkNjVaTW9pOWNTSVMzX2NvNE5QMV9DcGZranRGclNMd1BEZWhhTlhzZGlIOHFTSjF4dXkydVlSaG85bC1FZHN4bWx2NkJUanVFdFpTVk5IRXhaZFE4UVZUZ19TWnNwOWIyeTFxQ2hvTG9LZUhoQVFuQ2JoTkJ1dTFuc010bkdYWlU3dlUzNjIxVm9sbC1zWGdSbWxiVzI3aWJGYjlSN0E2aUdaUDJWZEphMTZxUk1sQ0lLUmtqaE1MWUE0dUZpbkNMdG1GSkhWN3ZFcEVaUzhBeVJwY2JjdjVqMnc2aFFmQjN1dlNRcnJUb3BlTXVQaFVNeGhxRXpxcTFvU2ltMmdpcThLNnRQbVZwMDlyQ3VqOWNMZw?oc=5",
+      "source": "SmartNews",
+      "published_at": "2026-11-05T21:27:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "GMOペイメントサービス、最大10万6,997件の個人情報が漏えい 氏名・請求金額・購入商品情報も対象、アララへの不正アクセスで|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY0xPNjUxM1E4VzZVXzdqVG01TEdwM1pNcnA2WVF2MFZYQnN5enFSNkhhb3MwNnRyRzlZNXlaQUtRbW5GM2xnMTBFdno4Q0lTSTZBa2Nuc3BDSWh5MkpvXzhPVWVFeEcxSXZpY0JpTzJsbjdGaDRrWlEtMlVSN3liRmRNZDgwMUVMbmkyUUxQaGJTMnVYbTA2QXJHVEhiTmx1VlprMnYzeVczdw?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-05T21:59:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "アイリスオーヤマで情報漏えいの可能性、公式通販サイト会員などの個人情報が最大で７７０万人分 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBseS1HLWtvSVpBbmI4NkVoakVmZ0RYVDNSM3d0NVdOcDNNLU5iN3lodVI3clJDSU5nalpDZFFiRHp5T2QzOUM4SG5wRi0tcmlmamNNNDRxRTJSa0F6allGYlBYQWJWUQ?oc=5",
+      "source": "読売新聞",
+      "published_at": "2026-11-05T21:51:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "神奈川の１０町使用のシステムで不正アクセス アドレス漏えいの可能性（カナロコ by 神奈川新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xamNfdlhSczh0N3Z5SVZtYnAwaml1eWRGenJEQnN3aHJHaF9jMmNaVTNpR29zUzRuMFl4MFZHYlEwRUlXUFl1LVE1b0g2OGJPbmZQdXdjWDhXdTBFWjFKWmh4VGotSElKQWRMaTN2VHlzdGFRd2ZHWnJaWFJXTk0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T21:50:12+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "最大32万人の年収や免許証番号が流出 SMBCコンシューマーファイナンスに不正アクセス ｜FinTech Journal - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFOXdSNTgzZlJRT29QaE1fNS01eG9meHl0UDlzSXMxNTBxcmlZVVpDSF9FMjBPQVZfS3prSlEtS2M4SjVpRHpkODhkRURKSlk?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-05T20:46:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "「『アクセス・無害化措置』を含めた措置を戦略的に」 不正アクセスによる個人情報の流出めぐり 警察庁の楠長官が全国警察の本部長らに - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GOVZFTHQ3SGFQVkl4aWtMY1dTTGJxX2RDYUI4Sk55bHhGTWxzYTQ4bDU0NjZKY0o3aFh4T0lYMW56MEV6ZzVsQWlKOWRFSkVWSVFZVVRQTQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-11-05T21:43:20+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "【速報】愛媛銀行提携先が不正アクセス 運転免許証番号や勤務先など漏えいか（南海放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKM0xsLTFIMk4zRE5ZTGo5SktPRjZMc3NUM0tUdW93UzZTRU9JaUI4TlcwQ0hhODFsNjRDV3BGUzNkSzJ5WFJsQUtQS2l5dGEwckVVV0R0bmRpNDJVXzlGVHZvQ05haUk0MmYxaDFBTEVidGNMUnVHc0NLT01UMkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T19:23:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "ドコモ、「My docomo」などから顧客情報流出を確認 最大30万件、氏名・住所・電話番号など - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UV29SaTRGYTZhZk5jODRlNGRXc2Vmdm5XeGZVUm1lV2RBYkJiMGs4VWVvNFY2cVY0ZW8zNXhHTDlCYW0tREFsX3V4cVdKLUViUUNidFoxUDQxQWEzU2FEbUtuSGgwMG04MkhXQmdUOTNiOUVQbDFrbFhfLTBnU1U?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T20:32:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "７７０万人分情報漏えいか - 京都新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KRTctUC1pdjdmcWVfeDVmVXlqa3RNMGpXV0tPOG4wRGhqcHM0WXVSOXlJU3R2ZjU0c0ZJYnV0alNJR1hUcUt6S0NSME1JY3ZLZFZ3THZQeWhSTzg?oc=5",
+      "source": "京都新聞デジタル",
+      "published_at": "2026-11-05T21:48:47+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "「au自転車サポート」の業務委託先に不正アクセス 利用者情報漏えいか - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZcmJiOW9FRE5hUWVjZm44akRBMnpya2xBeWdNSzBTTmpFMWxLb1lFZ242c09hZGYtb1dPYVVZN3JlZFRzRlFSRmI5YldnSng4a2pQWGFHdlJockw0?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-05T21:54:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
+    },
+    {
+      "title": "フジテレビクラブ、会員26,273人の個人情報漏えい 氏名・メールアドレスなどが対象 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRS0gyMUhiNWZVZTItLVBMdE1Dal8wWjJVc0tpc203QW9felNVV0swV0NmRDFIRWNrLWYwemd5cm9CYlBwbmFJQlFZT0MwR21UNVRWdXA5dl93YVVpSGktQw?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-05T21:52:31+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T22:16:07+09:00"
     }
   ],
   "errors": [
@@ -4109,5 +4280,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T21:48:06+09:00"
+  "updated_at": "2026-11-05T22:16:07+09:00"
 }
