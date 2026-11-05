@@ -1728,8 +1728,35 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T02:01:27+09:00"
+    },
+    {
+      "title": "急増するサイバー攻撃 情報漏洩相次ぐ - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zNkpvMjJPT3JkNkR6WWFJQUZEWkM4alpHa1JUZmhmRkhLUGU1WGo4Um1iLTZkdDdVZnAzNVQ1c2t3aUgtX2hzSV9Ld2p3eUx0aURuUTVqc2VqS3RsbFVGODZRSQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-05T22:23:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T02:29:30+09:00"
+    },
+    {
+      "title": "「個人情報の流出」前年の10倍に急増…背景にAI悪用の影 専門家が警鐘「漏れている前提で対策を」 私たちができる自衛策とは - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTZ3NGSnE3UE03OVlXUDVzbGRxdGxyRWhVQnYwZ3VpS0h5cFlLMTFCaURVZ1NoRkRjY2Y0TUI1c2EtY3JNTXZfWlZjNDAwT2lnc2hIcEhfU2NBeEMxNEVhM3JnMFZYX2ZZWk5FSnhVbm1XVkFBVEpyV19BclJzQTg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T17:02:13+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T02:29:30+09:00"
+    },
+    {
+      "title": "AIで変わるサイバー攻撃、セキュリティ対策はこう変わる｜個人情報の守り方 Kovacic (AgdoqwpLpo) - Unisba Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44VHF2R211TVBTSkNSVXdIVW1YNVFwa3JwV2dDTXJlR19xbUltbDRXVUtuY3dVXzA1NEdmbU52VXFnTlBPV1dvSUJKblpCRHRWSFh0QXJtLTdkN0gxM0NMU1BMaGp1UQ?oc=5",
+      "source": "Unisba Media",
+      "published_at": "2026-11-05T19:47:11+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T02:29:31+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T02:01:28+09:00"
+  "updated_at": "2026-11-06T02:29:31+09:00"
 }

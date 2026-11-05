@@ -770,7 +770,8 @@
     "6aec9d022bcb2ca012ffe7b8",
     "6aec9d022bcb2ca012ffe7cb",
     "6aec9d152bcb2ca012ffe7e6",
-    "6aec9d172bcb2ca012ffe7fd"
+    "6aec9d172bcb2ca012ffe7fd",
+    "6aecb7762bcb2ca012fff4dd"
   ],
   "pending": [
     {
@@ -931,6 +932,15 @@
         "6aeb53852bcb2ca012ff2822"
       ],
       "report_post_id": "6aec97632bcb2ca012ffe1ce"
+    },
+    {
+      "key": "shingen",
+      "reason": "correction_request",
+      "at": "2026-11-06T02:29:24+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aecb7762bcb2ca012fff4dd"
+      ]
     },
     {
       "key": "mitsuhide",
@@ -10250,7 +10260,9 @@
       ],
       "at": "2026-11-06T02:01:22+09:00",
       "attempt": 1,
-      "status": "sent"
+      "status": "done",
+      "cost_cents": 118,
+      "cost_final": true
     }
   ],
   "last_dispatch": {
@@ -10292,7 +10304,7 @@
       "hantei": 5
     },
     "2026-11-06": {
-      "managed_usd": 6.64,
+      "managed_usd": 7.82,
       "baseline": 0,
       "scheduled_usd": 0
     }
@@ -10314,7 +10326,7 @@
       "why": "受け取りの記録がありません"
     }
   ],
-  "last_run": "2026-11-06T02:01:22+09:00",
+  "last_run": "2026-11-06T02:29:24+09:00",
   "last_check": {
     "nobunaga": "2026-11-05T19:27:44+09:00",
     "chacha": "2026-11-05T20:23:47+09:00",
