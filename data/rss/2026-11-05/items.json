@@ -2889,6 +2889,96 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "明治学院大学、心理学部サイトが不正アクセスで改ざん　Macに偽認証画面、旧iPhone・iPadも標的",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/meijigakuin_psychology_website_hijack_clickfix_ios_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T15:36:57+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:43:50+09:00"
+    },
+    {
+      "title": "三井住友銀行、メールアドレス22万件が漏洩 アララ不正アクセスで - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nTzU0Um5QRVNoTmVzdzlsdS00ZHQwMnNBMEFQNVlZajN6ZVpKU2lFaGJJWkE0cUxrSGNFZkpMVU9kRkhyMUhNX2RSdlVsUlJwRENMNTkzaG5PRS05Q1VvZ0ZsS1lUeldRdkhLcA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T14:55:38+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:43:50+09:00"
+    },
+    {
+      "title": "楽天証券、メールアドレス2109件が漏えいの可能性 委託先に不正アクセス - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54dUNNdTAzbkN1TXpyLTB3RHlHNGRZT2RYNFB6MGlUZXdJSXYyNENUdjl2Z3d6dzlYMVV3RDB0Zm1qLWdTdFVSM2dlTTJwR0ZLNXc?oc=5",
+      "source": "CNET Japan",
+      "published_at": "2026-11-05T15:13:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:43:50+09:00"
+    },
+    {
+      "title": "三井不、メアド13万件流出 アララの不正アクセスで（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JX2tFQnFvWWxnZTRNZU1hSmszWDR0ZGx2TlNRSHJWYTBnNXF0WTg3LW9jbFJZbE1Fb2RvYjhJZ18wdUgwVWVqQm9HT05GRGJWYTlsS0d1NmRWR2tFWklDekpiWmp4cXJYWnVzT2FkempBTFp3TXkwSHlXUmtzeHM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T14:51:10+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:43:50+09:00"
+    },
+    {
+      "title": "「ふるさとチョイス」で寄付、6日再開へ 不正アクセスで一時停止 [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2TWQydVFtcFZlVmdZSHNReGo4anBXRG8zalpMb25UTWdVUDRNc04tNFZuVkJmWi1uQjJ5S0ozcFZkTHo1SFkteENkcHU1SENhYy0wSmhvTWc5eUNhdUZFa181a1RxSTg?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-05T13:39:08+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:43:50+09:00"
+    },
+    {
+      "title": "三井不動産、オフィス利用者のメアド13万件流出 アララ不正アクセスで - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUQkJWRjlCQlE5OXN0UmZNV0JqQmdaTnlmQy1yMmRQYzB2VkNOaVJJbEZOS1NPWXBvZ3pLQ3RlUlJGN3NfcEFwdnI1NEZuaThlcV8xZHY4bmlvSmVscXdCQWdwSVdNaENXX0JKZQ?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T13:24:26+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:43:50+09:00"
+    },
+    {
+      "title": "ボートレースまるがめ　メール配信サービスに不正アクセス 最大759件のアドレス漏えいか　香川 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13RVNVT2hPSm03STFWV01MWkFNQnc1OUFjM1hKVEsybU5aV2hoaG1tTTZqenAteUJuaUItNUIxQkxUZFh2T2pOdjBTX1ZhVWxOZExGeDN6SjJLVkJ1YWp2ZmhCMVRTV1NNLWhCNnJ3UDPSAXZBVV95cUxQa1dwUEZRVXpNTk1YRkFtV2N3TUg5ZkxLM09FQTlCM3lQME9QZUwtS1Y3LW9IdWlPN2Y0YWlmZ1VreFVnWVN0UnRsdTlqN2FUU1VMVlg2WEotbm12UzFUMW9naEhOalc0cTd2bkVWWnJSeG5fY2dR?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-05T15:21:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:43:50+09:00"
+    },
+    {
+      "title": "「無印良品」クレカ情報109万件が流出の恐れ 番号全桁や生年月日 [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pMUlaSXZpMzB4b2RjejlfR0gtNXNTT2VDQk5CMk1VSFE4MHBseVZ4MUlOVEhpQW9sR2pJV3J6MWNPLTVQZnNReERzenBPcHNGM1djd1dSaUJjdVJZN2JnSXFDdHFYVXc?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-04T20:52:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:43:50+09:00"
+    },
+    {
+      "title": "キャピタル・アセット・プランニング、株式会社ElithとGENFLUXシリーズの活用・事業連携に関する業務委託契約を締結 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HMHEwM3MxNjYybzA1UTZqc1F0bkpUZEk0X0xvTG5BSmMtTVhfcHFOZEhlRUY1QTNhZTBoNW5hMGpHQ3J2dmM4QU1PZzZsbGsxRkU4SktqblJ5WXB0b0pRZWQwclNSZFFqLTQ5UE5sZ0hGQQ?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-05T14:15:25+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:43:51+09:00"
+    },
+    {
+      "title": "プルーフポイント、年次レポート「2026 Voice of the - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0ZW0yc1JjenFYZ0dtNXBDRDVZOERwejF1NlRVcF9DQnZYbFZiWWpLaTdGQWljNzZJbkZQTGdPMDV0dVJrWElQSVNNOHJRcE84ejk2ZkNNbE9UV1BpRmFPTGJzTDVHREpr?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-05T15:30:28+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:43:51+09:00"
     }
   ],
   "errors": [
@@ -2903,5 +2993,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T15:15:53+09:00"
+  "updated_at": "2026-11-05T15:43:51+09:00"
 }

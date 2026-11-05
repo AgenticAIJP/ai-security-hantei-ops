@@ -672,7 +672,10 @@
     "6aec12cc2bcb2ca012ff9737",
     "6aec16862bcb2ca012ff9910",
     "6aec18ce2bcb2ca012ff9a75",
-    "6aec1dda2bcb2ca012ff9d02"
+    "6aec1dda2bcb2ca012ff9d02",
+    "6aec1f8a2bcb2ca012ff9e1b",
+    "6aec1fbb2bcb2ca012ff9e48",
+    "6aec23cf2bcb2ca012ffa037"
   ],
   "pending": [
     {
@@ -761,12 +764,34 @@
       ]
     },
     {
+      "key": "nobunaga",
+      "reason": "an_review",
+      "at": "2026-11-05T15:43:45+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec1fbb2bcb2ca012ff9e48"
+      ],
+      "line_ids": [
+        "6aec16862bcb2ca012ff9910",
+        "6aec1dda2bcb2ca012ff9d02"
+      ]
+    },
+    {
       "key": "shingen",
       "reason": "correction_request",
       "at": "2026-11-05T11:03:14+09:00",
       "attempt": 1,
       "post_ids": [
         "6aebde7f2bcb2ca012ff7786"
+      ]
+    },
+    {
+      "key": "hojo",
+      "reason": "x_sokuho_plan",
+      "at": "2026-11-05T15:43:45+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec23cf2bcb2ca012ffa037"
       ]
     }
   ],
@@ -8921,7 +8946,7 @@
       ],
       "at": "2026-11-05T15:15:47+09:00",
       "attempt": 1,
-      "status": "sent"
+      "status": "done"
     }
   ],
   "last_dispatch": {
@@ -8973,7 +8998,7 @@
       "why": "セッションが正常に終わりませんでした（budget_reached）"
     }
   ],
-  "last_run": "2026-11-05T15:15:47+09:00",
+  "last_run": "2026-11-05T15:43:45+09:00",
   "last_check": {
     "nobunaga": "2026-11-05T13:23:30+09:00",
     "chacha": "2026-11-05T09:10:48+09:00",
