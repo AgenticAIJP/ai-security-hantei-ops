@@ -681,7 +681,8 @@
     "6aec2cec2bcb2ca012ffa4ea",
     "6aec38ee2bcb2ca012ffaa80",
     "6aec38ef2bcb2ca012ffaa89",
-    "6aec39c92bcb2ca012ffab31"
+    "6aec39c92bcb2ca012ffab31",
+    "6aec4d0e2bcb2ca012ffb457"
   ],
   "pending": [
     {
@@ -820,55 +821,6 @@
     }
   ],
   "dispatches": [
-    {
-      "id": "nobunaga-1793613130692",
-      "key": "nobunaga",
-      "executor": "managed",
-      "session_id": "sesn_01YKNxagHTRQftY3Zpdj4CXH",
-      "tasks": [
-        {
-          "key": "nobunaga",
-          "reason": "x_sokuho",
-          "at": "2026-11-02T18:52:10+09:00",
-          "attempt": 1,
-          "post_ids": [
-            "6ae815d9f27e65e1fc097c7c"
-          ]
-        },
-        {
-          "key": "nobunaga",
-          "reason": "x_sokuho",
-          "at": "2026-11-02T18:52:10+09:00",
-          "attempt": 1,
-          "post_ids": [
-            "6ae815d9f27e65e1fc097c84"
-          ]
-        },
-        {
-          "key": "nobunaga",
-          "reason": "x_sokuho",
-          "at": "2026-11-02T18:52:10+09:00",
-          "attempt": 1,
-          "post_ids": [
-            "6ae815d9f27e65e1fc097c8c"
-          ]
-        },
-        {
-          "key": "nobunaga",
-          "reason": "x_sokuho",
-          "at": "2026-11-02T18:52:10+09:00",
-          "attempt": 1,
-          "post_ids": [
-            "6ae81b4ff27e65e1fc097f8e"
-          ]
-        }
-      ],
-      "at": "2026-11-02T18:52:10+09:00",
-      "attempt": 1,
-      "status": "done",
-      "cost_cents": 48,
-      "cost_final": true
-    },
     {
       "id": "nobunaga-1793615726516",
       "key": "nobunaga",
@@ -9038,6 +8990,26 @@
       "at": "2026-11-05T17:07:37+09:00",
       "attempt": 1,
       "status": "done"
+    },
+    {
+      "id": "hojo-1793872783812",
+      "key": "hojo",
+      "executor": "routine",
+      "session_id": null,
+      "tasks": [
+        {
+          "key": "hojo",
+          "reason": "x_sokuho_plan",
+          "at": "2026-11-05T18:59:43+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aec4d0e2bcb2ca012ffb457"
+          ]
+        }
+      ],
+      "at": "2026-11-05T18:59:43+09:00",
+      "attempt": 1,
+      "status": "sent"
     }
   ],
   "last_dispatch": {
@@ -9051,7 +9023,7 @@
     "kenshin": "2026-11-05T14:19:46+09:00",
     "nene": "2026-11-05T09:10:48+09:00",
     "baseline": "2026-11-05T08:42:42+09:00",
-    "hojo": "2026-11-05T17:07:37+09:00",
+    "hojo": "2026-11-05T18:59:43+09:00",
     "hojo_deep": "2026-11-05T13:51:46+09:00"
   },
   "daily": {
@@ -9089,7 +9061,7 @@
       "why": "セッションが正常に終わりませんでした（budget_reached）"
     }
   ],
-  "last_run": "2026-11-05T18:31:40+09:00",
+  "last_run": "2026-11-05T18:59:43+09:00",
   "last_check": {
     "nobunaga": "2026-11-05T13:23:30+09:00",
     "chacha": "2026-11-05T09:10:48+09:00",
