@@ -2736,6 +2736,60 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T14:19:54+09:00"
+    },
+    {
+      "title": "警察庁、特殊詐欺の不正口座情報を全国一元共有へ　30金融機関と11月9日開始、被害2610億円の背景と効果",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/npa-fraud-account-information-sharing-2026/",
+      "source": "",
+      "published_at": "2026-11-05T14:39:45+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:47:53+09:00"
+    },
+    {
+      "title": "不正アクセス、個人情報「持たない」選択 ゆで太郎は会員制廃止 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSFY5UHVrY2dpNEtWbkdhOGhYanAzOHpNTkxTQ3BmbGloalRrLUdiTHprSkVBLUdZR1pxMlpfdG9nQThsRkdjaWRqdURRT1VLRVVQajhzaEp4V05GQ09tc2Rzanp4OVpGVnFuYw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T05:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:47:53+09:00"
+    },
+    {
+      "title": "急増する企業への不正アクセス「数百機のドローンを操るように攻撃」 その実態と情報漏えい対策は？ - 中国新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZVnhpa0Y1R1JhMFJ6U1dqWU1pZVU2VlRLMFNDbGdiMGZfX3VTYW8tQlNFcE13THdVVFJNTXdUV0V5cG5DS2dYdlR1S2dlRVRSc2JPcktmSEVLQQ?oc=5",
+      "source": "中国新聞デジタル",
+      "published_at": "2026-11-05T12:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:47:53+09:00"
+    },
+    {
+      "title": "苫小牧市でもマイナンバー予約者のメールアドレス3500件漏えいか システム不正アクセスで 北海道 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05RDJqTnNLWGlvamtMNUFsYnFlOGtpcm5TcFN2eHRJaDQtNlJTRkwwMnJWZzdYeTFyTUZlR0wxbEVfVnhSYnNsTWRWS1phbG9jRFVDMzFQd2p1WGIxVGJWczVWRDVIUWxmbnBiMkJqbzB4dHRILTVUNXNjSk1jcms?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T14:22:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:47:53+09:00"
+    },
+    {
+      "title": "公表済みの脆弱性に気づかず39万6920人分漏えい 採用サービスApplyNow 一部マイナンバーや口座情報も - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xOXJfQWJkWTVLSE10bllRZkltcXlTcS0wMVp5aGU2WkVtSVVvQlVYbUpXSTRLUkxfQ0VBd29RRVgzMldONkV1RXhWRzlFX2I1d1pyZFJLaTJaTXhqVVpXdFZrbFJHbmNJM3c?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-05T14:23:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:47:53+09:00"
+    },
+    {
+      "title": "プレスリリース：株式会社Elith、キャピタル・アセット・プランニングとGENFLUXシリーズの活用・事業連携に関する業務委託契約を締結（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iX3dXN1ZzdExPQzZPUjdQclJVMGNCMDM3TVBUMHRLTGhxRWdkWjQ0dlQ3dDV2dXdsREtRb3p2M2JHLWliUVJxYlZQVkUyN1pXekFIY0VxNVJtZmlES3FFRWtQZWVpQVY3?oc=5",
+      "source": "毎日新聞",
+      "published_at": "2026-11-05T14:23:07+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:47:53+09:00"
     }
   ],
   "errors": [
@@ -2750,5 +2804,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T14:19:54+09:00"
+  "updated_at": "2026-11-05T14:47:53+09:00"
 }
