@@ -2151,8 +2151,287 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T07:38:05+09:00"
+    },
+    {
+      "title": "「MUJIアプリ」への不正アクセス、新たにカード情報が外部からアクセスされた可能性も",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56697.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:32+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "「@cosme」に不正アクセス、約300万人の会員情報が漏えい",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56696.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:29+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "クラブツーリズムに不正アクセス、約432万件の会員情報が漏えいした可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56695.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:27+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "日本郵便がメールマガジンの配信業務を委託している事業者に不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56694.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:25+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "マーケティングプラットフォーム「ferret One」への不正アクセス、内部管理機能に不備",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56693.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:23+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "ブシロード「バンドリ！アワーノーツ」開発業務委託先に不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56692.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:21+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "オンライン診療サービス「クロンオンライン診療」にリスト型攻撃",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56691.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:18+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "SNSキャンペーンツール「OWNLY」に不正アクセス、合計1万4,034 件の参加者情報が漏えい",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56690.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:16+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "JETROが利用する国際ビジネスマッチングサイトに不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56689.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:13+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "2026年は438万件のカード情報が漏えい ～ MM総研",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56688.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:11+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "サントリーグループが利用する外部クラウドサービスに不正アクセス、個人情報が含まれるファイルのダウンロードを確認",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56687.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:08+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "徳間書店のニュースサイト「GoodsPress Web」のテスト環境に不正アクセス",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56686.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:06+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "バンダイロジパルに不正アクセス、「一番くじONLINE」の配送情報が漏えいした可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56685.html",
+      "source": "",
+      "published_at": "2026-11-06T08:05:02+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "能動的サイバー防御へ本格始動、基幹インフラ 15 分野 258 事業者に資産届出とインシデント報告を要請",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56684.html",
+      "source": "",
+      "published_at": "2026-11-06T08:00:06+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "Core TempのカーネルドライバにIOCTLインタフェースに対するアクセス制御が不十分な脆弱性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/06/56683.html",
+      "source": "",
+      "published_at": "2026-11-06T08:00:03+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:02+09:00"
+    },
+    {
+      "title": "iPhone・Androidにゼロクリック攻撃　修正済みの脆弱性 8件をサイバー攻撃に悪用、APT29関与の疑い",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/apt29-poisoned-source-ios-android-nday-zero-click-20261105/",
+      "source": "",
+      "published_at": "2026-11-06T08:30:43+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "GMOメイクショップ、約1,260万件のメールアドレスが流出　makeshop・MakeRepeater利用ショップに波及、アララへの不正アクセスで",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/gmo_makeshop_arara_12600000_email_leak_gmo_group_incidents_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T08:15:38+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "Fanplus・チケットプラス、共通ID「Plus member ID」利用者のメールアドレス流出　アララへの不正アクセスで",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/fanplus_ticketplus_plusmemberid_arara_email_leak_20261102/",
+      "source": "",
+      "published_at": "2026-11-06T08:12:41+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "Tenable Identity ExposureにCVSS 9.9の脆弱性　Active Directory上でSYSTEM権限のコマンド実行が可能に",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/tenable-identity-exposure-cve-2026-119314/",
+      "source": "",
+      "published_at": "2026-11-06T08:00:29+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "不正アクセスによる個人情報流出発生時の対応策（個人向け） - 志摩市",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFBuTWxqTi13cXhOcEFZamlFeHc3QzdaSXpsTTZHeU9Tckt1cHNubnFyQ1J3QWJkcHlqc2FBalg3ZjFaY1dJa0RnYXd5aGlyNnM3R0hqYlMzbmJwajYxaG92dWswLXFvdGNMcU1iUFY1ejlzdGhLOWNYb3J0eFlmMXJYRThnaDJiNldtbzYwQQ?oc=5",
+      "source": "志摩市",
+      "published_at": "2026-11-06T08:23:36+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "SMBCコンシューマーファイナンスへの不正アクセスによるサイバー攻撃のまとめ-提携14銀行に波及、各銀行が個人情報漏洩の恐れを通知|セキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbU9sMnU2Q0VQQTQ4d3BTWm9YdkFHT0YzWkNabjhkV3BBU0NVdVlLdXEyXzhjM0pIaFVCN2h1RmNYdWo2ZWV3UFlPdlpDc3JxUHJseEtMRkJjdGFSMjluMEY3cWEwUlYtRzBHWW54WEhsdDVKT2NOTmhlaF9ZazY4ZmNPSTd3cWNKZ0RhN1FGTGpZWmgzMHEyTEpjaHRORjM0NmVyMFdpdFY0MjF6WG5rUUdYS1VVZGljNW5oREF3?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-06T07:36:33+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "情報漏えい、相談増加 消費者庁がFAQ公開、IPAも窓口強化 - ウェルネスデイリーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YbHRucHhpWlRwTWdmTUhQQmVEZ1p5OVdDODBOMVJ4RFFRRFp0cjZ0QVpYVWhVNC10Tl9DYXpra1NlOGhGTGRHV29LX1ZOWV8wM2gwMkR3?oc=5",
+      "source": "ウェルネスデイリーニュース",
+      "published_at": "2026-11-06T07:31:20+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "ドコモ、最大30万件の情報流出（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80b1g2cVhDTnAxWld6dmJVLUhGVmZsMXBxa2ZmMEV0Z0VOTFhGSjU5d2xSM1JoN0d3cUEtWWhaY05fc0ZaNVNSRmM5QXNOcU9QT253TWdSZGRUaW83ckF3S28yMkw3YzhlRGRmZGJsampPeGVubUZCTXNGd2I0Zms?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T06:04:34+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "朝日生命、メールアドレス１万９０００件漏えい＝アララ不正アクセスで - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiaTlHRWNQWUpyendKd2VyYWdlNTA0SzY5MEc5WFBLTUM4QkNtbHFFckhhNHVnOWZaRDhiUDllOG1GYmZqUTd4RjlwOUozNEk1VmV4SXBIUmk?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-06T07:49:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "アイリスプラザ、最大770万人分の個人情報が流出の恐れ 生年月日やパスワードも対象（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55NVZ0N01uOERtVEdQRU05QTY4cmJBVms2elRuS3RBTUVSNTQ0Z1czV1hjV0x5Qi0wdnhvUkY1UXZ3VnhJOXhVWEY2THl3anVScWlkNGY3RlVjdFh6TUYyU05wUEZ6Q3ZIZWljYXR5dWM1NGtucHI4RG9DRnQyX1E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T23:40:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "「A2B攻撃」って何？ アプリに問題がなくても情報漏えいにつながる厄介な手口 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iUUxMcW5mN3kwTzFMd2hmUnFDQ1M3bG9LOXkxc1p2YXU5Nm54XzgtQUU0UzF2Sk4tdmd6WEoyY25XdVBYUVpROVJJMkFXUTlMYU0tNQ?oc=5",
+      "source": "ASCII.jp",
+      "published_at": "2026-11-06T07:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "住民安否システムに不正アクセス＝総務省消防庁 - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tNUR6VXZfZ2FpS1RJbG5yUVJVZHBwbnYzVEpENDdHZFY5X2VEU2taOEdNWFBBYWxmUVhBdy13RE0yR2Y0a1ZDb25aRjdpZVdQa0pudmhqVm8?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-06T07:49:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "年収やローン保証額、免許証番号など最大32万人分漏えい SMBC系、保証業務システムに不正アクセス - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yTHQydGdsYTN2cWFzSWN3ejItdTBpT3h2aUFobTlxanJVeU1zZWlGUGhiMDN5dVQ3Qy1lMGhFWTVpeUxSOVlidHJwaVR0azJ0b3QyNldEWjVOX2NJczkwQ1ZRSm1BVEltc0E?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-06T07:42:49+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "富士登山「吉田ルート」通行予約システム、１９・７万人超の情報漏えい恐れ…２０２５・２６年分に不正アクセス - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2NVLVdGSVB2RTh1WXVObWFJUVRlNGpkRExhNDRtX1laVU9EVFhpQUNYMzhlQ21VWEhPZVNwOTA2OVZ6d0dBUlQwckVGUmo1Z2JMZnQ1Ri1mT3N0QlJXMWZPUXRpRHRTMjNMX0dRdEJQVTlETDdTd25nVlJTMTIxXzVtUk7SAYoBQVVfeXFMTTNzV1JKcl9fM0xTLS1hQ3h6aFFkc1g0b1AxUmVrQmhHSWxLU2g1WUZxX2J0eWg5OHdCbWRfMGlNazJTN0pPcXNqVTIwaFg0RXNQV3RMNEFUX1ZSWDM4VzdTb0NUd2xIZ0pzZWp6S0FSMF83X1ZvU1RHS3U1U1o5YmJwdmkxZ19YbTB3?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-06T08:01:56+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "GMOメイクショップ、約1,260万件のメールアドレスが流出 makeshop・MakeRepeater利用ショップに波及、アララへの不正アクセスで|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWFMNW5VZU1QUVRGeUlyU0tKU3E4a2ZQSGtnc2RZVmUwY2g0d1NFV19JbXA5Yk53eFZVTmtzTFVHT1ZDVW9MQjRxVi1kWWdWeVdhd1pKWm5waVJWYTlycldpWFpkc3ljT3k1ZWlNeHJJNkM2MXNBVXJXbnl1RWpuSWZXTkNtcEkzZTA1OXBEWUI2bTl6RWhQLXJMT1pWZjQzRnlhc3BIMDRLRVliZFhmdkZlRHZEOWs?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-06T08:15:38+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "北洋銀行（本店・札幌市）で情報漏えい　カードローン「スーパーアルカ」　顧客の年収や勤務先流出　 保証会社への不正アクセス原因か - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fMUgtQ1FsNl93MWl0cXNTR2k0M082Z01jOHZYUXdxUGJlV28wZjhYRENiTkMxeWRBX09pNEVVSU9USi1NYVUyT1ZZV1FVbm5SQlpoZ0RGZ0QwM1Q4cHdpQ3V5b0FMRkpfcWMxQWc0ONIBdEFVX3lxTE1QNExkdWRrcllKMG9qQnVhWllraEpraEkybEh3TXd6cXFiSENfcjVBZk9DQUNDbG1sUUR1S05IWFlmTmczOEpDR3doN0w5V3dwLS1XTlUwSGxmM3VQMkhiVjFFcEg3TXgyQkplRzZrQUdYelN6?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-06T08:30:39+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T08:34:03+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T07:38:05+09:00"
+  "updated_at": "2026-11-06T08:34:03+09:00"
 }
