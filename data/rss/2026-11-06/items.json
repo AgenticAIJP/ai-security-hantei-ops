@@ -1836,8 +1836,35 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T05:17:33+09:00"
+    },
+    {
+      "title": "ロシアの大手ホスティング会社に破壊型なサイバー攻撃-VPS・クラウドのデータ消失",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/beget-russia-cyberattack-cloud-data-wiper-ukraine-20261105/",
+      "source": "",
+      "published_at": "2026-11-06T05:30:38+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T05:45:38+09:00"
+    },
+    {
+      "title": "アイリスオーヤマ 約770万人分の個人情報漏えい可能性 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Zb2xlX2VyUU02VTI1b2R4Rlk5VzVsWDN4bjZkNmJDLXVMN1BXYUJ2U2FHZFNTd3FaS2FNZE5fM050bXNPN3RicjJrcXVZWWN4NTNPOGhuZW9CR05XYUs4?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-06T05:26:08+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T05:45:38+09:00"
+    },
+    {
+      "title": "ドコモで不正アクセス およそ30万件の情報流出（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wc3ZxYVhqVUx3eVhNc01JWjRWYWtJRUhsQkpPNDFaUnh6T09EN1RPM2pNay1NNEt2aGxFQURsQW9lc25FcGxRWDFSY2VaZWxJbXhGLThLeVFtMlJrWmNMVU0ydW1GTklkdTVSRU10S2dTUldmcnFQTXVVSVUteWM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T22:28:31+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T05:45:38+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T05:17:33+09:00"
+  "updated_at": "2026-11-06T05:45:39+09:00"
 }
