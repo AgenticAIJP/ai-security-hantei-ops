@@ -1791,8 +1791,17 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T03:53:27+09:00"
+    },
+    {
+      "title": "KDDIの自転車ロードサービス、委託先に不正アクセス 顧客情報漏えいの可能性 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MWTducFpwNTJLMnoxdWpxTHNQc2hoeFNoNWZVcVdxbm5HRU1vLUhhUUd5WnJqNG9URnB1bDk2bE1CV09tYmtCTVotV0dLTlBqM2tOdTlQRjVuWVpJM2NiQkpxa1pJS1hJdjhpRXo2WnhQV2pa?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-05T22:05:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T04:21:27+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T03:53:27+09:00"
+  "updated_at": "2026-11-06T04:21:27+09:00"
 }
