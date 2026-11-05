@@ -3555,6 +3555,114 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T19:55:54+09:00"
+    },
+    {
+      "title": "個人情報が保存されたHDDや書類を紛失 - 都水道局",
+      "url": "https://www.security-next.com/192391",
+      "source": "",
+      "published_at": "2026-11-05T17:15:22+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:54+09:00"
+    },
+    {
+      "title": "ドン・キホーテ委託先にランサムウェア攻撃、時計修理依頼者の個人情報が漏えいした可能性",
+      "url": "https://scan.netsecurity.ne.jp/article/2026/11/05/56678.html",
+      "source": "",
+      "published_at": "2026-11-05T08:05:21+09:00",
+      "feed": "ScanNetSecurity",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:55+09:00"
+    },
+    {
+      "title": "ドコモに不正アクセス、最大約30万件の個人情報が漏えい - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jdlZsSmdhbzQ0UjV1a2xFVVA1bTlfblNzVmNtSXlJNmFBY3NUWUVLQ0tjWlZCZTZrZkNSU3FwNzgwTlhyM1VpdFF6clNyMHd0alhQcU5vemg0RVcxM0hYaHowSndpUGM?oc=5",
+      "source": "ケータイ Watch",
+      "published_at": "2026-11-05T19:52:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:56+09:00"
+    },
+    {
+      "title": "個人情報流出の可能性 富士山の通行予約システムを使用した約27万人 受託企業のメール配信システムに不正アクセス 山梨 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8teDAwWHFualZ2c2w5RkpBVVpUWTZjay1EWjNGRUhILVBqdDdJRXZEV0x0aWhXV0twc21JdExUODg3UFVlTFBnUEVocUtob3RENVFOZXV6elRiOUVWSGlHa0xEWTZ6T01nVUFWdGVycnB4LXZsWjg2R2pwM2RCTk0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T20:12:17+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:56+09:00"
+    },
+    {
+      "title": "カカクコム、個人情報約570万件流出 アララへの不正アクセスで - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ySFhiX0pFd2N1eGtJdVNCOWp0c01kd2hhZFRyN051UVBoeHRvYTJVVzdRaHFyRUpJc1N6WHVEQnhHVVNwSGJ3QmVURkc5VWlvY2hfVzRzRWdwMUVUclhoR3V3c29NNUkzQXREbg?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T19:49:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:56+09:00"
+    },
+    {
+      "title": "SMBCコンシューマーファイナンス、カードローン契約額など32万人分漏洩 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NVS13NmMwTUlMR0lzNGpMNHR0bkkycHJyMC03WHJncDF3cXFMUG84VE5lZ1REeXBIbGdhZGN4RmtoYTc5d201SEN5LWd4TmdiNzJIbUozZWR0WmFDTW5ULXg0N0h2S3JFZ1gtaA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T16:43:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:56+09:00"
+    },
+    {
+      "title": "【速報】ドコモ 不正アクセスで顧客情報 最大約30万件流出の可能性（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRjUzUHIyRHNYYWFaU3U2S2FGMnlXWFhjUWFfbW1VSDkxNXZxUWtXM2ZPUnRUTDFHNWZhalZTNjBoSG45M2x6YUt2VGxRVVdYQXd1SUxjcjc0bEs3c0JKRU82ZVRJemhlazFxN01aY2RMc0xhSS0wY2JaTGhCeFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T19:44:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:56+09:00"
+    },
+    {
+      "title": "Ｈ２Ｏ 個人情報126万件余漏えいを陳謝 原因究明進める - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ejhxLWdINUE3dUFYekotSjRVOXZjdG1veXA0N2JUcmVPYmhRamN3WnpuSy1sTjNkRzdWVnNFN0tiTjluSGV6dGF1SDVSZ3FhUG10X3FlakFvTXJGVnpn?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-05T19:43:03+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:56+09:00"
+    },
+    {
+      "title": "ドコモ、不正アクセス疑いで通販サイトなど停止 契約手続きも制限 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Zzh4MnRoQUlEOFdFOTA3bmFsUkoyRXBuTUdKZW1OeEIweUlabjZMM2hpZ2VXdkpPY1dTb0hxb05seHNqQUItT1ZlNmlGMS1TRUI1b3gyS0Y2aHpRTjJjbXlKaGFKZkNZcnlteQ?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T12:07:28+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:56+09:00"
+    },
+    {
+      "title": "Payどんメアド漏えい最大25万人 メール委託の「アララ」はビックカメラ、モスバーガー、ワークマンも（MBC南日本放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wem1wM2dxVUc2R3FPRmliLVhGMm9mOTRrRURlVVdsdHFUYUxYZnpWRVphZGgwLTV5a3dueHd6X3J3V1VOeURhQ0N5TF82UTh5ZWNvZXc5UWtTdUF2ZjV0MkU1NWJBb0lPRUduTi1zWnI1Z3owUjFZUnIydHh6eGc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T19:42:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:56+09:00"
+    },
+    {
+      "title": "大森山動物園など、電子チケット購入者情報漏えいか 秋田市が発表 - 秋田魁新報電子版",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LX1V0b1lhWEJiSGZNQWtsLWkyenJQaE9hMU9NdnlxVmdjZFRta3NRSUNDbFV5Tm1RSVVjcVY0LWRONktkamRnQ2ZrQjhhWjBvVEYwUlIzRnlLamFOM3U3enVn?oc=5",
+      "source": "秋田魁新報電子版",
+      "published_at": "2026-11-05T16:18:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:56+09:00"
+    },
+    {
+      "title": "ドコモ「５Ｇ」の一部で通話やデータ通信しづらい状況…不正アクセスの可能性でオンラインサービス一時的に停止 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPaGZ5VGduWWREeUhsZDRwcEE5dnFSWkxMTW4xV3FjU0hGeFV0M2pDeG1sem1oV1h5YkdBOHZuWEwtMEpSRTA5RGtfd1dXUnZ4dXFsbDRZdFRrMXVJcDJmZzJsWmI?oc=5",
+      "source": "読売新聞",
+      "published_at": "2026-11-05T13:35:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T20:23:56+09:00"
     }
   ],
   "errors": [
@@ -3569,5 +3677,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T19:55:54+09:00"
+  "updated_at": "2026-11-05T20:23:56+09:00"
 }
