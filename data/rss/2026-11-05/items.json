@@ -3087,6 +3087,24 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T16:39:44+09:00"
+    },
+    {
+      "title": "三井住友銀行もメールアドレス22万件漏洩「アララ」不正アクセスで [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpYlRzS0dmVGo4Y0dsX3BsOVZKWXdtM193eXRha09MRXhmdnlwbGhLU0h1b0wyektORkxTcThvRUlzaVJxSU1wVTI1Sm5VbjZaU3dpUUx3TGJzYkVXS1RzRnl1M01LcG8?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-05T16:43:35+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:07:43+09:00"
+    },
+    {
+      "title": "【情報漏えい】三井住友銀行の顧客メアド約22万7000件　メール配信委託先「アララ」が不正アクセス被害　口座番号や暗証番号の流出は確認されず - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxWUtQdmhqUnc5b0R1ZTB3VWNLYW5QRGZqYl82R2VOLVJVekNsd0RJbEdUaVh5eGNpR05PdVFaVmZNS3JhckZiMFY0RUFJV2VNeENKdnFjNmlab083M3hfcTltdjNrQnBzQVNRNzhHMWZYWklDUDNfcTZRcDLSAYIBQVVfeXFMUFBka3VIdHAtbGRLVjBNZmRNcHZOVnYtMTFBMTAtSkg5UmluSWg2ZVJrT3U0ZWxMWnBOVGxXSjMyb3Voc3pQME1lMGJhTTNKTnE4REotOWtsY0RqLUhDeFI4c3YzYVhCQW02Ukk2THFHZ0VWYW50YW81R3NCMEhzSTVEdw?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-05T16:51:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:07:43+09:00"
     }
   ],
   "errors": [
@@ -3101,5 +3119,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T16:39:44+09:00"
+  "updated_at": "2026-11-05T17:07:43+09:00"
 }
