@@ -1755,8 +1755,17 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T02:29:31+09:00"
+    },
+    {
+      "title": "不正アクセス、個人情報「持たない」選択 ゆで太郎は会員制廃止 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSFY5UHVrY2dpNEtWbkdhOGhYanAzOHpNTkxTQ3BmbGloalRrLUdiTHprSkVBLUdZR1pxMlpfdG9nQThsRkdjaWRqdURRT1VLRVVQajhzaEp4V05GQ09tc2Rzanp4OVpGVnFuYw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T05:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T02:57:31+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T02:29:31+09:00"
+  "updated_at": "2026-11-06T02:57:31+09:00"
 }
