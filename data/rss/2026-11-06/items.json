@@ -1863,8 +1863,35 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T05:45:38+09:00"
+    },
+    {
+      "title": "ハッカーがクラウドロジなどを提供するスタークスから約1,100万件の窃取を主張　Metabase不正アクセス後に顧客情報とみられるCSVを確認",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/starx_spartanx_11million_metabase_20261105/",
+      "source": "",
+      "published_at": "2026-11-06T06:00:50+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T06:13:40+09:00"
+    },
+    {
+      "title": "その「返金のお知らせ」本物ですか？ 氏名や注文内容が正しくても詐欺メールかも……相次ぐ情報漏えいで巧妙化する手口 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kc2FSM1I0OFpPSEhmRWxrYjhqd2tobFdwX2lPYW9fWGhRb29OdzlWOUhMMXdTRnpuUEVYWkZWQnhTV2FEWG0zTFhJdHpFNl9ZS1k4YlRfcTZ2akplMmE5Zmd2WllQSkRoUXJrbE1OQktseG5wSk9tTFFRTHF2UQ?oc=5",
+      "source": "INTERNET Watch",
+      "published_at": "2026-11-06T06:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T06:13:41+09:00"
+    },
+    {
+      "title": "ハッカーがクラウドロジなどを提供するスタークスから約1,100万件の窃取を主張 Metabase不正アクセス後に顧客情報とみられるCSVを確認|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3NPQkNBOUVBNS1kXzYtZ1pMU0xsTzJEc2xYdVZCNndSUDN2WWh3M0JUTHM2S3V2LTFQM2NnUUpaQXlMOGtPS3ZnU3hENzRfN2NDdEtxVEttRUtPZWZiU1FIOHN4bkJSVkRQdDl3S0NwLU5sNFR6bXlDOFl0RC1SSGt2ZVRaTFRqa0Vjcmk3Sm5FenRobHc?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-06T06:00:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T06:13:41+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T05:45:39+09:00"
+  "updated_at": "2026-11-06T06:13:41+09:00"
 }
