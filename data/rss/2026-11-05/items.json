@@ -4365,6 +4365,60 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T22:44:06+09:00"
+    },
+    {
+      "title": "サーバ設定不備、従業員情報流出の可能性 - 資さんうどん",
+      "url": "https://www.security-next.com/192260",
+      "source": "",
+      "published_at": "2026-11-05T21:16:57+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T23:12:06+09:00"
+    },
+    {
+      "title": "最大770万人分個人情報漏えいの可能性 アイリスオーヤマ公式通販サイト不正アクセス問題（tbc東北放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ORFg3VFJXVDRXODNLUFdMY2I4VFRDYlp0NWwyTi1QZVV2Y2dsa0tWYm1HMURLREZzeUttaHBySDh4Z0dLUDZZc3ZPNTkxd1Jsbk11Y0wwY2NhbzZqY1Y3UzNKbnRabzRFekp1SVBuQkdXdEVRV0dVX0hTQl9fcWs?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T22:29:12+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T23:12:08+09:00"
+    },
+    {
+      "title": "ドコモで不正アクセス およそ30万件の情報流出（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wc3ZxYVhqVUx3eVhNc01JWjRWYWtJRUhsQkpPNDFaUnh6T09EN1RPM2pNay1NNEt2aGxFQURsQW9lc25FcGxRWDFSY2VaZWxJbXhGLThLeVFtMlJrWmNMVU0ydW1GTklkdTVSRU10S2dTUldmcnFQTXVVSVUteWM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T22:28:31+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T23:12:08+09:00"
+    },
+    {
+      "title": "アイリスオーヤマ７７０万人分情報漏えいか - 京都新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zU29NdFA4SEMxNXM5UV9sVW5DQnhuNUtPRGVEa3hWMnJISUpyYXNQMTNVbWF4Unp1MVhFSkJlT0U3UHdmV0IxVDNLV0VIMll4VERfdkFLUG0?oc=5",
+      "source": "京都新聞デジタル",
+      "published_at": "2026-11-05T21:12:44+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T23:12:08+09:00"
+    },
+    {
+      "title": "ファイルフォースが語るAI時代の企業データ保護とエンドポイント戦略の重要性 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iLTRyTmpkcGFFWGp5bHBZLV8zeHBKNWpMQlo1dDgyUUM0OERnSkdhaGVFRENTSnRjdHZLQjFUSXdOejJHblVWbDVNT0I5TkVZUkg5LTRBSHZ5Tm8zQWVNWkJjYmZKcFJLZzRzSEdqZ0ZYUHpNMkZjUg?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published_at": "2026-11-05T22:44:47+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T23:12:08+09:00"
+    },
+    {
+      "title": "AIで変わるサイバー攻撃、セキュリティ対策はこう変わる｜個人情報の守り方 Kovacic (AgdoqwpLpo) - Unisba Media",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44VHF2R211TVBTSkNSVXdIVW1YNVFwa3JwV2dDTXJlR19xbUltbDRXVUtuY3dVXzA1NEdmbU52VXFnTlBPV1dvSUJKblpCRHRWSFh0QXJtLTdkN0gxM0NMU1BMaGp1UQ?oc=5",
+      "source": "Unisba Media",
+      "published_at": "2026-11-05T19:47:11+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T23:12:08+09:00"
     }
   ],
   "errors": [
@@ -4379,5 +4433,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T22:44:06+09:00"
+  "updated_at": "2026-11-05T23:12:08+09:00"
 }
