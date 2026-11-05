@@ -2340,8 +2340,71 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T11:31:24+09:00"
+    },
+    {
+      "title": "ECサイト「Getchu.com」、サイバー攻撃で会員情報の一部流出を確認　ID・パスワード・住所も対象の可能性、再設定を要請",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/getchu_member_data_leak_password_reset_20261104/",
+      "source": "",
+      "published_at": "2026-11-05T11:54:34+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:59:28+09:00"
+    },
+    {
+      "title": "ほっともっと、委託先へのサイバー攻撃で最大約700万件の個人情報漏洩の恐れ、メルマガ配信停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/plenus_hottomotto_newsletter_data_leak_20261104/",
+      "source": "",
+      "published_at": "2026-11-05T11:43:05+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:59:28+09:00"
+    },
+    {
+      "title": "高速バス「VIPライナー」、サイバー攻撃でカード情報6,949件が漏えいの可能性　セキュリティコードも対象、不正利用の相談も",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/vip-liner-credit-card-leak-6949-security-code/",
+      "source": "",
+      "published_at": "2026-11-05T11:30:54+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:59:28+09:00"
+    },
+    {
+      "title": "ワークマン最大145万件流出 アララ経由の被害は全体で7,700万件、最大380社の恐れ - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lMDRtN09FSVk0eHE1UHdPMEdtRmlYQnBfbTI0QmJiTlg4SUJ6THRJakdxZTFvaUpXU0g4a1pSdDA4NkU4bHE3VTBoYWl4QXlKQ0w0?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-05T11:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:59:28+09:00"
+    },
+    {
+      "title": "e-Taxにおいて不審な通信を検知、サービスを停止して緊急メンテナンス実施 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aa3lBUE9ITndDQ1YyRWUxVVlPeFlVNDB3bllZZU9MOGcwQ2pCNlJ3LXRjeVVaR3FJX1Q2alJWaVFDUVp3OXlrM1hSYU1rcllseVVwVmotSTJHSy1Fcy05UDljQnFMeFROb2pr?oc=5",
+      "source": "INTERNET Watch",
+      "published_at": "2026-11-05T11:36:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:59:28+09:00"
+    },
+    {
+      "title": "【AI全社導入企業のセキュリティ自己評価に関する実態調査】AIのセキュリティ対策を「できている」と感じる層は85.0%、一方で取引先へ「すぐに説明できる」は32.0%にとどまる | 株式会社TWOSTONE&Sonsのプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00NkVCcTluLTY2RS1OdDBjSkNIbmhnd3FKZTU0cmlyMHVwb3dDZlUxQ3h6ZHlnRGtVcWlDZmRhbWhxamRvU2NDTlhpMVZVMHdWcWxkaHZQbl9oR3pHT1I5dXFxd3J4aUt5aWc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-05T11:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:59:28+09:00"
+    },
+    {
+      "title": "【緊急企画】相次ぐ情報漏えいを受け、Nishika、デジタルハックと共催ウェビナー「守りのITから攻めのITへ！セキュ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OMlY0WldoWWVxazZrNGFNUE9iUDBCQ0hDS184UC1HeGpZaFpxZ3ROTS1oRnJOdC0waDZ3Q2VVWTlObjF5OWZjZll0U2haNzNUNmgtWGR0dmg2allqeFlMQWdQYmYxeGhqUmFpVVQxVnNCVGRpWGJueTJrTQ?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-04T14:21:15+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:59:28+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T11:31:24+09:00"
+  "updated_at": "2026-11-05T11:59:28+09:00"
 }
