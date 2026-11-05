@@ -1953,8 +1953,89 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T09:38:57+09:00"
+    },
+    {
+      "title": "Microsoft Edge 156、悪質なWeb通知を自動停止　詐欺サイトへ誘導する通知の配信元を遮断",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/microsoft_edge_156_malicious_web_notifications_auto_block/",
+      "source": "",
+      "published_at": "2026-11-05T10:00:06+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:07:18+09:00"
+    },
+    {
+      "title": "Zaif、委託先アララへの不正アクセスで顧客メール38万件流出 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JSlAyQkxBWk9vQ2ROVVI4THhHY2pxWVlUQzhTMFAxSVJzeEJLendZcG1ZM0VkVldqMW9KdzF4T2xWalp6cWRWdXAyQmc5czdUTXZjdVM5M2lIS3FGUXh0SUxCWTFqUDVMMXR6TUZ4UE1FVWMx?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-05T09:25:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:07:18+09:00"
+    },
+    {
+      "title": "【戸田市】個人情報が漏えいした可能性について発表。市が使用するメール送信サービスに不正アクセス - 地域ニュースサイト号外NET",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OZHRPekU4UU5Kb0JJcVNXZS12bWFnaHRVdDNOZHdycW5LaWVGdjFkQWxZT0ZGZk81VklSR0h1Y3FldmllNDZqQmFTallLUjIwYWxOQkUzd05tTnhHQVlPVTRldnk?oc=5",
+      "source": "地域ニュースサイト号外NET",
+      "published_at": "2026-11-05T09:30:51+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:07:18+09:00"
+    },
+    {
+      "title": "OpenAIのパイプライン、Linuxカーネルの権限昇格の脆弱性948件を発見 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFFpa09jZ3JPTTgxbzMtN2h2WGc2NlFYX3prdDdVWTNEckJlZXZQOE92bnZOVFgteWxSa2UxRVU5N25lYTQzbmNVVFoxMl9KR1Jtd1ZYdHgwUkNqb3N6STNGZmppTnZvTEFTREVFM3R3ODNjenRlWHNLMGdhb20tdVUzWTVMQzIyVEZ2RGhWbkRDSXBL?oc=5",
+      "source": "Unite.AI",
+      "published_at": "2026-11-05T09:15:04+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:07:19+09:00"
+    },
+    {
+      "title": "AI議事録、導入しても半数近くが使いこなせていない。最大の理由はセキュリティ、「クラウドに上げられない会議」の壁――会議と議事録の実態調査2026 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mdFYyTGVPbEVtYmJFdUlXWnp6cmJhb3FrcnlpQWg1d3ViTE95THlyRjV3WVhXTmlTSnQ0QUdDb1UtQTJjTUlZSnQ1c1oxMVdzZWVCeVJhckVBVjNjN0xBamR3N3Y4dFVXMHc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-05T10:00:03+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:07:19+09:00"
+    },
+    {
+      "title": "プルーフポイント、年次レポート「2026 Voice of the CISO」を発表：サイバーレジリエンスは向上する一方、AIの普及によりCISOの職責が拡大 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MbmZNWHN5ei1SdFBCb0tKM3hCcFBkc2F4UkJVaDY3UXh5YjQwVDgzQy11N09xbVpJS19ibHd6bVNiQl9WQzBzX1pQbmltdkhEVTJJRjFYNjdpZ2JFS3gzaFE4QXBxSEp4THc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-05T10:00:03+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:07:19+09:00"
+    },
+    {
+      "title": "AI時代の企業データ保護とエンドポイント戦略を解説｜ファイルフォース、「Security BLAZE 2026」に登壇 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54cXdIa3lIV0otLVZtUzZOQ2dxZFo4Vm1ETmw1VGtLWTdpWWUwaEZmcjZTcFBnUXFPdjRTeXFxRmtqMmt3cFlCOFQ2NFdUV0xSeVBiYmF5NjdNbDc1clVvdnZtQ2I3T0JVNWc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-05T10:00:03+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:07:19+09:00"
+    },
+    {
+      "title": "VALANCE、AIが作る業務アプリを安全に動かすAI Native業務OSを正式リリース - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UNFVaV0ZycVRLMGVWVmFmYkdEYlBQdUFVSWpjd3RqTk0xN2ZUMm5oQkZyWnVMOTFhcDVCTi1oWmhWQW1NY0VzR3ZSMVNRNFJWbGtDTVpR?oc=5",
+      "source": "EnterpriseZine",
+      "published_at": "2026-11-04T12:15:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:07:19+09:00"
+    },
+    {
+      "title": "クレディ・ミュチュエル・アルケアに不正取引 暗号資産210億円流出疑い 顧客資産は？ ｜FinTech Journal - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EUXNjdndCamhwWWp5RDNnQTdrSVZ1QjdhZWVQM1lLTlBiR29zYkVYc29qYWNBbFVhMXBic0xiVURkRHZVeVFpa1JTZlJBYnM?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-05T08:20:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:07:19+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T09:38:57+09:00"
+  "updated_at": "2026-11-05T10:07:19+09:00"
 }
