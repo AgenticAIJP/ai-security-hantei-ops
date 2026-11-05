@@ -1773,8 +1773,26 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T03:25:27+09:00"
+    },
+    {
+      "title": "アイリスオーヤマ 約770万人分の個人情報が漏えいした可能性 | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RTm4wLUR1RFRpSzZwWlZEcWxwc1Z6c24tZGprWUlGSW5rWF8yMm4wcTdsUXl0a3ljZ2RBZ2x4S0dDWGY3cDlYUzdSVzFKUlo4SkJDV3UxT3lMd0syUzFJ?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-05T21:40:36+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T03:53:27+09:00"
+    },
+    {
+      "title": "アイリスオーヤマ公式通販サイトに不正アクセス 770万人分情報漏えいか - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qeWsyQ2xybGhITmlhM1ZVN3BZZ3FKRF81elg2ajhLZ1k0dktjSG1FQ2JyZC12UV84eDN2MzI2SkFqMzRaN2hKcnJ0S3VFQjdsLTB5WHNyWXBzbnZpRTg4TWRwTWdNVGFWbkRwczR2Z2ZaRzhzdnc?oc=5",
+      "source": "産経ニュース",
+      "published_at": "2026-11-05T23:06:03+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T03:53:27+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T03:25:28+09:00"
+  "updated_at": "2026-11-06T03:53:27+09:00"
 }
