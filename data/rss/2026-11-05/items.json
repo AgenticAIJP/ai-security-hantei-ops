@@ -2979,6 +2979,60 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T15:43:51+09:00"
+    },
+    {
+      "title": "日本レジャーチャンネル、68万4,772件のメールアドレス流出　テレボート・各ボートレース場に波及、アララへの不正アクセスで",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/jlc-arara-email-leak-684772/",
+      "source": "",
+      "published_at": "2026-11-05T16:10:10+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:11:48+09:00"
+    },
+    {
+      "title": "フランス血液事業機関EFS、3施設の冷凍設備にサイバー攻撃　温度設定を「−30℃から110℃」に改ざん、",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/france_efs_coolworld_plasma_freezer_cyberattack/",
+      "source": "",
+      "published_at": "2026-11-05T16:00:14+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:11:48+09:00"
+    },
+    {
+      "title": "美術館・博物館向けのチケットサービス「ARTPASS（アートパス）」、メールアドレス最大約100万件が情報流出の恐れ、アララへの不正アクセスが波及、当初の「影響なし」報告から一転",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/artpass_arara_email_leak_max_1million_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T15:49:24+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:11:48+09:00"
+    },
+    {
+      "title": "ドコモ、44万件流出発表から9日でMy docomoなど緊急停止…不正アクセスの可能性高い - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nYXZwazJzbEFRbVZwQVUxZ1JTcTV4Rk05LU51MFlMYkRXSWU0dVRVbHJJb2tIRHpBa0JGdFozVWRFTV9wV2otTUxvSndCOXdha3hB?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-05T15:14:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:11:48+09:00"
+    },
+    {
+      "title": "美術館・博物館向けのチケットサービス「ARTPASS（アートパス）」、メールアドレス最大約100万件が情報流出の恐れ、アララへの不正アクセスが波及、当初の「影響なし」報告から一転|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0lleFBJRzBuNGdCck5YLS1BdGc5bzNMR3ZJZVhxNUNBUXRRVlNMRWE3MmcyZjk5cW5yaFlCSkg5N3NUUXpsM01rTDB3RkxkTVUyLXZtMm5KX3hSZC05ZkRobjBNWXBxd25FalpWQTltLU9BdkxSVl84SGJEdFVGSHFQY3JqaDFpck9jMzFZd0ZjcGJjZFd6UVJDOA?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-05T15:49:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:11:48+09:00"
+    },
+    {
+      "title": "プレスリリース：AIの安全な活用を総合的に支援する「AIセキュリティコンサルティング」を提供開始（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NbzdsT0pweGprbnhLYm8tRDJpOHp3R1plMkhnWVVXaThiUnota0o1aktXcTkzTG5SWndqbkZzS1ZLLTN4R3pJV000aTlUWVI2YnRxdWpqVXpVM01yUkJfN1J3NTJId2ZT?oc=5",
+      "source": "毎日新聞",
+      "published_at": "2026-11-05T13:23:51+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:11:48+09:00"
     }
   ],
   "errors": [
@@ -2993,5 +3047,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T15:43:51+09:00"
+  "updated_at": "2026-11-05T16:11:48+09:00"
 }
