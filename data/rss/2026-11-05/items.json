@@ -3033,6 +3033,60 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T16:11:48+09:00"
+    },
+    {
+      "title": "茨城県「茨城をたべよう」、メールアドレス最大11万656件が情報流出、アララへの不正アクセスでメルマガ配信停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ibaraki_tabeyou_arara_email_leak_110656_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T16:32:29+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:39:43+09:00"
+    },
+    {
+      "title": "森永乳業、グループ会社サイトに不正アクセス…個人情報漏えいは確認されず - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ab0hJWWNldWo4dHJLUUJKYzBXXzVzazZPMzN4a1RZODVWWFYwZWxqX3RfOVNBQkRSSXNORG42MTdncURtMTdnM0YwQ0dlOUQySmh0dW52MU8weDRleU9ERm1jTDI?oc=5",
+      "source": "読売新聞",
+      "published_at": "2026-11-05T16:15:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:39:44+09:00"
+    },
+    {
+      "title": "コナカ、子会社でメールアドレス約４３万件漏えい＝アララ不正アクセスで - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41b253M1RrZ2Ntei0tczExdTVxM1V2Y1R5N1dnRTVVV2JUWHVNdUdsQVJsQzFJVGl6dFRpbWJYcTQwZXRMOGdaalBQWDd4RFc0bTc3VDRkVjE?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-05T16:38:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:39:44+09:00"
+    },
+    {
+      "title": "カードローンの借入額、32万人分漏洩 三井住友系の消費者金融大手 [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMODhweExQVlJ4Q18xZVFkSUV5Y0t6M0dOaGNIU2I4UVA4UW1WZW9FX2JqOGRlU0U1eWhLcDh6VXpvUW0zS0pDbVZVNjJ5R0xtY3VPaHJaMmZLaVIxVjh3cms0a3NfbXc?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-05T15:38:17+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:39:44+09:00"
+    },
+    {
+      "title": "「e-Tax」再開 安全性確認、納税者の情報漏えいなし - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvajl4eThwbVlldVJadmJLNzhRMjZEZlBQN3dIM3hOSXlBZ0xUMVduaHVJQkpVR1ZqU05LSDVNU05rd0xmakp3d1ZhLUttR01GZF9ELVpDUE5vMG9BSnFiazZ5ODRaR0NTeVE?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-05T12:29:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:39:44+09:00"
+    },
+    {
+      "title": "大森山動物園や千秋美術館企画展など 電子チケット購入者情報漏えいか 秋田市が発表 - 秋田魁新報電子版",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LX1V0b1lhWEJiSGZNQWtsLWkyenJQaE9hMU9NdnlxVmdjZFRta3NRSUNDbFV5Tm1RSVVjcVY0LWRONktkamRnQ2ZrQjhhWjBvVEYwUlIzRnlLamFOM3U3enVn?oc=5",
+      "source": "秋田魁新報電子版",
+      "published_at": "2026-11-05T16:18:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T16:39:44+09:00"
     }
   ],
   "errors": [
@@ -3047,5 +3101,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T16:11:48+09:00"
+  "updated_at": "2026-11-05T16:39:44+09:00"
 }
