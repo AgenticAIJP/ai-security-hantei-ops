@@ -2790,6 +2790,105 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T14:47:53+09:00"
+    },
+    {
+      "title": "コナカ傘下のサマンサタバサなど、メールアドレス43万4,414件が情報流出　アララ「repica」への不正アクセスが波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/konaka-samantha-thavasa-repica-email-leak-434414/",
+      "source": "",
+      "published_at": "2026-11-05T15:08:04+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "IIJの個人向けサービス IIJmio、契約者のメールアドレス98万3,458件が情報流出　アララへの不正アクセスが波及、クレジットカード情報は対象外",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/iijmio_arara_email_leak_983458_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T15:03:12+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "Microsoftを装うサポート詐欺、広告経由で80組織の利用者に偽警告　PIXMがAzure上の詐欺サイトと電話番号管理基盤を分析",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/fake-microsoft-support-scam-pixm-80-organizations-2026/",
+      "source": "",
+      "published_at": "2026-11-05T15:00:23+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "GMOイプシロン、加盟店のメールアドレス24,645件が流出　アララ「repica」への不正アクセスが波及、決済サービスに影響なし",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/gmo_epsilon_arara_repica_email_leak_24645_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T14:48:44+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "【更新中】ドコモで不正アクセスか 「無印良品」で新たにカード番号など約109万件流出か アソビューでは約1582万件の会員情報など流出 不正アクセス情報まとめ - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-05T11:45:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "NTTドコモ一部サービスで通信障害 不正アクセス影響か「確認中」 [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wVEZaZG8xcUlNNGYwU2ZJV0c3eDczREluMlRSODdVUllRRXd0c3lOYTZzWGlxNkh1R0ozSlRnOTVQXy1GYnlfUnZQMjBqckJPSkhqWE1idVdqTzZWNlNaaDFnMjliTUE?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-05T14:01:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "損保ジャパン 委託先に不正アクセス 契約者情報6.5万件が流出の恐れ - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3d0JKa3Rwb3NnMElsTUdwazdOdTA5LTVacWF1dG1oZEJweDllem0zOUplcU1lOU1iVWpVbl9xSm5qNmYyQzJGVmZKcDliTEhNM2NIcklFYw?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-11-05T14:17:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "IIJの個人向けサービス IIJmio、契約者のメールアドレス98万3,458件が情報流出 アララへの不正アクセスが波及、クレジットカード情報は対象外|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmc0ZVltN1JTeno5c0tLTlVCNDNhVWJqd19ZSHJ3dlhhOGUwQmtGQWJGSWNNYzJkUzFIaVJpX3gzZDVsTTk0U1VqTG9GRXEwTWc2QzhMRTdiY0NEalB2dmpHclVZOFkteW9QUnBDTlZ0NEJEdHNWd3FfRW1wN3pvaXVqeW1OWnJWVFlCQV95NkpVdw?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-05T15:03:12+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "モンテローザ、メアド約62万件が流出の恐れ アララ不正アクセスで - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uejJJMjMzamJORll5ZHBNeDhXU0JaMlFOeWNDM29vcFZTaFJ4a3lISDRBVW84SU9EaVBOYXNFTVhua0lYa09WYTVYcVF1SjVOSG9MdkhoR3ZJV2lwenBEeV9JRWtkU01pRklidA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T13:38:49+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "自分の個人情報が漏えいしたらどうする？ IPAが教える5つの対処法と日頃のセキュリティ対策 - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEUGtRZjRLWFR3eFRCeGViN21PSjExazZWM3NkdW91OXUyQktsbGtKMldRWkw3cWhhU0FMRnctYm5xV0EyZG9pdEc5bzU?oc=5",
+      "source": "DXマガジン",
+      "published_at": "2026-11-05T15:03:13+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
+    },
+    {
+      "title": "情報漏えい急増は「AIのせい」で片付けていいのか 専門家3人に見解を聞いた - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nU1cxVFJURmtJYjY4RTI1WmdhUVlyVERCOXdUNC1peVpORUxSSnRGWDF1Nmt5MzY1YnVJcHB2UTBIWi1IZzg3bmM5RkQ2R3ppOFBkZEd6Y0VKWmloYmVrd2hZb20wS1o2ejRuRDBxZE9UTkJl?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-05T07:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T15:15:53+09:00"
     }
   ],
   "errors": [
@@ -2804,5 +2903,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T14:47:53+09:00"
+  "updated_at": "2026-11-05T15:15:53+09:00"
 }
