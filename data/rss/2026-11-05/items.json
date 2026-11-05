@@ -2475,8 +2475,71 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T12:27:36+09:00"
+    },
+    {
+      "title": "Apple製品の脆弱性悪用を確認 - 米当局が注意喚起",
+      "url": "https://www.security-next.com/192378",
+      "source": "",
+      "published_at": "2026-11-05T08:25:30+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T12:55:37+09:00"
+    },
+    {
+      "title": "損保ジャパン、6万5千件情報漏えいか（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIMU1CMnNBbnNqcTJUeW9FQjV3M2lrbzNfUEtCUHF0cGdtdEJ4WndIaklDQkRrd01yRjlmaElsTzduNTN5eUwtVW02dlpDVlo5bVAwSWlUYUNvLWhfUXJhUnp1SUVwdFRNaU1aMzVybTNPQ25yNEZqOW9td0lZTG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T12:01:27+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T12:55:38+09:00"
+    },
+    {
+      "title": "エア・ドゥ 不正アクセス受け67万件余のメールアドレス漏えい - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MXVHQ2xSazFVd2pXeEVnRnFzYl9IOFJnZVh6TmRtMXpJZVpUM2tiel81bWNBWWhFTkpqWllnRnFsMDVNb1AxckpneE5BenZHWGx0NExlQUFQYTE3aW1B?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-05T12:26:26+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T12:55:38+09:00"
+    },
+    {
+      "title": "湯沢市の委託業者、延べ２２５６件漏えいか 測量など、土地所有者の個人情報 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzdUZCY3hqZXl1b1dlRFZwaU5WZ21QS1UzU1ZTWmljSVp6czBTWWtNTFJZbC0wSmJZdktrWVI2OUF1SENjbFVvc0o4MA?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-05T10:45:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T12:55:38+09:00"
+    },
+    {
+      "title": "「アララ」不正アクセスで福島市にも影響 個人情報漏えいの可能性 最大で4700件 - TVer",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tc0JEZDVXTk1iWVRHQjhNZUpnUDRjU20xRG80MkxxTElTZThOb2F3MDFDTnN1cTZnRXA0UXM5NWxPME85XzJPbWhpTQ?oc=5",
+      "source": "TVer",
+      "published_at": "2026-11-05T12:49:22+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T12:55:38+09:00"
+    },
+    {
+      "title": "三井住友海上など、契約者サービス停止（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Va2hqVzV1YW1BN3lPZDBJY3FzTjdMdDNFSjNsaV84emM3a3N4STQ5ZXJOUTRRRXpkcEZnLWdOU3cxN2NoYnpRemxsMGZhNkx6WEthaDJzenZYejZraVA3RjlqeXEzcXpWTDI4bHJ2RHF3eFBMQ0VrN2ZDRF9WblE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T20:00:48+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T12:55:38+09:00"
+    },
+    {
+      "title": "ヨドバシ・ドット・コムで不正アクセス相次ぎ、利用者がカード情報削除急ぐ - X",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1udnFvNE9Ld0JWSWFLODY3RV9KcEJqcFFjaUdSRlFzUVd3MFlSWTJHWXo5c0xEcEwyWFlPdXkxX0o5azV0MnBWUm92UllZa0syY2dQV2QtYw?oc=5",
+      "source": "X",
+      "published_at": "2026-11-04T21:27:57+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T12:55:38+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T12:27:36+09:00"
+  "updated_at": "2026-11-05T12:55:39+09:00"
 }
