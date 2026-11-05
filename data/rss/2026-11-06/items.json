@@ -1575,8 +1575,71 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T00:09:19+09:00"
+    },
+    {
+      "title": "第三者が認証情報を不正作成か、アプリ移行処理に不備 - デニーズ",
+      "url": "https://www.security-next.com/192388",
+      "source": "",
+      "published_at": "2026-11-05T22:06:15+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T00:37:25+09:00"
+    },
+    {
+      "title": "アイリスオーヤマ 通販サイト 最大約770万人分の個人情報漏えいか（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EVDhpLVZtWWVZVy11eTZDY19OQnA2dThyOU9xVUg3VzJnb2dySjhqNEU1cXc0ekZTdE41b3VUT05wbEhDYW9qNXN5b2duVTFpTXNqa2FaejMwUl9IN29TSTE5R1VhR0FKeW1RR2pncm9kQTV4X0dRbVg4MER6YTQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T22:32:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T00:37:27+09:00"
+    },
+    {
+      "title": "消費者金融「ＳＭＢＣコンシューマーファイナンス」、顧客の勤務先や年収など個人情報３２万人分漏えい - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XRzVSbk9tTnIzQlYtWnRSc1d1R01LV053VHI3RnRBOUVTSnBRSUFDa3FOcEFhcXE2V3VBY1JfSDhjUjlGTGpGR2ZQNWdoMHdvSVoyX25Sck9wdWVxb3RGZzE1dTE?oc=5",
+      "source": "読売新聞",
+      "published_at": "2026-11-05T17:48:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T00:37:27+09:00"
+    },
+    {
+      "title": "NTTドコモ 顧客情報約30万件流出 オンラインショップなど不正アクセス受け（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14aURSTmlpYk1iWXhVbWVUWVVoUTc4dUhQWlMzNXdMa1RUd2QzTUFubGJQaVJ6Q3hoN0I5RGtkQjVkQ1Z3dzFMQy1CNlpvNnF2UXlnTHNCYVNJcVdVZHU3S2FPX2QtWU5lc2NwVTQ3Q2RSR0dKOFFkZUxTcTY0b28?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T00:14:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T00:37:27+09:00"
+    },
+    {
+      "title": "アララ不正アクセス、影響広がる カカクコムや三井住友銀行でも漏洩 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uaGRKQjcyUGNtYWs1T05kcFRnZHh4TGN5T094blhENFpDSnVJb3o1M1lOZTlFYlhDT2J3ZUtNMjZZcWtuUkw0d1pnMFY1LTktV2Y1ak9YQ3k0azVoeWQtNDVUOTJkY1pmazJPUA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-06T00:01:25+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T00:37:27+09:00"
+    },
+    {
+      "title": "消防庁の国民保護システムに不正アクセス、富士ソフト経由で発覚し全面停止 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBva2pEZHF3dVBrSWVDb19WQWF3TmZuWFlnanpoUU5EcS0xTl9wbUVxcGZRMXJXR3h1YTJDdEFZV2RmdEtPMXVDbHpPVkRibHA4WVNxeGVpbFdOT3FodVBmbTZqbjJtR2pOdmJNSGRYYW5pNk9a?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-05T23:55:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T00:37:27+09:00"
+    },
+    {
+      "title": "年収や保証額も漏えい 約32万件 三井住友G保証会社 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHdlVTMmhULWh0VXJwbzhVWXFvYTd2RnZjdUh4X3psN19LZXJ5QVdQa0Z5NW1naW5ENTVsR2FGQ3FNb0Jkd29sS2ljYTJnWW9mMGNqZXFrTHJybXFMcmlTc3RHSllkVmxmZGpyS0NxcnM1dw?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-05T17:46:37+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T00:37:27+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T00:09:19+09:00"
+  "updated_at": "2026-11-06T00:37:27+09:00"
 }
