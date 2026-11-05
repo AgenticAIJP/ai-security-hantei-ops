@@ -2034,8 +2034,188 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T10:07:19+09:00"
+    },
+    {
+      "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#1",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: Sophos UTMに任意のコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#2",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: Cisco Secure Firewall ASAおよびFTD Softwareにサービス運用妨害（DoS）の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#3",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: Jenkinsに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#4",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: WordPressに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#5",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#6",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: ヤマハ製NWR100に複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#7",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: 複数のWatchGuard製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#8",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: 複数のVeeam製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#9",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#10",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: Google Chromeに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#11",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: Joomla!およびWordPress向けの拡張機能YOOtheme Proにリモートコード実行につながる脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#12",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: 複数のApple製品に脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#13",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: Rubyに複数の脆弱性",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#14",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "Weekly Report: BrotliのC言語実装における境界外書き込みの脆弱性（CVE-2026-111497）に関する注意喚起",
+      "url": "https://www.jpcert.or.jp/wr/2026/wr261105.html#15",
+      "source": "",
+      "published_at": "2026-11-05T09:52:00+09:00",
+      "feed": "JPCERT/CC",
+      "kind": "public",
+      "first_seen_at": "2026-11-05T10:35:17+09:00"
+    },
+    {
+      "title": "「あしたのサーベイ」209人のストレスチェック結果など不正取得　ラフールへの不正アクセスで顧客3社に影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/lafool_ashita_survey_stress_check_209_unauthorized_access_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T10:30:08+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:35:19+09:00"
+    },
+    {
+      "title": "OpenAI、Linuxカーネルの権限昇格 脆弱性 948件をAIで実証-修正案も自動生成、費用は約121万ドル",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/openai_linux_kernel_948_lpe_ai_research_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T10:20:52+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:35:19+09:00"
+    },
+    {
+      "title": "Shippioが不正アクセス受け貿易業務効率化支援システムを一時停止、顧客のシップメント情報漏えい判明★続報 - LOGI-BIZ online",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91ZnpWTzdHQjZZd3Z1VFRlSmVVLUZaTEltWFlwOHJlc003bFBkWHhpWTd1YUtrSGxjRUdVaFR2VVRPbTNhVFlEWnRFZw?oc=5",
+      "source": "LOGI-BIZ online",
+      "published_at": "2026-11-04T19:10:28+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:35:20+09:00"
+    },
+    {
+      "title": "ペンティオ、AIエージェントのコントロール基盤 × MCPゲートウェイ「Obot」の国内提供を開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SblhxdGxBRGRCT3hQblVBVGFPV2dIMEE3UUhLRnMzUWxrODBIRkNXOEdmaGdjdmFNal9Hd1pqN083RWpROWUtcmJaZUlGamYySGZ5RlIxTVM3X18tcXkzTUxlUG1ZSW5ZeEE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-05T10:20:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:35:20+09:00"
+    },
+    {
+      "title": "インプレスのセキュリティ関連書籍、9タイトルを全文無料公開。期間限定 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSU4tRGV3UlpGb2wtbDlUNTQ3TVk3dWVzT01fTWpnZ1BzVHY3UnhyaFlQMVNDSVNEN2dNcF9mdmdZY1hWaG9CelZkVGJIOVppQy1fRFkzT1hXM0xoTVZiNUh5UGZZeG5PX3hwdlFWUUhWUDNmcU1yOTdZN0g2ZmJXSVptVE5La0ZQbkEyOWpmckJNMUtIbW1hRnZhSmlTOERMR3NwR1hxNFcxcmFKQjZyaEJKTnBZWlZSOFJoR1l4SkNvSjNHVmluVW5LM3RoLW9ZZHhhRzhYWFcyaUN4YzJuVdIBkAFBVV95cUxQSVYxZWUzc1ptemxDWTg5WjVPSlBja3UwT1lqTjBBNUtUUXEtV042bzFZTEFwNnlhaVhoeDZEZW1Td3dwSURILTJUUkZET19EYzRYVVhmMUNqMWJfR0dCSlpOaWp6aGNoakdLb0hXQ000LXEzd0tjd2pYQXBwemJwWGJrcmlUNkR6ZlFUeGk5cHE?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-05T07:47:32+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T10:35:20+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T10:07:19+09:00"
+  "updated_at": "2026-11-05T10:35:20+09:00"
 }
