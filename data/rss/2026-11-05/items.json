@@ -3204,6 +3204,132 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T17:35:44+09:00"
+    },
+    {
+      "title": "SMBCコンシューマーファイナンス、不正アクセスで最大32万118人の個人情報漏洩、運転免許証番号・年収・保証額なども対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/smbc_consumer_finance_guarantee_system_data_leak_320118_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T18:00:44+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:40+09:00"
+    },
+    {
+      "title": "三井不動産「&BIZ」、メールアドレス13万3,323件が流出　アララへの不正アクセスが波及、メルマガ停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/mitsui-fudosan-andbiz-arara-email-leak-133323/",
+      "source": "",
+      "published_at": "2026-11-05T17:37:37+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:40+09:00"
+    },
+    {
+      "title": "三井住友銀行、法人顧客などのメールアドレス227,216件が情報流出　アララへの不正アクセスが波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/smbc-arara-message-email-leak-227216/",
+      "source": "",
+      "published_at": "2026-11-05T17:35:55+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:40+09:00"
+    },
+    {
+      "title": "森永乳業、グループ会社サイトに不正アクセス…個人情報漏えいは確認されず（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5US0FQcVNKeU5KXzhIQ1ljd1FKTkw4V3NISnNUeFBWbDdYZnZVYXRkWGpHNGRTeS1ITnlXeU5ac3JEaWttVWs2YjdLRFU1Ymk2REFBbkVjTXpSTmE5YUppZ3JYcDh0Q0IzeWpmaEJMcFBXU1NPVjBXWV9JcU9nT3M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T16:15:39+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "新潟市オンライン申請システム（e-NIIGATA）の外部メール送信サービスへの不正アクセスに伴う影響について - 新潟市",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3FjTHRoU0g2ZFpYRmV4UVBpNlZ4Tl9JeHV0a1hTbWNlTVhnVjcxNlUxblRzWE1GRE5sQXZGbzA5cldDY3BpUWcxNDl6UW44SlBqaU84eDlHOERKdGdCNG5tQTUyQUlmOEltVURXbmxhb1dWUDdUcjlhenpMd2w2LVVXNDhXTUlaVmc?oc=5",
+      "source": "新潟市",
+      "published_at": "2026-11-05T16:36:30+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "楽天証券、顧客のメールアドレス流出か＝委託先が不正アクセス - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZaXpMTE5WSy16bS1QUExfaW80YjlwcDcyck0wcXp2NkxTd2Z6b1NZaVJFTUNGVnRTLUJjTDBfc3o1ZGI1ZE5FcmxoUG1CTjZTbXliRjQ2MjA?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-05T17:48:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "はせがわ[8230]：当社委託先のメール配信サービスへの不正アクセスによる個人情報漏えいに関するお知らせ（第２報） 2026年11月5日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKV0VabmJVZ3duX1IwXzduOXBOZHItOUFWUTJXamUwd3k3WFJDQzRIdlRZdjRNQUJVNF8xQ1BOTEJXTXlBZ0ZSR01uWXVOTHpsbEtPMk1Sd0VHelJvZWpDc3JNR1lCUG45TEE?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T17:30:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "SMBCCF、最大32万人の情報漏えい 保証システムに不正アクセス - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DZWpPRzIwbXpKbGZyRThMYmxLWUhZbDlKYWo0Q1FZMUF2S2EteVNmd1E5SzN1SC1jODg4a2EzaXN5NWE5UnBuSWhOWUsyLWJkYVhxYkhn?oc=5",
+      "source": "ニッキンONLINE",
+      "published_at": "2026-11-05T17:36:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "ボートレースまるがめ メール配信サービスに不正アクセス 最大759件のアドレス漏えいか 香川（KSB瀬戸内海放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lQUstWE9HNm05U3dCRUF5OUk0eVFJbndXb1FsZEJwMGxCQXJhblNNbUV0b0dwX2xpaUJMSHNjM2VVZ2hlcC1FeVZpZkZOWW8wVl81UXRlN2dIT2M4Rl8zekxwbjFaUTVrLXdPWU8zRDctOWxzcUxZTmhxaGptc1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T15:21:27+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "ｅ－Ｔａｘ、運用再開 プログラムの一部漏えい―国税庁：時事ドットコム - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pRi1CYWl2bUl6MU9IdmlaOHJ4Sl9icmExWjhDUmNWd1g5VUp3Y1ppb3F0b2tqQlpTelk3bjZjMHlqTnpVVmhfOXFvWXo2cWRPVnFoSWlCTXlTd0VCYkFDZTZvSQ?oc=5",
+      "source": "時事ドットコム",
+      "published_at": "2026-11-05T16:35:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "富士山の登山客情報漏えいの可能性 新たに19万7556人 山梨 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54NndEb0w3S1RIWnZUYTJIVlZGZU8wZkdvTmMydnlQUzhOZjl6VnFYQlU0ZVhTSy1RYW5oNDhKWTlTYU9wUGhTaHBZOEY3WTVoXy1GdHpKOVFDa05YRWdv?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-05T12:04:16+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "消費者金融「ＳＭＢＣコンシューマーファイナンス」、顧客の勤務先や年収など個人情報３２万人分漏えい - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1MUZZNUdUNXczZjlFUy1iT2dVSDVURHF5cVJCeVNEUmtQd3U3MEZ1TEpfQmRrcU1HVkFRS0twYkpHWG5SRENUZ2FveXlfX3FSNUNUSmJQVHVmZGZmdFUyaEw1UkoxNUFRak1UeHRR?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-05T17:48:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "【西宮市の電子申請サービスで個人情報漏えいの可能性 第１報】 - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PT1hkc3NFYk1SSHVudUFKZWxueEozbFhuay1NQ2ZtNTV5elBJdXR6RmdQZW0tNEJBRTA1eUlTeHNGMWdscVVhcDNFc0FJeDM3ZVlSb3dYTW5LMURkZXF3?oc=5",
+      "source": "選挙ドットコム",
+      "published_at": "2026-11-05T14:44:04+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "年収や保証額も漏えい　約32万件　三井住友G保証会社 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVBHSzZNWWlYTjFOSk1SMFZFcHJmYnNINktMVE45YUo4NWVES29kcmI3OXBYdlNmSzc2MU1EYnI4WV9tZThUeGMwaFYzN3pLMnhrbm51N05ESkotSEpMSG05T2ZxUkFpd0xhSllveFg5N25mckdjSW9WeGM5WW9WU0RlRHRUXzhSRFHSAY8BQVVfeXFMUHVjYVZUeHJnei1wQmFSdzB0WVFYMFRPR3hIWVpBSE5kNkk3Wi1sazJGZjRpeWozcURTR0VDcjZFaW1KZEpOcG9tdlF0SzRSSDYtTEZyTXVpOU92SFRSczI4N0xCNGh5V1g2UXVUYTFkUnJYbzZ2MlNCZ0NiUEpFQzN1SnlZcm1sNFZiWUNtM1k?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-05T17:46:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:03:41+09:00"
     }
   ],
   "errors": [
@@ -3218,5 +3344,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T17:35:44+09:00"
+  "updated_at": "2026-11-05T18:03:41+09:00"
 }
