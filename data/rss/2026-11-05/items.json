@@ -3924,6 +3924,177 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T21:19:59+09:00"
+    },
+    {
+      "title": "松井証券、顧客メールアドレス最大83万件 情報流出　アララへの不正アクセスが波及、パスキー設定を呼びかけ",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/matsui_securities_arara_email_leak_830000_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T21:47:03+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:05+09:00"
+    },
+    {
+      "title": "モンテローザ、メルマガ会員のメールアドレス62万5,429件 情報流出のおそれ　生年月日などの属性情報3万1,333件も対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/monteroza_arara_mail_member_625429_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T21:35:58+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:05+09:00"
+    },
+    {
+      "title": "モニター調査・覆面調査サービス ファンくる、103万741件の個人情報漏洩の恐れ、氏名・メールアドレス・パスワードのハッシュ値も対象、システムの脆弱性を悪用",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/fancrew_member_data_leak_1030741_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T21:31:32+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:05+09:00"
+    },
+    {
+      "title": "高知放送「RKCアプリ」でポイント不正取得、電子マネーへの交換で最大98万円余りの被害　個人情報漏えいは確認されず",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/rkc_app_points_fraud_980k_kochi_broadcast_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T21:29:21+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:05+09:00"
+    },
+    {
+      "title": "【更新中】宝くじサイト 勝手にパスワード変更される 年収や保証額も漏えい 三井住友G保証会社 「無印良品」で約109万件流出か アソビューでは約1582万件流出 不正アクセス情報まとめ - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-05T19:10:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "【速報】ドコモ 不正アクセスで顧客情報 最大約30万件流出の可能性 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zbTR2Ti11OGZ3UXNPN3pwQl9iQ0Z4M2lKTk90amNGSjQ0WWxkcV9tTW9WbE14bE96MzNkOGNxandHODVnWkh1aGQtQ3l6MXpDTzFab3V4VQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-11-05T19:45:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "総務省消防庁「安否情報システム」に不正アクセス、サービス停止中 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hc3NtZVhPX282b0Q2WmZWVi1XNE5hUnBwN3pMOFZaWUhFWHV4U2NDdmc0a1lCZERndGhNUDVnT0I0Q3M3M1hZZkJiMHdWODFBX1JsQlNUYWktWnpLd0E5UzE4TmZBTFZFX3ZR?oc=5",
+      "source": "INTERNET Watch",
+      "published_at": "2026-11-05T21:31:02+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "アイリスオーヤマ 約770万人分の個人情報が漏えいした可能性 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RTm4wLUR1RFRpSzZwWlZEcWxwc1Z6c24tZGprWUlGSW5rWF8yMm4wcTdsUXl0a3ljZ2RBZ2x4S0dDWGY3cDlYUzdSVzFKUlo4SkJDV3UxT3lMd0syUzFJ?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-05T21:40:36+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "借入額や勤務先、年収、利用限度額…最大32万人分漏えい SMBC系消費者金融（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zSmxMUmRHYmNla01lLU00LWQ3a2RndnNCU2hwb2h3NWFmMU5rYzZ1bk4tRFFzM3laM3lDVGNBZHBkRklXdDk3aDN3WGZTel9lZTFPYWxXc1hnTEltb2ptYmJPVWF4SUZHTy1WS0MxcVlWR1JVR3VobVE3NHR4a1U?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T18:02:09+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "モニター調査・覆面調査サービス ファンくる、103万741件の個人情報漏洩の恐れ、氏名・メールアドレス・パスワードのハッシュ値も対象、システムの脆弱性を悪用|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXFXVjZ4a1JjQnBROE5xS2xPa242ZDlVLWtCT3NZaU9SZEdtc0V6aXhjQnEzYWMyRnRtaTNReHcyTG13cnd4bWNWdFVFTzgzWkVsN2xmaVhCczNvS3R6Y0FtZDRBeE52ZnJzaS1zblpFT29OUURXQUlnR0ZLRjBxNDBTN1BGeFJxZVFwLWprV2taWXk5?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-05T21:31:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "アイリスオーヤマ770万人分情報漏えいか（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QQnUwOTEzZURBU0ZnN2VIWnJTbHl0SXlzR0Jnd1FlSkw3LVNrYjN1aFBvZWVCRV96SWlRbmU2WTFIQVlrRGJ2WWZoSklydXNNeENhZ3NzTzRjSVNPWUw0YnpURWJBemplOV9VZnZBa2YyOWZQYlpiLVdHaWNQRTQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T21:12:44+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "最大32万人の年収や免許証番号が流出 SMBCコンシューマーファイナンスに不正アクセス（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxSThEYWc1azhSU204S3VjQ2pELV94dHBjdlExcTdITWw1LUtvd0JfbmpRTlhaMFdMcnU2ZDJqbkZOQ19DaFdyNWJCWXljMm9nNDlEVVFQbmdra1VhTzZjNFFJeHlPdlNaTDQ2aTVkN0prbFlybjJSM092UW83clk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T21:20:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "北洋銀行カードローン利用者の個人情報漏えい　保証会社への不正アクセスで年収や顧客番号など　 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOcVc0b2lxUV9tWHVqSF9DUmhXZEtnSkM0OUF0d0twTWw2b2hTelBuM0x4S2NOb1d2ZW11OHp0YmhtTEEtOF9WRTdxQm5fY2pIOEhNS0FTQ2RoUmpvTzJXYzd5U0tiTllhQld6ZWwyblhKZm9fd3ZVXzVaa9IBgAFBVV95cUxQLU9rSWJaejlBM0p1NkNlYmdlcktiSmpKVVN0Vno4WWhGemVLUHZGbkl3TUFJanVxaW85aVhzNF9sMGFDLUxkYklXQ3VVMC0yeGRaa0pUaWNCdTBnWEJCOTk3SkRUc0dEU3hWVF9SZ1FfTWcwRFdCckFoMWNRWVlrRA?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-05T21:33:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "【速報】東京海上ネット損保で契約者情報漏えいか - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZemRTMldKQy03UF9hV3RoRFZDeGFxOGZDMHRYWVg3Vzh1cGFCczlQakFIN3Y0cV9VSGlhelZGaXpOSk5rN3dnTzNDaw?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-05T21:28:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "【速報】アイリスオーヤマ770万人分情報漏えいか - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yazM0R1RxYzF3Z2NXNmlqcDlONXZRakhLejJ5eXIzbDAzUVJyQThMMVp0T0JPTmVVN28wLTF6ay1PaDJZREt1NUV6cw?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-05T21:12:44+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "新幹線予約、流出は17万件 JR3社、ユミルリンクで（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1paDB3dDVWMVRXWnlPMkVUemNUc1I4WkppRFQxemdDVU5fSlJIMFZJUDEwMXpPTXVGdlNab1RBSVBZTV9ZRHhZeTNXSzB1eHNTZnAzcHE0NVN1YW1yZTVUM1JhRUV5YVFpVFI1NkdPOFB1cURsMzZwZjRJa2E5RDg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T19:18:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "東京海上ネット損保で契約者情報漏えいか - 京都新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VcldVc2dpdkZzZnhFc25DRmp1RHItS2FuWk1XQU8tNW54U0N2N0h6YlpUenFwYUxGTHpFYUM3S3Q4QXhsODRmeVBZUXppUktOdGRxS0h4RVQ?oc=5",
+      "source": "京都新聞デジタル",
+      "published_at": "2026-11-05T21:28:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "八王子市「桑都物語」サイトに不正アクセス　問い合わせ情報流出か - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MZWJ2ZFZqT19VcVhXR3FYZ1BEVGhhelFLU0NWT3E0WVUyanpseTJTMWU5VlhDSnVfaG54bWJaUkEzVzFqXzB2OEtwMGlxX1pLajFiYmh2aXc4Ym5ybWtPNUx0MUpFSy1FVlpETnZVTGFpYVc1c3pSbmRn0gF_QVVfeXFMT2Qta0FSTmwxQk1sSjY2YVIwc09OZWlDbWlFMFVSQlZfUFY5bGtFWHFfY1Y0eFZVRlNLQm1NWVVFTm5feXFwc0ZBZ29RczRaY011b09sQ3A5QnJhNVd5eUt6Q1NTd3hDejJEWDZkWUM5TnFxb3BoM3EzZ3JIOFFldw?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-05T20:42:42+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
+    },
+    {
+      "title": "株式会社キャピタル・アセット・プランニングとElith社がGENFLUXシリーズ活用の業務委託契約を締結 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUJXSk9jX3JWRGg4NXBnLXlEWC1QVm9sazlLREhDcFM5MzZmZzk2ajNMd1k4VV9GeGgxdWJkeDRuek1FYnRlOEp5UWlYVFRHUnotMVhBcWFOMXdZNlRHU3d0dHRiMHZvQnQxTEM3ZnlSbFR6OGVMSkNFeWxBYUFPc1pXTQ?oc=5",
+      "source": "ニュースメディアVOIX",
+      "published_at": "2026-11-05T21:33:09+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T21:48:06+09:00"
     }
   ],
   "errors": [
@@ -3938,5 +4109,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T21:19:59+09:00"
+  "updated_at": "2026-11-05T21:48:06+09:00"
 }

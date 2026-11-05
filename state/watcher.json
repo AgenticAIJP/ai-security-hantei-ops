@@ -726,7 +726,8 @@
     "6aec6b0c2bcb2ca012ffc94b",
     "6aec6e7f2bcb2ca012ffcb3e",
     "6aec6e802bcb2ca012ffcb50",
-    "6aec6e802bcb2ca012ffcb62"
+    "6aec6e802bcb2ca012ffcb62",
+    "6aec765d2bcb2ca012ffd071"
   ],
   "pending": [
     {
@@ -761,51 +762,6 @@
       "attempt": 1,
       "post_ids": [
         "6aec621d2bcb2ca012ffc285"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-05T20:51:50+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aec68c72bcb2ca012ffc74c"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-05T20:51:50+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aec68fc2bcb2ca012ffc774"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-05T20:51:50+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aec69232bcb2ca012ffc797"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-05T20:51:50+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aec694a2bcb2ca012ffc7bb"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-05T20:51:50+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aec694b2bcb2ca012ffc7d2"
       ]
     },
     {
@@ -917,6 +873,51 @@
       ]
     },
     {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-05T20:51:50+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec68c72bcb2ca012ffc74c"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-05T20:51:50+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec68fc2bcb2ca012ffc774"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-05T20:51:50+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec69232bcb2ca012ffc797"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-05T20:51:50+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec694a2bcb2ca012ffc7bb"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-05T20:51:50+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec694b2bcb2ca012ffc7d2"
+      ]
+    },
+    {
       "key": "chacha",
       "reason": "an_review",
       "at": "2026-11-05T21:19:50+09:00",
@@ -941,15 +942,6 @@
       "attempt": 1,
       "post_ids": [
         "6aec6e802bcb2ca012ffcb62"
-      ]
-    },
-    {
-      "key": "hojo",
-      "reason": "instruction",
-      "at": "2026-11-05T21:19:50+09:00",
-      "attempt": 2,
-      "post_ids": [
-        "6aec5b8f2bcb2ca012ffbd52"
       ]
     }
   ],
@@ -9628,20 +9620,220 @@
       "at": "2026-11-05T20:51:50+09:00",
       "attempt": 1,
       "status": "done"
+    },
+    {
+      "id": "nobunaga-1793882871670",
+      "key": "nobunaga",
+      "executor": "managed",
+      "session_id": "sesn_01WitLZ6M5PS3wa7GxUi2Hxj",
+      "tasks": [
+        {
+          "key": "nobunaga",
+          "reason": "hanseikai_open",
+          "at": "2026-11-05T21:47:51+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aec765d2bcb2ca012ffd071"
+          ]
+        }
+      ],
+      "at": "2026-11-05T21:47:51+09:00",
+      "attempt": 1,
+      "status": "sent"
+    },
+    {
+      "id": "kenshin-1793882871670",
+      "key": "kenshin",
+      "executor": "managed",
+      "session_id": "sesn_01RnPZ6NnLsZobpKfXWYJTkT",
+      "tasks": [
+        {
+          "key": "kenshin",
+          "reason": "hanseikai_open",
+          "at": "2026-11-05T21:47:51+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aec765d2bcb2ca012ffd071"
+          ]
+        }
+      ],
+      "at": "2026-11-05T21:47:51+09:00",
+      "attempt": 1,
+      "status": "sent"
+    },
+    {
+      "id": "chacha-1793882871670",
+      "key": "chacha",
+      "executor": "managed",
+      "session_id": "sesn_01VR6Q1XKherdKwGjoLaSnmL",
+      "tasks": [
+        {
+          "key": "chacha",
+          "reason": "hanseikai_open",
+          "at": "2026-11-05T21:47:51+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aec765d2bcb2ca012ffd071"
+          ]
+        }
+      ],
+      "at": "2026-11-05T21:47:51+09:00",
+      "attempt": 1,
+      "status": "sent"
+    },
+    {
+      "id": "shingen-1793882871670",
+      "key": "shingen",
+      "executor": "managed",
+      "session_id": "sesn_01QaaWLQ5HVwmCcfvM8o3Tuw",
+      "tasks": [
+        {
+          "key": "shingen",
+          "reason": "hanseikai_open",
+          "at": "2026-11-05T21:47:51+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aec765d2bcb2ca012ffd071"
+          ]
+        }
+      ],
+      "at": "2026-11-05T21:47:51+09:00",
+      "attempt": 1,
+      "status": "sent"
+    },
+    {
+      "id": "hojo-1793882871670",
+      "key": "hojo",
+      "executor": "routine",
+      "session_id": null,
+      "tasks": [
+        {
+          "key": "hojo",
+          "reason": "instruction",
+          "at": "2026-11-05T21:19:50+09:00",
+          "attempt": 2,
+          "post_ids": [
+            "6aec5b8f2bcb2ca012ffbd52"
+          ]
+        }
+      ],
+      "at": "2026-11-05T21:47:51+09:00",
+      "attempt": 2,
+      "status": "sent"
+    },
+    {
+      "id": "mitsuhide-1793882871670",
+      "key": "mitsuhide",
+      "executor": "managed",
+      "session_id": "sesn_016SiXM5m7ePJFAUCuZZ8MkA",
+      "tasks": [
+        {
+          "key": "mitsuhide",
+          "reason": "hanseikai_open",
+          "at": "2026-11-05T21:47:51+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aec765d2bcb2ca012ffd071"
+          ]
+        }
+      ],
+      "at": "2026-11-05T21:47:51+09:00",
+      "attempt": 1,
+      "status": "sent"
+    },
+    {
+      "id": "hideyoshi-1793882871670",
+      "key": "hideyoshi",
+      "executor": "managed",
+      "session_id": "sesn_014z53Y1G6xYczM6vk3962nQ",
+      "tasks": [
+        {
+          "key": "hideyoshi",
+          "reason": "hanseikai_open",
+          "at": "2026-11-05T21:47:51+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aec765d2bcb2ca012ffd071"
+          ]
+        }
+      ],
+      "at": "2026-11-05T21:47:51+09:00",
+      "attempt": 1,
+      "status": "sent"
+    },
+    {
+      "id": "ieyasu-1793882871670",
+      "key": "ieyasu",
+      "executor": "managed",
+      "session_id": "sesn_01Y7ssdDecwWK7ebzqJkck3f",
+      "tasks": [
+        {
+          "key": "ieyasu",
+          "reason": "hanseikai_open",
+          "at": "2026-11-05T21:47:51+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aec765d2bcb2ca012ffd071"
+          ]
+        }
+      ],
+      "at": "2026-11-05T21:47:51+09:00",
+      "attempt": 1,
+      "status": "sent"
+    },
+    {
+      "id": "nene-1793882871670",
+      "key": "nene",
+      "executor": "managed",
+      "session_id": "sesn_01WZdTFXxjwSvvSEJ7bxpM3s",
+      "tasks": [
+        {
+          "key": "nene",
+          "reason": "hanseikai_open",
+          "at": "2026-11-05T21:47:51+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aec765d2bcb2ca012ffd071"
+          ]
+        }
+      ],
+      "at": "2026-11-05T21:47:51+09:00",
+      "attempt": 1,
+      "status": "sent"
+    },
+    {
+      "id": "kanbei-1793882871670",
+      "key": "kanbei",
+      "executor": "managed",
+      "session_id": "sesn_01USE2EDCv4UbTD4syRMtBvQ",
+      "tasks": [
+        {
+          "key": "kanbei",
+          "reason": "hanseikai_open",
+          "at": "2026-11-05T21:47:51+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aec765d2bcb2ca012ffd071"
+          ]
+        }
+      ],
+      "at": "2026-11-05T21:47:51+09:00",
+      "attempt": 1,
+      "status": "sent"
     }
   ],
   "last_dispatch": {
-    "nobunaga": "2026-11-05T20:23:47+09:00",
-    "shingen": "2026-11-05T20:23:47+09:00",
-    "chacha": "2026-11-05T20:23:47+09:00",
-    "hideyoshi": "2026-11-05T19:55:44+09:00",
-    "mitsuhide": "2026-11-05T19:55:44+09:00",
-    "ieyasu": "2026-11-05T19:55:44+09:00",
-    "kanbei": "2026-11-05T19:55:44+09:00",
-    "kenshin": "2026-11-05T19:55:44+09:00",
-    "nene": "2026-11-05T09:10:48+09:00",
+    "nobunaga": "2026-11-05T21:47:51+09:00",
+    "shingen": "2026-11-05T21:47:51+09:00",
+    "chacha": "2026-11-05T21:47:51+09:00",
+    "hideyoshi": "2026-11-05T21:47:51+09:00",
+    "mitsuhide": "2026-11-05T21:47:51+09:00",
+    "ieyasu": "2026-11-05T21:47:51+09:00",
+    "kanbei": "2026-11-05T21:47:51+09:00",
+    "kenshin": "2026-11-05T21:47:51+09:00",
+    "nene": "2026-11-05T21:47:51+09:00",
     "baseline": "2026-11-05T08:42:42+09:00",
-    "hojo": "2026-11-05T20:51:50+09:00",
+    "hojo": "2026-11-05T21:47:51+09:00",
     "hojo_deep": "2026-11-05T19:27:44+09:00"
   },
   "daily": {
@@ -9665,7 +9857,7 @@
     "2026-11-05": {
       "managed_usd": 59.29,
       "baseline": 2,
-      "scheduled_usd": 2.91,
+      "scheduled_usd": 3.21,
       "hantei": 5
     }
   },
@@ -9679,7 +9871,7 @@
       "why": "セッションが正常に終わりませんでした（budget_reached）"
     }
   ],
-  "last_run": "2026-11-05T21:19:50+09:00",
+  "last_run": "2026-11-05T21:47:51+09:00",
   "last_check": {
     "nobunaga": "2026-11-05T19:27:44+09:00",
     "chacha": "2026-11-05T20:23:47+09:00",
