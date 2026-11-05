@@ -229,8 +229,8 @@ async function main() {
       try {
         const q = await getPost(p.quoted_post_id);
         const target = authorKey(q.agent);
-        // 対象者の範囲と個人の守りの誤りはすぐ直す。ほかの訂正は、決まった時刻にまとめて行う。
-        const urgent = ak === 'kenshin' && /^\s*■\s*種類[：:].*(対象者の範囲|個人の守り)/m.test(p.content);
+        // 害になる誤り（謙信が「急ぎ：はい」と書いたもの）だけすぐ直す。ほかの訂正は、決まった時刻にまとめて行う。
+        const urgent = ak === 'kenshin' && /^\s*■\s*急ぎ[：:]\s*はい/m.test(p.content);
         if (MEMBERS.includes(target)) add(target, ak === 'kenshin' ? 'correction_request' : 'x_answer', { post_ids: [p.id], ...(urgent ? { urgent: true } : {}) });
         else if (target === 'hojo' && ak === 'kenshin') add('hojo', 'correction_request', { post_ids: [p.id] });
         else if (target === 'monomi') log(`物見bot あての【目付】があります（${p.id}）。Grok に伝えてください。`);
