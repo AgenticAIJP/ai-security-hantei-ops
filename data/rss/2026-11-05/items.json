@@ -3447,6 +3447,51 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T18:59:49+09:00"
+    },
+    {
+      "title": "第三者による不正アクセスに伴う化粧品ブランド「akyrise（あきゅらいず）」の会員情報漏えいに関するお詫びとお知らせ - 株式会社ユーグレナ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5leGlDdU5rS3dlUm9wV1J3alFNU3F1emo2WmdNb25YTDl0T0FLLWRJTWMxQV9uTkpDdkptLUNHUldUU2k3a0JtVU5rTjFGYUhw?oc=5",
+      "source": "株式会社ユーグレナ",
+      "published_at": "2026-11-05T19:00:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T19:27:50+09:00"
+    },
+    {
+      "title": "「ApplyNow」利用者のマイナンバーや口座情報など漏えい - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1raEpaendFbU5UdlN4cXJoU2ZscUlmNFVabUU5OVVoeXZIWFhSU1dadXVwcDdPdFgwZHlLTkttZ0hrSTh6T3hCc24xdzZ3SXdidFR1cGNIbklzWDVBN2Yw?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-05T18:23:16+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T19:27:50+09:00"
+    },
+    {
+      "title": "総務省消防庁「安否情報システム」に不正アクセス 個人情報の漏えいは確認されず（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NX0dwVDdyMDQxYllpc1kxRDlQajdrdE1kNTE1Ujdmd3VJTzlhVmFlajI1YUdWZjVOdEowUlNDc3RJY3RKdjV3dExKS1dVQkVLbUdVeC1UZkpnTWNQcmtKUnp5UktXb3NiVmhGY05vM0Jod2tfVGtXUWpOam1nUG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T19:01:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T19:27:50+09:00"
+    },
+    {
+      "title": "借入額など最大32万人分漏えい SMBC系消費者金融（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zSmxMUmRHYmNla01lLU00LWQ3a2RndnNCU2hwb2h3NWFmMU5rYzZ1bk4tRFFzM3laM3lDVGNBZHBkRklXdDk3aDN3WGZTel9lZTFPYWxXc1hnTEltb2ptYmJPVWF4SUZHTy1WS0MxcVlWR1JVR3VobVE3NHR4a1U?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T18:02:09+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T19:27:50+09:00"
+    },
+    {
+      "title": "e－Tax、運用再開 プログラムの一部漏えい 国税庁（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sWGpkRzZOR3B4ZTdvVk9sRl81Tld0TWpBc0FWVFRSaktOWm45eUtndlNPemdBQW1vRUFHT1liS0JQZml1a1g4dFFSNXI3cjVpSFJjeFpXVlpueVB2TEluNTBYTFc2WFdHRFljaEhvNWJJXzNUTGFNdmR3U0t2UHM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T11:52:26+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T19:27:50+09:00"
     }
   ],
   "errors": [
@@ -3461,5 +3506,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T18:59:49+09:00"
+  "updated_at": "2026-11-05T19:27:51+09:00"
 }
