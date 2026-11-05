@@ -1890,8 +1890,53 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T06:13:41+09:00"
+    },
+    {
+      "title": "カカクコム、食べログ・価格.comなど5サービスで約570万件の個人情報流出　誕生日・性別も約65万件が対象、アララへの不正アクセスで",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/kakakucom-arara-data-leak-5700000-20261105/",
+      "source": "",
+      "published_at": "2026-11-06T06:41:11+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T06:41:44+09:00"
+    },
+    {
+      "title": "Cisco、UCS CentralのRCE 脆弱性「CVE-2026-76506」を修正　ISE・Unified CMにも影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/cisco_ucs_central_cve_2026_76506_ise_unified_cm_security_patches_20261105/",
+      "source": "",
+      "published_at": "2026-11-06T06:30:18+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T06:41:44+09:00"
+    },
+    {
+      "title": "アイリス、770万人の情報漏えいの可能性（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pbExhT0xFTlg3RVdBSXBrbmJwaVJqMnVjUzZld2R5YVR2Qi1vWm1nZkljV21aZmZUc1J0a2ZRS0FDcTlXMGhlQTg1VFBxcXJSZ1NjVXdjNWJIbXllY1pEaUZnZ2RwN0lqdHo4bGdtZzIzamRudXc4NU5DOTFNY0E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T06:06:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T06:41:45+09:00"
+    },
+    {
+      "title": "「数年後に悪用」も…個人情報が漏れたら何をすべき？ クレカ・運転免許証の流出で知っておくべき防衛策 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNVk1eVFpQS00QmM0Q1NqLWxEVjdxdFFZRVdPMkRYT0FLQmozMXVnaGVORWpjQ1hJZndFTzVoaWl2WXNxTFpPdExienA2QlQ2d0c4OE56NDJuRk5ITHB5NmRDRnlFLU9lRHdJOGZCQ2NwUEJNZ1M4T2dYV1pncFpwTm00TUpJdi1YdUQ4WjE4eldMMDVYdUtFMkdJeE05cGlwa01jWFJrNnlROEs3UUZzNHlfcUxmYnlQUFU3Y1M4UWZlUWtk0gF0QVVfeXFMUHF2NDJ6ZjVDbEp5eXFvYkFSZHB0aWVuQzFIOFh0bGt6RVJFYlNOVkh2bVdHRTVsbzJ2QklYY29EZmVsS2NkZWY3TVpzMHUzU3dlem5fUmNLTzd3ZjVPbERFWmRHZnQ0ZVZMS0wyUDBNRGFwODA?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-06T06:15:19+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T06:41:45+09:00"
+    },
+    {
+      "title": "【Excelダウンロード】ChatGPT Slides “極上”プロンプト集13選 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQdEp5dTVpUHhrS0ozdVRSTU9GaTUzUXhMQS1oRDF5elpGMDlrYVdUbVVxQUZtdlhiTE14UGJ1SHRXLVBBZlJWRTVKRQ?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T06:12:46+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T06:41:45+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T06:13:41+09:00"
+  "updated_at": "2026-11-06T06:41:45+09:00"
 }
