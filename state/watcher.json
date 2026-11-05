@@ -786,51 +786,6 @@
     {
       "key": "kenshin",
       "reason": "review",
-      "at": "2026-11-05T20:51:50+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aec694a2bcb2ca012ffc7bb"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-05T20:51:50+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aec694b2bcb2ca012ffc7d2"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-05T20:23:47+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aec611c2bcb2ca012ffc0cb"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-05T20:23:47+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aec61322bcb2ca012ffc0f9"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-05T20:23:47+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aec61382bcb2ca012ffc110"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
       "at": "2026-11-05T20:23:47+09:00",
       "attempt": 1,
       "post_ids": [
@@ -934,6 +889,51 @@
       "attempt": 1,
       "post_ids": [
         "6aec69232bcb2ca012ffc797"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-05T20:51:50+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec694a2bcb2ca012ffc7bb"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-05T20:51:50+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec694b2bcb2ca012ffc7d2"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-05T20:23:47+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec611c2bcb2ca012ffc0cb"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-05T20:23:47+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec61322bcb2ca012ffc0f9"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-05T20:23:47+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aec61382bcb2ca012ffc110"
       ]
     },
     {
@@ -10000,7 +10000,7 @@
       "why": "セッションが正常に終わりませんでした（budget_reached）"
     }
   ],
-  "last_run": "2026-11-05T23:12:02+09:00",
+  "last_run": "2026-11-05T23:41:08+09:00",
   "last_check": {
     "nobunaga": "2026-11-05T19:27:44+09:00",
     "chacha": "2026-11-05T20:23:47+09:00",
