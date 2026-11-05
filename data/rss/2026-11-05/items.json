@@ -3105,6 +3105,105 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T17:07:43+09:00"
+    },
+    {
+      "title": "HPEのネットワーク管理製品に複数脆弱性 - 「クリティカル」3件",
+      "url": "https://www.security-next.com/192402",
+      "source": "",
+      "published_at": "2026-11-05T17:28:07+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:42+09:00"
+    },
+    {
+      "title": "九州電力送配電、不正アクセスで電力量情報4,139件が漏えいした可能性　照会サービス停止、電力供給に影響なし",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/kyushu_power_td_electricity_data_possible_leak_4139_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T17:20:56+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:43+09:00"
+    },
+    {
+      "title": "宝くじ 公式サイト、パスワードが意図せず変更される事象で利用を一時停止　影響範囲を調査",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/takarakuji-official-password-unexpected-change-service-suspension/",
+      "source": "",
+      "published_at": "2026-11-05T17:18:54+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:43+09:00"
+    },
+    {
+      "title": "NTTドコモ、オンラインショップなど停止 不正アクセスの可能性 [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wVEZaZG8xcUlNNGYwU2ZJV0c3eDczREluMlRSODdVUllRRXd0c3lOYTZzWGlxNkh1R0ozSlRnOTVQXy1GYnlfUnZQMjBqckJPSkhqWE1idVdqTzZWNlNaaDFnMjliTUE?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-05T14:01:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:44+09:00"
+    },
+    {
+      "title": "「プロミス」展開する三井住友系の消費者金融大手、年収など顧客情報を32万人分漏洩 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NVS13NmMwTUlMR0lzNGpMNHR0bkkycHJyMC03WHJncDF3cXFMUG84VE5lZ1REeXBIbGdhZGN4RmtoYTc5d201SEN5LWd4TmdiNzJIbUozZWR0WmFDTW5ULXg0N0h2S3JFZ1gtaA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T16:43:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:44+09:00"
+    },
+    {
+      "title": "損保ジャパン、顧客情報6.5万件漏洩か 委託先に不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYX2VaMV9tb1c2bk03d0hlcXpNc0lkSktIRlVuMUdEajgzLVI5YjhHV1M4NExxVl9pN0pnWWNGVjZXcUlmRTJPS0ItbmRwVGlKbjFTT1NmLUo5Qzk4bmZSTjl5RVRZVE9OQ3N3Ng?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T14:10:10+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:44+09:00"
+    },
+    {
+      "title": "三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MQjRvWGU3YVBUeFRDR2daTDVHeWFLVkJzSTE4NnNzQ2dsclRFRkg1aVh2UGZnZ0tsOTBuNWxUcl8tNVVmN280V0pvU2ZDd2hJc29WLW5tZkIwUlZhVzRv?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-05T17:00:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:44+09:00"
+    },
+    {
+      "title": "「個人情報の流出」前年の10倍に急増…背景にAI悪用の影　専門家が警鐘「漏れている前提で対策を」　私たちができる自衛策とは - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GUTR2QVIta0QxeURWR25SaG1DekVWTnRPb2Fta1NCT3lGZzZrRms5ZjFra2pXQzY3TVhlVHZxNGZpYk9xMno2TVFLN0pXRXNCMEEzWXBVRkNHTlhfM0tZSmZsSHdBOXFlRHpRZkNuONIBdEFVX3lxTFBpQ0l0cEJZNHk2MW5XLW5BN0d2X0Z5OXpUQTdPM3lSWjU5Y01vdnJ6N05YTWVHZm16WmFmOG9CaW5IbE55N2MtMWdiUlV5dDdQeDExclRHQkZrQldENFJYNGd0czdyZ3Q4UDU1RUE2eHF3NjNV?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-05T17:01:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:44+09:00"
+    },
+    {
+      "title": "政府、サイバー攻撃「緊急対策パッケージ」に強制遮断「ブロッキング」の検討盛り込む方針…法的課題の検討急ぐ - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtU1FORFZya3lyMlBuenZ0WG5FUzVXRUE2SWRWWFFyLTdzYzJOYkNmaFJlUnNCb3JJN1lVN1lHM2NTdjlUeEFnS1lha044bU91dzk2RlhNb1FHNmxkVmRRSmRqTGtWSk1EUGRUM3Rn?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-05T17:08:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:44+09:00"
+    },
+    {
+      "title": "不正アクセス「強力に対策推進を」＝楠警察庁長官、全国本部長会議で - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUU9OcTVCZy0tSy1aM3BWbS1NbUlOVnFuajN2cHhuQjlVS2lzalViNHIycWw5eVJGTWdtdTZRODNkNVJRZHNrZVNxblJ5SjBFVUdyaWFoYWU4Wm52SFMyZENQUV8zVnhadWFoX3RNUzRjeXA5RVVFcXB0bnJNM194SEVkQ1hpaVVpby1WWNIBf0FVX3lxTE9vaUg4UDhpa1FwVlVqMHBUTFF1Yk8td2pwRldaMWd1RDVHTXpVdVlmOGRwSk91STZLTjhCVk44RjZIT0tLZGd5YkhCOGlqUFFvQ1FXSEVDUVlDSzNlelotLXpQRVNTdzhXMGpRaWxmTTlibS1xc0F6eEh0cVFIeHM?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-05T17:11:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:44+09:00"
+    },
+    {
+      "title": "韓国HYBEに不正アクセス…取引先や新旧役職員の個人情報流出 - KOREA WAVE",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMjBWb2xwYjdteWRiRUhobVlvSFRuR0ZiVlFOM1BFbzNqU2IweXQtXzBrQUxtMDlhVjhYS1BSdmRZWXhKLWt2ZVR5QUxMSGRKeExTVlVrVWtIdC1PUU4yMElzYVlrV2ZYQnlzdWtRcTd1U1Q0M2hfV0t3R3F4d3Q5YVdXZ2QwRlVHZ0JINlctX0RsUl9jcUYtMEdqY09TTEROb3JxWkFWRV9XWUJUYkFfLXdTSEEwdTFxVDZHSlF6aTFqNTdPSDlFVlpOV3ZUdTFFYk9WbDZCeVUwUGNmYmlqS21UYWRKb1VfSEs2QzJpYmdRdWRhVldhSjJVQ2ZNS0hIdXRBbHZDcDliYldiRnZLdHhqaTA3dDVfUjFTdzU5dXozY3duUUdoajczZWtCX3c?oc=5",
+      "source": "KOREA WAVE",
+      "published_at": "2026-11-05T17:10:16+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T17:35:44+09:00"
     }
   ],
   "errors": [
@@ -3119,5 +3218,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T17:07:43+09:00"
+  "updated_at": "2026-11-05T17:35:44+09:00"
 }
