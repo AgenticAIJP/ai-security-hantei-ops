@@ -296,7 +296,9 @@ async function main() {
     } else {
       // routines（素の Claude）はセッションを追えないので、ack のファイルで確かめる
       const acks = d.key === 'hojo' || d.key === 'hojo_deep' ? hojoAcks : ackedIds(d.key);
-      const finished = (t) => taskIds(t).every((id) => (t.reason === 'memo' ? hojoMemoAcks : acks).has(id));
+      // 補助bot への指示は、直すことがなければ投稿がない。受け取りの記録を求めず、送れたら終わりとする
+      const finished = (t) => (t.reason === 'instruction' && (d.key === 'hojo' || d.key === 'hojo_deep'))
+        || taskIds(t).every((id) => (t.reason === 'memo' ? hojoMemoAcks : acks).has(id));
       if (d.tasks.every(finished)) { d.status = 'done'; continue; }
       if (now - Date.parse(d.at) < ackTimeoutMs) continue;
       why = '受け取りの記録がありません';
