@@ -2655,6 +2655,87 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T13:51:52+09:00"
+    },
+    {
+      "title": "日之出出版「Safari Lounge」、メールアドレス8万2,095件が流出　アララ「repica」への不正アクセスが波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/safari-lounge-repica-email-leak-82095-20261105/",
+      "source": "",
+      "published_at": "2026-11-05T14:08:01+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:19:53+09:00"
+    },
+    {
+      "title": "ダスキン DDuet（ディーデュエット）、メールアドレス65万7,886件の情報流出　アララ「repica」への不正アクセスが波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/duskin_dduet_repica_email_leak_657886_20261104/",
+      "source": "",
+      "published_at": "2026-11-05T14:04:29+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:19:53+09:00"
+    },
+    {
+      "title": "NTTタウンページ、メールアドレス142,126件が流出　委託先利用のアララ「repica」への不正アクセスが波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ntt_townpage_repica_email_leak_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T14:02:02+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:19:53+09:00"
+    },
+    {
+      "title": "Langflowに脆弱性7件、認証回避・未認証での任意コード実行はCVSS 9.8　IBMが1.13.0への更新を推奨-CVE-2026-93680他",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/langflow_7_vulnerabilities_20261104/",
+      "source": "",
+      "published_at": "2026-11-05T14:00:27+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:19:53+09:00"
+    },
+    {
+      "title": "損保ジャパン 委託先に不正アクセス 契約者情報6.5万件が流出の恐れ （TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12WkxCNzJKdGpYb2Vta1NsN2dzcE1IeGVqOGMxZGl1WDh3ci12RE9ORk5GcXR0ZEVWZTJYdVZLLWU0ZDR2LVMtWXlhb2FlVk5OaFNwZnZ3M0szeU1YbnhpbkQ2OUFJemJ5dkpndDVwdDVJQ0FxN3FfZ0ZvQTE5ajQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T14:15:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:19:53+09:00"
+    },
+    {
+      "title": "相次ぐ大規模情報流出、サイバー攻撃にAIが加わると何が変わるのか？ 攻撃の実態と企業が見直すべき対策とは - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQTFjRWZVR1FqRDYzcDBHb2RuN0o4WXM3Sk9iU0hCUDhUWTRSLUJ1OWtmVjRBYm1IQlNOLVIzbFh6bHlVWEZtdHpNcXg3a2FEaV9qQVgyQ1Z3T0cybFFIV3hLQUJ5dm5HOGV0RzB3aERfeUZmUng3VjZiNjVBODg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T05:46:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:19:53+09:00"
+    },
+    {
+      "title": "富士山吉田ルート 登山者約19万7000人分の情報漏えい可能性 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlTDc0UGFTQURITllxZmVhUFl0aGhXdnNwa2drTEpySy1kTkVxc012dy1HMVdYLWZOYzRoOXQ0R3FXOXI1MS00T3RaNWRXX1c3LXZjMHRjVE91ZjBIbDdF?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-05T12:57:57+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:19:53+09:00"
+    },
+    {
+      "title": "【相次ぐ不正アクセスと大規模な情報漏えいに備える】ランサムウェア対策、ゼロトラスト、脆弱性管理、AIセキュリティなどの最新ソリューションが大阪に集結 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyV2UxdFBVcXQ0V203NUNocUV0ckJ0cTlZWjJ4LTM2UUNDNTF4U0szUXRBSzJ3QS1lVVQ1NldUSXltT3R3ZUctdmdKS19sUWF5cDNCOFczaEJGZng4QnNXTDFmZFhWSzVDM3c?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-05T14:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:19:54+09:00"
+    },
+    {
+      "title": "S&J、次世代SIEM「CSIRT-Pro」のMSS事業者向けパートナープログラムを開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uR3E3NEV0WHBVdW1BUDU0MFp2eGF2ZTF4czdiWFlhZlljNnYycWdHekxTUk42alZDbGtTWndDY2s2U2RYSWtiR2owNjRBb2h3TzZSNHdob3pHOW4xVWVTYktVRTJqYkhrRWc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-05T14:00:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T14:19:54+09:00"
     }
   ],
   "errors": [
@@ -2669,5 +2750,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T13:51:52+09:00"
+  "updated_at": "2026-11-05T14:19:54+09:00"
 }
