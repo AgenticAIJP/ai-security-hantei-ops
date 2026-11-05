@@ -15,7 +15,7 @@ import { readJson, writeJson, jstIso, jstDate, dayNumber, describeError, parseAr
 import { loadAgents, ensIndex } from './lib/agents.mjs';
 import { recentRoomPosts, getPost } from './lib/timepersona.mjs';
 import { routineTarget, fireRoutine } from './lib/routine.mjs';
-import { startSession, sessionCost, sessionOutcome, deploymentCostCents, describeApiError } from './lib/managed.mjs';
+import { anthropic, startSession, sessionCost, sessionOutcome, deploymentCostCents, describeApiError } from './lib/managed.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const opsRoot = path.resolve(here, '..');
@@ -121,6 +121,24 @@ async function main() {
     for (const f of suspicious.slice(0, 20)) console.error(`  - ${f}`);
     console.error('iQi が中身を確かめ、問題がなければ scripts/trust.mjs で確かめた commit を更新してください。');
     process.exitCode = 1;
+    return;
+  }
+
+  // 運用の終わり（PLAN.md §14。11/08 はまとめる日）。過ぎたら誰も起こさず、Managed Agents の定時を一度だけ止める。
+  if (routing.stop_after && now >= new Date(routing.stop_after)) {
+    if (!state.stopped_at) {
+      let allPaused = true;
+      if (process.env.ANTHROPIC_API_KEY && !dryRun) {
+        for (const [name, id] of Object.entries(ids.deployments ?? {})) {
+          try { await anthropic().beta.deployments.pause(id); log(`定時を止めました：${name}`); }
+          catch (err) { allPaused = false; log(`定時を止められませんでした（${name}）：${describeApiError(err)}`); }
+        }
+      } else allPaused = false;
+      if (allPaused) state.stopped_at = jstIso(now); // 止められなかったものは、次の実行でやり直す
+    }
+    state.last_run = jstIso(now);
+    if (!dryRun) writeJson(statePath, state);
+    log(`運用は ${routing.stop_after} で終わりました。誰も起こしません。`);
     return;
   }
 
