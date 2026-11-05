@@ -1854,8 +1854,62 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T08:42:53+09:00"
+    },
+    {
+      "title": "奈良県生駒市、副市長主導のセキュリティ対策タスクフォースを設置と報道　約300システムを緊急点検、他自治体でも対策強化",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ikoma-cybersecurity-task-force-municipal-response/",
+      "source": "",
+      "published_at": "2026-11-05T09:00:44+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:10:59+09:00"
+    },
+    {
+      "title": "日本郵便、国際配送「UGX」の送り状システムにサイバー攻撃　Hubez緊急停止で越境ECなど発送不可、11月10日復旧見込み",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/japan_post_ugx_hubez_cyberattack_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T08:45:25+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:10:59+09:00"
+    },
+    {
+      "title": "個人情報の漏えいはなし》RKCアプリ 不正アクセス被害【高知】（RKC高知放送 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZUTdhME1SNEtkQVlvbjNOVWZMYXV3Z2ktUng4RzR1aFRUY0JnV1lqWnBwOVh2UWRGRVBmTE95YU5maHFyOTEyajlHbWRteU5CMy1mSzFKdFc5ZF9VakpEM2lNRWNPY1lzeXRYRHAyZk5wbHlFRXNYVDg2NmtvZnM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T18:54:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:10:59+09:00"
+    },
+    {
+      "title": "良品計画、クレカ番号１０９万件流出疑い＝「ＭＵＪＩ Ｃａｒｄ」で - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ySmstZU9GQWQzbHAwQWlMNVpzd0xYOHJMTjlsT3M5NVJWRmowSDNVMC1iZ3pCUG9YQjJzd214QTdDNmgzRGxRUWFIdlRWYndsT1ZqczdtaHc?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-05T09:10:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:10:59+09:00"
+    },
+    {
+      "title": "住友不動産、メアド20.5万件が流出 分譲住宅の問い合わせ顧客 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56aDFaWThHUFNIOGpDT2FSTzJJTnYzMU9LcXc1TUNFWHZHSXAwc3ZCTnNOMklpVV95Rjg0VzhwVzduN3ZIY3hDTVdFSkNnRWM3RzgtelZkOWNDNjNBdDRJdW1qQ3o2ZC1laE0wYg?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T20:48:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:10:59+09:00"
+    },
+    {
+      "title": "自治体システムに高額請求＝公取委、実態調査を開始 - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01WVJvb3VlUll6ekxOM2k0M0F4U0dxdW94QWpuSlZWQk9zWmFVbTdDSm1ZYV9sbEdJTDQyWDVwbmcwMmFaMXk4UXNPdlE0a0UtbGNnWER3aUI?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-05T09:02:02+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:10:59+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T08:42:54+09:00"
+  "updated_at": "2026-11-05T09:10:59+09:00"
 }
