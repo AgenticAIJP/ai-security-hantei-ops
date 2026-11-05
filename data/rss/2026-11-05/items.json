@@ -2214,8 +2214,80 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-05T10:35:20+09:00"
+    },
+    {
+      "title": "「Ruby on Rails」にアップデート - 脆弱性21件を修正",
+      "url": "https://www.security-next.com/192381",
+      "source": "",
+      "published_at": "2026-11-05T10:45:54+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:03:20+09:00"
+    },
+    {
+      "title": "Barracuda製品6種にroot権限奪取の恐れ、重大脆弱性2件を修正-CVE-2026-116606／CVE-2026-111560",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/barracuda-root-access-cve-2026-116606/",
+      "source": "",
+      "published_at": "2026-11-05T11:00:30+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:03:21+09:00"
+    },
+    {
+      "title": "データ連携プラットフォーム AirbyteにCVSS 9.9の重大脆弱性、実際のサイバー攻撃で悪用確認　旧環境では認証不要でコード実行の恐れ",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/airbyte_jvn12040144_rce_exploited_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T10:48:06+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:03:21+09:00"
+    },
+    {
+      "title": "Windows 11「26H2」、対象PCへの提供を拡大　Windows 10からの移行要件と更新方法をMicrosoftが案内",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/windows-11-26h2-rollout-windows10-upgrade-requirements/",
+      "source": "",
+      "published_at": "2026-11-05T10:45:28+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:03:21+09:00"
+    },
+    {
+      "title": "福岡市でマイナンバー関連の手続きをネット予約した人のメールアドレス漏えいか…「アララ」不正アクセス（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95YkdCYjdhX2x6MURpcUJma1hQSFJLNTNDOTUtZ1FXNHctejIzRVJfWXhENkhudXVJOXJ5bWtObmN0RE1kZVJUN3ZDZVd0dnJZVkhPT3FLQnh6TE4taXJ6Z0YtRE55X01qb1doWjdpY0FsUjljS2gtRlo5aDJ1SU0?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T10:27:25+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:03:22+09:00"
+    },
+    {
+      "title": "サイバー攻撃で情報漏えいの可能性 10月は1億8500万件あまりに | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGWEE2OURJZTh6RklrbndaOTZOclNvdV9FbFpLLTlEbmE4bF9qb1lRZ1ptbFI5bXRwTk1jZ3NSaGVRMmtFeHg3MWJYbGFaUVFvTXVjb2xra29vSWtvQWsw?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-04T17:37:17+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:03:22+09:00"
+    },
+    {
+      "title": "ベルーナノーティスに不正アクセス、顧客最大19,853名の口座情報・契約内容などが閲覧・取得された可能性 申込サイトは停止継続|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMkpBeGltRUo3RTZRWDhkQm1oMG5lWUNnTloycEJ6cl9oLUdrMkl4MVZvN1kyYmozUWQwUDdtNFZpVHFaRUxDU29xTGZHZDBvZndIUU5FUk1odWQxZHRiUVFvT3g5c1h4UXRjUVFtOU4wZTlsSjFnckpiblZWVjVFMmF5clBEUUpqdmtHdDEtYXFKYno5eHRpTTJZOTZJSUVBazZqSUp2c1ZGYktBWWd3eQ?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-04T17:30:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:03:22+09:00"
+    },
+    {
+      "title": "航空2社でメアド流出　ソラシドエア49万件、エア・ドゥ67万件　システム不正アクセス - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmxpNDVIUWd1WWZmaWw2akFVWDh3Z1hqV2dPemZkUjZIeXMtNy0yMjg0cjJTODVQWmpBNUZHeEdiQ3pGUl95UFE3REUydC1KT0JMZnZqdUgyclo2Uy1zZktWOW1CYnRUamR4dlRJUkZmSXJ1UlBJaHZhSzgycU9jOFNwdVE5SHpCNG1Ndk9zVjNWdEhkR3h1VDBDamVaTTZ6dzlXUtIBqgFBVV95cUxPS1NPaURNdG4zUEZVYmxpYy1IeEFzUnRRTHlwS3Q0c2ZwMzhXcjJEN0UyZWE4LWxEeWhVbGdwdWtDel9SSks1RmltalA4V3FsYkl6bndpNnFHRzVyb19DcnVXOVNkNDFCbkZMc0NWUDNReEFLNll5bVFmdUZISjRVdlR3dWNkRUwzTFFlM3Z0em9VenROZTBHVm1nODlsREd0T1RudFRLYTRldw?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-05T10:27:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T11:03:22+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T10:35:20+09:00"
+  "updated_at": "2026-11-05T11:03:22+09:00"
 }
