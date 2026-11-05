@@ -1638,8 +1638,62 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T00:37:27+09:00"
+    },
+    {
+      "title": "申請用ファイルに不備、サイト上に個人情報が残存 - 福岡県",
+      "url": "https://www.security-next.com/192081",
+      "source": "",
+      "published_at": "2026-11-05T20:59:03+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T01:05:24+09:00"
+    },
+    {
+      "title": "「au自転車サポート」で顧客情報漏えいの可能性、委託先に不正アクセス（ケータイ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00OWQ4M3FWdXNiNVFqTEhqS1plWE5SLUhMcGtXbWVrcEpDZ0pPYXR1Y2d2OTNqRWRpa2UwOUotMDVRRDVTNjRhaGg4U1BKZ1V4cnFrUWtod2JtdnZ3dmtPckVkd25ZTWVNZkIwQ1pVX3ZsTW9KT1dwRnlHNlhJSTQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T00:31:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T01:05:26+09:00"
+    },
+    {
+      "title": "アイリス、770万人の情報漏えいの可能性＝不正アクセスで(時事通信) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNzlDX0MxYXhvRGZqT1pwYVYyWS11WGtjTnY1Y3pLck10ODRTbFYzNEMyNnJ0THNReUc0ajBZeHFiWllXQ0NzaU9YQmpQdWM2Wlp0WDJscnFHTU1nUjd1Vlhsei1ybEFxY1lfS0I2UnNPR25UOVhfMEtjNEYyUi1VOFFEMXBDT3M?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published_at": "2026-11-06T00:38:59+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T01:05:26+09:00"
+    },
+    {
+      "title": "NTTドコモ 顧客情報約30万件流出 オンラインショップなど不正アクセス受け - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PLW5fVGRUUGtSQmNTa1ZlZERjZ0xFdDgxS3VLT3ZFekpqSXpOZlcwUVozYUpydUR2Z25rWlRDQVVGNkQ2bGNmWVJNZDZMdw?oc=5",
+      "source": "FNNプライムオンライン",
+      "published_at": "2026-11-06T00:05:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T01:05:26+09:00"
+    },
+    {
+      "title": "◎アイリス、７７０万人の情報漏えいの可能性 - 時事通信ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kSUFKVUtIaFB3TW1OeWVuSFNKT1BiaHFsOC0tekplaVJNRmFURGl2dU5ZQXR3Mjl4TkhBZ2dmLXNITm1abXhvdDJnSTVHWjdIMFJsaw?oc=5",
+      "source": "時事通信ニュース",
+      "published_at": "2026-11-05T22:31:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T01:05:26+09:00"
+    },
+    {
+      "title": "損保ジャパン、顧客情報6.5万件漏洩か 委託先に不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYX2VaMV9tb1c2bk03d0hlcXpNc0lkSktIRlVuMUdEajgzLVI5YjhHV1M4NExxVl9pN0pnWWNGVjZXcUlmRTJPS0ItbmRwVGlKbjFTT1NmLUo5Qzk4bmZSTjl5RVRZVE9OQ3N3Ng?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T14:10:10+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T01:05:26+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T00:37:27+09:00"
+  "updated_at": "2026-11-06T01:05:26+09:00"
 }
