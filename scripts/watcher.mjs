@@ -29,7 +29,7 @@ const SHORT_NAMES = { nobunaga: '信長', shingen: '信玄', mitsuhide: '光秀'
 const ANALYSTS = ['shingen', 'chacha', 'hideyoshi', 'mitsuhide'];
 const REVIEWERS = ['kenshin', 'mitsuhide']; // 点検と反論の役は補助bot を使わない（事情を知らない目を残す）
 const SUBSTITUTABLE = ['shingen', 'chacha', 'hideyoshi', 'ieyasu', 'kanbei']; // 手が足りないときに、補助bot が案を書ける役
-const REVIEW_TAGS = new Set(['判定', '判定まとめ', '続報', '独立判定', '技術分析', '反論', '攻め手の読み', '制度の視点', '速報']);
+const REVIEW_TAGS = new Set(['判定', '判定まとめ', '続報', '独立判定', '技術分析', '反論', '攻め手の読み', '制度の視点', '速報', '最新版']);
 // Git に書いてよい場所（CLAUDE.md §4）。書くのは素の Claude だけ。これ以外が変わっていたら止まる。
 const AGENT_WRITABLE = ['baseline/', 'state/acks/'];
 const SHORT_RECORD = /[：:]\s*(対象外|記録のみ|枠外|原因待ち)/; // 全員を起こさない信長の投稿の 1 行目（PLAN.md §2.2）
@@ -365,7 +365,7 @@ async function main() {
     daily.scheduled_usd = scheduledCents / 100;
   }
   // 昼の仕事は、夜の反省会の分を残したところで止める。反省会の仕事だけ、1 日の上限まで使える。
-  const dailyCap = routing.budget?.managed_daily_usd ?? 60;
+  const dailyCap = routing.budget?.managed_daily_usd_by_date?.[today] ?? routing.budget?.managed_daily_usd ?? 60; // 日付ごとの上限（11/07 の最新版の日）
   const spentToday = (daily.managed_usd ?? 0) + (daily.scheduled_usd ?? 0);
   const overDailyCap = spentToday >= dailyCap;
   const overDayCap = spentToday >= dailyCap - (routing.budget?.hanseikai_reserve_usd ?? 0);
@@ -412,8 +412,9 @@ async function main() {
   const heldReasons = new Set(routing.held_reasons ?? []);
   const isHeld = (t) => heldReasons.has(t.reason) && !t.urgent;
   const checkOpen = (key) => {
-    const hours = routing.check_hours?.[key] ?? routing.check_hours?.default;
-    if (!hours?.length) return true;
+    const base = routing.check_hours?.[key] ?? routing.check_hours?.default;
+    if (!base?.length) return true;
+    const hours = [...base, ...(routing.extra_check_hours?.[today] ?? [])]; // 日付ごとに足す確認の時刻（11/08 01:00 の最後の回）
     const passed = hours.filter((h) => h <= Number(jstIso(now).slice(11, 13)));
     if (!passed.length) return false;
     const opened = Date.parse(`${today}T${String(Math.max(...passed)).padStart(2, '0')}:00:00+09:00`);

@@ -10,6 +10,7 @@
   "stop_after": "2026-11-08T02:00:00+09:00",
   "held_reasons": ["an_review", "correction_request", "eval_correction"],
   "check_hours": { "nobunaga": [8, 13, 19], "hojo": [], "default": [9, 20] },
+  "extra_check_hours": { "2026-11-08": [1] },
   "check_batch_max": 6,
   "hojo_fallback_hours": 4,
   "hantei_slot_hours": 3,
@@ -25,6 +26,7 @@
   "budget": {
     "managed_session_usd": 2,
     "managed_daily_usd": 70,
+    "managed_daily_usd_by_date": { "2026-11-07": 110 },
     "on_daily_cap": "昼の仕事は managed_daily_usd − hanseikai_reserve_usd で止め、反省会の仕事だけ managed_daily_usd まで使う。止まった仕事は保留する。足りないときは min_interval_min を 50 に延ばすか、hantei_daily_max を絞る。質は下げない（PLAN.md §6.4）",
     "hanseikai_reserve_usd": 10
   },
@@ -53,6 +55,7 @@
     },
     "nobunaga": {
       "executor": "managed",
+      "session_usd": 4,
       "active_from": "2026-11-02",
       "min_interval_min": 50,
       "reasons": [
@@ -68,6 +71,7 @@
     },
     "shingen": {
       "executor": "managed",
+      "session_usd": 3,
       "active_from": "2026-11-03",
       "min_interval_min": 25,
       "reasons": [
@@ -96,6 +100,7 @@
     },
     "kenshin": {
       "executor": "managed",
+      "session_usd": 3,
       "active_from": "2026-11-03",
       "min_interval_min": 50,
       "reasons": [
@@ -107,6 +112,7 @@
     },
     "hideyoshi": {
       "executor": "managed",
+      "session_usd": 3,
       "active_from": "2026-11-03",
       "min_interval_min": 25,
       "reasons": [
@@ -121,6 +127,7 @@
     },
     "chacha": {
       "executor": "managed",
+      "session_usd": 3,
       "active_from": "2026-11-03",
       "min_interval_min": 25,
       "reasons": [
@@ -135,6 +142,7 @@
     },
     "ieyasu": {
       "executor": "managed",
+      "session_usd": 3,
       "active_from": "2026-11-03",
       "min_interval_min": 25,
       "reasons": [
