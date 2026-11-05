@@ -3330,6 +3330,60 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T18:03:41+09:00"
+    },
+    {
+      "title": "飲食店向けユニフォームなどを販売するオンラインショップ「ユニコレ」、不正アクセスで会員情報最大1万9,468人が情報漏えい、サイトは11月5日に再開",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/unicole-ths-unauthorized-access-member-data-leak-19468/",
+      "source": "",
+      "published_at": "2026-11-05T18:09:17+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:31:43+09:00"
+    },
+    {
+      "title": "飲食店向けユニフォームなどを販売するオンラインショップ「ユニコレ」、不正アクセスで会員情報最大1万9,468人が情報漏えい、サイトは11月5日に再開|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSkptWEJTOS1fbDlSSFZwdjNxRURBZ1NKVnluY2xvMmU1LXRzanFTeWZoWUhmVGN1blF0amRDc1d0c0pybXpwRUpVckZEcVItbTJFUHRoS1c5WHdzazUzU3dWZGRoUE10MGhjWjRFLV9JNmNraXZfT0ZXcDBhcF94QXVwb2ZIOHZBY1RDM05LcnF5b1ZyU2NjUnlLdENMX2ZQNUl3aFVn?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-05T18:09:17+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:31:44+09:00"
+    },
+    {
+      "title": "三井住友系の消費者金融大手、カードローン契約額など32万人分漏洩 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NVS13NmMwTUlMR0lzNGpMNHR0bkkycHJyMC03WHJncDF3cXFMUG84VE5lZ1REeXBIbGdhZGN4RmtoYTc5d201SEN5LWd4TmdiNzJIbUozZWR0WmFDTW5ULXg0N0h2S3JFZ1gtaA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-05T16:43:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:31:44+09:00"
+    },
+    {
+      "title": "SMBCコンシューマーファイナンスで最大32万人分の個人情報漏えい 免許証番号やローンの契約額など含む - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iVkxRUFRJdWI2YW8zMWJSQ1k2VlVBNGFPZzhiVjNGWkstVE1kTERFazNBT09nSzZUNlFJQlIzbUlLOVp4ZzhBUUVyWnp2UWRfeGc3Rklwbw?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-11-05T18:09:57+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:31:44+09:00"
+    },
+    {
+      "title": "三井住友系で顧客情報流出 最大32万人、不正アクセス - サンスポ",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwSk9ySERZdGh1Ty1Ua3VIejE5cTNpcDBrTGRfWmlCV2FlZlFoRnktNTJBR1U1RktxbEFVc2NGZURERDZzVjlmQ18zZ0tTT3BNVmx5QTFncERRdDZQbl9hYXI2VElsUU9kSTU1bnFGRUJ3Q3RQVUE?oc=5",
+      "source": "サンスポ",
+      "published_at": "2026-11-05T17:42:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:31:44+09:00"
+    },
+    {
+      "title": "【速報】大津市のボートレースびわこでメアド最大1917件流出か メルマガサービスに不正アクセス - 京都新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IcTNsY1k5UUVfeFpSel9HQzFzUjZ3cF9SQV9kbWNhZEw0dC1GN3hOWVVfWEkwb2JwcDYxZHFRWFM3dHktVmpRNHV6T0pBRFk4RlBnQUlGazI?oc=5",
+      "source": "京都新聞デジタル",
+      "published_at": "2026-11-05T18:01:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T18:31:44+09:00"
     }
   ],
   "errors": [
@@ -3344,5 +3398,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T18:03:41+09:00"
+  "updated_at": "2026-11-05T18:31:44+09:00"
 }
