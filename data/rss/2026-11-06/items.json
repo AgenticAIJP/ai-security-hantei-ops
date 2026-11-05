@@ -1692,8 +1692,26 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T01:05:26+09:00"
+    },
+    {
+      "title": "「『アクセス・無害化措置』を含めた措置を戦略的に」 不正アクセスによる個人情報の流出めぐり 警察庁の楠長官が全国警察の本部長らに - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GOVZFTHQ3SGFQVkl4aWtMY1dTTGJxX2RDYUI4Sk55bHhGTWxzYTQ4bDU0NjZKY0o3aFh4T0lYMW56MEV6ZzVsQWlKOWRFSkVWSVFZVVRQTQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-11-05T21:43:20+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T01:33:27+09:00"
+    },
+    {
+      "title": "損保ジャパン、6万5千件情報漏えいか（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIMU1CMnNBbnNqcTJUeW9FQjV3M2lrbzNfUEtCUHF0cGdtdEJ4WndIaklDQkRrd01yRjlmaElsTzduNTN5eUwtVW02dlpDVlo5bVAwSWlUYUNvLWhfUXJhUnp1SUVwdFRNaU1aMzVybTNPQ25yNEZqOW9td0lZTG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T12:01:27+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T01:33:27+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T01:05:26+09:00"
+  "updated_at": "2026-11-06T01:33:27+09:00"
 }
