@@ -1809,8 +1809,35 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T04:49:29+09:00"
+    },
+    {
+      "title": "元保育士逮捕の端緒は米国からの情報提供　クラウドの非公開画像はどこまで検査される？ 通信の秘密とGoogle「誤BAN」を考える",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/us_sns_child_abuse_detection_privacy_false_ban_japan_20261105/",
+      "source": "",
+      "published_at": "2026-11-06T05:00:04+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T05:17:32+09:00"
+    },
+    {
+      "title": "ドコモ、最大３０万件の情報流出 不正アクセスで：時事ドットコム - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TNDBwZWUySjhYdWh6VUZXOWFBU2RZRlhITWhJUkdSUktHS004RXVWbTNzbkx3QTF1dkRHRlJDZVFTNXFrVjAtTG5CejRPUkF4NG1XZmpMRzhWcnhwbDJ3VUZSNA?oc=5",
+      "source": "時事ドットコム",
+      "published_at": "2026-11-05T20:53:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T05:17:33+09:00"
+    },
+    {
+      "title": "とやま省エネ家電キャンペーン、個人情報漏えいか 委託先が不正アクセス被害｜社会｜富山のニュース｜富山新聞 - 北國新聞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwYy0yaEJGN0ZWd21KWW84Vk84a0VIU1M3RklSZlZVYUd5eVE4TER4WTBSNGtJX2R5dDVVNlN2YXhYbl9ZYmdNLXNJVlBFZHhvT3AweDZLTQ?oc=5",
+      "source": "北國新聞",
+      "published_at": "2026-11-06T05:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T05:17:33+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T04:49:29+09:00"
+  "updated_at": "2026-11-06T05:17:33+09:00"
 }
