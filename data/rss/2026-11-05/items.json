@@ -2565,6 +2565,96 @@
       "feed": "セキュリティ対策Lab",
       "kind": "news",
       "first_seen_at": "2026-11-05T13:23:36+09:00"
+    },
+    {
+      "title": "遠隔サポート製品「SolarWinds Dameware」に複数の脆弱性",
+      "url": "https://www.security-next.com/192398",
+      "source": "",
+      "published_at": "2026-11-05T13:45:02+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:51:50+09:00"
+    },
+    {
+      "title": "損保ジャパン、自動車保険の契約情報など約6万5,000件が漏えいの可能性　委託先「PremierNet2」に不正アクセス",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/sompo_japan_pcs_premiernet2_65000_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T13:39:00+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:51:52+09:00"
+    },
+    {
+      "title": "マイナンバーカード交付予約・管理システムで利用する外部メール送信 サービスへの不正アクセス及び個人情報漏えいのおそれについて - 那珂市",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT0YzWVFRZjZuRVh6bmpxLXdIZHB0ZE5UVTBZa0czaktuQndOMHBCUmdlZjlqR0xEWEt2VzZTbF9ZSWRNMTlDeU1zbDRtazhibXNlYWFlWlNUbzJUUm9JTkZ4Z3ZVT05SRktOM2NNaG1YYjY2TlhPVEwweFNaVVNiNkVJSnJvRWt0SDRPOW1uYVp4R0JUalNSaE9B?oc=5",
+      "source": "那珂市",
+      "published_at": "2026-11-05T13:01:22+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:51:52+09:00"
+    },
+    {
+      "title": "ソラシドエアで顧客のメールアドレス４９万件が漏えい…「アララ」不正アクセス、被害の情報は確認されず（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QX2NFSm5qQ0hOSkhoTU1PNVR1LWRaY3R6VzV2Ukx3STk0a1NNY3pISG54UzhUMjBBdmUxXzY3WFlmaVR4Q3RIajgwb0VEbkNuQlItdU10eFNpSmJsS01wUkx5QXEzVmlMejVGY1BrR1R0UkJZeVprM29UWjYzUHM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T12:52:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:51:52+09:00"
+    },
+    {
+      "title": "トレードワークス、岩井コスモ証券の不正アクセス第3報 管理機能の設定不備を認め、検知5分以内の連絡・15分以内の判断を導入|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnY5R0RwVHB1cHI1OTJkdmwwZlczSTJlVk45VUN2RjhZTlVMN01QMkxkbjRWZ0tObnAtOEc3bHA3RHg0dk9UTlp4VDVxenZxcHNydUxzbGV1dlNWTFdsTU01cFBManExVjc3UVV4akJxN2FCdDFTdldYdlhWa1hySVo3bkdwOXpacFNWYzVUQklEb1pQSWtqSHhUVExiQQ?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-05T13:00:49+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:51:52+09:00"
+    },
+    {
+      "title": "航空2社でメアド流出 ソラシドエア49万件、エア・ドゥ67万件 システム不正アクセス（産経新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSV9ySVBWRTB1NlV3SzF1dXVrUHppXzltU0tjdXAxaTNUVFgybjN1akRkOVA5OHIzZzdKNWg5RXdnSWtDT0NzRzVzemlYZmNnWndLWEJtcU5KdlVtXzRyZHFmS2RWSGtsV0ZjMlJSTy1fNXdIa1BlRGJBeE1RRTA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T11:01:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:51:52+09:00"
+    },
+    {
+      "title": "損保ジャパン、情報漏えいか 自動車保険6万5千件（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ienZBeVAtVGtPRWI5aXNNenVHQlc3b1lNY0YzQ21IVU9RakhYWUNmMnFZbTVMMjhkOUJYT1pGUzNTdHNiVlFLclFNUHdJa3NaYU1STHBZVWxyQURfT3daV2FPd0ZzWlp3bGJZZmZZY2NDaGtJbEZsR1lsVTAzZjg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T12:26:24+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:51:52+09:00"
+    },
+    {
+      "title": "宮崎市の行政オンライン手続き、登録したメールアドレスが流出か…個人３万５４０５件と事業者４００７件（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IdU9MVWdhS2RkZEpGTzI2UGVKNFdDSzAwckVfVlhtQnJ6SUVUdWhIb1dIbzZFLTloSmNxX0V2SnhsNW9LRldfN0pjakZyVUwtZklOV2o5ZDBVUWl4SmxPQjMwa3BlSkFEVy10Mmo5c2ZlTVBEVVhxZks3QWRjYzg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T12:54:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:51:52+09:00"
+    },
+    {
+      "title": "ヤクルト本社、情報漏洩3万9505件と確認 化粧品応募者354件も - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vemJxcG5CQUxrcXc5ZlNIVmJYX216WmFkYzkyRExEX0lTRm1hLWJ3UmNxeFl4eGc1aTRGY2V4SVUzd0tuWUxNR1BHV0hrTElDb21yZ3ZVNmdMNEJrcFVxWkROeks3cUhYbkRqQw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T20:09:33+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:51:52+09:00"
+    },
+    {
+      "title": "セキュリティ関連書籍9冊を全文無料公開 インプレスが5日間限定 - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKWURFQ1FHYnFSSTNEQWVEVmVDRHFKaTllTFFzUlppWWVQbVRMRnpHZFVLTWFyN0tEOVp3VG9Vc3hnRTBQblpQenBHb0pFM1Yza01nUm5CMGN0RWs1WnlqaWVqWVk?oc=5",
+      "source": "Impress Watch",
+      "published_at": "2026-11-05T13:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:51:52+09:00"
     }
   ],
   "errors": [
@@ -2579,5 +2669,5 @@
       "error": "HTTP 503"
     }
   ],
-  "updated_at": "2026-11-05T13:23:53+09:00"
+  "updated_at": "2026-11-05T13:51:52+09:00"
 }
