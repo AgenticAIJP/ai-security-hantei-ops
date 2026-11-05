@@ -1908,8 +1908,53 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T09:10:59+09:00"
+    },
+    {
+      "title": "不動産賃貸サービス「ウチコミ！」、ランサムウェアによるサイバー攻撃で14万2,591アカウントの個人情報漏洩の可能性",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/uchicomi_ransomware_142591_accounts_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T09:30:51+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:38:57+09:00"
+    },
+    {
+      "title": "シフトワークス、メールアドレス最大46万1,437件が流出対象　アララへの不正アクセスで配信停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/shiftworks-arara-email-leak-461437-20261104/",
+      "source": "",
+      "published_at": "2026-11-05T09:14:25+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:38:57+09:00"
+    },
+    {
+      "title": "宮城県栗原市で氏名、アドレスなど流出の恐れ（河北新報） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EUVNnM0loNG5Lc2J5LWNhUmZmbE9XdW5rUnFuUHlTNC1TWlQwb1hxOUNtbTdIRDRkVHN1cElXWVZ4S0l4eWl1TFU5enhxdVhqM1NzakI3OTFqV0d1Tk9GdDJCOXhuVWFCeFhCaEp6RVBJWld6bWc4N0cxdEVmTHc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T08:57:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:38:57+09:00"
+    },
+    {
+      "title": "個人情報漏洩、家庭用機器「踏み台」にした攻撃で10社以上被害 警察庁 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IeWY3a1JCc3ZTcHoxbnFTaFZKbEtveFFmQXRxLWQyN3h5cmRrS2l4MmJVNVNpT01NM01LSFF1QmdKX0ZFRzA4X1pNU2ZOQWNCWjdRLWJrb0tUaU9NT21FVi10Q2ZqMEszT0ZzYw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-04T18:35:27+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:38:57+09:00"
+    },
+    {
+      "title": "野村グループで2週間に2件目の漏えい 「機関Navi」停止、氏名・メール流出の恐れ（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RalJXczk3MDVpZDRDdmNzV2MzZlR3SHVPZWQ1QXpYc1hzNnVyV3NXWXU2TG5BbmNuRHpOMExlVDR2QzRiN2Y0Zk5WMl9GWlNCX21tdjdyWHlnalM0Q3dGMGRoRVVuN0o5WUt6LURpY3EwbUNySDE2WDRrQnUtU2M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-04T13:55:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T09:38:57+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-05T09:10:59+09:00"
+  "updated_at": "2026-11-05T09:38:57+09:00"
 }
