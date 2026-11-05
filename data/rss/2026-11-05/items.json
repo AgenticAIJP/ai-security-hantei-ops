@@ -2538,8 +2538,46 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-05T12:55:38+09:00"
+    },
+    {
+      "title": "インテージ、アンケート調査システムに不正アクセス　回答画面・関連サービス停止、個人情報漏えいは未確認",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/intage_survey_system_unauthorized_access_20261105/",
+      "source": "",
+      "published_at": "2026-11-05T13:15:10+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:23:36+09:00"
+    },
+    {
+      "title": "フランスの銀行にサイバー攻撃、約177億円規模の不正送金　外部委託先経由で侵入、顧客預金に影響なし",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/credit-mutuel-arkea-cyberattack-100million-euro-vendor/",
+      "source": "",
+      "published_at": "2026-11-05T13:00:51+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:23:36+09:00"
+    },
+    {
+      "title": "トレードワークス、岩井コスモ証券の不正アクセス第3報　管理機能の設定不備を認め、検知5分以内の連絡・15分以内の判断を導入",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/tradeworks-iwai-cosmo-third-report-access-contro/",
+      "source": "",
+      "published_at": "2026-11-05T13:00:49+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-05T13:23:36+09:00"
     }
   ],
-  "errors": [],
-  "updated_at": "2026-11-05T12:55:39+09:00"
+  "errors": [
+    {
+      "at": "2026-11-05T13:23:43+09:00",
+      "feed": "Google News（漏えい）",
+      "error": "HTTP 503"
+    },
+    {
+      "at": "2026-11-05T13:23:53+09:00",
+      "feed": "Google News（AI）",
+      "error": "HTTP 503"
+    }
+  ],
+  "updated_at": "2026-11-05T13:23:53+09:00"
 }
