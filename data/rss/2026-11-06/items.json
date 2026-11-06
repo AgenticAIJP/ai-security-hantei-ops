@@ -2862,8 +2862,44 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T11:50:13+09:00"
+    },
+    {
+      "title": "個人情報を集めすぎた企業の功罪-タイムズとGMOの事例から問う「持ち続ける責任」",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/personal-data-overcollection-corporate-responsibilit/",
+      "source": "",
+      "published_at": "2026-11-06T11:55:45+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T12:18:18+09:00"
+    },
+    {
+      "title": "大垣共立銀行が情報漏えい 提携先システムに不正アクセス - 岐阜新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ycFhDZlYyUWNKUFJUNTFqcHJZRmw1eW95cEZ1ZXZqNEtnSFBRNXpDenAtOG9pQmEyT3NpWFBYWlM2QjdyVHlHa3pfdnNSN2tSbHNDcllR?oc=5",
+      "source": "岐阜新聞デジタル",
+      "published_at": "2026-11-06T07:36:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T12:18:18+09:00"
+    },
+    {
+      "title": "AI議事録、導入しても半数近くが使いこなせていない。最大の理由はセキュリティ、「クラウドに上げられない会議」の壁――会 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3SkFpTmlUblI1aDJUanNHaEp1d2RMbS1CemZFcUkwbThRRU1VRnZ4cGw2bEhWTUlVZmJ4eGo0aTQzN0EwWHY3bE95bVJqLXVMVkdodnFqNjB5eTMwSWtleE4zSlIzNElOM0N2UTZRSUJxMzFVMW9PXzBtVQ?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-05T14:00:31+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T12:18:18+09:00"
+    },
+    {
+      "title": "プレスリリース：株式会社Elith、キャピタル・アセット・プランニングとGENFLUXシリーズの活用・事業連携に関する業務委託契約を締結（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iX3dXN1ZzdExPQzZPUjdQclJVMGNCMDM3TVBUMHRLTGhxRWdkWjQ0dlQ3dDV2dXdsREtRb3p2M2JHLWliUVJxYlZQVkUyN1pXekFIY0VxNVJtZmlES3FFRWtQZWVpQVY3?oc=5",
+      "source": "毎日新聞",
+      "published_at": "2026-11-05T14:23:07+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T12:18:18+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T11:50:13+09:00"
+  "updated_at": "2026-11-06T12:18:18+09:00"
 }
