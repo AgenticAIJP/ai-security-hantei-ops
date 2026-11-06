@@ -3906,8 +3906,116 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T19:47:41+09:00"
+    },
+    {
+      "title": "アララ、不正アクセスでメールアドレス8,132万9,467件の漏洩が判明-別クラウドから324万9,492件、第3報で確認",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/arara_message_third_report_81329467_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T20:07:26+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "GMO「お名前.com デスクトップクラウド」、サイバー攻撃による不正取引の損失補償で個別案内開始　補償総額は未算定、11月13日決算説明会で状況公表へ",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/gmo_desktop_cloud_compensation_individual_notice_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T20:04:09+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "ロート製薬、9千人のクレカ情報含む音声データ流出 不正アクセスで [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hTVlLZmh0R1RlN1NpclBXM0NPWjhTQkNyUjdkVVlGVDc3d0tGRjZWdGxSZHpGeTRfRGtJNlA0clYxZEtTSWVsZXV4OWhtS09icWNCeWJ3S0hOTjh5eXhCc1JWcERoSFE?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-06T19:52:29+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "MS&AD系、顧客72万件の個人情報流出 三井住友海上やあいおいなど - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IWWk5c2VBUFRobWtpQzU5X3ItU0I2MFIyUVZyTEdtRWZQTXAzTFpjSm9jSE5lRGFnRExyZnJaTEl6NTdrWUtTLWlucU8wUXJac1Z3LVBUc1FUbDhncS1JOGk0a1pHQnBsU282SA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-06T16:46:25+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "愛媛銀行の顧客情報漏えい 氏名や運転免許の番号、勤務先など 提携先のシステムに不正アクセス【愛媛】（テレビ愛媛） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rSU5RVEZXVGYxUlQ5V0RISjZ4NlRxVXpVQUNIRHlObk9PQTVya2pBV05fenlGRl9RRGJVLXZJRmJnTzRHZmxMWTcwYUZZMWQxdXNIeGZtcldNcGRDanctekZ4UWNydnFTeHRwWHBqQzZOWXVZZFpyZ2p0Rk1FWlk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T10:20:02+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "情報漏えいリスク回避へ対策は？「個人情報持たない」企業も - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80TUF2ZGdNZWl6RWM1NjJsWFJNMEJLRkhYNlJHQ1hVVVVmeWxYSGR4VW5FbC1MdlNmclVKMTA0Q2dsN3NjcmpKTTZOZmZEQW83eUpIeE5qbkxJUzhUVk5Z?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-06T16:16:02+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "ロート製薬、279万人の個人情報流出 通販電話システム経由でカード番号も9715人分 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxT1haZnlHQ0Nnc1NMZWUxV2l4U3pmMU9hYzFUNUlqNzhwS0NJZmd1dl9HMEw1dEJTaGk5TUNRekxjZ0haSkZsdXRRYldIUFhPQjJnTjJSZ2taMXlJS2w3ZURWZkVORVkzV2FnRkVIVU5iN3JT?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-06T19:55:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "三井ダイレクト損害保険、23万件の情報漏えい（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55NW02ZHJDS0ZEby0tNV9RbGh1VGMtSEJ1RWppUkdvMmtpdkdpWlY2amQtaUt1TDl4SXBBam4xWWlqSGJ5ZkJKWUdudFBVTFdOTTl3ZXhMV0ZDclNVOExGcEJyaFVtSjhUUGFJczJJT3dlUnpYc3B4ekZSWTVlTW8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T20:01:09+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "ドコモ顧客情報流出、本人確認書類の番号も 前田社長が謝罪 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SVnR1RmRBMDJmZW5VMDIwOHBDRFc3UG9jNUFCaFlzeE53b1FUUXpqTUczd3d2NThpRS02alJxcEZzWERMM19ZYWlmeHh4a2ZmekNza2RSelB0bjBuRlVyc2tpS09yaVMyeDlMMQ?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-06T19:06:19+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件 - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zYVdrQzViZm1laElPNnF6Qkt0VFpmZzlVVlZsbUJkbllHVThGOG14bXRKT0JBLUZqQVpVdkR6TDVIak1YOEVjVjI4Z0V4bVR1ZkF1OW4wcmlCM2FIQ3NLX3V0SUc?oc=5",
+      "source": "Impress Watch",
+      "published_at": "2026-11-06T19:36:34+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "情報漏えいは「100％防げない」 中小企業経営者向けに対策研修 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40Z08tc2Z1Q243bjFPeUlfUmlaMkQ5NUFYZEc4RHNSVVJBeVRsNFdUNzRsRE16cElKQXhreVhFMUxTREpSeEdCYjJyUkdoZkE1bVlEb0d4S3dWQ3VvYXlMMThhd2xrWm1o0gFuQVVfeXFMTW5GSzR6MGdpVlJwam5ZMUVoWlZmYno3bzgybVhSTktlSDdSaWViUl9CLThhRUtCZ3JMUmtaZm1KWUx1d3hXa09FOFplUXNONHdILXFjMUZiUWtOaE5ORzlRVnlaT2dKZUhnZXJvMGc?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-06T19:46:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
+    },
+    {
+      "title": "ドコモに不正アクセス、最大約30万件の個人情報が漏えい（ケータイ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX1A0MzZLeTJHUEVwSUItX2lKZHhFQ0VvVldsNEhQZmVfNEYxNGVqVVczQWM5ZlVWMUtFYi1idmhlcnFZUUZxUFZEQkJack9aMkQwR3ZFS3U4V09aZ2lRcXdXT3R5Zk12dmFDN1d0QnFLaTdqa09RUGxfc2NaNlk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-05T20:22:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T20:15:46+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T19:47:41+09:00"
+  "updated_at": "2026-11-06T20:15:46+09:00"
 }
