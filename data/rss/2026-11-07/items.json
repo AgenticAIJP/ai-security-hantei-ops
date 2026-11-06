@@ -1818,8 +1818,53 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T02:22:24+09:00"
+    },
+    {
+      "title": "NTTドコモが「不正アクセス事案」「5G SAの通信障害」について説明　不正アクセスでは「見舞金」の支払いも検討 - ITmedia Mobile - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZbVh0UUh1NjJON1ZaVF90RnJ4NFhvS1d6WGFrVUdKTm43VHFrX29MWTB5cFhkQ2dqMDdRMnZXbkgxX3d2MHlPVGl6a2dzdUZnUXAyNndVdE5sVXNSVllCM3lWUVNxbUJDUjRReDlGd9IBaEFVX3lxTE9NSG5UQTc2RVlxQWhXX0c2ejF2Nk4wTXhxbWFyTFRmelRBb3FkWFE3UDFUT2wtTnhPdUtjUy1YaGFHTXJNX2tRMWh3WWpWaUV3RVEwdG4wLWV6MEpsT0F6eVlnbkh4U0lo?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-06T19:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T02:50:26+09:00"
+    },
+    {
+      "title": "個人情報8210件漏えいの可能性 中電子会社 取引先が不正アクセス受け：ニュース - 中日BIZナビ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WZ1F0QU1oNmFlS0JnR1BnY1c3UGpCMnlSLTJSM2JaVzZhY3NEVHpEdWFtSGxUMVVyR0g1RHNqZFRXUDB6RHpDaVZLSjBQcG53Sy1kZk4xaXJYMFM0OW5v?oc=5",
+      "source": "中日BIZナビ",
+      "published_at": "2026-11-06T20:23:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T02:50:26+09:00"
+    },
+    {
+      "title": "ロート製薬、顧客情報279万件漏えい 通話データ、クレカ番号も（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wRXhrMTN2RGlmaUJLc0VyQUwxUWJlTDVWZVVfMU5qaGkzTEdHSmRLb2hEZ3lpZnRtVHBITVZLSGlwbkl3VWk4S3JSeXBtMlhldjlyZ09ETmt1dDV0bDFmbTFlaHh3QkYyTGZBOUJOYXVNWTljb2V5ajA1R1FoOTQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T20:26:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T02:50:26+09:00"
+    },
+    {
+      "title": "JNSAの理解度チェックサービスに不正アクセス 最大1.5万件漏えいの恐れ - 株式会社アクト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VWW5Oa1hpeklxMEVYdEZUY1I0MlV4UHpQZWdObXQwTFBGQkduMDJNbWZBUnRvVTZ3SVZjMmYwUTV2TXAyVVJhQg?oc=5",
+      "source": "株式会社アクト",
+      "published_at": "2026-11-06T15:40:59+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T02:50:26+09:00"
+    },
+    {
+      "title": "三井住友海上に不正アクセス 契約者ページから約3.7万件の情報漏えいを確認 - 株式会社アクト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmb0tZY2lIWHhjUTAxd1JaU2RwZ28yTmM2Y2NGaUNWWEdlZERPVXlJUWdCd3JZR1ozY1RGRFNCVjMtNjdvNkt0SA?oc=5",
+      "source": "株式会社アクト",
+      "published_at": "2026-11-06T15:41:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T02:50:26+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T02:22:25+09:00"
+  "updated_at": "2026-11-07T02:50:26+09:00"
 }
