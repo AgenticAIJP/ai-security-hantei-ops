@@ -1638,8 +1638,62 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T00:02:03+09:00"
+    },
+    {
+      "title": "手術画像を保存した記録媒体を紛失 - さいたま市民医療センター",
+      "url": "https://www.security-next.com/192393",
+      "source": "",
+      "published_at": "2026-11-06T19:59:34+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T00:30:09+09:00"
+    },
+    {
+      "title": "駒ヶ根市のホテル千畳敷の予約サイトに不正アクセス 最大1万5000件の個人情報漏えい - 信濃毎日新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwcUdKcFF5emF2ZjgzQXgtcjhGbXBZelhKMEVXMnlMRzVOdEhqRVdnOUVXNEp0QnhtY004Z3lMVUJ6aWJyR0hISlhUZVFLX0NBN1FXbVJ6S21zbWl6N2VoWlVmNlhIWHhseVFHVThBU0Q?oc=5",
+      "source": "信濃毎日新聞デジタル",
+      "published_at": "2026-11-06T22:39:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T00:30:11+09:00"
+    },
+    {
+      "title": "アララ メールアドレス流出計8133万件に - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sX2pJdWdmUUZ6NHowYWdscVNCc185TmtZYU1lTUJhM3RhdkplejAtaW9DTENGQUtMZkFQRGdLMmx2SDA5eWc1QzdXWkVDbmZkMWU1TkRQbm1wc0hVRDRObWx4RWJZNmdDVENYRFM1NWxXQQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-06T22:31:37+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T00:30:11+09:00"
+    },
+    {
+      "title": "ドコモ、不正アクセスで最大29.5万件の情報が流出 (ケータイ Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM01ZbjJoREZmM0tfV3RoX3I1WXIybnBjLXQtWFVGYTlxb04wV1lzOHBxLXVxenRkM2NObkpsMmpDb2dJYnZjS3c0SVFWd2p5eEIxN0NnRURuLVFyeGZ5YzVLaGhWMUlaNWo3NHpkSzN4QXRuOHRlMGZEYm45Q1F4VEZ3OGdzbG9EVkNaSGdR?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T20:07:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T00:30:11+09:00"
+    },
+    {
+      "title": "【個人情報に関する意識調査】85.0％が不審メール・SMSを受信、受信者の15.1％が情報入力・被害を経験 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43TGluTWJia0I3U2FZNGZLZGJJaFNvb0d3eUVqMlVyb2ZvZnhSeG1yMDVsZ3pITWxMRWM4Q0ViR3hXZ3VycDB3NFBrN1hDdEtvR3JWM0Y0X0pMUWE2Y1ZzQ3NFUHJFNWUwZndRbTlpVTdrdw?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-06T23:40:02+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T00:30:11+09:00"
+    },
+    {
+      "title": "AIエージェント導入率で日本が首位、無監視運用も世界の2倍 KnowBe4調査 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhY0pJR09LeGxyQnBCZ0dBSVo3V3MyUFVTaWJ3dlhsTF84enhKQ19xVkppX3ROVVdMYUZESXI1UHk2eGJ2eC0wWEMxdzBja1hmMFZIQVc2Q2Utc25mVTFLcG9IeXpIZmZxdlNfWWhaeWZCUzlE?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-06T07:55:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T00:30:11+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T00:02:03+09:00"
+  "updated_at": "2026-11-07T00:30:11+09:00"
 }
