@@ -2430,8 +2430,44 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T08:34:03+09:00"
+    },
+    {
+      "title": "nginx、脆弱性 CVE-2026-42533 修正後にHTTP 500が発生　AlmaLinux 8・9・10で不具合、修正版をテスト公開",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/nginx_cve_2026_42533_almalinux_http500_regression/",
+      "source": "",
+      "published_at": "2026-11-06T09:00:49+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:02:10+09:00"
+    },
+    {
+      "title": "ソースネクスト、メールアドレス14万2,669件が流出対象-ユミルリンク 「Cuenote FC」への不正アクセスで注文・返金情報も",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/sourcenext_cuenote_fc_142669_individual_article_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T08:41:39+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:02:10+09:00"
+    },
+    {
+      "title": "北洋銀行（本店・札幌市）で個人情報漏えい カードローン「スーパーアルカ」 顧客の年収や勤務先流出 保証会社への不正アクセス原因か - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KRXJFNm5sWFk3eVlVMmRoT1dfTjZGRzNmMTNhNXBnTnRQVDNhMGtqM29kaU1mS1VOYXVCMDZDNTB0cFpUOUNQa0JfU1VvLWxMMTNJNmZpUlZFWERzOWk3RHh3T1ZiWm40VnhYaGNkdEtYbHRPUjM2U1ZpeURLTEE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T08:28:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:02:10+09:00"
+    },
+    {
+      "title": "アイリスオーヤマ、非会員含む約770万人分の情報漏えいか 外部クラウドに不審ファイル発見→不正アクセス発覚 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pbmxwZUYwY3pERXhnc2Z2UnRTQUQxQy1reHVLNnBpUldaZDc3TllOdHhOb3BfazdPNF84QzlnNGVkMWo0d0RTZFc1dFdGdGFfb1EtbE9UVUJxNWhXd2luM1ZLUUl0bkVFREQtTDFzejI5VTZaTW9MeUZnYnowQm8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T08:53:30+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:02:10+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T08:34:03+09:00"
+  "updated_at": "2026-11-06T09:02:10+09:00"
 }
