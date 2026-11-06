@@ -2619,8 +2619,107 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T10:26:13+09:00"
+    },
+    {
+      "title": "スシロー、従業員番号1,117件が流出　管理画面のパスワードを推測され不正ログイン、退職者も対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/sushiro_employee_id_1117_admin_password_unauthorized_access_20261105/",
+      "source": "",
+      "published_at": "2026-11-06T10:41:55+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:14+09:00"
+    },
+    {
+      "title": "グローバー「QナビORDER」に不正アクセス　認証不要で添付ファイルを読み書き可能、店長氏名など流出の可能性",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/globar_qnavi_order_unauthenticated_chat_api_17_accesses_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T10:30:33+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:14+09:00"
+    },
+    {
+      "title": "国家サイバー統括室／事業者向け「個人情報の漏えい等につながる不正アクセスへの対策」公表 - トラックニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EUGV6Z1NabnJXSHgwMXlLNGI0OTJIWDBmUGxXWjc3U3NBMUFJdjRoenJhTEl5MkEzYmlSQ1J3SjNpeW9JR1FNS1ZyWVBBWktzZV9Odg?oc=5",
+      "source": "トラックニュース",
+      "published_at": "2026-11-06T10:36:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:15+09:00"
+    },
+    {
+      "title": "「数年後に悪用」も…個人情報が漏れたら何をすべき? クレカ・運転免許証の流出で知っておくべき防衛策（NBC長崎放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jUE0yZTZ4SUZhZHRpdnd1MzlLMnM1a2ZpZUhXSFZ6b1k2a1NkQ294S0dZTnpBOGYtS2ZwVDEwMVFlcFZ6elNCa0lESWpuSEhoU3o5Y29nUGt5YWR6aW4wZ3JPMGwyc2Fzb19XUkMxLWV1RlF6bElKNXNHaUpfZEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T06:00:34+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:15+09:00"
+    },
+    {
+      "title": "横手市、１３０３人分の個人情報漏えいか 湯沢の委託業者に不正アクセス - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rcUFkMmEtRS1ITGNqSWtBYWZVanhmbU4yUWlKd0pGWjhPbC0xVGZ5YW5DekF2bGVocWt1cy1xc3h5UHIwbnpXbWUyRQ?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-06T10:40:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:15+09:00"
+    },
+    {
+      "title": "愛媛銀行で顧客情報漏えい 提携先企業のシステムに不正アクセス 件数など確認進め注意呼びかけ【愛媛】 - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hR2ktZV9kdDFxanJETmZjWjhvQkJNTXJ0V0lzbmtRcTlieTBVRzh6N01hWlNpUmQzcVJQRHhMYmRUWDJrVkdBcmNXNVhGUQ?oc=5",
+      "source": "FNNプライムオンライン",
+      "published_at": "2026-11-06T10:19:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:15+09:00"
+    },
+    {
+      "title": "管理画面のパスワードを推測され、不正ログインを許す - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNThERU81d3FsMzl5djdYNEdRUk5fckFJRTlRbzdIem5ORTRuYVE0TEo1b1RiUXNrMEg1Xy1Lbld1ZTlHdk9EZElhakdfMFZ0MEJpNGxOdWFaaUsyOXhLWWdvajJaQ2U2bERNa1FyQ3NQd0dvNnF6NWdIMVpJWWlrRURIQkFWcm8tajFVRkNCTjRmNE5tOXZXZzhHLXlENXk1TVNiYUd3ZU1VOURkVU44ZVF0UEl2ZUFH?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-06T10:41:55+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:15+09:00"
+    },
+    {
+      "title": "ドコモ 個人情報 最大約30万件漏洩（ABEMA TIMES） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yRFNfVndqTUNZNERNVjlmTHhHRUtsYlRtX2J5RWl5QTJ3dEh2OUR3a0FlS0VfbWtkMWdtUDI3eWI2ZmlkV1V2S2tVX1J1T2tsbFU3c01oWm1qQlBSdHdzRkxPaS1BajRDTlBOcllNcE1IY3piaHcxMjBneFB3WDQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T09:15:35+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:15+09:00"
+    },
+    {
+      "title": "福井県の就職支援サイトで個人情報漏えい 人為的ミスで顔写真や職務経歴、住所など368人分が閲覧可能な状態に - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvMUN1ZjFnSWM0U1Rya1J6RkQwazFoQ2ZIVzE0RWpRd3RQRHB1QkdweHU1WmhvU1JfM0dxTW1WZTRXM1ptMklnS3h1RHFQTU9IYnZ2MnFOVkpQeUJKVXZwbk1Oal9Oc1hCUmQ3OFhBNVh1eWctMnU3eVlPdFN0Y2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T10:21:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:15+09:00"
+    },
+    {
+      "title": "Bluetoothスニッフィングに注意--お気に入りのデバイスから情報漏えいのリスク - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpbEdXVUhVNEZjRE1IVFBfbWlnWVJFY2lqUjdEOEFuSkRHMnFfNkVGeS1yODlBcDYybmdYSURXcnFWSTdrUzhRNE5UOVNCNjlDckFr?oc=5",
+      "source": "ZDNET Japan",
+      "published_at": "2026-11-06T07:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:15+09:00"
+    },
+    {
+      "title": "トレードワークス、岩井コスモ証券の不正アクセス第3報 管理機能の設定不備を認め、検知5分以内の連絡・15分以内の判断を導入|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnY5R0RwVHB1cHI1OTJkdmwwZlczSTJlVk45VUN2RjhZTlVMN01QMkxkbjRWZ0tObnAtOEc3bHA3RHg0dk9UTlp4VDVxenZxcHNydUxzbGV1dlNWTFdsTU01cFBManExVjc3UVV4akJxN2FCdDFTdldYdlhWa1hySVo3bkdwOXpacFNWYzVUQklEb1pQSWtqSHhUVExiQQ?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-05T13:00:49+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:54:15+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T10:26:13+09:00"
+  "updated_at": "2026-11-06T10:54:15+09:00"
 }
