@@ -4482,8 +4482,98 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T23:04:20+09:00"
+    },
+    {
+      "title": "ECサイトの会員管理システムで個人情報が流出 - ノジマ",
+      "url": "https://www.security-next.com/192339",
+      "source": "",
+      "published_at": "2026-11-06T23:21:17+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T23:32:18+09:00"
+    },
+    {
+      "title": "パスワード、使い回しせず定期的な変更で自己防衛を 秋田県内でも相次ぐ不正アクセスによる個人情報漏えい - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wTlV3WjllSFM4TkxkRktDWTZ2NVY2NkNQc1pST00tdGR6WmxoekN0dUtPY0hQd2haeFQtRnVZZDF5eTNuM2FkNUtqOG1CUQ?oc=5",
+      "source": "FNNプライムオンライン",
+      "published_at": "2026-11-06T20:25:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T23:32:20+09:00"
+    },
+    {
+      "title": "首里城公園・美ら海水族館のチケット購入者、個人情報流出の可能性 「アソビュー！」関連サービスに不正アクセス 沖縄県が注意呼びかけ（沖縄タイムス） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FOUswUzc4eEdFQWRNNUt0a0xNUmlpQ1dHX3A1OHd1NGJ0eTdvNWNFTkVVXzhtTVp6V0RBTUUtQjJDaFItZWRsWE9zNWdIOFdIV1p0UlBxMXd0b2kyQmJ6X2pxMXY1TW1NVGhOWmtsZV81dzBEQ0c3bGxyQzBCajA?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T21:01:20+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T23:32:20+09:00"
+    },
+    {
+      "title": "NTTドコモが緊急会見で呼びかけ「不審なメール、SMS等に記載されたURLにアクセスしないで」 最大約30万件の個人情報流出 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Z3hSSC1JcEFVQWlkNU9YZkxNM3dRalluWl9ydm56NFZLekJsUklCT2MwNlI1QmptMTAwMHJyT1A2UHMxb0ZSSnQzdFA2OXZ4SVFrSGxwWV9NQXlmX3BESkk0M3lKN2YyZmJBUDY2Zko5TmVuR2hiZ1dxYWNncXc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T19:57:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T23:32:20+09:00"
+    },
+    {
+      "title": "ドコモ、不正アクセス被害者へお見舞金 流出は29万回線、本人確認書類の番号も（更新） - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HOVNKUjdGY2c2QkdLLVI4eFRFal8ySnA3VjEycEpDc2hGZXY3M2NVdlhZdTBvYjFxeTNpX21QbWN3YmN0dEFqZ0FxSFlaOWJ5YXc?oc=5",
+      "source": "CNET Japan",
+      "published_at": "2026-11-06T20:06:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T23:32:20+09:00"
+    },
+    {
+      "title": "NTTドコモ 不正アクセスによる顧客情報流出について謝罪会見 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Hcnl5b0pjQ1owQXpyVGNzMDhac0xDT0JWa2xkUlEzbWlvRkpkSVh4czdIQmx3NWFrSi1QaWpvbXdkenlXNVpwUWRWa0dsNVBqcmczVUZDRQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-11-06T20:45:39+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T23:32:20+09:00"
+    },
+    {
+      "title": "あいおいニッセイ同和や三井住友海上など3社で71万件余り情報流出 契約者サイトに不正アクセス 住所や電話番号、カード下4桁も（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GRGNKdGRrdmZuODFObHV5OFNNSFZNdUt5ekVDXzJlSm5xZnZBa3MxMHJKNURBWXowcUFGMmJPVFpQMHlDdGpTMDc3Nmx6NUpxYm5TeWpXc3BSMHVLQTZ4UkU1N1o1eTVyNEZWdmxyUGJUYWhGY2xqV0U0QTlrSWs?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T19:00:57+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T23:32:20+09:00"
+    },
+    {
+      "title": "警察庁長官 警察庁と47都道府県警察の合同捜査本部設置指示 不正アクセス問題相次ぐ中（日テレNEWS NNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92WGpNczloVXlSYVRKV1htOTdHN0cxa2xEc1VBaTM4bktSbGhDTmN1NnExdTJtbDdEWjFpcmp3MXUwVzdpMXlabDRQZ3Jhemp0dGszb01SOTN0MmhBNGdDOGNmNGlFU3VROU1heEVmYTJqcTl0S09GNGZJdnJXaFU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T19:14:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T23:32:20+09:00"
+    },
+    {
+      "title": "【ライブ】ドコモ社長が会見 最大約30万件漏えい 不正アクセスによる情報流出について説明（2026年11月6日 LIVE配信） - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90eHRuTmNrZHB4WEliTllTaS1HbUp4Tm9rSTZrN2h4MGhNSTJVWDcwcENwZ00zeEJtdnZSb0pqaFVDdWZIU1ZhN3N2MUVGR1RpUG1qWXZwRQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-11-06T19:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T23:32:20+09:00"
+    },
+    {
+      "title": "ドコモ社長が頭を下げた最大29万4,839回線の流出 口座番号も、診断になかった攻撃 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BRGd5eHBPTldFN1FKWTI3SmdXUjVsbW5fcldpUWRrSFQzd3VxWXVDMFY5dS0wREUzR05fdDJRYXFqTFhHbkJ0UkxTa3RfRGlfUURz?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T23:13:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T23:32:20+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T23:04:20+09:00"
+  "updated_at": "2026-11-06T23:32:20+09:00"
 }
