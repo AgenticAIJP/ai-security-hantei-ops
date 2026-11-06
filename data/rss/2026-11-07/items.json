@@ -1935,8 +1935,26 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T04:42:38+09:00"
+    },
+    {
+      "title": "施設予約サイト 個人情報流出か 首里城、美ら海水族館 - 琉球新報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MEQ3Z2dIMmJ3RG9PMkgtdzVQbGsxSlhGUWtyR2dfa29tSExiQk5zOWdWT0ZUS2JsYnN3QWFUVVhxRDJlcWdtZGkwZlp0RWY3UW5mX2cwUXE5SlpwSzFRcw?oc=5",
+      "source": "琉球新報デジタル",
+      "published_at": "2026-11-07T05:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T05:10:41+09:00"
+    },
+    {
+      "title": "プロ野球界でも不正アクセスによる個人情報が流出 ロッテの球団公式サイトは復旧のめど立たず（サンケイスポーツ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHeU1vMnhtb3FyRnFkRk1QdXoxZi01b0M3TGtoQ1hNSWF4YngxU1lWRi1LTGZfV1FKV1htendWaGhtUmtkRWk2RG9KSDdxb2lhZHdIQTc3STh5VUpxdkU2aVZlNUtRSWR2b1BwUU9vWEN2OTlFTHBOaXQxam1kS1E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T17:04:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T05:10:41+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T04:42:38+09:00"
+  "updated_at": "2026-11-07T05:10:41+09:00"
 }
