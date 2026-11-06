@@ -3384,8 +3384,44 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T16:03:17+09:00"
+    },
+    {
+      "title": "SMBCコンシューマーファイナンス、最大32万118人の個人情報漏えい 保証システムに不正アクセス - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85SmgzdjRyNHAzb1NScHpqWi1ySGptQmdjMmc1V1BlUHdWMW1FYlJkODV0eGFzWXVPa1RPTlFlMkZHbHBCY3dCeHlVZlJ3QWEwb1ZaOWh0WEo?oc=5",
+      "source": "NOVAIST",
+      "published_at": "2026-11-06T15:53:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:31:22+09:00"
+    },
+    {
+      "title": "セキュリティ団体JNSAに不正アクセス、最大1.5万件の個人情報流出か - CRYPTO TIMES",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUktPd2V3WDZmZ0ZOSC1qX1JDcUx4S01nRkhKOFAwZmhNZjJtS1hqVlJUempjQWN1NVRnaE1OZXJRamZra0hfU095U0R4WFpjRThNdVBfT2hVM3ExMDJlZnZjSE1nNXVRc1lVX3d4bVpWUHlFM0FjOV9EdTJrMDJRNlFDbFM1Zw?oc=5",
+      "source": "CRYPTO TIMES",
+      "published_at": "2026-11-06T15:55:54+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:31:22+09:00"
+    },
+    {
+      "title": "ドールメーカーのアゾンインターナショナル、自社通販「AZONET」閉鎖へ サイバー攻撃 リスクを受け個人情報の保有削減、ファンクラブも終了|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSm56TWY0Z1RFcWswUjdDaExKMnRxTmNhX3NqS09MQnVZdXREUl9FbXNpWnRRc3VUa3FkT29iTG1fcnJHTkNzWm1RcFU5bFNRR0hEZDBvRllQV1Q4cExFSDM1WHY3VUIwamZyV19IRzl2bGxueWE1eWhWcEp0dC15R1pYMS1mVDF4dWdGSlhqcHFUVTNWTENnRUxtRmt4NkVNWG5wRExFOXE?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-06T15:58:22+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:31:22+09:00"
+    },
+    {
+      "title": "QueryPie AI、AIが攻撃者の視点で侵入リスクを検証する「AIペネトレーションテストサービス」を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ca24yYXdhZVVTTld2RE5qNjFNZ1pGWXVCWUxXMHpLVXhBM2pZN3cxR18ta0kyOFE3OHE5SW1wR1o0eFlTWGdzdHlJeXJtUTJXdmRDY3dJd2NCbExqbVYyNDRseTFueVE2YVE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-06T08:00:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:31:22+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T16:03:18+09:00"
+  "updated_at": "2026-11-06T16:31:22+09:00"
 }
