@@ -1791,8 +1791,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T01:54:23+09:00"
+    },
+    {
+      "title": "NTTドコモで約30万回線の情報漏洩。My docomoなど停止で何が起きたのか。見舞金の支払いも検討 - Business Insider Japan",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFWmg5dFVaUFB2Wlk1SkZtMXg2aTBiX2J3OFVtNTFPRDZqa25feXA3cU04X1ZETFhsNExuWUh6WDdJM0d4R09TVEIzemdmdi1lNVBqUkVKTHhzampGZDllZ1BKM2VhbjdFYUJXWDQ5c1ZrdWtOT0FDbVJkSlI?oc=5",
+      "source": "Business Insider Japan",
+      "published_at": "2026-11-06T22:25:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T02:22:24+09:00"
+    },
+    {
+      "title": "ドコモ社長が頭を下げた最大29万4,839回線の流出 口座番号も、診断になかった攻撃（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54OG1YQXBrSzJzT0J3ZzZibWliYzJfSmx1UzZPbmVLNW1Yc2xRQ21qSU1VVU9RMEQzNTAya2h6ZXRrc1lWNWMwVzRpZkl6VExYc2tpM2l3MU9Xd2lfR25ZWllYV09fbkh2T0hBNGdvaUdqWWYyVUhiX2dfU3hPSEE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T23:25:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T02:22:24+09:00"
+    },
+    {
+      "title": "デジタル証券などを提供するSecuritize Japanに不正アクセス、NTTデータなど委託元各社が情報を公開 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlZHJJSG11M01kT3Vpbm9oRUxHMkYxajhOOU5zSUh2LS1jV01iQkZhc1hwc1lPcnB5cmVuSmkyYTVleEF2a2VXbkYySVZJYXMtYWJoVjRIUWx5cHoyUjhEYkphRUlyY0hQd2JV?oc=5",
+      "source": "INTERNET Watch",
+      "published_at": "2026-11-06T15:28:31+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T02:22:24+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T01:54:23+09:00"
+  "updated_at": "2026-11-07T02:22:25+09:00"
 }
