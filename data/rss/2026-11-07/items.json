@@ -1899,8 +1899,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T03:46:34+09:00"
+    },
+    {
+      "title": "ドコモ最大29万件の顧客情報流出で見舞金を検討、「ahamo」サイトも予防的に停止（ケータイ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEMEQ0N3pIZy1HZTdYS3FqNzdPWHE0YW0wdE5zblV0SnhpRzRnZGtBYkVlLWtMUmlBeGQzNTRhbTFuVWk0b0poejFpejdjenpyVGVCam5PeXRwS3VaaU1ydnZYX1l0RkRRb3RFZUJTUVZ4cncyU0JXWW1BU0Zlczg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T19:54:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T04:14:34+09:00"
+    },
+    {
+      "title": "NTTドコモ 最大約30万件の顧客情報流出で陳謝 一部で勤務先や口座情報も 見舞金も検討 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwZUcyaHJCaUZaeWZYbHF3V1d1RVduUDhKLWFHQ2FpVUx3UVN3Qmk4T2VkVE9yV1FxU29NUW9FdlFENVVFbm9mVWdPeVVsVDZ5RUEwd0FmNDlJYUMxcFZDTFFxQWdoc1dfbklpR2tGdEZrQQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-06T21:42:48+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T04:14:34+09:00"
+    },
+    {
+      "title": "MS＆ADで71万件漏えい 個人情報 クレカ一部も - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hUndfQzV2VHNoMjhGNkt2VkR4Z2RjYU9XdXZMdmM1MndoS055c200S2xQd3dEVUJjY0NMLVFLSElIRVBtcWR4eXdFSUVaS2ZwdUlhZFB1cXFYcVFxdkE?oc=5",
+      "source": "沖縄タイムス社",
+      "published_at": "2026-11-07T03:57:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T04:14:34+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T03:46:34+09:00"
+  "updated_at": "2026-11-07T04:14:34+09:00"
 }
