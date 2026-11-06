@@ -3420,8 +3420,89 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T16:31:22+09:00"
+    },
+    {
+      "title": "日本郵便／委託先への不正アクセスで顧客情報が漏えい、CBcloudと寺田倉庫で名前など - 物流ニュースのLNEWS",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uaVJKMWhZVkRPQ1p2SFZvUmMydnFVSUVnbUJkUTdmTlk5TGtfQWU0LVQzTDAxVVJ0eDZiSklEU3U1ODdoYlprR1dXNFBEd1RKRjEwSQ?oc=5",
+      "source": "物流ニュースのLNEWS",
+      "published_at": "2026-11-06T16:12:27+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:59:25+09:00"
+    },
+    {
+      "title": "ＭＳ＆ＡＤグループ３社、約４９万件の情報漏えい＝不正アクセスで - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TUGxvLW1FOGRpZzV2YUtzUW9aaGJyRDVQNlFKLTdvaUJwdkI0ZWRHNVJOeHAzbmN0U29aX1cxeVhEOXJyZk1kMkRKWklHMG1YYnM5X1M1bFQ?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-06T15:53:49+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:59:25+09:00"
+    },
+    {
+      "title": "不正アクセスでノジマの会員情報約700万件が流出 カード情報は対象外、2サイトを一時休止 - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VREpLaS1tekYwWTdfcTR1dXU4NXdTV29odDV0NnBaMGNWRzVmUGJ5VGE3QU9fM243ZDVZRmRVclgtZW9QMVN2WXowZDdPdnR2VDkwSWVWbi1SV1NoeEdzNHhqdWNKdDV1X3RV?oc=5",
+      "source": "NOVAIST",
+      "published_at": "2026-11-06T16:14:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:59:25+09:00"
+    },
+    {
+      "title": "「松屋」公式アプリが6日午後に復旧 不正アクセスで一時停止 - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XRUV2MWR3UFNfZUd1eDEyNUxUTGpJZ3J5cnQ1aGdlQjlxTmt5d1VqWlNHTndEcmJ6T0RlaVVobTk0VFQ3emtieWlBOWNBbWprRm9nWTUzTnZURU1NQTEwUkFmVGI?oc=5",
+      "source": "Impress Watch",
+      "published_at": "2026-11-06T15:58:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:59:25+09:00"
+    },
+    {
+      "title": "情報セキュリティ教育サービスで情報漏えいの可能性 JNSAが利用停止、外部専門事業者と調査 - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ybG5McWdsX0dWNUdPQmlRa0c2c3FKX1I2dVY3ei1MNFlhM3lLRWNBWl8wNlNXNE1zZEdvcTJXUXF2X0RmdEgzQi04OXB5N29Wc1BkbFR6TzljZ2lockQ0?oc=5",
+      "source": "NOVAIST",
+      "published_at": "2026-11-06T15:59:22+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:59:25+09:00"
+    },
+    {
+      "title": "機関Naviへの不正アクセス、漏えい対象を具体化 機関投資家ら約2,000件と元社員約250件 - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CbWpfdXMwT0kzYU5VUEhrdnZLNjNfSTJ4SmhvRFhNem9zSUVrTDlJRDZMb3JQSHhZclVFMnNTOFBCY2hFRHlySWdlcnBOV0k1eDFkazY0emIzVDEtZGNUSzBXZVY?oc=5",
+      "source": "NOVAIST",
+      "published_at": "2026-11-06T16:23:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:59:25+09:00"
+    },
+    {
+      "title": "【重要なお知らせ】メール配信サービス（アララ株式会社）への不正アクセスによる個人情報流出に関するお詫びとお知らせ - 株式会社サイバード",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10TVI5RE1HNzc1cHJnTnN2T2dlVXhfRFZaQms2OHliZDdDcE5oQlBXUVdrT284VEtfNjljUkdqdUNUVTRYRDhWUzhBQTVSODdoSDlv?oc=5",
+      "source": "株式会社サイバード",
+      "published_at": "2026-11-06T15:00:11+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:59:25+09:00"
+    },
+    {
+      "title": "デジタル特典付き社債の外部基盤が侵害 NTTデータ、購入者111人と2,678人の情報漏えい確認 - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OZDZ3eGlGbXJhNXJqZ2pSOHNqSVJPNUd4eGNqZ2FCUk5nYmp6eWcwQkVZMkRJdjE2S212ODNTZUN0Wk90R2dBWUplRUQxTWQ3SVo2VTlmWmhYemVFcmozM3g1Z0psZw?oc=5",
+      "source": "NOVAIST",
+      "published_at": "2026-11-06T16:08:29+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:59:25+09:00"
+    },
+    {
+      "title": "パ5球団に登録の個人情報が流出 PLMが発表…メール配信サービスに不正アクセス - Full-Count",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RZFVHNkZXLUxJNWMxeHd1dkd5WGFMbGJ4aGZLYVFEOUhRQlNjbW92N24zTnFxY2YyRVdMaVN0dnhXQ0ZOM2w4S3o3WTl5Um95VXZUeFRpd3Q?oc=5",
+      "source": "Full-Count",
+      "published_at": "2026-11-06T16:08:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:59:25+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T16:31:22+09:00"
+  "updated_at": "2026-11-06T16:59:25+09:00"
 }
