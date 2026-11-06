@@ -3006,8 +3006,62 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T13:14:37+09:00"
+    },
+    {
+      "title": "日本郵便「防災ゆうストレージ」、氏名・会員ID・メール本文など漏えいの可能性　アララへの不正アクセスが波及",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/japanpost_bosai_yu_storage_arara_data_leak_risk_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T13:41:28+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:42:43+09:00"
+    },
+    {
+      "title": "セキュリティ専門団体が不正アクセス被害、最大1.5万件の情報漏えいか ID・パスワードも対象に（アスキー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnVXdBM2JTQjFvSWZvalhMMnlmY1FkM19ENHd0R3NoMlF2Um9SZHJNQXZhdGtXOVM5d3hFdDk1RHZWNXE2TVpHTGg4SVU1SnduanVCX05uZFMxRDJPdTBtVXdnZERyZmZWMWdCUmFlVXEyNWhPWVdBZnVkOUJudEE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T13:10:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:42:44+09:00"
+    },
+    {
+      "title": "東京海上ダイレクト、不正アクセスで74件の個人情報漏えい - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vYkNTT1FUekFLTDQ4Q3hfVVpOVDc4MTBjXzdfd3kwQ0lLWUV1UDAtbTd6UDBOQ1RIRDlxM09rN3pfZUIxNFlGOF94MFN6UlJfMmNYYXpn?oc=5",
+      "source": "ニッキンONLINE",
+      "published_at": "2026-11-06T12:21:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:42:44+09:00"
+    },
+    {
+      "title": "SMBCコンシューマーファイナンス、保証業務のシステムに不正アクセスを受け、最大約32万人の年収や保証額を含む個人情報が漏えい - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIYldJcWJzdHlaNEpfcnBTUno1azVWX1V4MjlnTmo3YURXQkRacTZfRV9tV1JpZm45bEFKQkRId1FDY0xsMDVGVWp6cWppVXA2WklaVWdJQ3JoN2pRNHhtaEh3S3lYc1Vpajg0?oc=5",
+      "source": "INTERNET Watch",
+      "published_at": "2026-11-06T13:25:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:42:44+09:00"
+    },
+    {
+      "title": "福井県の就職支援サイトで個人情報漏えい 人為的ミスで顔写真や職務経歴、住所など登録者368人分が閲覧可能な状態に - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvMUN1ZjFnSWM0U1Rya1J6RkQwazFoQ2ZIVzE0RWpRd3RQRHB1QkdweHU1WmhvU1JfM0dxTW1WZTRXM1ptMklnS3h1RHFQTU9IYnZ2MnFOVkpQeUJKVXZwbk1Oal9Oc1hCUmQ3OFhBNVh1eWctMnU3eVlPdFN0Y2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T10:21:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:42:44+09:00"
+    },
+    {
+      "title": "ソニー、プレステサービスの不正アクセス「措置を講じている」 被害状況は公表せず - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rQ3NsZExmdE9YTU8wZnE1d1B1RC1TOVZUUjRwYm9SSTRaNHMxNkM3VDAtdXNKZjJpeXFxNFFRaE13MWRpQmhWcTAwYTA5U2cyRmNLUGZVQVUxSWpReDhYVEwtSDZDSWVIUlE?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-06T11:58:44+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:42:44+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T13:14:37+09:00"
+  "updated_at": "2026-11-06T13:42:44+09:00"
 }
