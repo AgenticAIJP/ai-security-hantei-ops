@@ -3303,8 +3303,89 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T15:35:14+09:00"
+    },
+    {
+      "title": "ドールメーカーのアゾンインターナショナル、自社通販「AZONET」閉鎖へ　サイバー攻撃 リスクを受け個人情報の保有削減、ファンクラブも終了",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/azone_azonet_closure_personal_data_minimization_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T15:58:22+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:03:17+09:00"
+    },
+    {
+      "title": "良品計画、無印良品ネットストアを再び全面停止　MUJIアプリも会員証以外利用不可、顧客情報保護で追加対策",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/muji_20261106_service_suspension_article_rewrite/",
+      "source": "",
+      "published_at": "2026-11-06T15:55:25+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:03:17+09:00"
+    },
+    {
+      "title": "西日本の128信用金庫で大規模なシステム障害-ATM・ネットバンキングが利用できず、共同センターの通信障害が影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/shinkin_west_japan_128_system_outage_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T15:36:23+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:03:17+09:00"
+    },
+    {
+      "title": "ユーグレナ「あきゅらいず」に不正アクセスによるサイバー攻撃、最大約90万件の個人情報、漏洩の恐れ-アララ・佐川経由でも被害|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2TVc2cUlaUEV0TF9YYjUxQmNoUGJpVUFaRjBGMGhMdDFpN3JYSGxXQjY3c2t6d29UT0ZrUl9NdXJiMnlBdUZldkNlTFN3WnRGaHhhVFFIZVNsbU80QkNTQ0cySnVhaWpscTIyUDk5QzBlcWg5LUF4Nmg5R05uNTN0SVg2NVp5ZFZ2U1E4WmxzTjRadl91VkVEcWo5TlBaQWc?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-06T15:28:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:03:17+09:00"
+    },
+    {
+      "title": "国家サイバー統括室、個人情報漏えい対策の徹底を要請 AI活用や脆弱性診断など - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51dERiQ1BNcUtSRzRvUmxVNmN0RVYtZUV6SlVKWW5WYmxFcFl5UWxGWjNTNERTR2YtclVvOXJuWnRtSk80MkhWTTZUYVpSRFZZR00xTXY1YzJQWVh0T3Y2ZzQya0M?oc=5",
+      "source": "Impress Watch",
+      "published_at": "2026-11-06T15:37:29+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:03:17+09:00"
+    },
+    {
+      "title": "デジタル証券などを提供するSecuritize Japanに不正アクセス、NTTデータなど委託元各社が情報を公開（INTERNET Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ISVY5aGwtSmFFRl9tTTZJc0FqYzRWNFZicHJ0NDF3bW5NeUJkcXFWcXlKWVRHX1p5S0RJb0xxM2lXbE9ESnBYYXNQdk5peFRHaTJ5dC1WTngwT045RDBUX1hUMGtmalB3ZzR0a21QVzhfRnhCMEd5NEtBM210S3c?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T15:28:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:03:17+09:00"
+    },
+    {
+      "title": "あいおいニッセイ同和損保と三井住友海上火災保険に不正アクセスで計48万件情報漏えい - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaVJONHdYLVVlQk0xSDZQS2pQVlNzOVRib3hjZHNLUm1TR09ySktWcHBkcm1ZbGR1NTdrenJVd2lLTHZDUEJJYzhFQU1OZUxNYWIxNjVxOFFhc0tOVm9BMVVvaDNhVEgzRjFleEhDbXZ6QWVjOFpIdWdkYzNiRDQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T15:18:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:03:17+09:00"
+    },
+    {
+      "title": "サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92bFZXMXZqVXV1WGtnOGVQZU1PMXN6cGswaHdaZXc0SHVfTldydU9aOUhzSERkVHJCTFhsMlRmTVVuWENaTDNaa2NHOXZiOTZFbzdBOG5ySE93UXdDX3A5Z2pTQmhid2MxRWc?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-06T15:25:33+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:03:17+09:00"
+    },
+    {
+      "title": "愛媛銀行の顧客情報が漏えい 提携先企業のシステムに不正アクセス 件数など確認進め注意呼びかけ【愛媛】 - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hR2ktZV9kdDFxanJETmZjWjhvQkJNTXJ0V0lzbmtRcTlieTBVRzh6N01hWlNpUmQzcVJQRHhMYmRUWDJrVkdBcmNXNVhGUQ?oc=5",
+      "source": "FNNプライムオンライン",
+      "published_at": "2026-11-06T10:24:40+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T16:03:17+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T15:35:14+09:00"
+  "updated_at": "2026-11-06T16:03:18+09:00"
 }
