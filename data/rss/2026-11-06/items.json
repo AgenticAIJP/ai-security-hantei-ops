@@ -3708,8 +3708,44 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T18:23:38+09:00"
+    },
+    {
+      "title": "あいおいニッセイ同和損保、不正アクセスで約44万4,000件の個人情報漏洩　保険証券番号・住所・カード番号下4桁も対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/aioi_nissay_dowa_444000_customer_data_leak_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T18:32:25+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T18:51:36+09:00"
+    },
+    {
+      "title": "日産フィナンシャルサービス、顧客の車両情報など最大２３万６０００件漏えいか…委託先に不正アクセス（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53dEhONFhDb3l4cG1UUmt5aDgtc1d0SVl2MnNRXzZWNFRjV0MwT0dwWWxTOEptZ0xfOWNobFpUNG1Wc0IySUdDd0ppbWVXa3E0UjJqTkhSM2NkV21pbk9YSTc2Z3Ztb3IwVVJhaXY3RmJuZWtiNjhtc1QxSUFabG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T18:02:28+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T18:51:36+09:00"
+    },
+    {
+      "title": "プロ野球界でも不正アクセスによる個人情報が流出 ロッテの球団公式サイトは復旧のめど立たず（サンケイスポーツ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHeU1vMnhtb3FyRnFkRk1QdXoxZi01b0M3TGtoQ1hNSWF4YngxU1lWRi1LTGZfV1FKV1htendWaGhtUmtkRWk2RG9KSDdxb2lhZHdIQTc3STh5VUpxdkU2aVZlNUtRSWR2b1BwUU9vWEN2OTlFTHBOaXQxam1kS1E?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T17:04:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T18:51:36+09:00"
+    },
+    {
+      "title": "【湯河原町】湯河原町スマート申請システムで個人情報漏えいの可能性｜メールアドレス913件に影響か - 湘南人",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oRnlpeVNWUlZqa21sZUt4RWVINTJuMFRBLVo0cExDOVhSQmlaRXhXR28wZHBLOXNaT2x2bWMzT0lsZFllbDJSRXVjTGhtS0piaGpaOXg1UmxnaFR2TjFSZWF2aG4zTlRmc1hveUtzN0VSWHhfN2ZLXzBvd1VpUQ?oc=5",
+      "source": "湘南人",
+      "published_at": "2026-11-06T17:55:42+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T18:51:36+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T18:23:38+09:00"
+  "updated_at": "2026-11-06T18:51:36+09:00"
 }
