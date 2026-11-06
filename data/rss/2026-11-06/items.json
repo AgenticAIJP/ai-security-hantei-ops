@@ -3663,8 +3663,53 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T17:55:29+09:00"
+    },
+    {
+      "title": "ロート製薬 不正アクセスで約280万人分の個人情報漏えい - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yQURmUENRVVlMbzF5UjZzZlBDNmdHeHlEZFFUNmFIVGN2YTlWUEV3ZWtpMkFDNVIxYThzaU1sZWc1V2JJSk5JTU9oZ29aWmJEa2lHVWhMMi1GbGZCTHdz?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-06T17:57:19+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T18:23:38+09:00"
+    },
+    {
+      "title": "ユーグレナ 通販サイトの会員情報 IDやパスワードなど漏えいか - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4LWItT3ZQYzhrWTZhTklrY3lldE94OV9MdW1rYUlOcFdONnZvT3F5YXZhX3BPTlQ1WUpIcVVRVUVGVVVnTmloS01DTks2ZGIwMGV0VHRHa3FuYVZMMHVV?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-06T17:09:28+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T18:23:38+09:00"
+    },
+    {
+      "title": "損保大手2社で契約者48万件が漏えい、一部はカード下4桁や口座番号も…あなたは対象か ｜FinTech Journal - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Rc2dZOHVrckJTNnkzSTlKeDRwZWtNVzVmVWxrS2p6TzZXQVQ0Mld2dzdWYzU5bFZkdG9yeUlxN3lVSEUyZzFpdU9xaXJ5WnM?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T16:53:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T18:23:38+09:00"
+    },
+    {
+      "title": "生成AIを活用するマーケティング支援会社として「生成AI活用の基本方針」を公開。あわせてIPA「SECURITY ACTION」二つ星を宣言 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uOF9TQnY1eHVTeVRUSVktUEJ3NkRwYXdpSHE2Mnk3dXBzdnN3Q25TRDAxZWVjY2FieFFudHpMWndxVjN6eVpPdXdqVmdGSzNBNDl2b2lOeG5lVkhCXzIxeWgwWDZlNjEycHc?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-06T17:05:05+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T18:23:38+09:00"
+    },
+    {
+      "title": "【マンガ解説】電脳覇権戦線～もしJKがフロンティアAIを作ったら～：第5話：AIアライメントとAIの安全性 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZYlBpZ2p5bXpnZ0pOU1ZpRnBYWFdPWjRCZ0lmZmVaaGFfZDNuVjVGcVNRZWtYZ2w1OEtFUWFzTHpZbTlER3UyVDRsTkdRNlE?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T17:30:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T18:23:38+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T17:55:29+09:00"
+  "updated_at": "2026-11-06T18:23:38+09:00"
 }
