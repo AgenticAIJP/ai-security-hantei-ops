@@ -2160,8 +2160,26 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T08:26:46+09:00"
+    },
+    {
+      "title": "由利本荘市と大仙市で個人情報漏えいの恐れ 委託業者が不正アクセス被害 - 秋田魁新報電子版",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lZGw5NUJRVFV4aHl5TnJyVVZiNktWdjBkVTIzZVE3dFM1YXRYdmxkTnJPRF9aM0M3Sk1MWl85eHBsZ2s3bHJkY2ZySUNnb1NSZTFyNWlQMXBwd01nNGNmUndR?oc=5",
+      "source": "秋田魁新報電子版",
+      "published_at": "2026-11-07T08:30:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T08:54:49+09:00"
+    },
+    {
+      "title": "不正アクセス最大30万件の顧客情報流出 携帯キャリア最大手ＮＴＴドコモ 青森県民が不安（青森放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15b1Zja1ZYeUcyS0VoUUplSF9Ya19fUFpZT1dSeE5jZ2cxOW9YNUJSSlpiaXh0aFMxWERXRGFiQ0xHWG1YVkd2RnRLMnFCd01DVjNpRURMMkFSMjA1NmtWN0ZuTGx0M3M0TW5DWjNpN0E2ZVcyWlZYbXlSTXhDYlU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T20:12:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T08:54:49+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T08:26:47+09:00"
+  "updated_at": "2026-11-07T08:54:49+09:00"
 }
