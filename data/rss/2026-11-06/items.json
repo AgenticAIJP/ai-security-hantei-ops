@@ -3501,8 +3501,80 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T16:59:25+09:00"
+    },
+    {
+      "title": "経営層に届かないセキュリティリスクが企業を危機に陥れる｜中堅・大手企業のガバナンス実践ガイド",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/document/executive-security-governance-whitepaper/",
+      "source": "",
+      "published_at": "2026-11-06T17:18:14+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T17:27:24+09:00"
+    },
+    {
+      "title": "ブックオフグループホールディングス[9278]：不正アクセスによる個人情報漏えいに関するお詫びとお知らせ（第3報） 2026年11月6日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUU5fdDdNX2ZqMWtoWC1WSnc1TDlpaEdSN3NibjVPWmJ6MXVENllLQzJlbVN3RVNLYlB4LVlIMFdocVhjMlRkeW02bXFCRW9ReDhUcWRoSEhNRUlkbHlOYnJ6TlZfVGpoQW9DM0lUMkJHVy1HVTc2TG15QS1aM2Q1Tloxdkh4RkQtdXhHS1NUdmd4WWZyRnJOUVJZamhsdFpxWW9tbXdSUHRrVlc1c3dkTUpPaDF6aFMtMVNfRHNIOFNnZ0U0ekhSY3BhTTY?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-06T15:30:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T17:27:24+09:00"
+    },
+    {
+      "title": "サントリー、外部クラウドへの不正アクセスで個人情報漏えい 従業員約9万人と採用応募者も対象 - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43cVpibjY4R0ZQdzdBVWFwM3dXREZzUEhibHZqMmFmUVl0NncweVBwZTY3WGxHT0hTazFYbk1yTkkxLTM0Z2NFQkttUWZBdTdMQXhlQllReDJSRDBSSmZDRC1sdkE?oc=5",
+      "source": "NOVAIST",
+      "published_at": "2026-11-06T16:11:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T17:27:24+09:00"
+    },
+    {
+      "title": "ソフトバンク、関連サービスで不正アクセスにより個人情報が流出 - 西スポWEB OTTO!",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZVmtGNi01OUUtYWwzWmdJQ0tTUXFtR25DTEV4WGNJaFFMb2VpaUpfeVp2SmpRSzhTTnF3YkdiOExMZzZRYWw1bnctU0Q0aFVleU1HQTkwaVZoV0VXY2pn?oc=5",
+      "source": "西スポWEB OTTO!",
+      "published_at": "2026-11-06T16:23:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T17:27:24+09:00"
+    },
+    {
+      "title": "プレステージ・インターナショナル、最大約550万件の個人情報流出を公表 KDDI委託分も調査 - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zSzl0ZHNzUkZpQjB4TG8xdm96TEQ0Z3QtZDZrOEhsaWNvaFczYWJ0NWVkcjFGYV9JdHk0Uk42VjVTdW9yMkpJX0FPRENCNzlkZ2U3d0FGcw?oc=5",
+      "source": "NOVAIST",
+      "published_at": "2026-11-06T16:16:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T17:27:24+09:00"
+    },
+    {
+      "title": "ポルシェ、顧客情報流出のおそれ 委託先への不正アクセスで - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BeVhDZUhOSW9EUkZhUXpZTjFiUGpuR0FiWk02elZXaFdiUXFjNjNTVlV5Vm9VRzZGejlnN3UzTG1wMl9UWEw5WElnY2pqakxZd3Q2Qg?oc=5",
+      "source": "ASCII.jp",
+      "published_at": "2026-11-06T13:20:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T17:27:24+09:00"
+    },
+    {
+      "title": "「ロボットを買えば省人化」は幻想？ フィジカルAIでも「自動化できない仕事」の正体 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFV21VdFNjUFlEMlNQX2lKYURYLTBndGR4TFhJMjRyMTFDNmRrZlYzNE1WNmdGZGRMRUhWX19XRDV3OHB0c0NQSll1ZURPam8?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T07:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T17:27:25+09:00"
+    },
+    {
+      "title": "【福島・医療創生大学で初】看護DX人材育成講義をeWeLLが実施 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Jb2xBNkJyb3V0a0dEMW13QjBTMlRSUE1SRzdHTEhzMEhhRGkxY3dfWW1Qdkg2RHlTd0p0TXJLTThoZE9EWWgwVW5yeVhZdVVtLVY4XzlDaUFpS1g2SVZTQ1dzZ0NkeEhM?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-06T15:00:27+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T17:27:25+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T16:59:25+09:00"
+  "updated_at": "2026-11-06T17:27:25+09:00"
 }
