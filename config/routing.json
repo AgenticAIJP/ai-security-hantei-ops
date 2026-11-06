@@ -26,9 +26,9 @@
   "budget": {
     "managed_session_usd": 2,
     "managed_daily_usd": 70,
-    "managed_daily_usd_by_date": { "2026-11-07": 110 },
+    "managed_daily_usd_by_date": { "2026-11-06": 85, "2026-11-07": 110 },
     "on_daily_cap": "昼の仕事は managed_daily_usd − hanseikai_reserve_usd で止め、反省会の仕事だけ managed_daily_usd まで使う。止まった仕事は保留する。足りないときは min_interval_min を 50 に延ばすか、hantei_daily_max を絞る。質は下げない（PLAN.md §6.4）",
-    "hanseikai_reserve_usd": 10
+    "hanseikai_reserve_usd": 25
   },
   "retry": {
     "ack_timeout_min": 60,
