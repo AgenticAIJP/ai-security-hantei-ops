@@ -3231,8 +3231,80 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T15:07:09+09:00"
+    },
+    {
+      "title": "ユーグレナ「あきゅらいず」に不正アクセスによるサイバー攻撃、最大約90万件の個人情報、漏洩の恐れ-アララ・佐川経由でも被害",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/euglena_akyrise_three_independent_breaches_20261105/",
+      "source": "",
+      "published_at": "2026-11-06T15:28:58+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T15:35:13+09:00"
+    },
+    {
+      "title": "東洋大学、大学関係者の一部アカウントに不正アクセス　文科省・個人情報保護委員会に報告、情報漏えいの影響を調査",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/toyo-university-accounts-unauthorized-access/",
+      "source": "",
+      "published_at": "2026-11-06T15:27:21+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T15:35:13+09:00"
+    },
+    {
+      "title": "ロート製薬、サイバー攻撃で279万7,545人の個人情報漏えい、クレカ番号も一部漏洩-電話システムの認証情報を悪用",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/rohto_2797545_9715_phone_account_data_breach_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T15:12:54+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T15:35:13+09:00"
+    },
+    {
+      "title": "アイリス、７７０万人の情報漏えいの可能性＝不正アクセスで - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HcDBvT0RlSkdfOXNoaXFweVVNejRVYk1iUXNyM1MzUkhjMFJUWE1mRk9fdk5HZms0VG9WZWJkOExmUlhrM19leUJkZ01HbDBxd3JZb3N5WXM?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-06T07:49:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T15:35:13+09:00"
+    },
+    {
+      "title": "ライフ、顧客情報13万件超流出か アララ不正アクセスで - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hTk1GcnFXOEpLTHZIUVZRcWd0cEpWby13bHFGNmVKVEN4NG91WDZCLUFZU2MtTDR4T0VpRlFmdGhTdGRadnVsSmJXU2t2MVIxUVAzVGZMR1pzQlhGaWtnRXQ3cVN3MTBNY2luaw?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-06T15:22:17+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T15:35:13+09:00"
+    },
+    {
+      "title": "アイリスプラザ、不正アクセスで約770万人分の情報漏えいの恐れ 退会者・非会員も対象 - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTThaWVRRd3dFTzhMTy1kajZKejFqaEZXOFh1dmZLSG00Vi1jcnBfdmlvTUpnSWIwUHlqc2E4czMzU2lrNmNocWtlWndrZ2tUNzkxMFhjTXd6bzFhNE0tTg?oc=5",
+      "source": "NOVAIST",
+      "published_at": "2026-11-06T15:06:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T15:35:13+09:00"
+    },
+    {
+      "title": "小田原市立総合医療センター、小児科予約システムに不正アクセス 登録約2万2千件に漏えいの可能性 - NOVAIST",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRmx5cWdaRkhFZE44NE5vSkVZVjBQUUhqMlFuaEIza09uYUVWQlE4V3VMMkpYTmwyWlpwd2xPS3p2a3c4bjZxRFVQVkVTWmRuUXI1Q21hc2VWRUhOXzBxaUpFU211REE?oc=5",
+      "source": "NOVAIST",
+      "published_at": "2026-11-06T15:03:25+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T15:35:13+09:00"
+    },
+    {
+      "title": "OpenAIのサイバーAI、評価は最上位「Critical」 Firefoxで未知の脆弱性81件を発見 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ySlE1a29tMGhnR013ajQ0b1lVbUM3NmNrVnVPMjV1QlVfdEoxMXVuUXNaaFZkRDJhZDdzZHgxTXFhbjk2YnF5Q1BaUFlJQVBRUjRj?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T02:44:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T15:35:14+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T15:07:09+09:00"
+  "updated_at": "2026-11-06T15:35:14+09:00"
 }
