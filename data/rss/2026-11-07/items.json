@@ -1692,8 +1692,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T00:30:11+09:00"
+    },
+    {
+      "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件 - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zYVdrQzViZm1laElPNnF6Qkt0VFpmZzlVVlZsbUJkbllHVThGOG14bXRKT0JBLUZqQVpVdkR6TDVIak1YOEVjVjI4Z0V4bVR1ZkF1OW4wcmlCM2FIQ3NLX3V0SUc?oc=5",
+      "source": "Impress Watch",
+      "published_at": "2026-11-06T19:36:34+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T00:58:18+09:00"
+    },
+    {
+      "title": "政府、AI活用でサイバー対策を徹底－不安払拭へ緊急パッケージ策定 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qaFp3MllYdDhjY3E5aG1tUk9vdVZ4UUJCQlJ0NUpXNk9EU1JWeDd1SmRaQXpXN0ZERDJxd0dKWGNpaEdMU241ekNuNHpLUW5xNmppRGE1b3dpUXRKLUpWNUxROC1PZVNhWVNnblJmSGRxbXpm?oc=5",
+      "source": "TBS NEWS DIG",
+      "published_at": "2026-11-07T00:30:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T00:58:18+09:00"
+    },
+    {
+      "title": "OpenAIのサイバーAI、評価は最上位「Critical」 Firefoxで未知の脆弱性81件を発見 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ySlE1a29tMGhnR013ajQ0b1lVbUM3NmNrVnVPMjV1QlVfdEoxMXVuUXNaaFZkRDJhZDdzZHgxTXFhbjk2YnF5Q1BaUFlJQVBRUjRj?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T02:44:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T00:58:18+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T00:30:11+09:00"
+  "updated_at": "2026-11-07T00:58:18+09:00"
 }
