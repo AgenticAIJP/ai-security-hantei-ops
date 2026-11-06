@@ -2925,8 +2925,89 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T12:46:25+09:00"
+    },
+    {
+      "title": "クラウド開発プラットフォームのVercel、盗まれたセッションCookieの悪用を防ぐ「DBSC」を導入開始　TPMで端末とログイン状態を結び付け",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/vercel-dbsc-device-bound-session-cookie-security-20261105/",
+      "source": "",
+      "published_at": "2026-11-06T13:00:32+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:14:36+09:00"
+    },
+    {
+      "title": "国家サイバー統括室、相次ぐ個人情報漏えいで対策強化を要請　AIによる脆弱性探索やAPI悪用、EOLソフトに警告",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/nco_20261105_web_mobile_api_security_alert/",
+      "source": "",
+      "published_at": "2026-11-06T12:47:39+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:14:36+09:00"
+    },
+    {
+      "title": "国家サイバー統括室、事業者に向けに不正アクセス対策のポイントをまとめた資料を公開（INTERNET Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUzJOMU1WR2syNFlNXzFPcjNnVnJGN1V6YTJnVVVacUJiMy1lUWtSQVBxdEJWejRZNnZsQUdqVjhSN3JyQVZFaHJsWkhzVlhWdjNkVldGaktNSGFURTBWaEFuYmNsMVp1dlZWNk50MTdFaVlyRWVLNTZlckhvUGc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T12:55:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:14:37+09:00"
+    },
+    {
+      "title": "北洋銀、カードローンの個人情報漏えい 保証会社への不正アクセスで - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qZjZfYmtMU2NhbVNlcnUzUmhJSGxZSVV0bmtjekp5amtsZzd2eWRabEhTU0RYVlRtc3hXSlhOaHA4M2RDZ1d5TnJrZGVGel9YWGRRYV93?oc=5",
+      "source": "ニッキンONLINE",
+      "published_at": "2026-11-06T10:23:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:14:37+09:00"
+    },
+    {
+      "title": "セキュリティ専門団体が不正アクセス被害、最大1.5万件の情報漏えいか ID・パスワードも対象に - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04R08yaE5MTDNXZWtEZEl6eDZYMVVfamRFcndicHdmb2pXd3VIdWRkQ2pqaUJBc3RWUG10M2ZIckNLQnNpVEdHSnp2Q0UySU5xeXZveFVvemFiQQ?oc=5",
+      "source": "ASCII.jp",
+      "published_at": "2026-11-06T13:10:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:14:37+09:00"
+    },
+    {
+      "title": "サイバー対策強化に１００億円＝政府が予備費支出決定 - リスク対策.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wYVBpV2ZoMU5NNGxlR3JidnZzN0JhSVhKbkxSSkNvMkJNNTlENmhnc3RvT3E4ZXQ4ZDRySjFpSW45bDFJVk03aDF3ZUJHTjNmUG5RMDR6YVM?oc=5",
+      "source": "リスク対策.com",
+      "published_at": "2026-11-06T12:51:37+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:14:37+09:00"
+    },
+    {
+      "title": "【情報漏えい急増】攻撃による流出前提に対策 正しく恐れ、正しく備える 東京電機大情報セキュリティ研究室教授 寺田真敏 - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80R044RkI3Yl9UVFhRV2MzOXgzZEUxSzdtYmdPeDVOSVphejlpRWtiY1FTRFJfcnBzQ2lJcWZkdjR1M1NSRktJNmh3QzB0MEY2TW9BQ0pxUHc3Vk4xWnc?oc=5",
+      "source": "沖縄タイムス社",
+      "published_at": "2026-11-06T10:02:56+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:14:37+09:00"
+    },
+    {
+      "title": "デジサート、社内システムが17カ月間ネットに無防備 パスポートなども閲覧可能に - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtVnA1akVwSzdyamczc0pPU0Q4eUUtNXRnYmlYX3hOTzdJX3QxWGlqU3pkMlBTSE5KTDE1RTk5R3Vwd0FZRDZEZHRfNEpManRHeEh3?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-05T19:28:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:14:37+09:00"
+    },
+    {
+      "title": "CVSS 9.8の重大脆弱性2件は認証回避と任意コード実行 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVNWemQ2VDV4R0dEcXVobU1DVHN5UDdPYlA5TFpVeVdILUtOcW9NeGtPWEVETnc2bS1XTlc5NkF0bmVrQ241UGN2YTRBUzRVVXFZRElyRnlJdGNfMlBEZXZPXzRNd1B4VHVRaDZkX2xMM1VSd2syWTlzd2xPdnE5OHBaazFWV3dPTWFxTw?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-05T14:00:27+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T13:14:37+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T12:46:25+09:00"
+  "updated_at": "2026-11-06T13:14:37+09:00"
 }
