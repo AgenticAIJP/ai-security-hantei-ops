@@ -2538,8 +2538,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T09:30:14+09:00"
+    },
+    {
+      "title": "「Apache OFBiz」にRCE脆弱性 - 修正版がリリース",
+      "url": "https://www.security-next.com/192441",
+      "source": "",
+      "published_at": "2026-11-06T09:52:42+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:58:11+09:00"
+    },
+    {
+      "title": "カカクコム、約570万件の個人情報が漏えい 食べログ、価格.com、求人ボックスなどの利用者が該当 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBURERnY3lnaGEzZlF5OFZndTdmb01WX2lMWUNNYWc0RFdVNlZzV0R6Z2oxekxwc29XNmJyQWJxQXdfZkpwSks1MW5jNHdHd2cwUVhaSlhR?oc=5",
+      "source": "EnterpriseZine",
+      "published_at": "2026-11-06T09:41:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:58:13+09:00"
+    },
+    {
+      "title": "【解説】アイリスプラザ約770万人分に漏えいの可能性、ドコモは30万件流出 アララ経由も相次ぐ - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iZzBvbVlFUFVIc1l3WHJ6dGtIdnRwZ3Q3dzVsdE5FaHZRSE9jOUdsaG5wZ1dFLWpCcm1LeW1KMl9FYUwwcGRzbUZVUURES2dtWEFJRXJUQjZhb0hUWHBFOXgyYmJHei1nZnFLZ1dyVnJnb1E?oc=5",
+      "source": "innovaTopia",
+      "published_at": "2026-11-06T09:43:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:58:13+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T09:30:14+09:00"
+  "updated_at": "2026-11-06T09:58:13+09:00"
 }
