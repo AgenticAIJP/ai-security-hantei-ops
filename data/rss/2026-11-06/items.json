@@ -2565,8 +2565,62 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T09:58:13+09:00"
+    },
+    {
+      "title": "Zyxel製ネットワークスイッチ996台が侵害　ゼロデイ 脆弱性 CVE-2026-107441を悪用、旧パッチ適用済みでも危険",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/zyxel_gs1900_cve_2026_107441_996_compromised_20261105/",
+      "source": "",
+      "published_at": "2026-11-06T10:00:40+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:26:12+09:00"
+    },
+    {
+      "title": "個人情報漏えいによる二次被害 いつ、どのようにして起こるのか ニセ警察詐欺を受けた実体験から考える #エキスパートトピ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVZpZjRBV2hBX0otTDhiQXdIUDYzeHNHVzNfMDVmZUxnOVRZWGlDc0Y3QVF6YkE2NnpfeGN6U25Tb3FNbmJEM2pPWVQ1cjNoYzdvSHc5UTFRSlhsS1l5UFVSNTVBTUlmWU5kanlqSXNrcTRGc2NQSGtpT3ZMYm1BVENudnJmcUNl?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T09:43:48+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:26:12+09:00"
+    },
+    {
+      "title": "情報漏えい事故、初動はどうする 一貫BPOは解決策になるか - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40cnlFWDVaaUlMM1EzcnNmU2ttSUtNa1JZaUg0OXhCU3hncGsyb3JXMjN2SFFGbmtqOVFadkdOR2p2TlJLRTNLSzBRTWNVaWNBZFdnelA4d1hmT0swNDJnY052U09nUQ?oc=5",
+      "source": "キーマンズネット",
+      "published_at": "2026-11-06T07:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:26:13+09:00"
+    },
+    {
+      "title": "【情報漏えい急増】ＩＴの付き合い方、再考を ないものは漏れない 北海道大情報基盤センター教授 南弘征 - 静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91U3AzRXRscS1KeGZpTEV1QWVKY3c5eXhOcy14Z0NfNDVxRy1TeWdDU0hBQkxfYlN3RE5ydW1UUVhTaDNoMjJDYm11NklDQQ?oc=5",
+      "source": "静岡新聞DIGITAL",
+      "published_at": "2026-11-06T10:01:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:26:13+09:00"
+    },
+    {
+      "title": "あなたも対象か ファンくる会員103万件超に漏えいのおそれ、APIの脆弱性を突かれ - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xbUtiRGt4NGZlSFU3UFlsNXhnYzY2WHg4WmoyTHR4VS0tZjhWVE45bGhaaHh4dUQwTjJBR2VSQmxHUDRCbVFzeVBFNFZTRDZOVUEw?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T05:13:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:26:13+09:00"
+    },
+    {
+      "title": "「勝手に使うな」では防げない？急増するシャドーITを“禁止せず”管理する方法 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hck11UUVvYkVhUHVkb1lVeF9MVEFRT1NjTVBzTldIZVdLSEJvNFlYUEtiX3JuQTM1SFhaNXIwVFJpTWdxSEF2T1VDOFRWcG8?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T07:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T10:26:13+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T09:58:13+09:00"
+  "updated_at": "2026-11-06T10:26:13+09:00"
 }
