@@ -4194,8 +4194,98 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T21:11:53+09:00"
+    },
+    {
+      "title": "NVIDIAのAIエージェント開発支援ツールに深刻な脆弱性",
+      "url": "https://www.security-next.com/192469",
+      "source": "",
+      "published_at": "2026-11-06T14:08:05+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T21:40:01+09:00"
+    },
+    {
+      "title": "「危機意識を持ったうえで基本的な対策を」 相次ぐ不正アクセス 情報漏えい防止へ 県が対策会議 山梨（UTYテレビ山梨） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nQkluSmdORk5JdVc1cDdpNy1Yb1piN2dRbHN2WkJ0dTc3TTh1VFdvWlpNR1E5OXpLQlBBQThnV3pBb0JDTVJ4bElXVTJueHkxVlQ3b0NVVmZfQ0VTYkNTNXNqZDlldTNDZ0JQM2xIZDBjUHJlOWM3OEtIYWRaOWs?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T20:52:15+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T21:40:03+09:00"
+    },
+    {
+      "title": "ドコモ最大30万件の情報流出、社長が謝罪会見 見舞金の支払い検討 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVWgxNUNyVGFfbklhX1VBOE9iQktIa2k2LTl4Q1lSZ2ZCX2llb2l2TU5xaDRVeEpjSE1oR1NmOERoMjZhcmdGQjV2X0NWY0FYZDEwYVNwQmJNcDV1UWU1M19VVmlfZDg?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-06T20:52:55+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T21:40:03+09:00"
+    },
+    {
+      "title": "ＮＴＴドコモ、情報流出３０万件 不正アクセスで口座番号も - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZM203dWs4UndqWjQtM29kYmd0ODZLZmJYMmxLbmkwcUJnNFdNY29hamJDUGZ5aHNEU2tjMU5pSDN6Q0ZVb0NGVFJFNVBrQmpyX1E4Vkt3YjBMMlV2TVl6Z18tbw?oc=5",
+      "source": "時事ドットコム",
+      "published_at": "2026-11-06T20:47:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T21:40:03+09:00"
+    },
+    {
+      "title": "【独自】警視庁職員のメールアドレス漏えいか 不正アクセス受けた「アララ社」利用、安否メールの配信停止 氏名や住所などは漏えいせず（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYTQzRjdPeXBZLWhsbzFxUVBTY3VhbmRyMDNFcEFYNHBpeExzWDk5dGM5cFZ4NFZjYXhSWE8xTlNmT09uQjlpM0VITDMwUXl5Y1R6TzJpQ0NMSEpYaHJNdURGMjl1SUh1dGVpcldUVHlXWE9KdVBQTlBUQUZvNkU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T18:32:20+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T21:40:03+09:00"
+    },
+    {
+      "title": "ドコモ、不正アクセスで最大29.5万件の情報が流出 - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBncWtvVThzcXF0TkZuVHR3di1ZWExwTnVHV09lemRzUlg2a1JkcU9LRjdmN2JxN0dIX3pSRGdHRXRYWlhrVlF4aW9IWWVydmF6SkNQamZkcWh6WkgyMHdkOWgtRGtFSDA?oc=5",
+      "source": "ケータイ Watch",
+      "published_at": "2026-11-06T19:37:49+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T21:40:03+09:00"
+    },
+    {
+      "title": "長野・駒ケ根の中央アルプス観光、不正アクセス被害 ホテル予約サイトの会員情報漏えい - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DTnBvRHFOM1l3V1M4cGhlSkFLbEJCTm1fYVpibGVJRnlGa0JnSTFKSkdWcDlHRW0yWGNTbXU5aHR6cGk5cnpfQng1cw?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-06T20:38:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T21:40:03+09:00"
+    },
+    {
+      "title": "So-net、個人情報漏えいについて改めて案内（アスキー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IdkROekl3cF94aVRGcHNOX0cwYnBRQWVNSFBRVm1oMFlIWHl5QXhCUlhuQzNuQnVYUEp4aDBJMm0xNXZBNEpzNlZqRTlUeEE4WENSeGF0Q2RzNjJjMnExaFhTaTluOG5aRHdqX1pFb2tNMVhTdjJDNkYzYkdESWc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T14:10:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T21:40:03+09:00"
+    },
+    {
+      "title": "ドコモ、不正アクセスで個人情報30万件流出　見舞金支払い検討 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdEJuUGNCVjY1ZjkyNnBUYURVWDF2bkVZaFNScmJhNlp5ak0tRlFDbmVXSjY1MllqckVEV0E5TFFRc1JkbVBuU01hUE02OXdrQTRQamZoeUVwS2kxbzAxQWpBd3N3RXowWTFoNVd1dm5TdFV5TGhlMUdieGNta1hFZjVacU11VFlHUW81ZXNEVTh3T0NEaXfSAZsBQVVfeXFMUDZzYmJuV1A2RjhQWmc1YnFSSFhpYU1zUTRYM2tqMWxoSzRQd3cyWE1vdVNMdWZWa2dpczhyMW1ic0JBQk1oNktleG9GZ19sb2xweEtyT3dDZ1lFLW9JVUo0NFNiLWxLYTJrXzFOc0IxUXBaVG1FSDhUS2xucWh1eXEwR2dFQkRDUXpaWm50TVVMOHBtN1VRY2RDbTQ?oc=5",
+      "source": "ｄメニューニュース",
+      "published_at": "2026-11-06T21:28:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T21:40:03+09:00"
+    },
+    {
+      "title": "三十三銀行、914人の情報漏えいを発表 氏名や運転免許証番号など - 中日新聞Web",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hVVdnREU1NTdnaE0wWDZGY29OSXpaeUhTU2RsWmhUR09uTDgxMnlrWXRlaG1uUnA1aFJGZXk5TkdiNWVVMnNqdkxGR0dnQjJ2UHdQSw?oc=5",
+      "source": "中日新聞Web",
+      "published_at": "2026-11-06T16:24:46+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T21:40:03+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T21:11:53+09:00"
+  "updated_at": "2026-11-06T21:40:03+09:00"
 }
