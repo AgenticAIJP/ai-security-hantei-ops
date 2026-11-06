@@ -1863,8 +1863,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T02:50:26+09:00"
+    },
+    {
+      "title": "MS＆AD傘下4社、顧客情報計72万件漏洩 カード・口座の一部も [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJVWlsZUpCRzU0Y09tSFpxQ2JxbWdiMzduYVRiU0VSMzZnWHI2a2NIX0xDYXVBcFZneTZvbzVMUURRWnF0RWJQeGhsUkpnR3YxTWpjSTExS0d0ZXRvTnBNd2hZZHg4YWs?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-06T16:02:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T03:18:27+09:00"
+    },
+    {
+      "title": "ロート製薬、280万人漏えい システムに不正アクセス - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hc3QtT2t0djQ2ZkFmNUJta2tqUVROdHBrVmk4Nk1YMXYySHRYR3MwWHpyU0dJZXZoOUVCYXg0bEx4TUM5N3ZZUnlOSQ?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-06T19:01:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T03:18:27+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T02:50:26+09:00"
+  "updated_at": "2026-11-07T03:18:28+09:00"
 }
