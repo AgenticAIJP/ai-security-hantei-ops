@@ -2142,8 +2142,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T07:58:44+09:00"
+    },
+    {
+      "title": "不正アクセスによる個人情報の漏洩は今後も続く？ 次に待ち受ける展開は…専門家が解説（TOKYO MX） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oNnJDeDlRMUFzTXljaElUTWV0Tjd6QWJOOFE2Z3NYVlh1VGRRZXJhaHo3cGRSUkd0RmxVMkRmeWhCbHlEUTNMUzJZdHFuWHU2RXhSbjBFYVZpV24zQmlLcnVCVW1lLUJDb3NCcTY1SWNBTi1wb3RmVmZpcENqbFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T08:13:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T08:26:46+09:00"
+    },
+    {
+      "title": "宝くじサイト停止、マイナンバー漏洩も 不正アクセス被害が相次ぐ - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EMkVvRDMyb3NBaDRjLTdYNjItbGV1UkFoX3BndnA4NXFHSXo0a2pFVTVOUjRpcTYzNUppZjdaUGc4NWI3MXJMLTVUMlJxMWtSMlVHd3BDZzctenlmd3RuUFJUNXEwLWl6aGh3ZDdqQVllcFd2?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-06T15:05:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T08:26:46+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T07:58:44+09:00"
+  "updated_at": "2026-11-07T08:26:47+09:00"
 }
