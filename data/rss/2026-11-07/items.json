@@ -2070,8 +2070,44 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T07:02:46+09:00"
+    },
+    {
+      "title": "パスワード管理「アナログ商品」個人情報漏えい急増で注目 売り切れも （2026年11月6日掲載）｜FBS NEWS NNN - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMERaM2xZUHJCQ1pBTzIyV21aZVdORm96cmk1dW1ZMWZZMnNDSlhWRGNjQ1M3Q21ua3J4R0gxU0g2dzFZTlpNQVVia0s2emRfekl6RUdHZkRWTkNELWVhSWJPU2NOYmNaa25PTmFtR2hIX29mLVkxVngzSjBFZzFUSmtJaw?oc=5",
+      "source": "日テレNEWS NNN",
+      "published_at": "2026-11-07T07:05:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:30:42+09:00"
+    },
+    {
+      "title": "ジョーシン「個人情報漏えい問題」で社長が謝罪 不正アクセスで最大600万件超の名前・住所が漏えいか 免許証画像2件・マイナカード情報1件・口座番号5件が漏えいした可能性も - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4WkVjTGVTelV2WlFia1paYmNyVHRISGI5TGxESTBIMWtDZmhhUkh4Rzc3UnBVWGwtQkdRb01Ia19OS2VnVlBhLXV3T3pNUQ?oc=5",
+      "source": "FNNプライムオンライン",
+      "published_at": "2026-11-06T18:54:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:30:42+09:00"
+    },
+    {
+      "title": "北洋銀行カードローン「スーパーアルカ」の外部保証会社に不正アクセス…最大32万人分の名前・住所・電話番号・勤務先など漏えい…北洋銀行分は調査中で新規申し込み・増額の受け付け停止 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTUlBWWlCUnRjYmtBZzczYjZFeEQxaFByQW15ZnJmNU5SSTVTVTREZDM4Y05aMDhFaWpTYXFxNlVvbm5fSWlGUENuS2VUMzNBMkNKUzVDOGVQb0dzZ3FFTlV4S1pyM1NEWnBxYy1oN2RvU3hzd09vLV85UDR0QkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T05:05:05+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:30:42+09:00"
+    },
+    {
+      "title": "相次ぐ情報漏えい事案を受け、今すぐ見直す企業のクラウドセキュリティ対策 ～自社で確認すべき5つの重要項目とCNAPP・Wizによるリスクの可視化～2026年11月26日(木)（web） - クラウドエース株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoVHF4dnJueTdjN3ljVTlmQ2dkT0xyYmdDOEZKUVp1dE5taXdCZFJ3cUgzNVNnS2lTbE52VGoyWFNBRVQtYTFLakNR?oc=5",
+      "source": "クラウドエース株式会社",
+      "published_at": "2026-11-06T10:57:23+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:30:42+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T07:02:46+09:00"
+  "updated_at": "2026-11-07T07:30:42+09:00"
 }
