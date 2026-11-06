@@ -3150,8 +3150,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-06T14:10:51+09:00"
+    },
+    {
+      "title": "【更新中】宝くじサイト 勝手にパスワード変更される 年収や保証額も漏えい 三井住友G保証会社 「無印良品」で約109万件流出か アソビューでは約1582万件流出 ＜不正アクセス情報まとめ＞ - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-06T08:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:38:55+09:00"
+    },
+    {
+      "title": "国家サイバー統括室、事業者向けに不正アクセス対策のポイントをまとめた資料を公開 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhWGpRelo5YWhWM01ZUEp4YlQ0ZHc2aml6aVE5Q2hWb2ZJRG4zaWppQVUzWE8tOVZBelFha2w3NW5FNm9ycTA2c3JsUHlTelA1ekhxWGlhLVdsRzlhakJuMEgtRUhnRHdkcTY4?oc=5",
+      "source": "INTERNET Watch",
+      "published_at": "2026-11-06T12:55:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:38:55+09:00"
+    },
+    {
+      "title": "宝くじ 公式サイト、パスワードが意図せず変更される事象で利用を一時停止 影響範囲を調査 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYldzd1B5TVRBZ2Z0eUt0LWJKOVN1MG1pV3AyQkZ3RzJ2YV9QM3I4VzNxMXZsOWtlbG5EVGVzUkJnSFV1VGRnYTBoWUZ5c2FBX3lSaGdsaXJYcE5SQjM1dkZ1SWU1aGNqbW05YW5pMTBITTVhbFJJRVZ0T3E5VkxYYjR2NWIxUUpLWHZRUGpQSldlQ0pqZTFSbkcyWHJRdTdmSmN5QjNRU0t0S1V6b1E1eGI5a1U?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-05T17:18:54+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:38:55+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T14:10:51+09:00"
+  "updated_at": "2026-11-06T14:38:55+09:00"
 }
