@@ -192,12 +192,18 @@ async function main() {
     // 信長の短い投稿（記録のみ・対象外）では、分析役を起こさない。原因待ちと枠外の判定では、茶々を起こす。深刻度が高の原因待ちでは、信玄も起こす（枠は使わない）
     const isHantei = ak === 'nobunaga' && (tag === '判定' || tag === '続報');
     const shortRecord = isHantei && SHORT_RECORD.test(firstLine(p.content));
+    // 枠外の取り戻し（11/06）：1 行目が「：取り戻し」の続報は、ふだんの枠とは別の枠で全員を起こす
+    const catchUp = isHantei && tag === '続報' && /[：:]\s*取り戻し/.test(firstLine(p.content));
+    const catchUpMax = routing.catch_up_daily_max?.[today] ?? 0;
     if (isHantei && !shortRecord) {
       // 全員で議論する件数の上限。信長も数えて振り分けるが、ここでも止める
-      if ((daily.hantei ?? 0) >= discussionAllowed()) {
+      if (catchUp && (daily.catch_up ?? 0) >= catchUpMax) {
+        log(`今日の取り戻しの枠 ${catchUpMax} 件に達しているので、分析役を起こしません（${p.id}）。`);
+      } else if (!catchUp && (daily.hantei ?? 0) >= discussionAllowed()) {
         log(`今の議論の枠 ${discussionAllowed()} 件に達しているので、分析役を起こしません（${p.id}）。`);
       } else {
-        daily.hantei = (daily.hantei ?? 0) + 1;
+        if (catchUp) daily.catch_up = (daily.catch_up ?? 0) + 1;
+        else daily.hantei = (daily.hantei ?? 0) + 1;
         for (const a of ANALYSTS) add(a, 'hantei', { post_ids: [p.id] });
         if (p.content.includes('#家康') && p.content.includes('#官兵衛')) {
           add('ieyasu', 'hantei_mid_high', { post_ids: [p.id] });
