@@ -2466,8 +2466,80 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T09:02:10+09:00"
+    },
+    {
+      "title": "WatchGuardの多要素認証製品に脆弱性 - 「クリティカル」も",
+      "url": "https://www.security-next.com/192434",
+      "source": "",
+      "published_at": "2026-11-06T09:17:19+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:30:12+09:00"
+    },
+    {
+      "title": "「Firefox」のレイアウト処理に脆弱性 - 「同159.0.1」で修正",
+      "url": "https://www.security-next.com/192437",
+      "source": "",
+      "published_at": "2026-11-06T09:11:14+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:30:12+09:00"
+    },
+    {
+      "title": "MariaDBに認証済みユーザーによる権限回避の脆弱性「CVE-2026-102523」　他のテーブルを不正に読み取り・変更するおそれ",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/mariadb-cve-2026-102523-alter-table-partition-authorization-bypass/",
+      "source": "",
+      "published_at": "2026-11-06T09:15:35+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:30:14+09:00"
+    },
+    {
+      "title": "DigiCert（デジサート）、顧客情報に不正アクセス-パスポート・運転免許証なども対象、社内システムが約17カ月外部から到達可能に",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/digicert_customer_archive_unauthorized_access_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T09:08:19+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:30:14+09:00"
+    },
+    {
+      "title": "富士登山「吉田ルート」通行予約システム、１９万人超の情報漏えい恐れ…２０２５・２６年分に不正アクセス - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Gdlgzd1ZvdzRjdGhaaUluNmtEUkdYaFd0VFlJblBSNW1Qb0h3aENvOUlBc1I2cWFqNWVvQUFtbndrd1oyOWpjTjdZcXRDSXp1VjRjbjFIMml6a1pyZWxMZG5tT0JPdw?oc=5",
+      "source": "読売新聞",
+      "published_at": "2026-11-06T07:53:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:30:14+09:00"
+    },
+    {
+      "title": "【視標】情報漏えい急増 攻撃による流出前提に対策 東京電機大情報セキュリティ研究室教授 寺田真敏氏 - 静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GZ3dCaXkwczZQVlVzNWltckxoVzlmX0NDWFZzLVBudTMyTEhzVWhKVWdQMzF6SXltSWZUazZ0ZW9pSk1yeVRvYVhPVXNTdw?oc=5",
+      "source": "静岡新聞DIGITAL",
+      "published_at": "2026-11-06T09:04:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:30:14+09:00"
+    },
+    {
+      "title": "【サイバー攻撃】免許証・年収・ローン保証額も…三井住友G保証会社で最大32万件漏えい フランスでは血液バンクが標的に【news23】（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52UU0yWk1IbFN0UVlGclZtb0o2cHQtYUdKSXlfWEdtRUk4SUpSMld6akdCZzRHeDNsXzY0N0xZeXhYcGRHZjIxcGxNZDl1SGlvT0YtVFF6c0J0d1lfWnBxb3k4WEpPQ3ZENE81VnlNSEh1cmNFV3UwWUxzdE0xRWs?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T01:47:20+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:30:14+09:00"
+    },
+    {
+      "title": "シャドーITが招くリスクとは？AI×ID管理による実践的な検知手法 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QYjJIZU1ZdUdUMElXc0I1NFVOXzJNYXdlXzVldnpvYi1CV1lvbUk5MlJFQzE4VlowZWY5aTl6MTZWQTUwbUlTQTF3WQ?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T07:02:19+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T09:30:14+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T09:02:10+09:00"
+  "updated_at": "2026-11-06T09:30:14+09:00"
 }
