@@ -2106,8 +2106,44 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T07:30:42+09:00"
+    },
+    {
+      "title": "ロート製薬、280万人漏えい システムに不正アクセス（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ESDRsckszbVlRLXVydWtFaWFtVGJiOEtSTUlKenRncFJrcjJWWmNWRFlOdTZSMmZqdzlidlhQQkpVVE9TeDBaV1RGeUdVUENkZjBOM0RQeE1ic0pxeHl6aWIxRVdXUEFTcGRBYllaRzQySHBLZFl0a1dkOHhPR0U?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T19:01:45+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:58:44+09:00"
+    },
+    {
+      "title": "生成AIが人間超える時代 安全性と国産化がかぎ アカンパニー執行役員・竹之内隆夫さんインタビュー㊤：ニュース - 中日BIZナビ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9veE1yQjVRWXRoUjVKRFp6a1Jrc0ZSYnF4eC1HM2o1X0Z2QkQ5ZmJVLVBMeTJNSjJiS3drRTJST3RFNTJQTXYzYkROeC1hSldlZVcyYWFlYWpYUWt4dzI1Q3Z5bWQ?oc=5",
+      "source": "中日BIZナビ",
+      "published_at": "2026-11-07T06:46:26+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:58:44+09:00"
+    },
+    {
+      "title": "【音声配信連動記事】AI時代の「突破されても守られる」情報管理 Acompany・高橋亮祐CEOらに聞く - 月刊「事業構想」オンライン",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPczB5YmFRaHItaThBVDkyQTh2c3RsYkc0RlJadjJsblZTVmJDSkpER3BDVmROTlVBUGhJaWZEZm1vajhaRXlSTzJjUVlYZVBpZUY2Y2JLUzFLQkJCek02YmkzczZKaFpJUFJSeFFiOEZlWnM1eUZVcUs4NFVxdGg4ZWNPMWxQZw?oc=5",
+      "source": "月刊「事業構想」オンライン",
+      "published_at": "2026-11-06T09:33:31+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:58:44+09:00"
+    },
+    {
+      "title": "【情報漏えい急増】ＩＴの付き合い方、再考を ないものは漏れない 北海道大情報基盤センター教授・南弘征 - 山陰中央新報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzMGViSkFzd0p0bVNFUnRsSkMyVkRjRkFnM2tVTVBsVkU1N0h4blJLT2ZEU1g3LVViQWF0QURJbUFuS0ZvVE1hYnZ5RlN6eFRaMzNRN09VZmZYbmM?oc=5",
+      "source": "山陰中央新報デジタル",
+      "published_at": "2026-11-06T10:01:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:58:44+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T07:30:42+09:00"
+  "updated_at": "2026-11-07T07:58:44+09:00"
 }
