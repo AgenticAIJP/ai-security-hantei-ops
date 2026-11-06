@@ -1989,8 +1989,35 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T06:06:42+09:00"
+    },
+    {
+      "title": "利用していたWebサイト制作サービスが不正アクセス受け個人情報流出か 西日本FHへの不正アクセスなし - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXWVRINWl2QWZuRl85VVNCWHpEWmJObDNNd2dvM2xYZ0Z2cXNYTjNqd1ZJaU9vSlNiSXlPaVFMLWxqdXhrUTJjbmdnbVNRZw?oc=5",
+      "source": "FNNプライムオンライン",
+      "published_at": "2026-11-07T06:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T06:34:44+09:00"
+    },
+    {
+      "title": "ロート製薬、顧客279万人分が漏えい 通話音声にカード番号9,715人分 通販電話から侵入（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Pb1NhN1FBNEQ5WXBaQTJnNVFEOGlWWFk0TU5sWDFaSXJvQXpscDJ0NFowNUg2blM5ODNGb3hpOTdtNTRiQkRQNFlVMEthNWw3NlZ2NW8yOVl5bG53N2s3Tjc4ZU1DVTFhQlVOYjY2Sk83RUhnbC1pa0dZVGlCWTQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T19:25:06+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T06:34:44+09:00"
+    },
+    {
+      "title": "ＮＴＴドコモ、情報流出３０万件＝不正アクセスで口座番号も - Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53Nnk5a2tYTmpiaVktY1NRTGZQSW01S1BDNndtWFhmb2IzZjJLSDUyZGhpUUViZ3JsWFkzdlUwaTBIbXNfTWNxTXd4TEdaM0Y3M19BRA?oc=5",
+      "source": "Nippon.com",
+      "published_at": "2026-11-06T20:47:29+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T06:34:44+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T06:06:42+09:00"
+  "updated_at": "2026-11-07T06:34:44+09:00"
 }
