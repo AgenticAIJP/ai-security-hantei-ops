@@ -1746,8 +1746,53 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T01:26:23+09:00"
+    },
+    {
+      "title": "ジョーシン「個人情報漏えい問題」で社長が謝罪 不正アクセスで最大600万件超の名前・住所が漏えいか 免許証画像2件・マイナカード情報1件・口座番号5件が漏えいした可能性も（関西テレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JWHRXc1V0bmFqdktSVmItelNVNW83NkRQQWF2RFVkbnlRdG5JNEhXM3lVTzVkWllqODZRTlFOdk85cm5iVHVDUHduRTJiT2NBc2htYWJhR2lBYVdWU1FBN3ZaQUNqc2x6c1Q3MFk0Znhjcy1Sakx6VmYwcXgyLWM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T18:55:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T01:54:22+09:00"
+    },
+    {
+      "title": "ドコモが見舞金の支払い検討 最大30万件の情報流出、社長が謝罪 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVWgxNUNyVGFfbklhX1VBOE9iQktIa2k2LTl4Q1lSZ2ZCX2llb2l2TU5xaDRVeEpjSE1oR1NmOERoMjZhcmdGQjV2X0NWY0FYZDEwYVNwQmJNcDV1UWU1M19VVmlfZDg?oc=5",
+      "source": "朝日新聞",
+      "published_at": "2026-11-06T20:52:55+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T01:54:22+09:00"
+    },
+    {
+      "title": "日産フィナンシャルサービス、顧客の車両情報など最大２３万６０００件漏えいか…委託先に不正アクセス（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53dEhONFhDb3l4cG1UUmt5aDgtc1d0SVl2MnNRXzZWNFRjV0MwT0dwWWxTOEptZ0xfOWNobFpUNG1Wc0IySUdDd0ppbWVXa3E0UjJqTkhSM2NkV21pbk9YSTc2Z3Ztb3IwVVJhaXY3RmJuZWtiNjhtc1QxSUFabG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T18:02:28+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T01:54:22+09:00"
+    },
+    {
+      "title": "ドコモ最大29万件の顧客情報流出で見舞金を検討、「ahamo」サイトも予防的に停止 - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WVy1lbWNjamszeWVsRFNWODkwWWhVaVRUQ0JwMFZPOGlBUGE2MWpCR29UbUxfWms5NzVIMmlIV0FLRW5QemI4ZEtGRlRobW41SlFXTHVyalZaMXNKRFdHWVZfa1Z2SW8?oc=5",
+      "source": "ケータイ Watch",
+      "published_at": "2026-11-06T19:24:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T01:54:22+09:00"
+    },
+    {
+      "title": "「ロボットを買えば省人化」は幻想？ フィジカルAIでも「自動化できない仕事」の正体 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFV21VdFNjUFlEMlNQX2lKYURYLTBndGR4TFhJMjRyMTFDNmRrZlYzNE1WNmdGZGRMRUhWX19XRDV3OHB0c0NQSll1ZURPam8?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T07:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T01:54:23+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T01:26:23+09:00"
+  "updated_at": "2026-11-07T01:54:23+09:00"
 }
