@@ -3060,8 +3060,98 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-06T13:42:44+09:00"
+    },
+    {
+      "title": "「ドコモオンラインショップ」と「My docomo」で個人情報が流出",
+      "url": "https://www.security-next.com/192453",
+      "source": "",
+      "published_at": "2026-11-06T10:46:20+09:00",
+      "feed": "Security NEXT",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:10:49+09:00"
+    },
+    {
+      "title": "Googleカレンダー悪用のフィッシングでMFAを回避、認証済みセッションを乗っ取り　攻撃メール6万8,676件を遮断",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/google_calendar_operation_cloudfire_mfa_session_hijack_20261105/",
+      "source": "",
+      "published_at": "2026-11-06T14:00:40+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:10:50+09:00"
+    },
+    {
+      "title": "山口県、省エネ家電購入支援事業で最大25,911件のメールアドレス漏えいのおそれ　委託先が利用するアララに不正アクセス",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/yamaguchi_buchieco_arara_email_leak_risk_25911_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T13:54:02+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:10:50+09:00"
+    },
+    {
+      "title": "バスタ「e-reverse.com」、メールアドレス12万件が流出　ブラストメール不正アクセスで第3報、対象者への通知完了",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/rivsta_ereverse_blastmail_120000_20261105_third_report/",
+      "source": "",
+      "published_at": "2026-11-06T13:51:40+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:10:50+09:00"
+    },
+    {
+      "title": "ポケットWi-FiやeSIMのecoco、受注管理アカウントに不正ログイン　氏名・住所・注文情報などが流出、楽天市場店の購入者も対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ecoco_order_csv_data_breach_20261105_updated_personal_business/",
+      "source": "",
+      "published_at": "2026-11-06T13:46:50+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:10:50+09:00"
+    },
+    {
+      "title": "［個人情報に関する意識調査］85.0％が不審メール・SMSを受信、受信者の15.1％が情報入力・被害を経験（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oZ2loTW0xTlJpM1psZk80N1RYV011M1lFNWZOcHoxZURBbGUzVzRxSVpZZFY0MmRIM2VxNHo1OTRCQktYWkNGdGFkSmpOUmdmODBOYzI1TWdadXpnUjNzYVZJR0pnQTYt?oc=5",
+      "source": "毎日新聞",
+      "published_at": "2026-11-06T13:22:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:10:51+09:00"
+    },
+    {
+      "title": "ポルシェ、顧客情報流出のおそれ 委託先への不正アクセスで（アスキー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zbWtObzBzaTJydkV1TGQ2NEpGSThHMlFjZVVYSDExS2ZQU2pWcER2TnVLc18xSU1MeFNKOExmclRhTzBWNU5hZXZOTkhfcjlaWTVJeDJKR1FPLWhUaWRnWVMwT3hDVVlwQ2RNZzNpY3FhOGh3eVJBMHlEM0o5dGM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T13:20:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:10:51+09:00"
+    },
+    {
+      "title": "ポケットWi-FiやeSIMのecoco、受注管理アカウントに不正ログイン 氏名・住所・注文情報などが流出、楽天市場店の購入者も対象|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVdsLWotVUhCd1lFTHNtQmFyWTh5VGN2SGt6VmRXbnVHdzBzQ0tHTFlyN3hzeHRaZUFGMWxaeTh5TVJ5ZFJCWWVjLWlHSVJCdVB6Y0VSV1AyN3JSQm1TNEs0Y0RrYVIyNDUxcGpxLXljMG5KYjJRdDl2U01KYldkS3VtelJYMTZrRWpPa2N1c2RFMXZzclBtdldaY25tVzVIVm9JcEp5Q0d2OUl0SWhoVg?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-06T13:46:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:10:51+09:00"
+    },
+    {
+      "title": "AIエージェント導入率で日本が首位、無監視運用も世界の2倍 KnowBe4調査 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhY0pJR09LeGxyQnBCZ0dBSVo3V3MyUFVTaWJ3dlhsTF84enhKQ19xVkppX3ROVVdMYUZESXI1UHk2eGJ2eC0wWEMxdzBja1hmMFZIQVc2Q2Utc25mVTFLcG9IeXpIZmZxdlNfWWhaeWZCUzlE?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-06T07:55:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:10:51+09:00"
+    },
+    {
+      "title": "政府がサイバー攻撃被害の急増を受け緊急対策パッケージ、官民サイバー救援隊創設 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uaGpGUE84VWpjYmRvQkFUT3VVX0NycG5nVjZkS0llaERLZFR0S1UzbjZsTUE4Nm1mNUUzSWtNYXZ4RU83MFJqaGlndHZTZUx6aG5Z?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-05T17:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-06T14:10:51+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-06T13:42:44+09:00"
+  "updated_at": "2026-11-06T14:10:51+09:00"
 }
