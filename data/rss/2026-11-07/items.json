@@ -2016,8 +2016,62 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T06:34:44+09:00"
+    },
+    {
+      "title": "小田原市立総合医療センター、予約システムに不正アクセス　登録情報約2万2,000件に漏えいの可能性、現在も停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/odawara_pediatric_booking_actmedical_22000_possible_leak_20261105/",
+      "source": "",
+      "published_at": "2026-11-07T07:00:16+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:02:45+09:00"
+    },
+    {
+      "title": "資生堂、利用者情報が2515件流出 肌の測定結果など - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PMTlEYm12OG5XSjl4TF9WcWpDYW0tMmdCSjZ3c0VTanJ2RFJ5M01XSlh6MjBmeU5rUnB0Nkw1d2xPR3o0Yl9iZWpKcVBQZHNDNUdMRlJlalcya1laNTE1QTZ6OEJzY2FfcS1xaA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-06T18:18:52+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:02:45+09:00"
+    },
+    {
+      "title": "福井県の就職支援サイトで個人情報漏えい 人為的ミスで顔写真や職務経歴、住所など登録者368人分が閲覧可能な状態に - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvMUN1ZjFnSWM0U1Rya1J6RkQwazFoQ2ZIVzE0RWpRd3RQRHB1QkdweHU1WmhvU1JfM0dxTW1WZTRXM1ptMklnS3h1RHFQTU9IYnZ2MnFOVkpQeUJKVXZwbk1Oal9Oc1hCUmQ3OFhBNVh1eWctMnU3eVlPdFN0Y2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T10:21:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:02:45+09:00"
+    },
+    {
+      "title": "AfDのメール流出、ハッキング後に約42万1000通がネット上に - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZG5kS1V2UHprZmhlRXZNaUJTNG1WODVpYVRjY0c1bEQ2azY2NXI5eUhaS1A0dDdrSDVTc3U2dTQ3a3pySURkSG96Z2xSTmNrTEE5N1kyR3ZyMXFYbEg4dE5ucUJLSWQ3VEY2dDNlX3RBcGpkZXExWHR1TGZCay1haERBRGxDY2dKRThR?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published_at": "2026-11-06T17:26:41+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:02:46+09:00"
+    },
+    {
+      "title": "【福島・医療創生大学で初】看護DX人材育成講義をeWeLLが実施 - AGARA 紀伊民報",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oeUswalBpQllSUHdBT2pqcEM1Tmt1UHZGWmhmcllNaEUyd0pSM3lUTVZvTTNYTElDMUVpZ21Oa29WUExYOWdPWlRpZ2xVRU42QWdBcjNrODJGYVR5UENESQ?oc=5",
+      "source": "AGARA 紀伊民報",
+      "published_at": "2026-11-06T10:10:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:02:46+09:00"
+    },
+    {
+      "title": "AIを増やすほど現場が苦しくなる？ AIOps導入で陥る“AX混同”の罠 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93blgyS05ZT0R5dkNYdzlkTVAyYmNVS2prUV9NUjFpTFZDRUhXYmwyS0oxVVpzR3ptSzVLSTliVy1lZkMtdjltaEV4UjhlZWM?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-07T00:41:07+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T07:02:46+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T06:34:44+09:00"
+  "updated_at": "2026-11-07T07:02:46+09:00"
 }
