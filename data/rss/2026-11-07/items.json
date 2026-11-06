@@ -1719,8 +1719,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T00:58:18+09:00"
+    },
+    {
+      "title": "りそな・関西みらい・みなとの３銀行、提携先の不正アクセスで解約済み顧客の個人情報５９３５件漏えい - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55MEQ0Q0ZwQXRpOUpiWVFQQWFXTzRZM1EyOEhlRExNZHlxemJBWVN6Y0xUb3RDLW9saG5WeFM5Rno0NUMwNHhud3h4cVFsbm56eG9DY2UtV3l2U01NYy1nNFFBSTh1Zw?oc=5",
+      "source": "読売新聞",
+      "published_at": "2026-11-07T01:13:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T01:26:22+09:00"
+    },
+    {
+      "title": "沖縄銀行、カードローン客の個人情報漏洩か 委託企業に不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDeVhLOG12cmplUVNsMlY2X3RfLTVPSENQYWxBRzRrNzV5M0ZwWTFTeDJ1ZktrdktJVnhYZHFNdUtLeW5HcUthRGFpT0xOazlnZ005WUxRQTY5TmNfejdydXJlcWFIYTBWVW9WbA?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-06T18:36:12+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T01:26:22+09:00"
+    },
+    {
+      "title": "QueryPie AI、AIが攻撃者の視点で侵入リスクを検証する「AIペネトレーションテストサービス」を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ca24yYXdhZVVTTld2RE5qNjFNZ1pGWXVCWUxXMHpLVXhBM2pZN3cxR18ta0kyOFE3OHE5SW1wR1o0eFlTWGdzdHlJeXJtUTJXdmRDY3dJd2NCbExqbVYyNDRseTFueVE2YVE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-06T08:00:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T01:26:23+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T00:58:18+09:00"
+  "updated_at": "2026-11-07T01:26:23+09:00"
 }
