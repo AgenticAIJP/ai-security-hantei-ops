@@ -10,7 +10,7 @@
   "catch_up_daily_max": { "2026-11-06": 6 },
   "stop_after": "2026-11-08T02:00:00+09:00",
   "held_reasons": ["an_review", "correction_request", "eval_correction"],
-  "check_hours": { "nobunaga": [8, 13, 19], "hojo": [], "default": [9, 20] },
+  "check_hours": { "nobunaga": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], "hojo": [], "default": [9, 20] },
   "extra_check_hours": { "2026-11-08": [1] },
   "check_batch_max": 6,
   "hojo_fallback_hours": 4,
@@ -27,7 +27,7 @@
   "budget": {
     "managed_session_usd": 2,
     "managed_daily_usd": 70,
-    "managed_daily_usd_by_date": { "2026-11-06": 105, "2026-11-07": 110 },
+    "managed_daily_usd_by_date": { "2026-11-06": 105, "2026-11-07": 120 },
     "on_daily_cap": "昼の仕事は managed_daily_usd − hanseikai_reserve_usd で止め、反省会の仕事だけ managed_daily_usd まで使う。止まった仕事は保留する。足りないときは min_interval_min を 50 に延ばすか、hantei_daily_max を絞る。質は下げない（PLAN.md §6.4）",
     "hanseikai_reserve_usd": 25
   },
