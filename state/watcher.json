@@ -1493,7 +1493,13 @@
     "6aef27b82bcb2ca0120197e0",
     "6aef27c12bcb2ca0120197fd",
     "6aef27cd2bcb2ca012019814",
-    "6aef27d62bcb2ca01201982d"
+    "6aef27d62bcb2ca01201982d",
+    "6aef2e632bcb2ca012019c12",
+    "6aef2e852bcb2ca012019c2f",
+    "6aef2e9c2bcb2ca012019c5c",
+    "6aef2e9c2bcb2ca012019c6f",
+    "6aef2eb62bcb2ca012019c88",
+    "6aef2fbc2bcb2ca012019d56"
   ],
   "pending": [
     {
@@ -1599,44 +1605,6 @@
       ]
     },
     {
-      "key": "nobunaga",
-      "reason": "an_review",
-      "at": "2026-11-07T08:54:39+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aee62732bcb2ca0120108e0"
-      ],
-      "line_ids": [
-        "6aee5fe42bcb2ca0120106ea"
-      ]
-    },
-    {
-      "key": "nobunaga",
-      "reason": "an_review",
-      "at": "2026-11-07T09:50:54+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aee70502bcb2ca01201183f"
-      ],
-      "line_ids": [
-        "6aee6d952bcb2ca0120113af",
-        "6aee6d9c2bcb2ca0120113b9",
-        "6aee6dc02bcb2ca0120113da"
-      ]
-    },
-    {
-      "key": "nobunaga",
-      "reason": "an_review",
-      "at": "2026-11-07T11:43:04+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aee89f62bcb2ca0120129c3"
-      ],
-      "line_ids": [
-        "6aee836a2bcb2ca0120125f9"
-      ]
-    },
-    {
       "key": "chacha",
       "reason": "an_review",
       "at": "2026-11-07T19:39:21+09:00",
@@ -1661,60 +1629,6 @@
       "attempt": 1,
       "post_ids": [
         "6aef0def2bcb2ca0120180f6"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-07T20:35:29+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aef078d2bcb2ca012017c0d"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-07T20:35:29+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aef07aa2bcb2ca012017c2f"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-07T20:35:29+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aef08022bcb2ca012017cd2"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-07T20:35:29+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aef08202bcb2ca012017cf5"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-07T20:35:29+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aef08232bcb2ca012017d08"
-      ]
-    },
-    {
-      "key": "kenshin",
-      "reason": "review",
-      "at": "2026-11-07T20:35:29+09:00",
-      "attempt": 1,
-      "post_ids": [
-        "6aef08242bcb2ca012017d1b"
       ]
     },
     {
@@ -1823,6 +1737,78 @@
       "attempt": 1,
       "post_ids": [
         "6aef27d62bcb2ca01201982d"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-07T23:23:39+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aef2e852bcb2ca012019c2f"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-07T23:23:39+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aef2eb62bcb2ca012019c88"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-07T20:35:29+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aef078d2bcb2ca012017c0d"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-07T20:35:29+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aef07aa2bcb2ca012017c2f"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-07T20:35:29+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aef08022bcb2ca012017cd2"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-07T20:35:29+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aef08202bcb2ca012017cf5"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-07T20:35:29+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aef08232bcb2ca012017d08"
+      ]
+    },
+    {
+      "key": "kenshin",
+      "reason": "review",
+      "at": "2026-11-07T20:35:29+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aef08242bcb2ca012017d1b"
       ]
     }
   ],
@@ -15769,7 +15755,9 @@
       ],
       "at": "2026-11-07T22:55:37+09:00",
       "attempt": 1,
-      "status": "sent"
+      "status": "done",
+      "cost_cents": 87,
+      "cost_final": true
     },
     {
       "id": "kenshin-1794059737974",
@@ -15852,6 +15840,28 @@
       ],
       "at": "2026-11-07T22:55:37+09:00",
       "attempt": 1,
+      "status": "done",
+      "cost_cents": 76,
+      "cost_final": true
+    },
+    {
+      "id": "hojo-1794061419495",
+      "key": "hojo",
+      "executor": "routine",
+      "session_id": null,
+      "tasks": [
+        {
+          "key": "hojo",
+          "reason": "instruction",
+          "at": "2026-11-07T23:23:39+09:00",
+          "attempt": 1,
+          "post_ids": [
+            "6aef2eb62bcb2ca012019c88"
+          ]
+        }
+      ],
+      "at": "2026-11-07T23:23:39+09:00",
+      "attempt": 1,
       "status": "sent"
     }
   ],
@@ -15866,7 +15876,7 @@
     "kenshin": "2026-11-07T22:55:37+09:00",
     "nene": "2026-11-07T21:59:29+09:00",
     "baseline": "2026-11-07T17:47:00+09:00",
-    "hojo": "2026-11-07T20:35:29+09:00",
+    "hojo": "2026-11-07T23:23:39+09:00",
     "hojo_deep": "2026-11-07T16:51:01+09:00"
   },
   "daily": {
@@ -15901,9 +15911,9 @@
       "catch_up": 6
     },
     "2026-11-07": {
-      "managed_usd": 91.51,
+      "managed_usd": 93.14,
       "baseline": 3,
-      "scheduled_usd": 2.99,
+      "scheduled_usd": 3.49,
       "hantei": 7
     }
   },
@@ -15924,7 +15934,7 @@
       "why": "受け取りの記録がありません"
     }
   ],
-  "last_run": "2026-11-07T22:55:37+09:00",
+  "last_run": "2026-11-07T23:23:39+09:00",
   "last_check": {
     "nobunaga": "2026-11-07T22:55:37+09:00",
     "chacha": "2026-11-07T20:07:22+09:00",
