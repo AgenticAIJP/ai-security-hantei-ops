@@ -2943,8 +2943,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T19:39:27+09:00"
+    },
+    {
+      "title": "１１０自治体、防災メールを停止 不正アクセスで情報漏えいの恐れ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WcnhOVWh4SXNOejRzNU9TZHBPWnJnb01KQzltY3BIaHY5LVp6MUpmYWxhbVBtLUt0eHc1ZVI2SUFOSzlzOXJlbXp4bGJMM1pzUGc?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-07T11:47:08+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T20:07:31+09:00"
+    },
+    {
+      "title": "総務省、相次ぐ不正アクセスによる情報漏えいに注意喚起「サイバーセキュリティ対策の一層の強化に取り組んでいただくよう」 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kbkNEU2J4Ui1MSnBKTXFHcU9hcnJEV2J5c0VZbEVHSVd6N3dQMmhCZktFeFEtZElKdkItN09WeHBLZlVKWjZmNDhSUXpZNzhibFg0cUVqbWdDM3lCaU9BMg?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-07T05:53:14+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T20:07:31+09:00"
+    },
+    {
+      "title": "二条城、市京セラ美術館…京都市の事業で個人情報流出か、プレゼント発送請け負った佐川急便からも - 京都新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZS1dhY3BJMkI2ZkZ6YWYtX0dOQ3lyRklQdWJpajMxMF9kUW5CV0VRbzhjdWp2WUNxeEVmc19XcDJyMEJ5UzYxSHFzVFFlQ3Zoc3JYTW56cWY?oc=5",
+      "source": "京都新聞デジタル",
+      "published_at": "2026-11-06T20:15:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T20:07:31+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T19:39:27+09:00"
+  "updated_at": "2026-11-07T20:07:31+09:00"
 }
