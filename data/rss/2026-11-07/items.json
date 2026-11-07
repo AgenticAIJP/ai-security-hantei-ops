@@ -2583,8 +2583,71 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T16:23:07+09:00"
+    },
+    {
+      "title": "日産フィナンシャルサービス、23万件情報漏洩か 委託先不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WRmRFc3FqemRPaGVfMDhtbFhJN0hGT2pFTTh4ZlI4MkEtNk50ZFhqSVdETVF4M1g3Qy1GMUdoUWs3OTdPQWx4QUFib1lOUm11cFpRTWpWbG1JVWIxM2pLTkNjbkpHWXd6U3R2aQ?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-06T21:57:28+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T16:51:06+09:00"
+    },
+    {
+      "title": "「非常に巧妙な形」ドコモが情報流出で謝罪 政府は緊急対策パッケージでサイバー対策強化に100億円支出【news23】 - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtM1A3cmRQU0loUkJnWkRIQ1h5c0NRVkR5ZzJxT1ZjdDFvYjJveU5sU2lPR0RWaDdIZkZFN0xzdGwzQUNyUlVUT3lGZHREQ0xuWFdmV1ZEdmQ3YmlQaEF3N01CWUtjT1VTcWg5VXpR?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-07T01:34:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T16:51:06+09:00"
+    },
+    {
+      "title": "ファイターズ「速報メルマガ」登録メールアドレス流出 利用システムに不正アクセス パ・リーグ5球団 (STVニュース北海道) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDR5LTF0TFFXVXlTVkNwNjJWTlFBQzN6RUY5M2xvVFdlUHlqaGdJTE0yckF5TGZFZTBRMlhfS2ZucWxXTVNaT0pqTGpmLUFSb1EyTXlWWUpwcXI0NUltdTZSVWxBSTJDV2U5OXpGR1VDdW5iUWVWeDNIWXh3T182UXBGbGdJaFdJdWtGRzNB?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T19:56:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T16:51:06+09:00"
+    },
+    {
+      "title": "ロート製薬、顧客情報279万件漏えい＝通話データ、クレカ番号も(時事通信) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ3lUWnBHb3R3aEJuWDEtSi1MbTEzN0h1SGhvTnd1QjVWZ0I2WkF3eFlMbGpxZ1RhU2FYdzdFMXpGdWZ4ZjJCdVlDdUtzS3JqSWYxd2FyQUlYaVhPRDNxaW9DVFVJQ0lWbC1GNTVrcFRtczFEdDhFd3UtLWMwZ0JTOVo2OHFpMkU?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published_at": "2026-11-06T22:26:13+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T16:51:06+09:00"
+    },
+    {
+      "title": "情報漏えいの芽を早めにキャッチ！ 危ないやり取りだけをAIが選り分け、職場の安心を守る最新ツール - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aMVZkX1R3ZnpwWlZrTXZ1ZVg5TVlDV2g1RTFxeFNCNXh6R0NJX3huc05STlZ5QmtDRXdpOHhmTGNpRVpyREh0SGwtUzBMZw?oc=5",
+      "source": "DXマガジン",
+      "published_at": "2026-11-07T16:07:30+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T16:51:07+09:00"
+    },
+    {
+      "title": "サイバー緊急対策に予備費約100億円 救援隊派遣へ、基幹インフラは同日中報告を目標 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fak8xYnRrR0VncVJlNWdNWnhrT09pVEdqZ0JFTGpvSUZwVlRVWkZUV09UMjJ5QzhlQXBpbVRfaHJTeHRZM0kwRVVuaDlMTDVHSmJj?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-07T16:32:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T16:51:07+09:00"
+    },
+    {
+      "title": "ペンティオ、AIエージェントのコントロール基盤 × MCPゲートウェイ「Obot」の国内提供を開始 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04VHFudDYtemZpbk1ieVZGZ0Q1Wm43cEphckFhNnRXNXVWdUhzVm02S05ld0Q3NGFHc1VELWktNG1QeURvR0hEc1d6b1EzeFlBaFcySzNXY2lRa0QwZUFybDM2b0dvYWVVem9R?oc=5",
+      "source": "時事ドットコム",
+      "published_at": "2026-11-07T15:10:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T16:51:07+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T16:23:08+09:00"
+  "updated_at": "2026-11-07T16:51:07+09:00"
 }
