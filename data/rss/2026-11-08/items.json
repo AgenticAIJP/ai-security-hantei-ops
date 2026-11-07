@@ -963,8 +963,62 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T04:05:10+09:00"
+    },
+    {
+      "title": "パスワード管理「アナログ商品」個人情報漏えい急増で注目 売り切れも （FBS福岡放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMVTVSbFJka3NraURFUG1hbW5yMWZFaVRhUi11TDNwdkFWN191YkJOSWtkQWNVTTRicER0WTVVdHZUNEdQeVpfTTdsT2RwSi12WGx2Vlk0U3BoM1hzUXJ4eW11eFNLT2tNekgwOXpLc29tNTVyZkFmdEFadFZJRWs?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T07:05:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T04:33:13+09:00"
+    },
+    {
+      "title": "山陰合銀の個人ローン契約者１６００人の情報流出 保証会社に不正アクセス - 日本海新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwa0xmNHVLZld1amtrcFc5cUMwTWxWUXZHS29JYm9zTDRXUEJwbnIyNFh4OHppOTJ1T0htN081SHEyeS1EajhHeFA4ZU12OUlZ?oc=5",
+      "source": "日本海新聞",
+      "published_at": "2026-11-07T17:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T04:33:13+09:00"
+    },
+    {
+      "title": "生成AIを活用するマーケティング支援会社として「生成AI活用の基本方針」を公開。あわせてIPA「SECURITY ACTION」二つ星を宣言 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iS1ozSDNieWJOQUI3N0J3YldqcGp1bk80Y3I3OXNFczZKRnItanJ0MWxFdkJGVEdZcnBFYjduMVpONTBmS3AyOFh3Z0FnM0QyMWFIT3Q1eHRpQ25UeWoyNkplN1F4bWE1TDVxN29hbS1lZw?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-07T11:10:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T04:33:13+09:00"
+    },
+    {
+      "title": "週間ランキング【値下がり率】 (11月6日) - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VWUNnalBxcm1PRnZ1bmsxa3ozOHg1NzFtMnFmby1FM01kVG9xVmhwN3pubWM3NTNDZkVaVXhrNkc2bThPTlEyLUxUZGFOSUMwenc?oc=5",
+      "source": "株探",
+      "published_at": "2026-11-07T14:30:03+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T04:33:13+09:00"
+    },
+    {
+      "title": "【警告】クラブツーリズム、432万件流出でサイト停止！中小企業も今すぐ確認すべき対策3つ Boeing F-47 (KaXX6XTWGu) - Unisba Media",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vbnlGdjlLUVVURzlHa3hUOE8zeFZBY0wwQ0FqQVB3WnFIb2NyTzhXbnJoWnpXMEJNdENncDQteHZGSzZJTU9kNzJjVVRvV1lzWWI1OGp4MTFJdFVia1RyRm9naThpVl8tb2x3?oc=5",
+      "source": "Unisba Media",
+      "published_at": "2026-11-07T21:23:13+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T04:33:13+09:00"
+    },
+    {
+      "title": "circleが生成AI活用の基本方針を策定 SECURITY ACTION二つ星を宣言 - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5CN01HX2VfVzFxQWY4cndiTjl5cjJzOXNTYXZCZjVva2prZHZQUXJ5S3V1Ny15QTFuNnF3N0RGY05QeWhRMUdz?oc=5",
+      "source": "Dellows News",
+      "published_at": "2026-11-07T05:10:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T04:33:13+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T04:05:10+09:00"
+  "updated_at": "2026-11-08T04:33:13+09:00"
 }
