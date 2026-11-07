@@ -2403,8 +2403,44 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T11:15:11+09:00"
+    },
+    {
+      "title": "沖縄美ら海水族館・首里城公園のチケット利用者情報にも流出の可能性　沖縄県がアソビュー経由の不正アクセスを公表",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/okinawa_churaumi_shurijo_asoview_20261106/",
+      "source": "",
+      "published_at": "2026-11-07T11:23:42+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:43:09+09:00"
+    },
+    {
+      "title": "埼玉県、県営プール3施設とこども動物自然公園の利用者情報に漏えいの可能性　アソビュー委託先への不正アクセス",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/saitama_prefecture_pools_zoo_asoview_20261106/",
+      "source": "",
+      "published_at": "2026-11-07T11:18:34+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:43:09+09:00"
+    },
+    {
+      "title": "Botpress、内部侵入と顧客の認証情報に関するリスクを公表 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2tVak15V0d0aHJFVTRZZVlydlc1dG95RzU5Y1JvUDE1Ujd5TEVoeUtIeEFQLUVhb3lnTzZxREdqMFdwRjgtZWFzc0NRbkpsMEhNUjlJb2JFeHBkTUpJOG5qMkpMRHhuT0ZmVFRZaFA1LXpRZXdQTG1oYW5JRV9jOVVwUzhYTGpNa1htT3JJbEE2Zw?oc=5",
+      "source": "Unite.AI",
+      "published_at": "2026-11-07T03:52:01+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:43:10+09:00"
+    },
+    {
+      "title": "政府、サイバー攻撃の緊急対策パッケージを決定 IPAにAI活用のトップガン人材チーム - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1VVdJMUVhdWpzYlQ1UTE0UnZxc0JZOS1Ha01MVHllZlFSTmw3TVB3SjFiVnJIZ1FRVTRicnpwMkFQRFpUdGo1dlJqeHE2U0tyX2s3V1F3NEJKaFNZRVpjSXVEQXpkcjZoZGVqUzBrY1ZUTDA?oc=5",
+      "source": "innovaTopia",
+      "published_at": "2026-11-07T10:23:12+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:43:10+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T11:15:11+09:00"
+  "updated_at": "2026-11-07T11:43:10+09:00"
 }
