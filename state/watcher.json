@@ -1333,7 +1333,13 @@
     "6aeeabaf2bcb2ca0120141a0",
     "6aeeabb12bcb2ca0120141b7",
     "6aeeb15b2bcb2ca0120144d4",
-    "6aeec2272bcb2ca012014da9"
+    "6aeec2272bcb2ca012014da9",
+    "6aeec4e92bcb2ca012014f8a",
+    "6aeec52f2bcb2ca012014fe0",
+    "6aeec5792bcb2ca012015022",
+    "6aeec57a2bcb2ca01201503c",
+    "6aeec5882bcb2ca012015057",
+    "6aeec94a2bcb2ca01201522a"
   ],
   "pending": [
     {
@@ -1690,6 +1696,18 @@
       ]
     },
     {
+      "key": "nobunaga",
+      "reason": "an_review",
+      "at": "2026-11-07T15:54:59+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aeec52f2bcb2ca012014fe0"
+      ],
+      "line_ids": [
+        "6aeec2272bcb2ca012014da9"
+      ]
+    },
+    {
       "key": "chacha",
       "reason": "an_review",
       "at": "2026-11-07T09:50:54+09:00",
@@ -1705,6 +1723,33 @@
       "attempt": 1,
       "post_ids": [
         "6aeeabb12bcb2ca0120141b7"
+      ]
+    },
+    {
+      "key": "mitsuhide",
+      "reason": "correction_request",
+      "at": "2026-11-07T15:54:59+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aeec5792bcb2ca012015022"
+      ]
+    },
+    {
+      "key": "hojo",
+      "reason": "x_sokuho_plan",
+      "at": "2026-11-07T15:54:59+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aeec94a2bcb2ca01201522a"
+      ]
+    },
+    {
+      "key": "hojo",
+      "reason": "correction_request",
+      "at": "2026-11-07T15:54:59+09:00",
+      "attempt": 1,
+      "post_ids": [
+        "6aeec57a2bcb2ca01201503c"
       ]
     }
   ],
@@ -13552,7 +13597,9 @@
       ],
       "at": "2026-11-07T15:26:58+09:00",
       "attempt": 1,
-      "status": "sent"
+      "status": "done",
+      "cost_cents": 30,
+      "cost_final": true
     },
     {
       "id": "kenshin-1794032818324",
@@ -13581,7 +13628,9 @@
       ],
       "at": "2026-11-07T15:26:58+09:00",
       "attempt": 1,
-      "status": "sent"
+      "status": "done",
+      "cost_cents": 101,
+      "cost_final": true
     },
     {
       "id": "hojo-1794032818324",
@@ -13601,7 +13650,7 @@
       ],
       "at": "2026-11-07T15:26:58+09:00",
       "attempt": 1,
-      "status": "sent"
+      "status": "done"
     }
   ],
   "last_dispatch": {
@@ -13650,7 +13699,7 @@
       "catch_up": 6
     },
     "2026-11-07": {
-      "managed_usd": 40.86,
+      "managed_usd": 42.17,
       "baseline": 2,
       "scheduled_usd": 0.86,
       "hantei": 3
@@ -13673,7 +13722,7 @@
       "why": "受け取りの記録がありません"
     }
   ],
-  "last_run": "2026-11-07T15:26:58+09:00",
+  "last_run": "2026-11-07T15:54:59+09:00",
   "last_check": {
     "nobunaga": "2026-11-07T15:26:58+09:00",
     "chacha": "2026-11-07T09:22:42+09:00",

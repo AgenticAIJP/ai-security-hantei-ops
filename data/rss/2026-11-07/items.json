@@ -2511,8 +2511,44 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T15:27:04+09:00"
+    },
+    {
+      "title": "日本ハム・楽天・西武・ロッテ・ソフトバンクの5球団でメールアドレス1万3,711件流出　千葉ロッテ公式サイトも不正アクセス",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/pacific_league_5teams_chiba_lotte_dual_data_breach/",
+      "source": "",
+      "published_at": "2026-11-07T15:30:52+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T15:55:04+09:00"
+    },
+    {
+      "title": "NTTドコモ、不正アクセスで約30万件のユーザー情報流出 注意を呼びかけ（アスキー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4RmRQZFoxd3FYQ0Y3NGF4b2wyVW9BTkNVeTlUOWVPdjhJVTZ0dHk2ZUVjSVhBWjBCV3V6eDJwR1dsSTBnMldUWXhXdkVJZnhnendrNmxzLVFGRnNMRGxuSkNjdzNZdWRQai02X0tmb2tBUEh1NG5PTy1jeWRXYm8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T19:30:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T15:55:05+09:00"
+    },
+    {
+      "title": "スマホに「ブッダ」「お坊さん」 ＡＩ活用、仏教界で模索―情報漏えいリスクも - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rVUdhWGhpeVhUWF9FQUo1bDZGb05aMnJWTXJQRHRwYTJqd0pjWE9hbW5jOVZGWnMyY2p3WnFBSGxDaDRvU1RNNEYwMUhUdE5HTjJiYnJwOElOZ1lWUGUyYzQ1WQ?oc=5",
+      "source": "時事ドットコム",
+      "published_at": "2026-11-07T14:32:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T15:55:05+09:00"
+    },
+    {
+      "title": "ロイロTV拡大版「先生の生成AI活用術」全5回を無料配信 1枚目の写真・画像 - リセマム",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01eHgyeUYzdjdvZmVJbEpaVjV2Ml92OE9CZzhJVjNDMjNwQnNzdG9VVFY5dUh5WkZvcTZYazJ4OUVsbWRLVUZrWTJTc2ktbVBIZnlOV05ycmdmTHJzYWJPcU1fWHJFNEE1RkN4UWhRbW1KZjg?oc=5",
+      "source": "リセマム",
+      "published_at": "2026-11-06T17:45:02+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T15:55:05+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T15:27:05+09:00"
+  "updated_at": "2026-11-07T15:55:05+09:00"
 }
