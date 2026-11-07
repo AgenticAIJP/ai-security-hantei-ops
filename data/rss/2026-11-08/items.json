@@ -1017,8 +1017,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T04:33:13+09:00"
+    },
+    {
+      "title": "「首里城」や「美ら海水族館」チケット予約サイトで個人情報流出か アソビューのメール配信に不正アクセス（琉球新報） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXR04xdjIyb1pjOXZ4Nl94SVJDcGYxeUUzc3lmU3V0ZGxxMy11MTNXb3BBU0t3RnVSdHhvU3p0dUNPcWhFTTRvaGRpV2NBYVNzLVhud3lDWUZVcnNLSjJhUU5jR0ctai0zS0cwNEp1MXZYV2hsVnJDVGF3UnNDQkU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T11:10:52+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T05:01:10+09:00"
+    },
+    {
+      "title": "政府がサイバー攻撃に対してブロッキング検討、強制遮断の法的課題検討へ - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxcl9uNDZLdmQzOVdDenZtSXhtZWVNaERBVExMQ1oxZGxvV2FnOXRMVlV6WU1xckRJVVdadFBtaXA1QXNOdUNNTmpNWlFIRld2Y1FN?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-08T04:36:34+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T05:01:10+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T04:33:13+09:00"
+  "updated_at": "2026-11-08T05:01:10+09:00"
 }
