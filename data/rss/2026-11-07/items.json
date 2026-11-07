@@ -3042,8 +3042,26 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T21:59:43+09:00"
+    },
+    {
+      "title": "りそな・関西みらい・みなとの３銀行、提携先の不正アクセスで解約済み顧客の個人情報５９３５件漏えい（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95RVd2VG1BREk0VzlJbEgyV3VuYW5lazYtTV9ucy1SdDZ6aWNhWFNUd3lhS2hJNDZ0ZlNWV3RQcXJPMnBOUmtvb1RsYlc2Vy1ybGx1dlEtaVVDTEFMOHRUUXVnNjJWMDVUMUtpZUd6YWpIVGF6ZUNpTVNndC14cTg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T01:13:38+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T22:27:46+09:00"
+    },
+    {
+      "title": "ブッダボット 仏教界でAI活用模索 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfdEhwUTdiRGVxS3VlNmVTbEhfN1FLWWZ5VkJCZ1k1VzRqNEtiMzVHNGMtck5wcFU2QVZFaGJKY3pia014MVhiUmNRSHB6M3lf?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T20:54:04+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T22:27:47+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T21:59:43+09:00"
+  "updated_at": "2026-11-07T22:27:47+09:00"
 }
