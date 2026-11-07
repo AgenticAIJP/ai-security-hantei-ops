@@ -918,8 +918,17 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-08T00:49:04+09:00"
+    },
+    {
+      "title": "【情報漏えい急増】ＩＴの付き合い方、再考を ないものは漏れない 北海道大情報基盤センター教授 南弘征 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmYTlKVWhvb25tNFZUZzhZckx5VGQtRktKbTczdDAyM3R5MGcwRGJzYy1JOE5SVXRxNTNZLUVBWGtCNHVLVVJpXzd6T1Q3M0ZGREE?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-08T00:12:25+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T01:17:07+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T00:49:05+09:00"
+  "updated_at": "2026-11-08T01:17:07+09:00"
 }
