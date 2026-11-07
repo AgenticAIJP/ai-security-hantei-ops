@@ -176,13 +176,18 @@ async function main() {
     if (t.reason === "eval_correction") return 0;
     if (t.reason === "an_review") {
       const first = firstLine(postById.get(t.post_ids?.[0])?.content ?? "");
-      if (/最新版の下書き/.test(first)) return 2;
-      if (/最新版の一覧の材料/.test(first)) return 3;
+      if (/最新版の下書き/.test(first)) return 1; // 目付の訂正と同じ順位。古い順に並べる
+      if (/最新版の一覧の材料/.test(first)) return 1; // 下書きと同じ順位。並べるときは、同じ時刻の下書きのすぐ後ろ（下の atKey）
       return 4;
     }
     if (t.reason === "correction_request") return 1;
     return 4;
   };
+  // 謙信の点検は、【最新版】を先にする（読む人がそれだけを見て動くため）
+  const fixedPriority = (t) => (isHanseikai(t) ? -1 : t.reason === "review" && /^【最新版】/.test(firstLine(postById.get(t.post_ids?.[0])?.content ?? "")) ? 0 : 1); // 反省会の仕事はいちばん先のまま
+  const isListMaterial = (t) => t.reason === "an_review" && /最新版の一覧の材料/.test(firstLine(postById.get(t.post_ids?.[0])?.content ?? ""));
+  const atKey = (t) => String(t.at ?? "") + (isListMaterial(t) ? "~" : ""); // 一覧の材料は、同じ時刻の下書きより後
+  const byPriority = (prio) => (list) => list.map((t, i) => [prio(t), atKey(t), i, t]).sort((x, y) => x[0] - y[0] || x[1].localeCompare(y[1]) || x[2] - y[2]).map((x) => x[3]);
   const seen = new Set(state.seen);
   const startFrom = Date.parse(routing.start_from ?? `${routing.day1}T12:00:00+09:00`);
   const fresh = posts.filter((p) => !seen.has(p.id) && Date.parse(p.posted_at) >= startFrom);
@@ -462,10 +467,10 @@ async function main() {
     if (cfg.max_items_per_run) {
       // 質を保つため、1 回に扱う件数を絞る。残りは次の回に回す。選べる速報は、あとで pick 件だけ選ばせる。
       const batchMax = routing.check_batch_max ?? 6; // まとめて確かめる仕事は、1 回に扱う件数を別に数える
-      // まとめて確かめる仕事は、大事な順に渡す（11/07：評定の訂正 → 目付の訂正 → 最新版の下書き → 一覧の材料 → ほか。同じ順位の中は古い順。評定の指示「新しい仕事より先に未訂正を直す」に合わせる）
-      const batch = tasks.filter(isHeld).map((t, i) => [heldPriority(t), i, t]).sort((x, y) => x[0] - y[0] || x[1] - y[1]).map((x) => x[2]);
+      // まとめて確かめる仕事は、大事な順に渡す（11/07：評定の訂正 → 目付の訂正・最新版の下書き・一覧の材料（同じ順位で、仕事ができた時刻の古い順。一覧の材料は同じ時刻の下書きの後）→ ほか）
+      const batch = byPriority(heldPriority)(tasks.filter(isHeld));
       stillPending.push(...batch.slice(batchMax));
-      const fixed = tasks.filter((t) => !isChoosable(t) && !isHeld(t));
+      const fixed = byPriority(fixedPriority)(tasks.filter((t) => !isChoosable(t) && !isHeld(t)));
       const choosable = tasks.filter(isChoosable);
       if (fixed.length >= cfg.max_items_per_run) {
         stillPending.push(...fixed.slice(cfg.max_items_per_run), ...choosable);
