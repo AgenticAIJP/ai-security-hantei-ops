@@ -1080,8 +1080,62 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-08T07:20:53+09:00"
+    },
+    {
+      "title": "京都市京セラ美術館・二条城、チケット利用者情報に流出の可能性　ARTPASSとアソビュー経由、京都市が11月6日公表",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/kyoto_kyocera_museum_nijo_castle_arara_20261106/",
+      "source": "",
+      "published_at": "2026-11-08T08:00:49+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T08:16:44+09:00"
+    },
+    {
+      "title": "日本ネットワークセキュリティ協会に不正アクセス 最大1.5万件の個人情報漏えいの恐れ - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85SVBnQTNHVWVvcmhJUkY5U0t1YVc2U3dZdXhTODBhc2ZpTkJGUWFlU2dCNlJ6V1hMQllHR2psV292M3NmUGpmc0tLWk9xMjlvbVE?oc=5",
+      "source": "CNET Japan",
+      "published_at": "2026-11-08T07:36:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T08:16:45+09:00"
+    },
+    {
+      "title": "政府がサイバー攻撃に対してブロッキング検討、強制遮断の法的課題検討へ（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fUmhWZlh3VlZYX3BlV2xwTjFJaUpQcDZ2M1U4UFhVc2J2NGx1aXpNQ0tmYkxiV1pYUy16RVRSYWdIdHVrUWRyVjVGRmgtdkZSNTM4dndnMjN2T2RlSm1vcGMwWXZ5YUVDZW52QWsyM1docEI5SFZjcG1KcURqVnM?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-08T04:47:39+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T08:16:45+09:00"
+    },
+    {
+      "title": "ロート製薬、約280万人の個人情報が漏えい 通話録音に9715人分のカード情報も - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vQTlRdDhXSlVhdW90VWNFZ1VzQllMaGs5OXVnNV9YREJKakdBS3p2dno2V0pIaVBzMGF3TGtUZEk0dGZmWHlsQW45TlBKZENON0E?oc=5",
+      "source": "CNET Japan",
+      "published_at": "2026-11-08T07:50:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T08:16:45+09:00"
+    },
+    {
+      "title": "EBiDAN「会員向けメールサービス」登録のアドレスが漏えい、不審なメールに注意喚起（スポニチアネックス） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85YUdsYTRRZGlrcnQ3blBIQkZWM25WNXdwOXliYzJTLXVnODRHcTNWRllXdUZTWVB5b0EtX0JMeGxMaGVBWTBTemRCZUxFX25ISXYxWlFmZDdGc2lNamtFT250S01wSjdtOWRyZ1NyblZGU2tmYTVJa3ZFNjdCem8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T16:12:27+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T08:16:45+09:00"
+    },
+    {
+      "title": "オンライン麻雀「Maru-Jan」への不正アクセスによる会員情報流出のお詫びとご報告 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHNTB2MndKdk5ybURuYldXQzJsa19DQVZ6eU5SeU9RVnFhR1ZTY0xNVUJyXzdRaFd5X1lQdURhbV9tUExpOExiU0tPeEFsa0otckhj?oc=5",
+      "source": "ZDNET Japan",
+      "published_at": "2026-11-07T16:30:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T08:16:45+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T07:48:48+09:00"
+  "updated_at": "2026-11-08T08:16:45+09:00"
 }
