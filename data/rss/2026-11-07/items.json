@@ -2691,8 +2691,53 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T17:19:08+09:00"
+    },
+    {
+      "title": "最大188金融機関で新規カードローン停止 保証会社への不正アクセス - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzcGhodVY3dmZYbEs3UEFaSWhxdHJLOWRMV2ZCX2Q1a3Y0SWsyZXUwbEl1TTM4cEFTSTkyX3c4MEx4THd3MXFpdEFON3h4V3lvU28tbTR5bHdRRW44dFV1UVNlLVg2X2pPaFFKag?oc=5",
+      "source": "日本経済新聞",
+      "published_at": "2026-11-06T17:53:09+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T17:47:12+09:00"
+    },
+    {
+      "title": "NTTドコモで最大約30万件の情報流出 不正アクセスで「My docomo」など停止 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpTHFreWtzWWFqWDZFdi1JS1Mxalo0NlN1cXBOdk55V3l0VXhRM2xScHZaWHlGTWpLaVhGUHZ4NGZpZWhIMDB5MWY0TFBaVzc5cjV5V0JtU0xDcl90YVYyNDRrTVFGMGpE?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-07T08:09:18+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T17:47:12+09:00"
+    },
+    {
+      "title": "AI攻撃 36分で情報流出 自動ハッキング再現実験 - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1Q2tzR05aY3FUWnBHOFg1MkNCVGdJT2VHdURoZm1TNkEyZUQzRUZINkJuZm9RcWFQcVBLQlQ1M1Y3b0czSkZaY2VlWQ?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-07T16:04:52+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T17:47:12+09:00"
+    },
+    {
+      "title": "バイナンス9280億円流出、入口は偽の採用面接と改ざんHomebrew 社内AIも踏み台に ｜FinTech Journal - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RQWNqbGk5R2o0U185ZU03M0dLQzdHMUFiNFl3SzBtQmtOdkgyZzBvNTk5NEVCYjdUY0FUSFFHSmc2YXBfRmFMSDRia0lSUTQ?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-06T19:24:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T17:47:12+09:00"
+    },
+    {
+      "title": "株式会社ATJCの株式取得（子会社化）に関するお知らせ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyUWpOeDN2R2VlSWprSlZfVUdYNWRTNXlsSC1GRllCRUZxWWo2cjdZOFRxelhGam5HMlJXeEl5dFljVVBhY1NfOU90TG1KM3V3UE5Ua0FYcENDSS1Ob1FDVTFNZmRrYjR6VVE?oc=5",
+      "source": "PR TIMES",
+      "published_at": "2026-11-06T19:17:27+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T17:47:12+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T17:19:08+09:00"
+  "updated_at": "2026-11-07T17:47:12+09:00"
 }
