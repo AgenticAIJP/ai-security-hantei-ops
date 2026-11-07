@@ -2925,8 +2925,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T19:11:23+09:00"
+    },
+    {
+      "title": "ドコモ、不正アクセスで最大29.5万件の情報が流出（ケータイ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAteDE3RUZFS25UakJLVGpLXzdnaUdQMlFGaTFydTZyZWRCakdYSUN1eDdac0JiMmtJNUNtancxaGJpWWJHZjFlNHBZUGUwRDJvNjlTZm1OMkl1c1g5V3dicWtZWmNEa1E5M1d1RW1YeGtNME00ek54V2FnaVNxVXc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T20:07:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T19:39:27+09:00"
+    },
+    {
+      "title": "IPA、ランサムウェア被害組織の生の声から得た“11の教訓”を公開：もう一度読みたい「対策見直し」ニュース（1/2 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsanJaczQ1d1UtdnhwdUZ4VGNycC1xQV9fejBRdjFSblBsbUQ2YmZPVy1ERVhSY21rS1hmSDVTdEtVWEFJZjRIV1N0ZUpLOFdMMFFiMHg4cWtPMmJaNDl3UVBSX3pDU1AxV0FSMmRIYk5Cdw?oc=5",
+      "source": "ITmedia",
+      "published_at": "2026-11-07T18:26:57+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T19:39:27+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T19:11:23+09:00"
+  "updated_at": "2026-11-07T19:39:27+09:00"
 }
