@@ -936,8 +936,17 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T01:45:16+09:00"
+    },
+    {
+      "title": "ミュンヘン工科大学にサイバー攻撃、myTUM利用者全員のパスワードが流出 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUQ0T09HaWMyTU5TMzNQcmVObF9hbjROek5QQUtQeWVmWlphblBveTltOGEwdUFXXzlicTdUNVVJYWxsTThEZUpfOXh0NTJJMVMzcWhLSG85SmRHbHBPMTJiZ0I4NXVBTGcyc1NKa015RU82SHI4U0wtb1hoN0Nub09JcXdKaVBvV3FMMWZVblh0S29xTl8xOQ?oc=5",
+      "source": "Pasquale Pillitteri",
+      "published_at": "2026-11-08T02:21:20+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T02:41:11+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T02:13:16+09:00"
+  "updated_at": "2026-11-08T02:41:11+09:00"
 }
