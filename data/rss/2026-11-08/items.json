@@ -1134,8 +1134,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T08:16:45+09:00"
+    },
+    {
+      "title": "KDDI、委託先への不正アクセスで「au自転車サポート」のお客さま情報が漏えいした可能性と発表 - AppBank",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tcm4zN1ZJV3hRZGVUR0R5aHE5RGNjU2JpbnBnc3hqX3BSbzRKLWwtQm10bmRVZ0pXVTdMTUJLcEtjUUJkWU02S25jTk90SmFYcWhxcmh0SUZfQkhqbkhfZ0hwR2tCc2Zad1E?oc=5",
+      "source": "AppBank",
+      "published_at": "2026-11-08T08:31:09+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T08:44:38+09:00"
+    },
+    {
+      "title": "ＡＩサイバー攻撃再現実験 　機密情報流出、わずか３６分　ハッカーＡＩ悪用、自動化　対策すれば防止成功｜四国新聞WEB朝刊 - 四国新聞",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOM1BNMXlQRFVTaHNoUVlTQ2RWV1dMZjdJSUVZckd6Q1NMODIyOWF5VmFaOEVZNjh6YUR0SlZPWjZwcXl0N1paLXhpRzRWSVppajBrMGtNZHcxekNRTFY2T192bzFaZ3dxMTZ1U1ZKcFhPQ1ZCeXh1c0lNa2bSAXxBVV95cUxQTjNQTTF5UERVU2hzaFFZU0NkVldXTGY3SUlFWXJHekNTTDgyMjlheVZhWjhFWTY4emFEdEpWT1o2cHF5dDdaWi14aUc0VklaaWowazBrTWR3MXpDUUxWNk9fdm8xWmd3cTE2dVNWSnBYT0NWQnl4dXNJTWtm?oc=5",
+      "source": "四国新聞",
+      "published_at": "2026-11-07T23:51:23+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T08:44:39+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T08:16:45+09:00"
+  "updated_at": "2026-11-08T08:44:39+09:00"
 }
