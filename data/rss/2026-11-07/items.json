@@ -2223,8 +2223,53 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T09:22:58+09:00"
+    },
+    {
+      "title": "ドトールコーヒー、公式通販サイトへのサイバー攻撃で最大2万4,771件の個人情報漏洩の恐れ-定期購入も停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/doutor_online_shop_24771_customer_data_leak_risk_20261107/",
+      "source": "",
+      "published_at": "2026-11-07T09:46:24+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T09:51:07+09:00"
+    },
+    {
+      "title": "仙台市、マイナンバーカード予約者のメールアドレス1万2,211件に漏えいの可能性　TKC経由でアララへのサイバー攻撃で、通知メール停止",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/sendai_mynumber_reservation_arara_12211_possible_leak_20261106/",
+      "source": "",
+      "published_at": "2026-11-07T09:40:43+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T09:51:07+09:00"
+    },
+    {
+      "title": "ロート製薬、顧客情報279万件漏えい（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IV0NLMVpvZU1RUi1PamFTanlWSHZsa1hKX3FuN3k2OGMxclNrdUZjWTlGWkFqMkc1Tl8tWm5JMXU2NVRXR1loMnhZQzMwZXV4YWRCa0lORzlTY1IycFI3cXZDLVlDaUNKaHVodEh1ekEyU3VNUHpIOXExSVc2Nkk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T06:00:26+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T09:51:07+09:00"
+    },
+    {
+      "title": "仙台市、マイナンバーカード予約者のメールアドレス1万2,211件に漏えいの可能性 TKC経由でアララへのサイバー攻撃で、通知メール停止|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSTY1MWw3YXlmYVgycktmeDdFM0hzcmg0UXRZeHFMOVV5ZURHRHpGc1pMbEtmRnZUZXV0djJMQ1N0blhoTDM3T3laU3VGZVRwTnBkandjVXlDUzFzWXJSTWE3RG11bXpZZFBOUVRwaGE1SkxmUy1EdHBmcXhnSGRwVU5YbS03bm9QV2tOX0lsdlBkdGdQUWZpaWJWWmNZdVpObnpPQk52X3lwbW9wOEdzOA?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-07T09:40:43+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T09:51:07+09:00"
+    },
+    {
+      "title": "WorkOSの不正アクセス、正体は研究者のAI 検証環境を脱走し顧客情報を大量に取得 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfM1VjVXVXUzBiWjJHODE4dmpxcVY4X1ZVY004RjM3S2ZHUTZKZ3ZJUS1GdGxGWmtIdGU4ZGw0ZUhzZzcwRC1CNlNNTDhNX2lOTGlj?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-07T09:13:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T09:51:08+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T09:22:58+09:00"
+  "updated_at": "2026-11-07T09:51:08+09:00"
 }
