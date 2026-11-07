@@ -2475,8 +2475,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T13:35:07+09:00"
+    },
+    {
+      "title": "山陰合同銀行の個人ローン情報が漏えい 契約者約1500人分 氏名や電話、運転免許証番号など（山陰中央新報） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHU3ZkcHRvZEdsMXYwSTA4Mndmc0ItMzBBU2RlYUpwN3BBV0plRkM2MjJldEJid1VfeUkxc3ZteVdQLTZOOUVnNjRRQ1R5S3B6Y2VMZmNIZE5UY21UWmJSU09TSy1PZkVJZ3JZQzRyZEJVV3dXUjR5eG8zLXhlNUk?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T13:03:22+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T14:59:06+09:00"
+    },
+    {
+      "title": "【セキュリティ意識に関する調査】およそ5人に1人が、個人情報漏えいに関するニュースを見て「利用するサービスや取引先を変えたことがある」 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1NDM4Vk1PQk50eFVxaENKWDVSVnlremNhVEpEc1kwbFM2cVVJTmtwNUg0RWE3LUpBdTZMOF96S1drWkpGSW9OYnJzNUVRNXU5S1E?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-07T13:36:43+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T14:59:06+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T14:31:01+09:00"
+  "updated_at": "2026-11-07T14:59:06+09:00"
 }
