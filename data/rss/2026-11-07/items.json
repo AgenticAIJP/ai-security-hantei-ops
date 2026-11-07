@@ -3060,8 +3060,17 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T22:27:47+09:00"
+    },
+    {
+      "title": "Cloudflare「Zero Wire」公開、脆弱性対応は「誰が調べるか」から AIで影響確認も - innovaTopia",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zc0JhV0Q1eTV2MnpTcmRIMjFMaVgzR0N0N2E4c2p4Z1RieUZWV1NTa1czbVhmUTc5WTQtMkVTSGM1LW03TDN0VDRURHNqeEdpRXhRQThDblZ6ZzN3Uno5ZExQeHRRcDFwcHJ6VnBpNEdVNXM?oc=5",
+      "source": "innovaTopia",
+      "published_at": "2026-11-07T10:41:36+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T22:55:46+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T22:27:47+09:00"
+  "updated_at": "2026-11-07T22:55:46+09:00"
 }
