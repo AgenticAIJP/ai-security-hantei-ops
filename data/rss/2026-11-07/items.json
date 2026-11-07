@@ -2178,8 +2178,53 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T08:54:49+09:00"
+    },
+    {
+      "title": "NTTスマイルエナジー、不正アクセスで「スマイルeポイント」約1万4,000件を不正交換　800万ポイント分の被害確認、保有者に全ポイント補償へ",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/ntt_smile_energy_smile_e_point_14000_8million_20261106/",
+      "source": "",
+      "published_at": "2026-11-07T09:01:40+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T09:22:57+09:00"
+    },
+    {
+      "title": "西日本の128信用金庫で大規模なシステム障害-ATM・ネットバンキングが利用できず、共同センターの通信障害が影響(同日午後7時に復旧)",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/shinkin_west_japan_128_system_outage_20261106/",
+      "source": "",
+      "published_at": "2026-11-06T15:36:23+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T09:22:57+09:00"
+    },
+    {
+      "title": "不正アクセスによる個人情報漏えいに関するお詫びとお知らせ｜ニュースルーム｜スマートニュース株式会社 - スマートニュース株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DN0FuQUphaHB5UWVFVFJpX0hBdE9DR1IyRHRVczZVZWROSkw1NmJGNTcxY1NwQklKVEFPQlJJcHJxdjRvTUtwdnY0WjNoem9weEJqREcyMy0?oc=5",
+      "source": "スマートニュース株式会社",
+      "published_at": "2026-11-06T15:01:21+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T09:22:58+09:00"
+    },
+    {
+      "title": "二段階認証は必須！パスワードは使い回ししない！できるだけ長いものを！専門家が語る個人情報流出防衛策（TOKYO MX） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWm9MNlZwOVlrSEw4UllQLVc3SWc4UjZMWGpVbEhOR3ZkSjk2QlFjdFR4RVFPTnE0cGFOYWNnbm1Ddm1TU0hVeERCZEtFRkt5bktlQ0dpWWNtS2dHQzdSUWtRTURIdFY0ODJZRl8wcUdBNEpXeFVMYkVORk8wLUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T08:31:48+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T09:22:58+09:00"
+    },
+    {
+      "title": "AIが持つ“無意識の思い込み” 子どもたちの将来の可能性を狭めるおそれ 専門家が提言、教育現場と家庭でできること - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NMEJHZFVLQzRpYVhXaFByYi1wUkxYbDk4cmNGWWU3enFZMHh1ZnFmYjRobjFvMHVKc1FGamFPWjlUdEp5XzczRzQ4UEV2eFY3QmRqcFlqN0pPcGtvZ0FleUJGYkhyU2tyWXM3NF9n?oc=5",
+      "source": "au Webポータル",
+      "published_at": "2026-11-07T09:01:38+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T09:22:58+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T08:54:49+09:00"
+  "updated_at": "2026-11-07T09:22:58+09:00"
 }
