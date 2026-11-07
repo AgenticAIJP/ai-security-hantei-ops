@@ -2322,8 +2322,89 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T10:47:08+09:00"
+    },
+    {
+      "title": "SBC信越放送の公式アプリに不正アクセス　会員情報最大約1万4,000件が漏えいのおそれ、暗号化パスワードも対象",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/sbc_app_14000_encrypted_password_20261107/",
+      "source": "",
+      "published_at": "2026-11-07T11:00:50+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:15:10+09:00"
+    },
+    {
+      "title": "福岡市、マイナンバーカード予約者のメールアドレスに漏えいの可能性　アララへの不正アクセスで受付メール停止、休日の確認は電話で",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/fukuoka_city_mynumber_arara_reservation_email_20261107/",
+      "source": "",
+      "published_at": "2026-11-07T11:00:07+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:15:10+09:00"
+    },
+    {
+      "title": "宮崎市、スマート申請の登録3万9,412件に情報漏えいの可能性　アララ不正アクセスで新規登録・パスワード再設定に影響",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/miyazaki_city_arara_smart_application_39412_registered_20261107/",
+      "source": "",
+      "published_at": "2026-11-07T10:57:58+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:15:10+09:00"
+    },
+    {
+      "title": "福島県郡山市、行政手続き・マイナンバーカード予約で約5万2,600件が影響対象の可能性-アララに不正アクセス、登録者情報を調査",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/koriyama_arara_52600_registered_20261107/",
+      "source": "",
+      "published_at": "2026-11-07T10:54:58+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:15:10+09:00"
+    },
+    {
+      "title": "福岡市、マイナンバーカード予約者のメールアドレスに漏えいの可能性 アララへの不正アクセスで受付メール停止、休日の確認は電話で|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlJEaXdLZVBURnZUTEI3dVhCd0RQWTVUaTlBeE9nN2kxc1NaaUtuUWVRZnBiWjRfcWppMllVQXJLVjMxdGw5RDdpSlBuTzNtYmRITHJ3YzlUYkUyNmR0SU82TUd1czItMWwzSktwLVlwTWtyUE55cWtzVzRoWGdoalliZ2lHTGlnQ3hmZ1Ruc1g3czItek9SWHg1TlVvUE1aVzhJX0JB?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-07T11:00:07+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:15:11+09:00"
+    },
+    {
+      "title": "「首里城」や「美ら海水族館」チケット予約サイトで個人情報流出か アソビューのメール配信に不正アクセス - 琉球新報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MEQ3Z2dIMmJ3RG9PMkgtdzVQbGsxSlhGUWtyR2dfa29tSExiQk5zOWdWT0ZUS2JsYnN3QWFUVVhxRDJlcWdtZGkwZlp0RWY3UW5mX2cwUXE5SlpwSzFRcw?oc=5",
+      "source": "琉球新報デジタル",
+      "published_at": "2026-11-07T05:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:15:11+09:00"
+    },
+    {
+      "title": "福島県郡山市、行政手続き・マイナンバーカード予約で約5万2,600件が影響対象の可能性-アララに不正アクセス、登録者情報を調査|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNczZqeE52ZHRQV2lxdU1SODdoZEc4X2pac2ZRZ2tvREotVFdrUEhuYTl4aE5nR2ZVRThnY3RXSXJjYnVLYVR6SUhVRGF6MTdqMENlMzdFU0VoTjBHSVRIaURLRXJWNlA2Y1VuVzdSaVdYUXpHalNqTXFVS202anVVdlpxNjV4dGFUSEpVb0RieV9lYU0?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-07T10:54:58+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:15:11+09:00"
+    },
+    {
+      "title": "秋田魁新報社・２４年展覧会 電子券購入者情報漏えいか 「アララ」不正アクセスで - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41LVRXTDNsd0R0OGRFa0VyVlI4UXQzcDZxSUJrQktYcFR3UWE4UEFPVUZyMUNvWFhsOTIzRVdweXphR1BxRldUbi1Eaw?oc=5",
+      "source": "47NEWS",
+      "published_at": "2026-11-07T10:35:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:15:11+09:00"
+    },
+    {
+      "title": "【小田原市】小田原市立総合医療センター導入の小児科診療予約システムに不正アクセス - 湘南人",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNW9wOHNwV1JUaVctRlowMm1QemNKdW5TLVkxbWdHQll5MTdfYXQ5RnVPN1ZsVmwyX0ZMeFNYWEJueUtZNFdwNkh4LVlGNThSZngwaTdtWERxMmg0cGpYN2tmWVpTTEdneWhEeDJJa1o1ZUJ6eEg4UnhfbXBTUVpIdHRYb3dPX0xhWENMSg?oc=5",
+      "source": "湘南人",
+      "published_at": "2026-11-07T10:58:47+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T11:15:11+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T10:47:08+09:00"
+  "updated_at": "2026-11-07T11:15:11+09:00"
 }
