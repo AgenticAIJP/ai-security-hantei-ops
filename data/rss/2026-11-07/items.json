@@ -3015,8 +3015,17 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T21:03:35+09:00"
+    },
+    {
+      "title": "NTTスマイルエナジー、不正アクセスで「スマイルeポイント」約1万4,000件を不正交換 800万ポイント分の被害確認、保有者に全ポイント補償へ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMEVrVDQyM1RFSnlMTXoxQ3FURUVoLVkyOU42M0kydzhTY2JEbTRQbS1WX1dveGFFNFNZT0Z1VENDYWNtUG5TT2E4OFRFVGxwdWNBN1N0eEJYaXdmUUlrcFJSYW5LUkNBMTh0aVQ3UW4xYnZ1WmlCWkFlU2p3R2JWNURoTzRuWjlGYTRQMUJSYmJURGxtTkdaYXAza3lvaGdmR3JyVXpR?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-07T09:01:40+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T21:31:38+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T21:03:35+09:00"
+  "updated_at": "2026-11-07T21:31:39+09:00"
 }
