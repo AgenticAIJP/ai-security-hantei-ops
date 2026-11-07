@@ -1044,8 +1044,44 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T06:25:03+09:00"
+    },
+    {
+      "title": "標的型攻撃メール 訓練/フィッシング訓練、受け取るだけで十分か-英UCLが検証した「攻撃者視点で学ぶ」教育",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/phishing-training-adversarial-mindset-ucl-study/",
+      "source": "",
+      "published_at": "2026-11-08T07:00:53+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T07:20:53+09:00"
+    },
+    {
+      "title": "不動産会社ウィル、メールアドレス 10万2,369件の情報漏洩の恐れ-アララへのサイバー攻撃で",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/will_real_estate_arara_102369_email_leak_third_report_20261106/",
+      "source": "",
+      "published_at": "2026-11-08T07:00:18+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T07:20:53+09:00"
+    },
+    {
+      "title": "日本学術振興会（科研費）の電子申請システムに不正アクセス　10月29日から停止、個人情報の漏えいは確認されず",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/jsps_kakenhi_electronic_application_unauthorized_access_20261107/",
+      "source": "",
+      "published_at": "2026-11-08T07:00:10+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T07:20:53+09:00"
+    },
+    {
+      "title": "不正アクセスで個人情報流出続く サントリーＨＤやノジマ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nbFJDOGpHZ25NVVl6b29WTzM0YnFJVTNSa295bGl6VU5rVzJfd09CNjE1T1pocG5BeWVQUUlIejUxTS0tVmpscS15QlhkdmVFTXc?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-08T05:18:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T07:20:53+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T06:52:56+09:00"
+  "updated_at": "2026-11-08T07:20:53+09:00"
 }
