@@ -2646,8 +2646,53 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T16:51:07+09:00"
+    },
+    {
+      "title": "熊本県事業で個人情報478人分漏えい メールアドレス、性別など（熊本日日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpbUNfcXNKVGZyOHgtU2EycVlickxLYllTaTdQMmdSbTYtQzFDZEEwRl80d2I0MzdRWE0zWkwtRzVDYko4NWRJTnphQm0wUFlmSGpndFdiYVR5Qlc3ck5pZmVNVGFxN1VVTTdITENFYy15WEVzUEZtb1ZxdTNYbVU?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T15:19:25+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T17:19:08+09:00"
+    },
+    {
+      "title": "メールアドレス11件が漏えいの可能性 群馬・伊勢崎市 配信サービス業者への不正アクセスで - 上毛新聞電子版",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LX213TW80WHJhbW5JaGVTVTN5RURGa25SUkpRTkthd2ZrTTZpWHNJUnY3VUpLTkdzZ2R0MndFYWZSZmJubDBfeG5mNFh5Slh1amhhUy1TdnQ2UQ?oc=5",
+      "source": "上毛新聞電子版",
+      "published_at": "2026-11-07T17:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T17:19:08+09:00"
+    },
+    {
+      "title": "沖縄銀行の顧客情報 211人分漏えいか 個人ローン商品 - 琉球新報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kbW5ST09CWXhTUXVFa0dXNmRINWxVaGtkeW1pMGdnRzhDeS1JYXBXV1JCOWJhUVU1MW9oU3M1R05jY0VHMGFMalUzOVJPaTR1a08xOWVMVU9kX3FlNktkWlh3?oc=5",
+      "source": "琉球新報デジタル",
+      "published_at": "2026-11-07T05:00:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T17:19:08+09:00"
+    },
+    {
+      "title": "二条城、市京セラ美術館…京都市の事業で個人情報流出か、プレゼント発送請け負った佐川急便からも（京都新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yTzBIZVRwVGRqXzJ1djhWX2piaXNsSFFHYkRDMmNlQjZjYmZvcldXRGJHTGE3cFJOc1VvTG1wc1FVem84Y2hXSUluSm11RWtVeU5UeFphckoxUUdxc3dfaFctRlQ5UGdPSmtxbTh5QW5ScTQyTzNxQm90dndmbGc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T20:21:16+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T17:19:08+09:00"
+    },
+    {
+      "title": "生成AIを活用するマーケティング支援会社として「生成AI活用の基本方針」を公開。あわせてIPA「SECURITY - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IWVVhYkgxWEU1UmpqLU1SdjVrbjhpY2IzWW9jZ2tla3l0MHA0dFhQci1fVHZMZm1sMUVVODJUWndxa0x2eFQyWjJJVVVDNTdfZ1VzdQ?oc=5",
+      "source": "ニコニコニュース",
+      "published_at": "2026-11-07T04:30:20+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T17:19:08+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T16:51:07+09:00"
+  "updated_at": "2026-11-07T17:19:08+09:00"
 }
