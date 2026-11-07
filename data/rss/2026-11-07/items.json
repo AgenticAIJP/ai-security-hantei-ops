@@ -2979,8 +2979,44 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T20:35:37+09:00"
+    },
+    {
+      "title": "ふるさと納税ポータルサイト「さとふる」メール配信サービスへの不正アクセスについて - 本庄市ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQazZYbmt1T21SSG5Yd0x2eWNGNUJOUmdNWnFEWC0tSHZOZjR1RzJZU1BJOVZoc0wzWUhaZkQ0SDRuVjZwcERwdHloTHZiMjd5bzJfVkxUeVk5SDN0bEhFTzdmU2VPb21hWHVaRFYyU0czVXNqbmR4UElKUFhoTU96MlQwaTh2ZEQ0Qk5xeG55WFJPZw?oc=5",
+      "source": "本庄市ホームページ",
+      "published_at": "2026-11-07T01:50:23+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T21:03:35+09:00"
+    },
+    {
+      "title": "りそな・関西みらい・みなとの３銀行、提携先の不正アクセスで解約済み顧客の個人情報５９３５件漏えい (読売新聞オンライン) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDVocVZDLVpTN0tDbmtYR0tLUGRWdFo2cTJlNU0ybXZqREZxSm9KRjd3MzZ3cHl3emxYc3RSZFBmN2ZzQ19YeVNTcVhfQTg4ZjFLTlRNc0k5UmE1OTRTeW5CQVcyZzZXU29qNVZsRFJ5elF2bkFBRHlqRjk2RVd5WXNXMlYyVU5TeUloTHB3?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T02:25:33+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T21:03:35+09:00"
+    },
+    {
+      "title": "警察庁がサイバー合同捜査本部 GMO事件も特捜部投入、100社超の漏えい視野 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VdFlCc2xjRzVaZWpPeURLR25YVjRkalV3ano2V0ViSE1lNlZHQ1ZYcUFGcUxyVXNDejBfMjhldGVicjQ2UnNmakE3UlpiLWNSU0FfZ1cwZVM5Y1dIQjBOdzRqMDhxRWlKU1hETVdHYVdIWnZm?oc=5",
+      "source": "BigGo ファイナンス",
+      "published_at": "2026-11-06T21:25:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T21:03:35+09:00"
+    },
+    {
+      "title": "西日本新聞社、2026年の九州地方における情報セキュリティ実態調査を発表 | 鹿児島・九州プレスリリース | 生活情報 | くらし - 南日本新聞",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ2haYTNNeXJUUEJlSUNYWUU3YXg5WE9pOThwNUNzd0plVmVJS1hlSHdHN2NRY19XVmhDaGo1LVdEVXhVVjFkUUx4ajhYT2FMMTZKRVNoa094SlE5YnE3OVlhcWlpRXNEbzcxNWUzTnZDVTc3Y0wxTERiZVR1d0x6Tw?oc=5",
+      "source": "南日本新聞",
+      "published_at": "2026-11-07T12:34:27+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T21:03:35+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T20:35:37+09:00"
+  "updated_at": "2026-11-07T21:03:35+09:00"
 }
