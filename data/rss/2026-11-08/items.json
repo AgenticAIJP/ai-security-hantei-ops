@@ -909,8 +909,17 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T00:20:57+09:00"
+    },
+    {
+      "title": "NTTドコモ 最大約30万件の顧客情報流出で陳謝 一部で勤務先や口座情報も 見舞金も検討 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwZUcyaHJCaUZaeWZYbHF3V1d1RVduUDhKLWFHQ2FpVUx3UVN3Qmk4T2VkVE9yV1FxU29NUW9FdlFENVVFbm9mVWdPeVVsVDZ5RUEwd0FmNDlJYUMxcFZDTFFxQWdoc1dfbklpR2tGdEZrQQ?oc=5",
+      "source": "テレ朝NEWS",
+      "published_at": "2026-11-07T05:52:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T00:49:04+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T00:20:57+09:00"
+  "updated_at": "2026-11-08T00:49:05+09:00"
 }
