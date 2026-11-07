@@ -945,8 +945,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T02:41:11+09:00"
+    },
+    {
+      "title": "不正アクセス確認の「テレ東マート」個人情報やクレカ情報の漏えいなし サイトの閉鎖は続く「安全性が確認され次第、改めてご案内」 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCWHJfUFR2aVRzT3hZdDQwVWNWR3d3d1dtZnlRMk5kX1NsOFpkWFZZeGxBdlFBNTNhdkZDaFdEV0JDTFgxWGN1S0dSalh2YXRfNEE?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-08T01:47:36+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T04:05:10+09:00"
+    },
+    {
+      "title": "[AI時代]機密情報 36分で流出 ハッカーAI悪用 自動化 対策し侵入防止成功 サイバー攻撃再現実験 - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FYm40NEdRdG16b1dBR09meHRYX1NfTWxJalExb3pHZWpPaDdqN1N6SUpOYk1ZRmcxZ3VULXZ3WDJqalhPYTBhcEtFN1pCOEhmR1B4S0I5ZHBYbFVUa2c?oc=5",
+      "source": "沖縄タイムス社",
+      "published_at": "2026-11-08T04:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T04:05:10+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T03:37:11+09:00"
+  "updated_at": "2026-11-08T04:05:10+09:00"
 }
