@@ -176,11 +176,11 @@ async function main() {
     if (t.reason === "eval_correction") return 0;
     if (t.reason === "an_review") {
       const first = firstLine(postById.get(t.post_ids?.[0])?.content ?? "");
-      if (/最新版の下書き/.test(first)) return 1;
-      if (/最新版の一覧の材料/.test(first)) return 2;
+      if (/最新版の下書き/.test(first)) return 2;
+      if (/最新版の一覧の材料/.test(first)) return 3;
       return 4;
     }
-    if (t.reason === "correction_request") return 3;
+    if (t.reason === "correction_request") return 1;
     return 4;
   };
   const seen = new Set(state.seen);
@@ -462,7 +462,7 @@ async function main() {
     if (cfg.max_items_per_run) {
       // 質を保つため、1 回に扱う件数を絞る。残りは次の回に回す。選べる速報は、あとで pick 件だけ選ばせる。
       const batchMax = routing.check_batch_max ?? 6; // まとめて確かめる仕事は、1 回に扱う件数を別に数える
-      // まとめて確かめる仕事は、大事な順に渡す（11/07：評定の訂正 → 最新版の下書き → 一覧の材料 → 目付の訂正 → ほか。同じ順位の中は古い順）
+      // まとめて確かめる仕事は、大事な順に渡す（11/07：評定の訂正 → 目付の訂正 → 最新版の下書き → 一覧の材料 → ほか。同じ順位の中は古い順。評定の指示「新しい仕事より先に未訂正を直す」に合わせる）
       const batch = tasks.filter(isHeld).map((t, i) => [heldPriority(t), i, t]).sort((x, y) => x[0] - y[0] || x[1] - y[1]).map((x) => x[2]);
       stillPending.push(...batch.slice(batchMax));
       const fixed = tasks.filter((t) => !isChoosable(t) && !isHeld(t));
