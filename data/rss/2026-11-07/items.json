@@ -2493,8 +2493,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T14:59:06+09:00"
+    },
+    {
+      "title": "行政手続きシステムに登録のアドレス971件が漏えいか 委託先に不正アクセス 山形県尾花沢市（YBC山形放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fazI5Y1ZCcWNUdXZieVBCdzYyN0NCMVlieUhWc3F2c1RHNTlVRUVWTVcxWU5lNUVqWlVhU0xKQWF4Q1BLdGRtZDUyb2V5SnZzRTcyUjhqbENJX2VGQ1gtd2ZSS295TThaU1VBLUhmV3dkcy1vV2VEOWJ5VHk4MkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T11:36:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T15:27:04+09:00"
+    },
+    {
+      "title": "仙台市のメール配信サービス不正アクセス 約1万2000件のメールアドレスが漏えいの可能性（ミヤギテレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJY3p5cG1mcEROTkFvelQ1cUVqYkZabXd4TVF5b2h0eldiaDNmYnBpM0tFR3lBVm9rU3BSMzNnVnJxUkpxdG40MXd1dTY0UENxS3VsM2hwMDUwcFgzN2N1YVJDYXVXazFGWWRxUlNEQ3hvNDV0UjNISlFFYUFGcnc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T17:46:00+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T15:27:04+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T14:59:06+09:00"
+  "updated_at": "2026-11-07T15:27:05+09:00"
 }
