@@ -2457,8 +2457,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T13:07:05+09:00"
+    },
+    {
+      "title": "NTTドコモ漏えいを謝罪 見舞金の支払いも検討（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EdWxhZ25reHZXQlRwOFJTd3JCZE9PWFVWRVZvejNNdkJBS0xNUTFfc3ViNjdaNGh1UUkyaHBxVlhwV0lJb3Bzb1BIZVI4d1VSMHpLaG5POGJDU3JZU0RDNWh3UFZINlNuTWdPMGdJTHVNTVRMMG9oRDVNNXFUMG8?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T07:50:32+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T13:35:06+09:00"
+    },
+    {
+      "title": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集 - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwdFNHTno0RDJ1ZzRSTE1IRnl5U3RRdXQ4TXpvWk1FMzRabHJXYzhXajdNMGNfR1RmN3l0RkY5dzk2RWN1aEZqWmNoMzFpQ2lVaWRTZ2hFQUI4c3FRR0pnbGU5TTdvZw?oc=5",
+      "source": "キーマンズネット",
+      "published_at": "2026-11-07T07:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T13:35:07+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T13:07:05+09:00"
+  "updated_at": "2026-11-07T13:35:07+09:00"
 }
