@@ -2970,8 +2970,17 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-07T20:07:31+09:00"
+    },
+    {
+      "title": "スマホに「ブッダ」「お坊さん」 AI活用、仏教界で模索 情報漏えいリスクも（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FTlRYQnFyVEhuUlFPOUkwcTllRlJlTHVwc0JvMEY4OWtlNkZZR21WendORmc2c2VHMzZlMnpVbFB2UXlfSGtWSHVEN3ptamw1dF9ibWJTZDhKNlIzbDU4bkZZbWJUSWxvYzFtanhSTDlXZENTSXpQWHFNRGVra3M?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T18:03:06+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T20:35:37+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T20:07:31+09:00"
+  "updated_at": "2026-11-07T20:35:37+09:00"
 }
