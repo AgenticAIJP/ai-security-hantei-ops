@@ -2736,8 +2736,62 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-07T17:47:12+09:00"
+    },
+    {
+      "title": "ドコモ、不正アクセスで個人情報30万件流出 見舞金支払い検討 (毎日新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUFuSWdfS18tam1HbExUaVRUcWlOUFBoVnB3RXZNQ3JXSkVlN05GVlcwbV9TSUhQanhoOUxzNWVReUdGdGlIYzY0Wm43MEprcU9iSS1lZ3FXNnM2clpMVXJIMGozZkR3RzBHTWxndVZ1OGR5OTlqLXFpUUdrcmRSQXFaLXhmUF9OU1FsYU93?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T22:28:50+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T18:15:16+09:00"
+    },
+    {
+      "title": "ロート製薬 不正アクセスで280万人の個人情報漏えい - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PV2kwWnlRV1lwWjRSNHh6eXBQLUJpY2FxVEtibmQ5azcwemhjWXc1ZzY1VlpGZm1Uc0Y5ZjZ4enJqRmlDLThWLVJJbEFqU21xVVk0b25nR3BaM1Y3R1Zn?oc=5",
+      "source": "NHKニュース",
+      "published_at": "2026-11-06T18:58:23+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T18:15:16+09:00"
+    },
+    {
+      "title": "ロート製薬、顧客情報２７９万件漏えい＝通話データ、クレカ番号も - 時事メディカル",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qS0ZNTU5rcFppdFJVQ1lFYXp1MEh2TXpkYVRhZjIyQktleEdBZDNmYVBRNnpaRzkxY3hWY3loVE9GTVJqSkxuQl9VVQ?oc=5",
+      "source": "時事メディカル",
+      "published_at": "2026-11-06T20:31:07+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T18:15:16+09:00"
+    },
+    {
+      "title": "りそな、カードローン情報漏えい グループで過去の6千件（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKOWZ4TnJxR21kWWk1TjVUaGhvSWpwckQ1cHhOVE1fV0QzSy15VTFGcVFFSFl0ZThTcy12cHE2bDItT2JIYXBWd3FhTUg2QWZsV2o3NllmcHptM0NFWU1MM21VMnl2MU5sRUk3SjI0bXRiU3gtNXlXRWFMQ3c3Rmc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-06T22:11:54+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T18:15:16+09:00"
+    },
+    {
+      "title": "スマホに「ブッダ」「お坊さん」 AI活用、仏教界で模索 情報漏えいリスクも (時事通信) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzFNS2U4S1ZqVmRpal93Yzh6SkRHZUtBOXVxd1F5aDMzdGs4eGZFTGNKU3U2eDctUXBpSFM2RXhrM3dLdVlCa21DSHAxeHpXX2tGOFRxcmRvb2J0T1dhdkM4anFDaG9SWGtUX1NDVU45YnJRWU5mU3IxUGpYNHJ3MlhRWnZnMFJlZTdMT2xn?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T18:03:06+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T18:15:16+09:00"
+    },
+    {
+      "title": "攻撃用AI「ARTEX」の管理画面1,465台がネット上に丸見え、日本国内にも51台が存在 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ENmtNV21sUW1KMFVlOEUwOS1RY0dXUlNBOFRrZjR2N01ad3hCSFAzNEs2c19FZS1QVW00UndoSkdvXzdaVUN5dXdtSzUwNjRaZDRB?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-07T17:44:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-07T18:15:16+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-07T17:47:12+09:00"
+  "updated_at": "2026-11-07T18:15:16+09:00"
 }
