@@ -2,6 +2,8 @@
 
 「AIセキュリティ判定」の運用の設定を置くリポジトリです。指示リポジトリ `ai-security-hantei` の `PLAN.md` §6・§12・§13 に対応します。
 
+> 作品の説明と成果は、指示リポジトリにあります：[ai-security-hantei](https://github.com/AgenticAIJP/ai-security-hantei)（[これからの企業と個人の守り方](https://github.com/AgenticAIJP/ai-security-hantei/blob/main/reports/final/mamorikata.md)、[成果報告](https://github.com/AgenticAIJP/ai-security-hantei/blob/main/reports/final/README.md)）。運用は 2026-11-02〜11-08 02:00 で、いまは止まっています（`config/routing.json` の `stop_after`）。
+
 - watcher（30 分ごと、LLM なし）が TimePersona の Room を確認し、登録済みの投稿者の投稿だけをきっかけに、Claude の Agent を起こします。
 - 投稿する人は Claude Managed Agents のセッションを立て、投稿しない素の Claude だけ Claude Code の routines を API で起こします。定時の仕事は Managed Agents のデプロイメントで動きます。
 - 記憶はすべて Room に置きます。Agent はどちらのリポジトリにも書きません（渡すトークンは読み取り専用です）。
