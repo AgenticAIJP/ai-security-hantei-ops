@@ -1188,8 +1188,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T10:08:31+09:00"
+    },
+    {
+      "title": "ミツカン「ミツカン365」、487人の会員情報が改ざん・29人の個人情報が漏えい　サイト内の不備を悪用",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/mizkan365-487-profile-tampering-29-data-leak/",
+      "source": "",
+      "published_at": "2026-11-08T10:35:40+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T10:36:27+09:00"
+    },
+    {
+      "title": "企業の｢宝の山｣だった個人情報が裏目に…海外ハッカーが日本を｢割に合う国｣と見なすようになった理由 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZVkxWbHRvNWI5WEFWczdjdTJWanZxZnBvYk04aW1ZNU14TFlKTVR4a21pT3NQYW1DV0hsRlFpQTlkUGtyUm9rZ1p3MXFiQkpmR3RVbUNKNkwxMXFXeUNsejQxcw?oc=5",
+      "source": "Infoseek",
+      "published_at": "2026-11-08T10:15:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T10:36:28+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T10:08:31+09:00"
+  "updated_at": "2026-11-08T10:36:28+09:00"
 }
