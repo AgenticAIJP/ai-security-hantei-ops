@@ -1152,8 +1152,26 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T08:44:39+09:00"
+    },
+    {
+      "title": "サーティワン、最大8174人の情報漏えい モバイルオーダーサービス利用者が対象「多大なるご迷惑とご心配をおかけします」 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55M0ZLTFVCeEhrMkZ4NFFzMzZHVlhVSTlZako2dm5WLWJRWDZ5dXNmZjZzVFBOTTd0VW9zT2RWQWtTUFpuNjJaN0ZVSGV1UjlJVHc?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-07T13:04:30+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T09:12:33+09:00"
+    },
+    {
+      "title": "行政手続きシステムに登録のアドレス971件が漏えいか 委託先に不正アクセス 山形県尾花沢市 (YBC山形放送) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPME4tYmlhMTlJaWliYm9FdzFUVk4wZzNVVjVYTWNuQmZnaE1nQ0h2V2NXel9ramU5TXhtRWhUNnlHZThpbUZLZmpERXJzOTBtcEFUcnlCQzlqb1RfTlM0bFRwNlFMVFNQMXR0c3RGQWhVeWVSVVI3RC0zVE43VzhBSmd4WDNVMTFkcEljMTZR?oc=5",
+      "source": "Yahoo!ニュース",
+      "published_at": "2026-11-07T11:36:01+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T09:12:33+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T08:44:39+09:00"
+  "updated_at": "2026-11-08T09:12:33+09:00"
 }
