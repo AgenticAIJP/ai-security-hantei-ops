@@ -1206,8 +1206,44 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T10:36:28+09:00"
+    },
+    {
+      "title": "JERA「JERAサンデイ」、メールアドレス 3万337件が情報流出　アララへの不正アクセスで",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/jera-sunday-arara-email-leak-30337/",
+      "source": "",
+      "published_at": "2026-11-08T10:48:18+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T11:04:25+09:00"
+    },
+    {
+      "title": "アソビシステム、FRUITS ZIPPERなどファンクラブ サイト 11サイトのメールアドレス漏えい　Fanplusの委託先 アララへのサイバー攻撃で",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/asobisystem_fruitszipper_11_fanclub_arara_email_leak_20261107/",
+      "source": "",
+      "published_at": "2026-11-08T10:40:56+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T11:04:25+09:00"
+    },
+    {
+      "title": "アソビシステム、FRUITS ZIPPERなどファンクラブ サイト 11サイトのメールアドレス漏えい Fanplusの委託先 アララへのサイバー攻撃で|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbU45OGtkWU1HaWZNWVJ5U0VycE83LVptcDRSY1JKck0wYjdxZ0xJYnN3TjcwdWZuVjBzd2tzUzU0QXU5eUVIazBvTHZkMUtxVFd3RjFJc21Qay1CWU9Cem9uX283NzFQdHJSVVl1QjlhbWdoUnpZUFo0M3FKZDJ2SU5jelYxa2pPd214cVJOOVVBR1ViM3k4TWROQm5XWW9Ub2NUSm4wVXpqLXNhd0c4?oc=5",
+      "source": "合同会社ロケットボーイズ",
+      "published_at": "2026-11-08T10:40:56+09:00",
+      "feed": "Google News（漏えい）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T11:04:25+09:00"
+    },
+    {
+      "title": "警察庁のサイバー特別捜査部が全国合同捜査本部を設置 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvT3hHMUZYVEhVUGUwNlNxWWdCWXBfOTYzc2RoNWhnY1JBU0RibVVuRGNfU2NwMFZ0LTZZeEdZOVFUTURqdk15a19reUdMc3pTODF3?oc=5",
+      "source": "ビジネス+IT",
+      "published_at": "2026-11-08T11:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T11:04:25+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T10:36:28+09:00"
+  "updated_at": "2026-11-08T11:04:25+09:00"
 }
