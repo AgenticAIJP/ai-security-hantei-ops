@@ -1170,8 +1170,26 @@
       "feed": "Google News（漏えい）",
       "kind": "news",
       "first_seen_at": "2026-11-08T09:12:33+09:00"
+    },
+    {
+      "title": "【情報漏えい急増】攻撃による流出前提に対策 正しく恐れ、正しく備える 東京電機大情報セキュリティ研究室教授 寺田真敏 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9waTdzTTMyc3ppeUpSWW5HNDZNMlZHRDVLXzQ1NDF2YTRjYlc0bl9lVF9TTVJhR21Rd0gtMVFWOHk1UmdWal9FQzFtcGtjTmhHeXc?oc=5",
+      "source": "山陽新聞",
+      "published_at": "2026-11-08T08:01:47+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T10:08:31+09:00"
+    },
+    {
+      "title": "AI自動化したサイバー攻撃 わずか36分で機密情報ハッキング 再現実験で見えた脆弱性対処の重要性 - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FYm40NEdRdG16b1dBR09meHRYX1NfTWxJalExb3pHZWpPaDdqN1N6SUpOYk1ZRmcxZ3VULXZ3WDJqalhPYTBhcEtFN1pCOEhmR1B4S0I5ZHBYbFVUa2c?oc=5",
+      "source": "沖縄タイムス社",
+      "published_at": "2026-11-08T09:00:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T10:08:31+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T09:40:34+09:00"
+  "updated_at": "2026-11-08T10:08:31+09:00"
 }
