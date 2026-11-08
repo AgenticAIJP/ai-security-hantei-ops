@@ -1242,8 +1242,35 @@
       "feed": "Google News（AI）",
       "kind": "news",
       "first_seen_at": "2026-11-08T11:04:25+09:00"
+    },
+    {
+      "title": "沖縄銀行、個人ローン「チェキット」利用者211人の返済交渉記録が流出した可能性　督促委託先で不正アカウント作成",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/okinawa-bank-chekit-lendy-211-debt-negotiation-data-leak/",
+      "source": "",
+      "published_at": "2026-11-08T11:25:01+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T11:32:24+09:00"
+    },
+    {
+      "title": "堺市のプレミアム商品券、当選者 最大約29万件の個人情報漏洩の恐れ-委託先アララへの不正アクセスで",
+      "url": "https://rocket-boys.co.jp/security-measures-lab/sakai_premium_coupon_2026_arara_290000/",
+      "source": "",
+      "published_at": "2026-11-08T11:08:53+09:00",
+      "feed": "セキュリティ対策Lab",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T11:32:24+09:00"
+    },
+    {
+      "title": "流出した個人情報をもとにかかってくるAI自動通話「ロボコール」に潜む脅威 「自分になりすましたロボコールがディープフェイクボイスで知人と会話」も可能に - マネーポストWEB",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE12MlhQY2xreEpBbUt0STFMWWFMSExwaTUtVUd6MEVIRWFJa2ZNZ1Y2QmY5WEdEMy1MWDVUeEZRTXpoZjNVaDN3?oc=5",
+      "source": "マネーポストWEB",
+      "published_at": "2026-11-08T11:02:00+09:00",
+      "feed": "Google News（AI）",
+      "kind": "news",
+      "first_seen_at": "2026-11-08T11:32:24+09:00"
     }
   ],
   "errors": [],
-  "updated_at": "2026-11-08T11:04:25+09:00"
+  "updated_at": "2026-11-08T11:32:24+09:00"
 }
